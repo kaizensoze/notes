@@ -1,0 +1,28 @@
+OFFENSE
+E-7 knight [1]
+rook + bishop [3]
+trap king behind pawns with knight [4,5]
+rook sacrifice on h8 [6]
+
+DEFENSE
+keep f-pawn [2]
+fianchettoed bishop on g7
+
+OPENING MOVES
+
+Ruy Lopez
+
+1 e4 e5 2 Nf3 Nc6 3 Bb5
+
+Ruy Lopez [Exchange] (black)
+
+3 ... a6 4 Bxc6 ...
+
+Ruy Lopez [Main Line] (white, black)
+
+3 ... a6 4 Ba4 Nf6 5 0-0 
+
+Ruy Lopez [Open] (white)
+
+3 ... a6 4 Ba4 Nf6 5 0-0 Nxe4 6 d4 exd4 7 Re1 d5 8 Nxd4 Be7 9 
+

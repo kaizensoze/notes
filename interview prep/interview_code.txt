@@ -1,0 +1,859 @@
+binary search tree:
+    expected h of randomly built binary search tree is O(log n)
+
+    min(x): [O(h)]
+        while x.left != null:
+            x = x.left
+        return x
+
+    max(x): [O(h)]
+        while x.right != null:
+            x = x.right
+        return x
+
+    successor(x): [O(h)]
+        if x.right != null:
+            return min(x.right)
+        y = x.parent
+        while y != null and y.right == x:
+            x = y
+            y = y.parent
+        return y
+
+    predecessor(x): [O(h)]
+        if x.left != null:
+            return max(x.left)
+        y = x.parent
+        while y != null and y.left == x:
+            x = y
+            y = y.parent
+        return y
+
+    insert(T, n): [O(h)]
+        y = null
+        x = root(T)
+        while x != null:
+            y = x
+            if n.val < x.val:
+                x = x.left
+            else
+                x = x.right
+
+        if y == null:  // tree is empty so just insert n
+            root(T) = n
+        else:          // tree is not empty so insert n and adjust left/right metadata
+            if n.val < y.val:
+                y.left = n
+            else:
+                y.right = n
+
+    delete(T, n): [O(h)]
+        // determine what node to splice
+        if n.left == null or n.right == null:
+            y = n
+        else:
+            n = successor(n)
+
+        // get child of node to splice
+        if y.left != null:
+            x = y.left
+        else:
+            x = y.right
+
+        // splice
+        if x != null:
+            x.parent = y.parent
+        if y.parent == null:
+            root(T) = x
+        else:
+            if y == y.parent.left:
+                y.parent.left = x
+            else:
+                y.parent.right = x
+        
+        // if n's successor was spliced out, set n's val to its successor's
+        if y != n:
+            n.val = y.val
+
+        return y
+
+    // recursive traversals
+    traverse_inorder_recursive(x): [O(n)]
+        if x != null:
+            traverse_inorder_recursive(x.left)
+            print(x.val)
+            traverse_inorder_recursive(x.right)
+
+    traverse_preorder_recursive(x): [O(n)]
+        if x != null:
+            print(x.val)
+            traverse_preorder_recursive(x.left)
+            traverse_preorder_recursive(x.right)
+
+    traverse_postorder_recursive(x): [O(n)]
+        if x != null:
+            traverse_postorder_recursive(x.left)
+            traverse_postorder_recursive(x.right)
+            print(x.val)
+
+    // iterative traversals
+    traverse_preorder_iterative(x): [O(n)]
+        nodes = []
+        nodes.append(x)
+        while !nodes.empty():
+            c = nodes.pop()
+            print(c)
+            if c.right != null:
+                nodes.append(c.right)
+            if c.left != null:
+                nodes.append(c.left)
+            
+    traverse_postorder_iterative(x): [O(n)]
+        nodes = []
+        nodes.append(x)
+        while !nodes.empty():
+            c = nodes.peek()
+            if c.left != null and !c.left.visited:
+                nodes.append(c.left)
+            else:
+                if c.right != null and !c.right.visited:
+                    nodes.append(c.right)
+                else:
+                    c.visited = true
+                    print(nodes.pop())
+
+    /*
+     *  NOTE: when applied to graphs, use visited flag
+     *        also: mark distances relative to given node x
+     *              using map to store distances of each node to x
+     *              for each node, when iterating over adjacent nodes
+     *              find adjacent nodes' distance values in map and set this
+     *              node's distance to min(d[adj]) + 1
+     */
+    dfs(x): [O(n)]
+        nodes = []
+        nodes.append(x) // assume append adds to end of list
+        while !nodes.empty:
+            c = nodes.pop() // assume pop grabs from end of list
+            nodes.append(c.children()) // or adjacent() in case of graphs
+            print(c)
+
+    bfs(x): [O(n)]
+        same as dfs only "append" to the front
+
+    // for graphs, print shortest path from s to v
+    print_path(G, s, v):
+        if v == s:
+            print(s)
+        else:
+            if pred(v) == null:
+                "no path from s to v exists"
+            else:
+                print_path(G, s, pred(v))
+                print(v)
+
+    search_recursive(x, k): [O(h)]
+        if x == null or x.val == k:
+            return x
+        if k < x.val:
+            return search(x.left, k)
+        else:
+            return search(x.right, k)
+
+    search_iterative(x, k): [O(h)]
+        while x != null and x.val != k:
+            if k < x.val:
+                x = x.left
+            else:
+                x = x.right
+        return x
+
+    lowest_common_ancestor(n1, n2): [O(lg n)]
+        if n1 < n2:
+            small = n1
+            big = n2
+        else:
+            small = n2
+            big = n1
+
+        x = root
+        while x != null:
+            if small <= x <= big:
+                return x
+            elif x > small and x > big:
+                x = x.left
+            else:
+                x = x.right
+        return null
+
+    height(x): [O(n)]
+        if x == null:
+            return -1
+        return max(height(x.left), height(x.right)) + 1
+
+B-tree:
+    bsts designed to work well on direct-access secondary storage devices
+    similar to red-black trees but better at minimizing disk io ops
+    b-trees can have many children
+
+B+tree:
+    similar to B-tree only the records are leaves
+    used to store metadata (including db indices, etc.)
+
+heaps:
+    h = O(log n)
+
+    node.height = longest path from node to leaf
+    heap viewed as nearly complete binary tree
+
+    parent(i):
+        return floor(i/2)
+
+    left(i):
+        return 2i
+
+    right(i):
+        return 2i+1
+
+    heapify_max(A, i): [O(h)]
+        i_left = left(i)
+        i_right = right(i)
+
+        if i_left <= size(A) and A[i] < A[i_left]:
+            i_largest = i_left
+        else:
+            i_largest = i
+
+        if i_right <= size(A) and A[i_largest] < A[i_right]:
+            i_largest = i_right
+
+        if i != largest:
+            // swap
+            largest = A[i_largest]
+            A[i_largest] = A[i]
+            A[i] = largest
+            heapify_max(A, i_largest)
+    
+    build_heap_max(A): [O(n lg n)]
+        size(A) = A.length
+        for i=floor(A.length/2)..1:
+            heapify_max(A, i)
+    
+    heapsort(A): [O(n lg n)]
+        build_heap_max(A)
+        for i=A.length..2:
+            // swap
+            root = A[1]
+            A[1] = A[i]
+            A[i] = root
+
+            size(A)--
+            heapify_max(A, i)
+
+    priority queue:
+        max(A): [O(1)]
+            return A[1]
+
+        extract_max(A): [O(lg n)]
+            if size(A) < 1:
+                "heap underflow"
+            max = max(A)
+            A[1] = A[size(A)]
+            size(A)--
+            heapify_max(A, 1)
+            return max
+
+        increase(A, i, k): [O(lg n) or O(1) using fibonacci heap]
+            if k < A[i]:
+                "new key must be <= current key"
+            A[i] = k
+            while i > 1 and A[parent(i)] < A[i]:
+                // swap
+                temp = A[parent(i)]
+                A[parent(i)] = A[i]
+                A[i] = temp
+                i = parent(i)
+
+        insert(A, k):
+            size(A)++
+            A[size(A)] = -INF
+            increase(A, size(A), k)
+
+    binomial heap:
+        collection of binomial trees
+        has a union method
+        other than that, just use binary heap
+
+    fibonacci heap:
+        ops that do not involve deleting an element are O(1) instead of O(lg n)
+        more complex to program so they're mainly theoretical
+
+quicksort:
+    quicksort(A, p, r):
+        if p < r:
+            q = partition(A, p, r)
+            quicksort(A, p, q-1)
+            quicksort(A, q+1, r)
+
+    partition(A, p, r):
+        x = A[r]
+        i = p-1
+        for j=p..r-1:
+            if A[i] <= x:
+                i = i+1
+                // swap
+                temp = A[j]
+                A[j] = A[i]
+                A[i] = temp
+        temp = x
+        x = A[i+1]
+        A[i+1] = temp
+        return i+1
+
+    OR
+
+    void quicksort(int[] array, int start, int end) {
+      if (start >= end) {
+      } else {
+        int pivot = partition(array, start, end);
+        quicksort(array, start, pivot-1);
+        quicksort(array, pivot+1, end);
+      }
+    }
+
+insertion sort:
+    insertion_sort(A):
+        for j=2..A.length:
+            key = A[j]
+            i = j-1
+            while i > 0 and A[i] > key:
+                A[i+1] = A[i]
+                i = i-1
+            A[i+1] = key
+
+mergesort:
+    merge(A, p, q, r):
+        n1 = q - p + 1
+        n2 = r - q
+        for i=1..n1:
+            L[i] = A[p+i-1]
+        for i=1..n2:
+            R[i] = A[q+i]
+        L[n1+1] = INF
+        R[n1+1] = INF
+        i=j=1
+        for k=p..r:
+            if L[i] <= R[j]:
+                A[k] = L[i]
+                i = i+1
+            else:
+                A[k] = R[j]
+                j = j+1
+    
+    mergesort(A, p, r):
+        if p < r:
+            mergesort(A, p, q)
+            mergesort(A, q+1, r)
+            merge(A, p, q, r)
+
+    OR
+
+    int[] mergeSort(int[] array) {
+      if (array.length <= 1) {
+        return array;
+      }
+      int mid = array.length / 2;
+      int firstHalf = mergeSort(array[0..(mid-1)]);
+      int secondHalf = mergeSort(array[mid..(array.length-1)]);
+      return merge(firstHalf, secondHalf);
+    }
+
+master method:
+    T(n) = aT(n/b) + f(n)
+    a) if f(n) = O(n^(log_b(a)-e)): T(n) = O(n^log_b(a))
+    b) if f(n) = O(n^(log_b(a))): T(n) = O(n^(log_b(a)) lg n)
+    c) if f(n) = O(n^(log_b(a)+e)) and af(n/b) <= cf(n) for c < 1 and all n: T(n) = O(f(n))
+
+akra-bazzi (http://en.wikipedia.org/wiki/Akra%E2%80%93Bazzi_method):
+    T(x) = g(x) + sum_i=1..k(a_i*T(b_i*x + h_i(x)) for x >= x0
+    determine p for which sum_i=1..k(a_i*(b_i)^p) = 1
+    T(x) = O(x^p (1 + antideriv(g(u)/u^(p+1)) du))
+
+elementary data structures (stacks/queues/linked_lists/):
+    stack:
+        empty(S): [O(n)]
+            return S.top == 0
+
+        push(S, x): [O(n)]
+            S.top = S.top + 1
+            S[S.top] = x
+
+        pop(S): [O(n)]
+            if empty(S):
+                "stack underflow"
+            return S[--S.top]
+
+    queue:
+        enqueue(Q, x): [O(n)]
+            if Q.tail == Q.head:
+                "queue overflow"
+            Q[Q.tail] = x
+            Q.tail = (Q.tail + 1) % Q.length
+
+        dequeue(Q): [O(n)]
+            if Q.head == Q.tail:
+                "queue underflow"
+            x = Q[Q.head]
+            Q.head = (Q.head + 1) % Q.length
+            return x
+
+    linked list:
+        search(L, k): [O(n)]
+            x = L.head
+            while x != null and x.val != k:
+                x = x.next
+            return x
+        
+        insert(L, n): [O(1)]
+            n.next = L.head
+            L.head = n
+
+        insert_after(n, data): (c++ish version)
+            e = new Element
+            e.data = data
+            if n == null:
+                e.next = head
+                head = e
+                if tail == null:
+                    tail = e
+                return true
+
+            x = head
+            while x != null and x.data != n.data:
+                x = x.next
+
+            if x == null:
+                return false
+            x.next = e
+            if x == tail:
+                tail = e
+            return true
+
+        delete(L, n): [O(n)]
+            if n == L.head:
+                L.head = L.head.next
+                if n == tail:
+                    tail = head
+                return true
+
+            x = L.head
+            while x != null and x.next != n:
+                x = x.next
+
+            if x.next == null:
+                return false
+            x.next = n.next
+            if n == tail:
+                tail == x
+            return true
+
+        remove_head(Node **head) {
+            Node *temp;
+            if (!(*head)) {
+                temp = (*head)->next;
+                delete *head;
+                *head = temp;
+        }
+
+        mth_last(L, m):
+            len = 0
+            x = L.head
+            while x != null:
+                x = x.next
+                len = len + 1
+
+            i_stop = len - m
+            i = 0
+            x = L.head
+            while i < i_stop:
+                x = x.next
+                i = i + 1
+            return x
+
+        flatten(L): [O(n) but you can make it faster than *2n* by storing the child pointers of each level in a queue]
+            x = L.head
+            while x != null:
+                if x.child != null:
+                    tail.next = x.child
+                    x.child.prev = tail
+                    updateTail(L, x.child)
+                x = x.next
+
+        updateTail(L, n):
+            x = n
+            while x.next != null:
+                x = x.next
+            L.tail = x
+
+        unflatten(L): [O(n)]
+            x = L.head
+            explore_and_separate(x)
+            while x.next != null:
+                x = x.next
+            tail = x
+
+        explore_and_separate(n):
+            x = n
+            while x != null:
+                if x.child != null:
+                    x.child.prev.next = null
+                    x.child.prev = null
+                    explore_and_separate(x.child)
+                x = x.next
+
+        unflatten2(L): [O(n)] (this version kinda sucks)
+            x = L.head
+            while x != null:
+                if x.child != null
+                    children.add(x.child)
+                x = x.next
+
+            for child in children:
+                child.prev.next = null
+                child.prev = null
+
+            x = L.head
+            while x.next != null:
+                x = x.next
+            tail = x
+            
+        detect_cycle(L): [O(n^2)]
+            x = L.head
+            while x != null:
+                y = L.head
+                while y != x:
+                    if x.next == y:
+                        return true
+                    y = y.next
+                x = x.next
+            return false
+
+        detect_cycle2(L): [O(n)]
+            nodes = set([])
+            x = L.head
+            while x != null:
+                if x.next in nodes:
+                    return true
+                nodes.add(x)
+                x = x.next
+            return false
+
+hash tables:
+    hash methods:
+        division:
+            h(k) = k mod m
+            m = 2^p not good since you're using limited number of bits
+            prime not too close to power of 2 is ideal
+
+        multiplication:
+            0 < A < 1
+            h(k) = floor(m (k A mod 1))
+            advantage: value of m is not critical (power of 2 is typical)
+            knuth suggests A = (sqrt(5) - 1) / 2
+
+        universal:
+            select hash function at random from class of functions
+            advantage is that size m is arbitrary
+            p-1 choices for a and p choices for b so there are p(p-1) hash functions in H_p,m
+
+            pick p large enough so that every possible key k is in range 0..p-1
+            m = # of slots in hash table
+            Z_p = {0..p-1}
+            Z*_p = {1..p-1}
+            h_a,b(k) = ((ak + b) mod p) mod m    !!!
+            H_p,m = {h_a,b: a in Z*_p, b in Z_p}
+
+        perfect:
+            nested hash tables
+            each slot in outer table has pointer to inner hash table
+            outer table uses universal hash h_o and inner table uses universal hash h_i
+            used for excellent worst-case when set of keys is static (once keys are stored in table, they never change
+            hashing technique is perfect if search is O(1)
+
+    direct addressing:
+        search(T, k): [O(1)]
+            return T[k]
+
+        insert(T, x): [O(1)]
+            T[x.key] = x
+
+        delete(T, x): [O(1)]
+            T[x.key] = null
+
+    open addressing:
+        avoids using pointers (extra memory freed by not storing pointers allows more slots)
+
+        insert(T, k):
+            i=0
+            do:
+                j = h(k,i)
+                if T[j] = null:
+                    T[j] = k
+                    return j
+                else:
+                    i = i+1
+            while i != m
+            return "table overflow"
+
+        search(T, k):
+            i=0
+            do:
+                j = h(k,i)
+                if T[j] == k:
+                    return j
+                i = i+1
+            while T[j] != null and i != m:
+            return null
+
+        linear probing:
+            h(k,i) = (h'(k) + i) mod m) where h'(k) is auxiliary hash function
+            has issue of clustering
+            m distinct probe sequences used
+
+        quadratic probing:
+            h(k,i) = (h'(k) + c1i + c2i^2) mod m
+            has issue of secondary clustering
+            m distinct probe sequences used
+
+        double hashing:
+            h(k,i) = (h1(k) + ih2(k)) mod m where h1 and h2 are auxiliary hash functions
+            initial probe is h1; successive probe positions are offset by amount (h2 mod m)
+            h2 must be relatively prime to m for entire table to be searched so best bet is to let m be power of 2 and h2 be odd number
+            m^2 distinct probe sequences used which is better than the m for linear/quadratic
+
+    chaining (closed addressing):
+        search(T, k): [O(n)]
+            L = T[k]
+            search(L, k)
+
+        insert(T, x): [O(1)]
+            L = T[x.key]
+            insert(L, x)
+
+        delete(T, x): [O(1) (doubly); O(n) (singly)]
+            L = T[x.key]
+            delete(L, x)
+
+graphs:
+    dfs: 
+        see binary tree section
+
+    bfs: 
+        see binary tree section
+
+    minimum spanning tree:
+        // for forest
+        mst_kruskal(G, w): [O(E lg E)]
+            A = set([])
+            for v in V[G]:
+                make_set(v)
+            sort(E, w)
+            for e (u,v) in E:
+                if find_set(u) != find_set(v):
+                    A = A.union(e)
+                    union(u,v)
+            return A
+
+        // for single tree, uses min-priority queue
+        prim(G, w, r): [O(V lg V + E lg V) = O(E lg V); or O(V lg V + E) using fibonacci heap]
+            for u in V:
+                key[u] = INF
+                pred[u] = null
+            key[r] = 0
+            Q = build_heap_min(V)
+            while !Q.empty:
+                u = extract_min(Q)
+                for v in adj[u]:
+                    if v in Q and w(u,v) < key[v]:
+                        pred[v] = u
+                        key[v] = w(u,v)
+
+    single source shortest path:
+        initialize_single_source(G, s): [O(V)]
+            for v in V:
+                d[v] = INF
+                pred[v] = null
+            d[s] = 0
+
+        relax(u, v, w): [O(1)]
+            if d[v] > d[u] + w(u,v):
+                d[v] = d[u] + w(u,v)
+                pred[v] = u
+
+        bellman_ford(G, w, s): [O(VE)]
+            init(G, s)
+            for i=1..(|V|-1):
+                for e in E:
+                    relax(u,v,w)
+            for e in E: // checks for negative cycles since they mess up the algorithm
+                if d[v] > d[u] + w(u,v)
+                    return False
+            return True
+
+        djikstra(G, w, s): [O((V+E) lg V) = O(E lg V); or O(V lg V) using fibonacci heap]
+            init(G, s)
+            S = []
+            Q = build_heap_min(V)
+            while !Q.empty:
+                u = extract_min(Q)
+                S = S union u
+                for v in adj[u]:
+                    relax(u,v,w)
+
+binary_search_recursive(A, p, r, x):
+    if r <= p:
+        return -1
+    mid = floor((r-p)/2) + p
+    median = A[mid]
+    if x == median:
+        return mid
+    elif x < median:
+        return binary_search_recursive(A, p, mid-1, x)
+    else:
+        return binary_search_recursive(A, mid+1, r, x)
+
+binary_search_iterative(A, p, r, x):
+    while true:
+        if r >= p:
+            return -1
+        mid = floor((r-p)/2) + p
+        median = A[mid]
+        if x == median:
+            return mid
+        elif x < median:
+            r = mid-1
+        else:
+            p = m+1
+
+permutations:
+    def permutations_R(x):
+        A = [ord(x) for x in x]
+        n = len(A)
+        used = [0] * len(A)
+        permute(A, "", used, n, 0)
+        
+    """
+      Short-circuiting the base case is called arms-length recursion.
+      Moving the base case to inbetween the used[i] lines would exhibit
+      this since we'd avoid calling the function call when length == level.
+    """
+    def permute(inp, out, used, n, level):
+        if level == n:
+            #print(out)
+            return
+        
+        for i in range(n):
+            if used[i]:
+                continue
+            
+            out += chr(inp[i])
+            used[i] = 1
+            permute(inp, out, used, n, level+1)
+            used[i] = 0
+            out = out[:-1]
+
+    // I don't understand how this one works
+    def quickperm(x):
+        A = [ord(x) for x in x]
+        n = len(A)
+        p = [0] * n
+        i = 1
+        #print(''.join([chr(x) for x in A]))
+        while i < n:
+            if p[i] < i:
+                if i % 2 == 1:
+                    j = p[i]
+                else:
+                    j = 0
+                swap(A, j, i)
+                #print(''.join([chr(x) for x in A]))
+                p[i] += 1
+                i = 1
+            else:
+                p[i] = 0
+                i = i + 1
+
+    def swap(A, i, j):
+        temp = A[i-1]
+        A[i-1] = A[j-1]
+        A[j-1] = temp
+
+combinations:
+    def combos_binary(s):
+        A = [x for x in s]
+        n = len(A)
+        results = []
+        res = []
+        for i in range(2**n):
+            b = int(bin(i)[2:])
+            switches = [int(x) for x in format(b, "0"+str(n)+"d")]
+            for j,x in enumerate(switches):
+                if x == 1:
+                    res.append(A[j])
+            results.append(res)
+            res = []
+
+        for x in sorted(results):
+            print(''.join([z for z in x]))
+
+telephone translation:
+    translations = {
+        1: "1",
+        2: "ABC",
+        3: "DEF",
+        4: "GHI",
+        5: "JKL",
+        6: "MNO",
+        7: "PRS",
+        8: "TUV",
+        9: "WXY",
+        0: "0"
+    }
+
+    def telephone_translate_iter(s):
+        solutions = []
+        for d in s:
+            digit = int(d)
+            for solution in solutions:
+                for option_index in range(len(translations[digit])):
+                    solution += getCharKey(digit, option_index)
+        return solutions
+
+    def getCharKey(digit, position):
+        if digit === 1:
+            return "1";
+        elif digit == 0:
+            return "0"
+        else:
+            return translations[digit][position]
+
+    def telephone_translate_recur(s):
+
+databases:
+    innoDB:
+        ACID-compliant transactions
+        crash recovery by replaying logs
+        interally caches reads/writes (vs. MyISAM that leaves it to the OS)
+        data rows stored physically in primary key order (vs. MyISAM that stores them in order they were added)
+
+number theory:
+    division thm:
+        for any int a and +int n, q,r st 0 <= r < n; a = qn + r
+        a/n = quotient
+        r = remainder
+
+    equivalence class mod n:
+        [a]_n = {a+kn: k in Z}
+        [3]_7 = set of x such that x%n = a {3, 10, 17}
+
+master method simpler to use but only applies when subproblem sizes are equal

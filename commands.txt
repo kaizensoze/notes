@@ -1,0 +1,97 @@
+
+awk
+  sudo tail /var/log/nginx/access.log -n 200 | awk '/postVote/ {print $1}' | sort | uniq
+  sudo tail /var/log/nginx/access.log -n 1000 | awk '/s~stellar-envoy-781/ {print $1}' | sort | uniq
+  sudo tail -n 9000 /var/log/nginx/access.log | awk '/postVote/ {print $0}' | awk '!/stellar-envoy/ {print $0}';
+
+aws
+  aws autoscaling update-auto-scaling-group --auto-scaling-group-name asg --min-size 1 --max-size 1 --desired-capacity 1
+  aws autoscaling suspend-processes --auto-scaling-group-name asg
+  aws autoscaling resume-processes --auto-scaling-group-name asg
+
+curl
+  cat urls.txt | parallel -j30 --eta curl -I
+  curl --user name:password http://www.example.com
+  curl --data "param1=value1&param2=value2" http://example.com/resource.cgi
+  curl -X GET -H 'Authorization: Token token="427ecba7da11b68675405bd69d19b756"' http://0.0.0.0:3000/api/v1/help-now > blah.html && chrome blah.html
+
+ffmpeg
+  for x (*.flac); do ffmpeg -i $x -ab 196k -ac 2 -ar 48000 "${x:r}.mp3"; done 
+
+ghostscript
+  gs \
+ -sOutputFile=output.pdf \
+ -sDEVICE=pdfwrite \
+ -sColorConversionStrategy=Gray \
+ -dProcessColorModel=/DeviceGray \
+ -dCompatibilityLevel=1.4 \
+ -dNOPAUSE \
+ -dBATCH \
+ records.pdf
+
+git
+  git grep 'addSection' $(git rev-list --all)
+
+heroku
+  heroku run rake db:migrate
+  heroku run rails console
+  heroku run rails console -a hbs-stage
+
+  heroku pg:info
+  heroku pg:psql
+  heroku pg:reset DATABASE_URL
+  heroku pg:reset HEROKU_POSTGRESQL_PINK_URL --confirm hbs-stage && heroku run rake db:migrate db:seed
+
+mail
+  echo "This is a test." | mail -s Testing gallo.j@gmail.com
+  
+
+postgres
+  pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+  pg_ctl -D /usr/local/var/postgres stop -s -m fast
+  \list (list databases)
+  \dt (list tables)
+  \d+ (describe table)
+  \q (quit)
+
+rails
+  be rake db:migrate VERSION=0 && be rake db:migrate
+  be rake db:drop db:create db:migrate db:seed
+
+  (in rails console)
+  puts BackgroundImage.all.select("sort_order").order("sort_order").map(&:sort_order).join("\n")
+
+s3
+  aws --profile hbs-stage s3 ls s3://hbs-stage --recursive
+  aws --profile hbs-stage s3 rm s3://hbs-stage/uploads/background_image/image/2/background2.JPG
+  aws s3 cp "7th Avenue Donuts and Diner" 's3://storage.tastesavant.com/restaurants/7th Avenue Donuts and Diner' --recursive
+
+siege
+  siege -c200 -b -t3M -i -f urls.txt
+
+solr
+  cd /usr/local/Cellar/solr/<version>/libexec/example/ && java -jar start.jar &
+
+sort
+  sort -u (unique)
+  sort -f (ignore case)
+ssh
+  ssh -fN -L 3307:127.0.0.1:3306 web@caribou.tastesavant.com
+
+tcpdump
+  sudo tcpdump -nS
+  sudo tcpdump -nnvvS
+  sudo tcpdump -nnvvXS
+  sudo tcpdump -nnvvXSs 0
+  sudo tcpdump -nn -tttt -XX -s 0 -l -i any | tee output.txt
+  sudo tcpdump -nn -tttt -XX -s 0 -l -i any src 192.168.0.100 | tee output.txt
+
+vim
+  :%s/\r/\r/g
+
+wireshark
+  ip.src == 192.168.1.109 || ip.dst == 192.168.1.109
+
+xcode
+  po thing.recursiveDescription
+

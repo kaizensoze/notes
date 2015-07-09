@@ -1,0 +1,15 @@
+
+
+
+11:00 -
+
+curl -d 'session[email]=gallo.j@gmail.com&session[password]=foobar' 'http://localhost:3000/api/v1/sessions'
+curl -H 'API-TOKEN: a2e0be55382c4a3485c26641607bf828' http://localhost:3000/api/v1/favorites
+
+select n.name, count(l.id) as listing_count
+from neighborhoods n join listings l on (l.neighborhood_id = n.id)
+where l.status = 'Available'
+group by l.neighborhood_id, n.name
+order by listing_count desc;
+
+Neighborhood.nyc.joins("left outer join listings on listings.neighborhood_id = neighborhoods.id and listings.status = 'Available'").group("listings.neighborhood_id, neighborhoods.id").order("count(listings.id) desc, neighborhoods.name asc").count

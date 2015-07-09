@@ -1,0 +1,96 @@
+
+3/2/15
+the rock club
+  4 V0, 3 V1, 3 V2
+
+3/3/15
+pushups: 1x50
+the cliffs valhalla
+  auto-belay
+    2 5.7
+    6 V0, 4 V1, 3 V2, 1 V3
+
+3/4/15
+pushups: 1x60, 1x50
+deadhangs
+  crimp (corner): 11s
+  jug: 60s
+
+3/5/15
+bouldering
+  3 V0, 3 V1, 3 V2, V3
+auto-belay
+  5.7, 5.8, 5.8, 5.9, 5.9, 5.9+
+
+3/6/15
+bouldering
+  V3, V4
+auto-belay
+
+3/7/15
+the cliffs: various auto-belay, bouldering (weekends suck)
+
+3/8/15
+caribiner's: bouldering (sucks balls)
+deadhangs
+  crimp (mid): 11s
+  crimp (corner): 13s
+
+3/20/15
+
+plank: 2m
+
+3/21/15
+
+deadhangs
+  crimp (corner): 30s
+  crimp (mid): 21s
+  sloper: 35s, 50s
+sloper transitions
+pushups: 40
+plank: 2m15s
+
+3/22/15
+
+gym: 4.5h (cliffs)
+deadhangs
+  sloper: 55s, 32s, 43s
+  crimp (mid - changed): 15s 
+pushups: 40, 50
+sloper transitions
+
+3/23/15
+
+gym: 3h (cliffs)
+planks: 3m, 2m, 2m45s
+
+3/24/15
+
+planks: 2m15s
+deadhangs
+  sloper: 50s
+
+3/25/15
+
+planks: 1m30s
+pushups: 40, 53
+deadhangs
+  sloper: 57s
+
+3/27/15
+
+bike: to/from gym
+gym: 1.5 hours 
+finger pushups: 12
+pushups: 30
+deadhangs
+  sloper: 50s
+planks: 2m30s
+
+3/28/15
+
+pushups: 60, 60
+campusing
+deadhangs:
+  crimp (mid): 32s
+

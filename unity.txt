@@ -1,0 +1,14 @@
+
+inspector -> gear menu -> reset
+select object, make scene active, f : focus scene view camera on object
+create Materials folder in Project view, create Material and add to folder, select albedo to change color, drag material object onto object in scene view to apply
+select object, add component: Physics -> RigidBody
+use gear menu -> Move Up/Down for each component to rearrange
+create Scripts folder in Project view, select object, add component Script
+FixedUpdate is on each physics change
+highlight keyword, cmd + ' to open doc page
+select object and cmd + d to duplicate
+create Prefabs folder in Project view, drag object into Prefabs folder
+for triggerable objects, make them a trigger in inspector, also add rigidbody to object and make kinematic
+use unity remote to dynamically test mobile game on device without having to do a build each time
+

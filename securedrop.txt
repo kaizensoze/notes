@@ -1,0 +1,12 @@
+Source Interface
+127.0.0.1:8080
+
+Document Interface
+127.0.0.1:8081
+
+vagrant up
+vagrant ssh
+./manage.py add_admin
+./manage.py run
+
+db file location: /var/lib/securedrop

@@ -1,0 +1,379 @@
+A Fire Upon the Deep,Vernor Vinge
+A Suitable Boy,Vikram Seth
+Amnesia,Peter Carey
+Among Others,Jo Walton
+An American Life,Ronald Reagan
+Anna Karenina,Leo Tolstoy
+Archimedes to Hawking: Laws of Science and the Great Minds Behind Them,Clifford Pickover
+Around the World in 50 Years: My Adventure to Every Country on Earth,Albert Podell
+Asimov's Guide to the Bible,Isaac Asimov
+Atheism: The Case Against God,George H. Smith
+Atlas Shrugged,Ayn Rand
+Basic Economics,Thomas Sowell
+Batman: Whatever Happened to the Caped Crusader,Neil Gaiman
+Best of 2600,Emmanuel Goldstein
+Best of MAKE,Mark Frauenfelder
+Black Lamb, Grey Falcon,Rebecca West
+Bleeding Edge,Thomas Pynchon
+Body By Science,John Little
+Book of the New Sun,Gene Wolfe
+Book of Numbers,Joshua Cohen
+Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life,David Perlmutter
+Broken Markets
+Business@The Speed of Thought,Bill Gates
+Candide,Voltaire
+Castle,Diana Wynne Jones
+Catching the Big Fish,David Lynch
+Chaos,James Gleick
+Civilization and Capitalism,Fernand Braudel
+Cloud Atlas,David Mitchell
+Collapse,Jared Diamond
+Command and Control,Eric Schlosser
+Common Sense,Thomas Paine
+Complexity,M. Mitchell Waldrop
+Conscious Capitalism,John Mackey
+Contact,Carl Sagan
+Corporate Warriors,P.W. Singer
+Cosmos,Carl Sagan
+Count of Monte Cristo,Alexandre Dumas
+Countdown to Zero Day,Kim Zetter
+Cracking the Coding Interview,Gayle Laakmann McDowell
+Cybersecurity and Cyberwar,P.W. Singer
+Dark Pools,Scott Patterson
+Deliverance,James Dickey
+Dhalgren,Samuel R. Delany
+Different Seasons,Stephen King
+Discworld,Terry Pratchett
+Doing Good Better: How Effective Altruism Can Help You Make a Difference,William MacAskill
+Don Quixote,Miguel de Cervantes
+Dragonriders of Pern,Anne McCaffrey
+Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds,Murray Shanahan
+Enemies: A History of the FBI,Tim Weiner
+Energy Revolution: The Physics and the Promise of Efficient Technology
+Enzyme Systems that Metabolise Drugs and Other Xenobiotics,Costas Ioannides
+Everything's Eventual,Stephen King
+Fermat's Enigma,Simon Singh
+Fifty dangerous things,Gever Tulley
+Flatland,Edwin A. Abbott
+For the Win,Cory Doctorow
+Four Steps to the Epiphany,Steven Gary Blank
+Gateway,Frederik Pohl
+Generation Kill,Evan Wright
+Generations,Neil Howe
+Genome: The Autobiography of a Species in 23 Chapters,Matt Ridley
+Ghost in the Wires,Kevin Mitnick
+Girlboss,Sophia Amoruso
+Girl interrupted,Susanna Kaysen
+Godel Escher Bach,Douglas R. Hofstadter
+Going Rogue,Sarah Palin
+Gormenghast,Mervyn Peake
+Grave's End,Elaine Mercado
+Hacking: The Art of Exploitation,Jon Erickson
+Heart of Darkness,Joseph Conrad
+Here Be Dragons,Sharon Kay Penman
+Here is New York,e.b. white
+His Dark Materials Trilogy,Philip Pullman
+History of Western Philosophy,
+How Children Succeed,
+How Complex Systems Fail,Dr. Richard Cook
+How We Die,Sherwin B. Nuland
+I Could Tell You But Then You Would Have to be Destroyed by Me,
+If You Meet the Buddha on the Road, Kill Him! The Pilgrimage of Psychotherapy Patients
+In Defense of Food,Michael Pollan
+Influence: the psychology of persuasion,
+Ishmael,Daniel Quinn
+Johnny Got His Gun,Dalton Trumbo
+Jonathan Strange & Mr Norrell,Susanna Clarke
+Kingpin,Kevin Poulson
+Leaves of Grass,
+Let My People Go Surfing,Yvon Chouinard
+Lies My Teacher Told Me,James Loewen
+Life in the Woods,Henry David Thoreau
+Lolita,Vladimir Nabokov
+Long Walk to Freedom,Nelson Mandlla
+Love All the People: The Essential Bill Hicks,
+Macbeth,Shakespeare
+Makers,
+Man's Search for Meaning,Viktor Frankl
+Manufacturing Consent: The Political Economy of the Mass Media,Edward Herman and Noam Chomsky
+Men are from mars, women are from venus,Joe Peacock
+Mere Christianity,CS Lewis
+Moby Dick,Herman Melville
+My Years With General Motors,Alfred P Sloan Jr
+Never Let Me Go,
+Nichomachean ethics,Aristotle
+No Easy Day,Sudhir Alladi Venkatesh
+Notes From Underground,Fyodor Dostoyevsky
+Odyssey,Homer
+Oh Myyy!: There Goes The Internet,George Takei
+On the Origin of Species,Charles Darwin
+Oryx and Crake,Margaret Atwood
+Our Dumb Century,
+Outliers,
+Pale Blue Dot: A Vision of the Human Future in Space,Carl Sagan
+Parallel Worlds,
+Pedigree: How Elite Students Get Elite Jobs
+Perdido Street Station,China Mieville
+Peter pan,
+Philosophical Investigations,Ludwig Wittgenstein
+Pi to 5 million places,[kick books]
+Pop Surrealism: The Rise of Underground Art,
+Pour Your Heart Into It,Howard Schultz
+Principles of Compiler Design,Aho/Ullman
+Producing Open Source Software: How to Run a Successful Free Software Project,Karl Fogel
+Raising the Bar,Gary Erickson
+Red Mars,Kim Stanley Robinson
+Rendezvous with Rama,Arthur C Clarke
+Rilke,
+Ringworld,Larry Niven
+Rise of the Warrior Cop: The Militarization of America’s Police Forces,Daniel Defoe
+Robinson Crusoe,
+Rocket Surgery Made Easy,
+Sailing Alone Around the World,
+Sandman Slim,
+Setting the Table,Danny Meyer
+Shadow Work,Craig Lambert
+Siddhartha,Hermann Hesse
+Silence of the Lambs,Thomas Harris
+Sirens of Tian,
+Smalltalk-80: The Language and its Implementation,Adele Goldberg
+Smart People Should Build Things,Andrew Yang
+So You Think You're Indispensable,Stanislew Lem
+Solaris,Ray Bradbury
+Something Wicked This Way Comes,
+Sophie's World,Jostein Gaarder
+Starship Troopers,Robert A.  Heinlein
+Steppenwolf,Hermann Hesse
+Stitches: a memoir,
+Stranger in a Strange Land,Robert A.  Heinlein
+Swan song,
+Tales of the unexpected,Roald Dahl
+Tao Te Ching,Lao Tse
+The Art of Deception,Kevin Mitnick
+The Art of Learning: An Inner Journey to Optimal Performance
+The Autobiography of Malcolm X,Malcolm X with Alex Haley
+The Barbary Coast: An Informal History of the San Francisco Underworld,William Faulkner
+The Baroque Cycle,Neal Stephenson
+The Blank Slate,Steven Pinker
+The Book of Ler,MA Foster
+The Book: On the Taboo Against Knowing Who You Are,Alan Watts
+The Botany of Desire,
+The Box,
+The Brothers Karamazov,Fyodor Dostoevsky
+The Burning Room,
+The Chomsky Reader,Noam Chomsky
+The Chrysalids,John Wyndham
+The Circle,Dave Eggers
+The Classical Style,Charles Rosen
+The Collapse of Complex Societies,Joseph Tainter
+The Communist Manifesto,Karl Marx
+The Consulting Bible,
+The Corpse Reader,
+The Count of Monte Cristo,Alexandre Dumas
+The Curious Incident of the Dog in the Nightime,Mark Haddon
+The Dark Tower,Stephen King
+The Definitive Book of Body Language,
+The Demon-Haunted World: Science as a Candle in the Dark,Carl Sagan
+The Department of Mad Scientists,
+The Dispossessed,Ursula K. Le Guin
+The Dorito Effect,Mark Schatzker
+The Elegant Universe,Brian Green
+The Emperor of all Maladies,
+The Emperor's new mind,Patricia C. Wrede
+The Enchanted Forest Chronicles,
+The Everything Store: Jeff Bezos and the Age of Amazon,Joanna Russ
+The Faith Healers,James Randi
+The Forever War,Joe Haldeman
+The Foundation Saga,Isaac Asimov
+The Fountainhead,Ayn Rand
+The Geography of Nowhere,James Howard Kunstler
+The Ghost Map,
+The Girl Next Door,Jack Ketchum
+The God Delusion,Richard Dawkins
+The Grand Design,Stephen Hawking
+The Grapes of Wrath,John Steinbeck
+The Great Unraveling,
+The Greatest Show on Earth,Richard Dawkins
+The Handmaid's Tale,Margaret Atwood
+The Hard Thing About Hard Things,Ben Horowitz
+The Hero with a Thousand Faces,Joseph Campbell
+The Hyperion Cantos,Dan Simmons
+The Hypochondriac's Pocket Guide to Horrible Diseases You Probably Already Have,
+The Illuminatus Trilogy,
+The Last Unicorn,Peter S. Beagle
+The Little Prince,Antoine de Saint Exupéry
+The Little Schemer,Friedman & Felleisen
+The Long Walk,Stephen King (writing as Richard Bachman)
+The Making of a Radical,Scott Nearing
+The Martian
+The Master and Margarita,Mikhail Bulgakov
+The Mists of Avalon,Marion Zimmer Bradley
+The Mote in God's Eye,Larry Niven and Jerry Pournelle
+The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
+The Occult,Colin Wilson
+The Once and Future King,T.H. White
+The Open Road,Pico Iyer
+The Painted Bird,Jerzy Kosinski
+The Panda's Thumb,Stephen Jay Gould
+The Pillars of the Earth,Ken Follett
+The Power of Myth,Joseph Campbell
+The Prince of Nothing,R. Scott Bakker
+The Prince,Niccolò Machiavelli
+The Promise of a Pencil,Adam Braun
+The Rational Optimist: How Prosperity Evolves,Matt Ridley
+The Restaurant at the End of the Universe,
+The Saga of Seven Suns,Kevin J Anderson
+The Scar,China Mieville
+The Scented Ape,
+The Secret Miracle,
+The Secret Sentry,
+The Selfish Gene,Richard Dawkins
+The Shadow Factory,
+The Singularity is Near,Ray Kurzweil
+The Snowden Files,
+The Stand,Stephen King
+The Stars My Destination,Alfred Bester
+The Sun Also Rises,Ernest Hemingway
+The Survivors Club: The Secrets and Science that Could Save Your Life,Ben Sherwood
+The Time Machine,H.G. Wells
+The Turner Diaries,Andrew MacDonald
+The Unbearable Lightness of Being,Milan Kundera
+The Unix-Haters Handbook, Simson L. Garfinkel
+The Voyage of Argo: The Argonautica,Apollonius of Rhodes
+The Wheel of Time,Robert Jordan
+The Worst-Case Scenario Survival Handbook,Joshua Piven
+Things Fall Apart,Chinua Achebe
+Thinking, Fast and Slow,Daniel Kahneman
+Third chimpanzee,Jared Diamond
+This Machine Kills Secrets,Andy Greenberg
+This Time is Different
+This Will Change Everything,John Brockman
+Through the Woods,Emily Caroll
+Too Big to Fail
+Tropic of Cancer,Henry Miller
+Twenty Thousand Leagues Under the Sea,Jules Verne
+Ubik,Philip K. Dick
+Ulysses,James Joyce
+Unbroken: A World War II Story of Survival, Resilience, and Redemption,Laura Hillenbrand
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+Various,Dr. Seuss
+Walden,Henry David Thoreau
+Walking the Amazon,Ed Stafford
+War and Peace,Leo Tolstoy
+Watership Down,Richard Adams
+We Are All Completely Beside Ourselves,Karen Joy Fowler
+We Need To Talk About Kevin,Lionel Shriver
+We Learn Nothing,Tim Kreider
+Wealth of nations,Adam Smith
+What I Learned Losing a Million Dollars
+When the Killing's Done,T.C. Boyle
+Wherever you go there you are
+Wikinomics: How Mass Collaboration Changes Everything,Don Tapscott
+Winning,Jack Welch
+Wolf In White Van,John Darnielle
+Women,Charles Bukowski
+
+DONE
+1984,George Orwell
+A Clockwork Orange,Anthony Burgess
+A Confederacy of Dunces,John Kennedy Toole
+A Farewell to Arms,Ernest Hemingway
+A Game of Thrones,George R. R. Martin
+A Hundred Years of Solitude,Gabriel Garcia Marquez
+A People's History of the United States,Howard Zinn
+A Short History of Nearly Everything,Bill Bryson
+A Song of Ice and Fire,George R. R. Martin
+Adventures of Huckleberry Finn,Mark Twain
+American Gods,Neil Gaiman
+American Psycho,Bret Easton Ellis
+Animal Farm,George Orwell
+Art of happiness,Dalai Lama
+Beyond Good and Evil,Friedrich Nietzsche
+Blood Meridian,Cormac McCarthy
+Brave New World,Aldous Huxley
+Breakfast of Champions,Kurt Vonnegut
+Calvin and Hobbes,Bill Watterson
+Cat's Cradle,Kurt Vonnegut
+Catch-22,Joseph Heller
+Childhood's End,Arthur C Clarke
+Crime and Punishment,Fyodor Dostoyevsky
+Cryptonomicon,Neal Stephenson
+Cthulhu Mythos,H. P. Lovecraft
+Do Androids Dream of Electric Sheep,Phillip K. Dick
+Dune,Frank Herbert
+Ender's Game,Orson Scott Card
+Fahrenheit 451,Ray Bradbury
+Fear and Loathing in Las Vegas,Hunter S. Thompson
+Fight Club,Chuck Palahniuk
+For Whom the Bell Tolls,Ernest Hemingway
+Freakonomics,Stephen Dubner and Steven Levitt
+Good Omens,Terry Pratchett & Neil Gaiman
+Gravity's Rainbow,Thomas Pynchon
+Guns, Germs, and Steel ",Jared Diamond
+Guts,Chuck Palahniuk
+Hackers: Heroes of the Computer Revolution,Stephen Levy
+Hamlet,Shakespeare
+Harry Potter Series,J. K. Rowling
+House of Leaves,Mark Z.  Danielwelski
+How to Win Friends and Influence People,Dale Carnegie
+In Cold Blood,Truman Capote
+Infinite Jest,David Foster Wallave
+John Dies at the End,David Wong
+Kafka on the Shore,Haruki Murakami
+King Lear,Shakespeare
+Lord of the Flies,William Golding
+Naked Lunch,William Burroughs
+Neuromancer,William Gibson
+Of Mice and Men,John Steinbeck
+On the Road,Jack Kerouac
+One Flew Over the Cuckoo's Nest,Ken Kesey
+Red Dragon,Thomas Harris
+Sandman,Neil Gaiman
+Sex, Drugs, and Cocoa Puffs ",Chuck Klosterman
+Slaughterhouse 5,Kurt Vonnegut
+Snow Crash,Neal Stephenson
+Surely You're Joking, Mr.  Feynman! ",Richard P. Feynman
+The Art of War,Sun Tzu
+The Catcher in the Rye,J. D. Salinger
+The Day of the Trifids,John Wyndham
+The Dharma Bums,Jack Kerouac
+The Diamond Age,Neal Stephenson
+The Game,Neil Strauss
+The Giver,Lois Lowry
+The Great Gatsby,F.  Scott Fitzgerald
+The Hitchhiker's Guide to the Galaxy,Douglas Adams
+The Hobbit,J. R. R.  Tolkien
+The Kite Runner,Khaled Hosseini
+The Lord of the Rings,J. R. R.  Tolkien
+The Monster At The End Of This Book,Jon Stone and Michael Smollin
+The Moon is a Harsh Mistress,Robert A. Heinlein
+The Old Man and the Sea,Ernest Hemingway
+The Omnivore's Dilemma,Michael Pollan
+The Road,Cormac McCarthy
+The Stranger,Albert Camus
+This Changes Everything,Naomi Klein
+Thus Spake Zarathustra,Friedrich Nietzsche
+To Kill A Mockingbird,Harper Lee
+Water for Elephants,Sara Gruen
+You're not doing it right,Michael Ian Black
+Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig
+Diary of a Drug Fiend,Aleister Crowley
+What makes you not buddhist,Dzongsar Jamyang Khyentse
+Flowers For Algernon,Daniel Keyes
+The Left Hand of Darkness,Ursula K. Le Guin
+Flash Boys: A Wall Street Revolt,Michael Lewis
+Americanah,Chimamanda Ngozi Adichie
+The Waste Land,TS Elliot
+One More Thing,BJ Novak
+The Way of the Knife,Mark Mazzetti
+The Signal and the Noise,Nate Silver
+All Quiet on the Western Front,Erich Maria Remarque
+Whistling Vivaldi,Claude M. Steele
+Fear and Trembling,Søren Kierkegaard
+Daily Rituals: How Artists Work
+Epic Win for Anonymous,Cole Stryker
+Legacy of Ashes: The History of the CIA,Tim Weiner
+Go Ask Alice,Anonymous
+A Canticle for Leibowitz,Walter M. Miller, Jr
+A Brief History of Time,Stephen Hawking
+120 Days of Sodom,Marquis De Sade

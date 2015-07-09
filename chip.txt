@@ -1,0 +1,92 @@
+
+splash
+enemy movement
+
+
+store keys as collection
+
+inventory slots
+	red key, blue key, yellow key, green key
+	ice skates, suction boots, fire boots, flippers 
+
+monster
+	bug
+	fireball
+	pink ball
+	tank
+	glider
+	teeth
+	walker
+	blob
+	paramecium
+
+item
+	key
+		blue key
+		red key
+		green key
+		yellow key
+	boot
+		flippers
+		fire boots
+		suction boots
+		ice skates
+	chip
+
+wall
+	primary
+		wall
+		blue wall
+			fake
+			real
+		hidden wall
+		invisible wall
+		thin wall
+		recessed wall
+	secondary
+		toggle wall
+		clone machine
+		clone block
+
+acting wall
+	lock
+		blue lock
+		red lock
+		green lock
+		yellow lock
+
+button
+	red button (active clone machine)
+	blue button (move tank)
+	green button (switch toggle wall)
+	brown button (release trap)
+
+destructive obstacle
+	water
+	fire
+	bomb
+
+element
+	fire
+	water
+	force floor
+	ice
+
+removable obstacle
+	chip
+	socket
+	lock
+	boot
+	dirt
+	blue wall
+	bomb
+	water
+
+sliding tile
+	force floor
+	ice
+	teleport
+
+??
+	thief
+	trap

@@ -1,0 +1,219 @@
+
+CPR
+=========
+if (spinal injury suspected)
+  do not shake
+else
+  shake and shout to check for responsiveness
+if unresponsive dial 911 then start CPR (for kids, do CPR for 2 minutes before dialing 911)
+place two fingertips over carotid artery to check circulation
+lift chin up, tilt back head to clear any possible obstruction
+place heel of hand over sternum (one hand over the other, fingers interlaced), push in 2 inches
+100 compressions/min ("staying alive" song)
+perform breathing every 30 compressions
+pinch nose, 2 deep breaths (don't over-inflate to prevent vomiting), listen for breathing
+
+First-Aid
+==========
+
+the signal and the noise
+========================
+risk is something you can put a price on (e.g. knowing your odds in poker)
+uncertainty is risk that is hard to measure
+
+legacy of ashes
+========================
+Office of Strategic Services (OSS) (1942-1945)
+  formed during FDR
+  under William Donovan ("Wild Bill")
+Operation PAPERCLIP: poach Nazi talent so Soviets can't; group led by General Reinhard Gehlen (Aug 1945 - )
+SSU [forms in attempt to salvage disbanded OSS] (1945)
+two rival camps form
+  espionage: Richard Helms
+  covert: Frank Wisner
+Truman forms Central Intelligence Group (CIG), with Sidney Souers as director (Jan 1946)
+George Kennan pens "long telegram" warning of soviet threat, giving rise to Truman Doctrine, Marshall Plan, CIA (Feb 1946)
+Hoyt Vandenberg takes over as director (June 1946)
+Truman gives his speech: Truman Doctrine (Mar 1947)
+Roscoe Hillenkoetter becomes director (May 1947)
+congressional committee secret hearings start that will lead to formal creation of CIA (Jun 1947)
+Truman signs National Security Act of 1947, creating air force as separate service, led by Vandenberg, a new National Security Council (NSC), office of Secretary of Defense (James Forrestal), and the CIA (Sept 1947)
+NSC issues secret orders to CIA to do covert ops; CIA sets sights on upcoming Italian elections set for Apr 1948 (Dec 1947)
+communists take over Czechoslovakia (Mar 1948)
+cable sent to pentagon suspecting soviet attack imminent; Truman wins approval for Marshall Plan (Mar 1948)
+Marshall Plan used to help fund CIA: country that receives aid has to match amount in its own currency. 5% of that went to CIA
+CIA succeed in buying off Italian elections (Apr 1948)
+CIA have a new German currency introduced; Soviets blockade Berlin (Jun 1948)
+Frank Wisner takes charge of American covert action (Sep 1948)
+Office of Policy Coordination (OPC) created under NSC (1948), later merged into CIA (1951), essentially the CIA's covert action wing
+National Committee for a Free Europe formed (1949)
+Kennan burns out, Forrestal resigns (Mar 1949) and has a mental breakdown
+Operation NIGHTINGALE: Ukrainian resistance force, including Nazi collaborators, formed to go against Stalin (1949)
+CIA Act passed, leading to black budgets and ability to bring 100 foreigners into US per year regardless of war criminals, etc.  (May 1949)
+attempt to infiltrate Ukrainians into USSR; all agents killed (Sep 1949)
+attempt to run rebels into Albania; all killed (Oct 1949)
+lots of agents continue to die; missions were compromised due to spies like Kim Philby, James Angleton's BFF
+at conclusion of string of clusterfucks, Angleton promoted to chief of counterintelligence
+Congress for Cultural Freedom, including Radio Free Europe, established as CIA front (Jun 1950)
+Operation MOCKINGBIRD: secret propaganda campaign to influence media (early 50s)
+Korean War (1950-1953)
+Walter Bedell Smith becomes director - and immediately pissed with Wisner (Oct 1950)
+General McArthur hates the agency and tries to keep them out of the way
+Soviet spy William Wolf Weisband penetrates codebreakers' Arlington Hall, compromising SIGINT; the NSA is eventually formed in 1952
+huge intelligence failure and US army attacked by Mao's army
+Bedell Smith appoints Allen Dulles as deputy director of plans (READ: chief of covert operations); the two do not get along (Jan 1951)
+Dulles promoted to deputy director, Wisner to chief of covert operations
+scores of Korean and Chinese agents sent to their deaths in covert ops
+Korean war an intelligence disaster - $152 million wasted on weapons for phantom guerrillas
+CIA starts brutal interrogations of supposed double agents (1950)
+Project ARTICHOKE -> Project MKULTRA: mind control program (1953)
+CIA slips army civilian employee Frank Olson LSD; he jumps out hotel window to his death
+Free Jurists' committee: underground group of lawyers/paralegals fighting communism in East Berlin
+Wisner pushes to take over Free Jurists under Gehlen; group tortured/arrested by soviets
+Wisner pushes to support Polish liberation army WIN, a group past wiped out by Polish secret police backed by soviets
+Poles send cut of CIA money to Communist Party of Italy
+Bedell Smith forges OPC and Office of Special Operations (OSO) into unified covert system
+Eisenhower becomes president (1953)
+Allen Dulles made director; looks to push covert over espionage
+Stalin dies; Nikita Khrushchev takes over (Mar 1953)
+in Iran, CIA overthrows Mohammed Mossadegh in military coup and replaces him with Shah of Iran after he threatens to nationalize British oil; sha's secret police SAVAK are brutal (1953)
+CIA overthrows Jacob Arbenz in military coup after he threatens to nationalize Rockefeller-owned United Fruit Company (1954) 
+CIA supports Liberal Democratic Party (LDP) under Nobusuke Kishi in Japan (Nov 1955)
+Radio Free Europe incites Hungary to revolt by broadcasting Khruschev's Secret Speech denouncing Stalin; hints that US will provide aid. No aid comes, Soviets invade, lots die. (1956)
+operative Rocky Stone goes to offer money to Syrian army for help to kill Abdul Hamij Serraj, chief of Syrian intelligence; backfires, leading to Syria-Egypt alliance: United Arab Republic (1957)
+CIA fails to overthrow Indonesia's Sukarno (May 1958)
+Wisner's insanity reaches a critical mass (Jun 1958)
+Richard Bissell replaces Wisner as chief
+Soviets shoot down U-2 spy plane; Eisenhower resigns (May 1960)
+while Bay of Pigs is prepping, Bissell contacts Mafia (John Rosselli, Sam Giancana) to kill Castro
+Eisenhower orders Patrice Lumumba, prime minister of the Congo, to be killed (originally planned as injected lethal toxin)
+Joseph Mobutu kills Lumumba and takes over
+John F Kennedy becomes president (Jan 1961)
+CIA assassinate Generalissimo Rafael Trujillo of Dominican Republic (1961)
+Mafia try to have Tony Varona poison Castro's ice cream, fail
+US bomb and destroy half of Castro's air force (Apr 1961)
+Bay of Pigs an epic fail (Apr 1961)
+John McCone becomes CIA director (Nov 1961)
+Cuban missile crisis (Oct 1962)
+John Whitten, prisoner-of-war interrogator in WWII, employs polygraph in CIA
+JFK killed (Nov 1963)
+...
+National Reconnaissance Office born in 1962 to build spy satellites
+Vietnam War authorized by Gulf of Tonkin resolution (Aug 1964)
+Red Raborn becomes director of CIA (Apr 1965)
+Tony Poe, CIA field commander in Laos, told grunts to cut off ears of those they killed
+Ted Shackley as station chief in Laos was pretty successful
+Sukarno secretly launches coup against own government, allying himself with the Indonesian Communist Party (PKI) (Oct 1965)
+CIA agent Adam Malik, army major general Suharto, and american ambassador in Indonesia Marshall Green work together to come up with plan to overthrow Sukarno
+Indonesian envoy Bob Martens comes up with list of 67 PKI leaders; Suharto's civilian shock troops [and Kap-Gestapu] start killing hundreds of thousands of people
+Richard Helms made director of CIA (June 1966)
+first big Washington march against war; Johnson thinks it's funded by Beijing/Moscow, asks CIA to start spying on dissidents (Oct 1967)
+Robert Kennedy shot and killed by Palestinian Sirhan Sirhan (June 1968)
+Richard Nixon becomes US president (Jan 1969)
+Henry Kissinger made National Security Advisor
+CIA spent tens of millions parachuting weapons to Tibetan guerrillas who fought for their spiritual leader, His Holiness Tenzen Gyatso, 14th Dalai Lama
+Salvador Allende, president of Chile, kills himself in coup against him; General Augusto Pinochet takes over (Sept 1973)
+Pinochet goes on to murder more than 3200, jailing/torturing tens of thousands in the Caravan of Death
+Colonel Manual Contreras, head of Chilean intelligence under Pinochet, killed Orlando Letelier and Ronni Moffitt in a car bomb 14 blocks from White House (1976)
+Watergate scandal (June 1972)
+James Schlesinger made CIA director (Feb 1973)
+Egypt goes to war with Israel (1973)
+[stopped reading, stopped caring]
+
+presidents + major events
+====================
+teddy roosevelt 1901-1909
+taft 1909-1913
+wilson 1913-1921
+  WWI 1914-1918
+  first red scare 1917-1920
+harding 1921-1923
+coolidge 1923-1929
+hoover 1929-1933
+  Great Depression 1929-1939
+fdr 1933-1945
+  WWII 1939-1945
+truman 1945-1953
+  korean war 1950-1953
+  second red scare 1950-1956
+eisenhower 1953-1961
+  vietnam war 1959-1973
+jfk 1961-1963
+lbj 1963-1969
+nixon 1969-1974
+ford 1974-1977
+carter 1977-1981
+reagan 1981-1989
+hw bush 1989-1993
+clinton 1993-2001
+w bush 2001-2009
+obama 2009-present
+
+parts of government
+===================
+Dept of Defense
+  Secretary of Defense
+    Office of Inspector General of DoD
+    Office of Secretary of Defense
+      DARPA
+      NSA
+      DIA
+      ...
+    Dept of Army
+      Army
+    Dept of Navy
+      Navy
+      Marines
+    Dept of Air Force
+      Air Force
+    Joint Chiefs of Staff
+      NORTHCOM
+      SOUTHCOM
+      CENTCOM
+      EUCOM
+      PACOM
+      AFRICOM
+      STRATCOM
+      SOCOM
+        JSOC
+      TRANSCOM
+Dept of Justice
+  Attorney General
+  FBI
+  DEA
+  US Marshals
+  Bureau of Alcohol, Tobacco, Firearms & Explosives
+  Office of the Inspector General
+  National Security Division
+  ...
+Dept of State
+Dept of Treasury
+
+NOTE: In May 2009, Obama merged Homeland Security Council (HSC) and National Security Council (NSC) into National Security Staff (NSS)
+
+countries (196)
+=========
+members of UN (193)
+taiwan
+kosovo
+vatican city
+
+film
+====
+car driving slowly in front in neighborhood, license: 422YAH, jokingly says outloud "422, yah?"
+at later point, getting onto highway, car on onramp going slowly, angrily mutters "get the fuck out of the way" then notices the license plate
+development of sleep disorder
+elevator opens up with group inside (closeup)
+walks into elevator
+shot from afar of group with main in front unaware of their presene; doors close
+cut to credits, start playing "Hideaway - Passion Pit" at 0:53; credits are in form of patriot act? (probably not)
+
+phonegap
+========
+cordova create hello com.example.hello "HelloWorld"
+cd hello
+cordova platform add ios
+cordova build
+cordova plugin add plugin.google.maps --variable API_KEY_FOR_IOS="AIzaSyCSi7Zh5unqv-Vt83BOgvOdfvPHEGANi_g"
+cordova emulate
+
