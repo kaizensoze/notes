@@ -2,12 +2,11 @@
 splash
 enemy movement
 
-
 store keys as collection
 
 inventory slots
 	red key, blue key, yellow key, green key
-	ice skates, suction boots, fire boots, flippers 
+	ice skates, suction boots, fire boots, flippers
 
 monster
 	bug

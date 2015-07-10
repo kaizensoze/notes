@@ -1,4 +1,3 @@
-
 food places
   sandwiches
     Anthony & Son Panini Shoppe
@@ -8,7 +7,7 @@ food places
     Jimmy's Diner
     Original John's Deli
   dessert
-    Four & Twenty Blackbirds 
+    Four & Twenty Blackbirds
     Margaret Palca Bakes
     Bakeri
     Du Jour Bakery
@@ -182,7 +181,7 @@ projects
     render chip on move
     menu
     dynamically generate template for each mapTile
-    pad map and adjust map tile positions on submit/save 
+    pad map and adjust map tile positions on submit/save
 
     level info overlay
     show hint in side bar
@@ -239,6 +238,7 @@ tv
   the critic
   venture brothers
   veronica mars
+  workaholics
 
 videogames
   kentucky route zero
@@ -345,4 +345,3 @@ quotes
 
   “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
   Ursula K. Le Guin. “The Left Hand of Darkness.”
-
