@@ -1,4 +1,4 @@
-food places
+places
   sandwiches
     Anthony & Son Panini Shoppe
     Court Street Grocers
@@ -19,192 +19,9 @@ food places
   coffee
     Otha's
     The Mill Coffee Company
-
-textbooks
-  physics
-  linear algebra
-  chemistry
-  material science
-
-museums
-  the met
-  museum of natural history
-  brooklyn museum
-  The New York Historical Society
-  lower east side tenement museum
-
-cars
-  chevy cruze
-  vw jetta
-  vw passat
-
-climbing shoes
-  speedster
-  anasazi vcs
-  instinct, vapor v, boostic
-  katana (velcro)
-  dragon, team
-  moccasym
-
-climbing
-  sport
-    poison ivy wall (west point)
-    rumney rocks, nh
-    new river gorge, wv
-    red river gorge, ky
-
-  trad
-    gunks, ny (trad)
-    acadia national park, me (trad)
-
-  the pinnacle, mi
-  silver mountain, mi
-  eldorado canyon state park, co
-  rifle mountain park, co
-  indian creek, moab, ut
-  grand teton, wy
-  red rock canyon, nv
-  joshua tree national park, ca
-  mount temple, banff national park, ca
-  star wall at donner summit, ca
-  gibraltar rock, ca
-  yosemite, ca
-  smith rock, or
-
-bouldering (local)
-  central park
-    rat rock (south of heckscher fields: 40.76920, -73.97760)
-    cat rock (north of trump rink: 40.76920, -73.97760)
-    worthless boulder (110 and Adam Clayton Powell Jr. Blvd)
-    ramble/chess rock (north of bow bridge)
-bouldering (us)
-  bishop, ca
-  joe's valley, ut
-  hueco tanks, tx
-  horse pens 40, al
-  joshua tree, ca
-  ozark mountains, ar
-bouldering (abroad)
-  fontainebleau, france
-  rocklands, south africa
-  squamish, british columbia
-  ticino, switzerland
-
-videos
-  Front Range Freaks
-  Hard Grit
-  Scary Faces
-  Sufferfest 2
-  The Network
-  Pilgrimage
-  Rampage
-  The Island
-  Meru
-  Aesthetic Series
-
-rock hunt!
-  riverside park (123+ st)
-  fort washington park
-  fort tryon park
-  inwood hill park
-  harlem river park
-  highbridge park
-
-  central park
-
-  wildwood state park
-  east marion
-
-talk shows
-  11:35pm-12:35am
-    tonight show (NBC)
-      johnny carson (1962-1992)
-      jay leno (1992-2009)
-      conan o'brien (2009-2010)
-      jay leno (2010-2014)
-      jimmy fallon (2014-present)
-    late show (CBS)
-      letterman (1993-2015)
-      colbert (2015-present)
-  12:35am-1:35am
-    late night (NBC)
-      letterman (1982-1993)
-      conan (1993-2009)
-      jimmy fallon (2009-2014
-      seth meyers (2014-present)
-    late late show (CBS)
-      craig kilborn (1999-2004)
-      craig ferguson (2005-2014)
-      james corden (2015-present)
-
-shirt
-  uberprints
-    shirt: greenwich t-shirt
-    color: deep heather
-    text color: light blue
-    font:
-      gillies gothic shadow
-      rub this
-    image: https://www.google.com/search?q=admiral+ackbar&client=firefox-a&hs=B20&rls=org.mozilla:en-US:official&channel=fflb&biw=1436&bih=774&source=lnms&tbm=isch&sa=X&ei=AlZhVNzqJY7vas_HgjA&sqi=2&ved=0CAYQ_AUoAQ#rls=org.mozilla:en-US:official&channel=fflb&tbm=isch&q=admiral+ackbar+sketch&facrc=_&imgdii=_&imgrc=PzRe7sPCoK8DtM%253A%3BxVvQXUzhlFDMtM%3Bhttp%253A%252F%252Fth01.deviantart.net%252Ffs71%252FPRE%252Fi%252F2010%252F145%252Fe%252Fe%252FAdmiral_Ackbar_by_stanlydan.jpg%3Bhttp%253A%252F%252Fwww.deviantart.com%252Fmorelikethis%252Fartists%252F273989515%253Fview_mode%253D2%3B787%3B1015
-
-momofuku milkbar cakes
-  pretzel
-  chocolate chip
-  strawberry lemon
-  pistachio
-
-recovery supplements
-  Empyrean Nutrition Insu-Pro
-  Optimum Nutrition 2:1:1
-  CytoSport Cytomax
-  Universal Torrent
-  Myonova Cytofuse
-  Muscle Pharm Re-Con
-  MHP Dark Matter
-  Myogenix AfterShock Recovery
-  BSN CellMass 2.0
-  GlycoFuse
-  Dagger by Infinite Labs
-
-tech
-  angular
-  ember
-  go
-  react
-	rethinkdb
-
-projects
-  earthworm jim groovy button
-	temperature project
-  chip's challenge
-    look into angular
-    render chip on move
-    menu
-    dynamically generate template for each mapTile
-    pad map and adjust map tile positions on submit/save
-
-    level info overlay
-    show hint in side bar
-	driving simulation using google street view [+ occulus rift]
-	electronic nose
-  food composition
-  food database app
-  portfolio site
-  visualize wifi/emf
-
-toys
-	f-bomb spy computer
-	facedancer
-  razer hydra
-  emotiv insight
-  leap motion
-	lockitron
-	usb sdr (elonics e4000, GQRX)
-  mattel device that reads frequencies
+    The West
 
 movies
-  kill your darlings
-  what if
   The Spirit of the Bee-hive
 
 tv
@@ -241,10 +58,6 @@ tv
   workaholics
 
 videogames
-  kentucky route zero
-  dungeon keeper
-  goat simulator
-
   360
     Condemned 2: Bloodshot
     Dragon Age: Inquisition
@@ -283,13 +96,111 @@ videogames
     The Talos Principle
     Uncharted 3
 
-clothing
-  express
-	http://www.yelp.com/biz/housing-works-thrift-shop-new-york-4
-	http://www.yelp.com/biz/greenflea-market-new-york
-	http://www.yelp.com/biz/vintage-thrift-shop-new-york
-	http://www.yelp.com/biz/cure-thrift-shop-new-york
-	http://www.yelp.com/biz/goodwill-new-york-4
+tech
+  angular
+  ember
+  go
+  pipelinedb
+  react
+	rethinkdb
+
+projects
+  chip's challenge
+    look into angular
+    render chip on move
+    menu
+    dynamically generate template for each mapTile
+    pad map and adjust map tile positions on submit/save
+    level info overlay
+    show hint in side bar
+  driving simulation using google street view [+ occulus rift]
+  earthworm jim groovy button
+  food database app
+  visualize wifi/emf
+
+museums
+  the met
+  museum of natural history
+  brooklyn museum
+  The New York Historical Society
+  lower east side tenement museum
+
+textbooks
+  physics
+  linear algebra
+  chemistry
+  material science
+
+mischief
+	f-bomb spy computer
+	facedancer
+  razer hydra
+  emotiv insight
+  leap motion
+	lockitron
+	usb sdr (elonics e4000, GQRX)
+  mattel device that reads frequencies
+
+conferences
+	30c3
+  appsec
+	blackhat
+  bsides
+  circlecitycon
+	defcon
+  dotscale
+  hushcon
+	shmoocon
+  thotcon
+  toorcamp
+	toorcon
+
+talk shows
+  11:35pm-12:35am
+    tonight show (NBC)
+      johnny carson (1962-1992)
+      jay leno (1992-2009)
+      conan o'brien (2009-2010)
+      jay leno (2010-2014)
+      jimmy fallon (2014-present)
+    late show (CBS)
+      letterman (1993-2015)
+      colbert (2015-present)
+  12:35am-1:35am
+    late night (NBC)
+      letterman (1982-1993)
+      conan (1993-2009)
+      jimmy fallon (2009-2014
+      seth meyers (2014-present)
+    late late show (CBS)
+      craig kilborn (1999-2004)
+      craig ferguson (2005-2014)
+      james corden (2015-present)
+
+momofuku milkbar cakes
+  pretzel
+  chocolate chip
+  strawberry lemon
+  pistachio
+
+recovery supplements
+  Empyrean Nutrition Insu-Pro
+  Optimum Nutrition 2:1:1
+  CytoSport Cytomax
+  Universal Torrent
+  Myonova Cytofuse
+  Muscle Pharm Re-Con
+  MHP Dark Matter
+  Myogenix AfterShock Recovery
+  BSN CellMass 2.0
+  GlycoFuse
+  Dagger by Infinite Labs
+
+estimated tax deadlines
+  Q1  April 15, 2014
+  Q2  June 16, 2014
+  Q3  September 15, 2014
+  Q4  January 15, 2015
 
 health insurance
   chamber of commerce
@@ -312,19 +223,6 @@ techorgs
 	alpha one labs
 	nycresistor
 
-conferences
-	30c3
-  appsec
-	blackhat
-  bsides
-  circlecitycon
-	defcon
-  dotscale
-  hushcon
-	shmoocon
-  thotcon
-	toorcon
-
 challenges
 	Hack This Site (programming problems)
 	Project Euler
@@ -332,12 +230,6 @@ challenges
 	DropBox Challenge
 	Facebook Engineering Puzzles
 	Top Coder
-
-estimated tax deadlines
-  Q1  April 15, 2014
-  Q2  June 16, 2014
-  Q3  September 15, 2014
-  Q4  January 15, 2015
 
 quotes
   "It is the good fortune of many to live distant from the scene of sorrow.”
