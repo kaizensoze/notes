@@ -8,3 +8,5 @@ git checkout develop
 git fetch upstream
 git rebase upstream/develop
 git push
+
+curl -H "x-api-key: 742d22ee-49be-4c4d-84cd-7fc9e568e3fe" -H "x-api-user: b3a7ce77-5966-4534-b655-b1b341b88fb3" "https://habitrpg.com/api/v2/user" | pbcopy
