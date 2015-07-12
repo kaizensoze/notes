@@ -134,26 +134,16 @@ textbooks
 mischief
 	f-bomb spy computer
 	facedancer
-  razer hydra
-  emotiv insight
   leap motion
-	lockitron
-	usb sdr (elonics e4000, GQRX)
-  mattel device that reads frequencies
 
 conferences
-	30c3
-  appsec
-	blackhat
-  bsides
-  circlecitycon
-	defcon
-  dotscale
-  hushcon
-	shmoocon
-  thotcon
-  toorcamp
-	toorcon
+  (01/16) shmoocon
+  (05/05) thotcon
+  (06/08) dotscale
+  (06/12) circlecitycon
+  (08/01) blackhat
+  (08/06) defcon
+  (09/22) appsec
 
 talk shows
   11:35pm-12:35am
