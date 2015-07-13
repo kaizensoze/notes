@@ -1,5 +1,2 @@
-migrate ssd
-video game ec2
-
 learn portuguese
 home depot muffin top supplies
