@@ -1,6 +1,4 @@
 
 
-
-
 curl -d 'session[email]=gallo.j@gmail.com&session[password]=foobar' 'http://localhost:3000/api/v1/sessions'
 curl -H 'API-TOKEN: 92feb555b5ac466f9d1e8ba7e83d3642' http://localhost:3000/api/v1/favorites
