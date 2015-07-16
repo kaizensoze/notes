@@ -23,7 +23,7 @@ places
     Toby's Estate
 
 movies
-
+  The End of the Tour
 
 tv
   24
@@ -106,6 +106,7 @@ tech
 	rethinkdb
 
 projects
+  cve list github
   chip's challenge
     look into angular
     render chip on move

@@ -152,7 +152,6 @@ Stranger in a Strange Land, Robert A.  Heinlein
 Swan song,
 Tales of the unexpected, Roald Dahl
 Tao Te Ching, Lao Tse
-The Art of Deception, Kevin Mitnick
 The Art of Learning: An Inner Journey to Optimal Performance
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
 The Barbary Coast: An Informal History of the San Francisco Underworld, William Faulkner
@@ -275,6 +274,8 @@ Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
 Wolf In White Van, John Darnielle
 Women, Charles Bukowski
+*, Nicholas Carr
+*, Gérard de Villiers
 
 DONE
 1984, George Orwell
@@ -380,3 +381,4 @@ Go Ask Alice, Anonymous
 A Canticle for Leibowitz, Walter M. Miller,  Jr
 A Brief History of Time, Stephen Hawking
 120 Days of Sodom, Marquis De Sade
+The Art of Deception, Kevin Mitnick
