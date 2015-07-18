@@ -1,14 +1,29 @@
-21:45 -
 
-test url with sample listing location: https://nooklyn.com/locations?latitude=x&longitude=x&radius=1
 
-need to figure out how to get this info into jsonapi:
-    search_params = {
-        longitude: params[:longitude],
-        latitude: params[:latitude],
-        radius: params[:radius] || 1
-    }
-    Location.geo_search(search_params).records
+2015-07-17T19:22:58.972-04:00
 
-curl -d 'session[email]=gallo.j@gmail.com&session[password]=foobar' 'http://localhost:3000/api/v1/sessions'
-curl -H 'API-TOKEN: 92feb555b5ac466f9d1e8ba7e83d3642' http://localhost:3000/api/v1/favorites
+conversation btwn Joe and Jim (558)
+conversation btwn Joe and John (560)
+
+Joe Gallo (11183)
+gallo.j@gmail.com
+http://localhost:3000/listings/2929
+
+Jim Gallo (11184)
+first9894@gmail.com
+http://localhost:3000/listings/3140
+
+John Gallo (11185)
+first9895@gmail.com
+http://localhost:3000/listings/3103
+
+update listings set sales_agent_id = 11183, listing_agent_id = 11183 where id = 2929;
+update listings set sales_agent_id = 11184, listing_agent_id = 11184 where id = 3140;
+update listings set sales_agent_id = 11185, listing_agent_id = 11185 where id = 3103;
+
+https://nooklyn.com/locations.json?latitude=40.707887&longitude=-73.950013&radius=1
+
+curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
+curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/favorites
+curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/conversations
+curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/conversations/558/messages

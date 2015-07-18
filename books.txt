@@ -130,6 +130,7 @@ Ringworld, Larry Niven
 Rise of the Warrior Cop: The Militarization of America’s Police Forces, Daniel Defoe
 Robinson Crusoe,
 Rocket Surgery Made Easy,
+Rtfm: Red Team Field Manual
 Sailing Alone Around the World,
 Sandman Slim,
 Setting the Table, Danny Meyer
