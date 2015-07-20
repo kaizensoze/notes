@@ -78,13 +78,12 @@ How Children Succeed,
 How Complex Systems Fail, Dr. Richard Cook
 How We Die, Sherwin B. Nuland
 I Could Tell You But Then You Would Have to be Destroyed by Me,
-If You Meet the Buddha on the Road,  Kill Him! The Pilgrimage of Psychotherapy Patients
 In Defense of Food, Michael Pollan
 Influence: the psychology of persuasion,
 Ishmael, Daniel Quinn
-Johnny Got His Gun, Dalton Trumbo
 Jonathan Strange & Mr Norrell, Susanna Clarke
 Kingpin, Kevin Poulson
+Kitchen Confidential
 Leaves of Grass,
 Let My People Go Surfing, Yvon Chouinard
 Lies My Teacher Told Me, James Loewen
@@ -383,3 +382,5 @@ A Canticle for Leibowitz, Walter M. Miller,  Jr
 A Brief History of Time, Stephen Hawking
 120 Days of Sodom, Marquis De Sade
 The Art of Deception, Kevin Mitnick
+Johnny Got His Gun, Dalton Trumbo
+If You Meet the Buddha on the Road, Kill Him! The Pilgrimage of Psychotherapy Patients

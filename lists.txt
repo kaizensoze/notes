@@ -27,53 +27,28 @@ movies
 
 tv
   24
-  American Crime
-  Anthony bourdain
+  Anthony Bourdain: No Reservations
+  Anthony Bourdain: The Layover
+  Anthony Bourdain: Parts Unknown
   Banged Up Abroad
   Betipul
   Bones
   Burn notice
-  Constantine
-  Daria
   dead like me
   dean of invention
   Derek
   doctor who
   dollhouse
-  dresden files
-  Eastbound and Down
-  Family Tree (2013)
-  Gotham
-  Hatfields & McCoys
   malcolm in the middle
   MST3K
   pete & pete
-  red dwarf
-  revision3
   salute your shorts
   scrubs
-  spooks
-  the critic
+  The Dresden Files
   venture brothers
   veronica mars
-  workaholics
 
 videogames
-  360
-    Condemned 2: Bloodshot
-    Dragon Age: Inquisition
-    Guacamelee
-    Terraria
-    The Witcher 2
-    Titanfall
-
-  Xbox One
-    Lords of the Fallen
-    Metro Redux
-    Strider
-    Sunset Overdrive
-    The Witcher 3
-
   PS4
     Bloodborne
     Infamous: Second Son
@@ -95,7 +70,6 @@ videogames
     Rogue Legacy
     The Last of Us
     The Talos Principle
-    Uncharted 3
 
 tech
   angular
