@@ -1,9 +1,16 @@
 
 
-2015-07-17T19:22:58.972-04:00
+adjust view insets on keyboard appear
 
-conversation btwn Joe and Jim (558)
-conversation btwn Joe and John (560)
+curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
+curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat
+
+convo = Conversation.find(563)
+convo.participants
+convo.participating_agents
+convo.messages
+convo.destroy
+ConversationMessage.find(642).destroy
 
 Joe Gallo (11183)
 gallo.j@gmail.com
@@ -22,8 +29,20 @@ update listings set sales_agent_id = 11184, listing_agent_id = 11184 where id = 
 update listings set sales_agent_id = 11185, listing_agent_id = 11185 where id = 3103;
 
 https://nooklyn.com/locations.json?latitude=40.707887&longitude=-73.950013&radius=1
+http://nooklyn-files.s3.amazonaws.com/subway/2x/L.png
 
 curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/favorites
-curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/conversations
-curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/conversations/558/messages
+curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents' | jsonformat
+curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/hearts?listing-id=3057
+curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' -H 'Content-Type: application/vnd.api+json' http://localhost:3000/api/v1/hearts/ -d @input.json
+{
+  "data": {
+    "type": "hearts",
+    "attributes": {
+      "agent-id": "11183",
+      "listing-id": "3057"
+    }
+  }
+}
+curl -X DELETE -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/hearts/3057

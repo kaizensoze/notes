@@ -235,7 +235,6 @@ The Singularity is Near, Ray Kurzweil
 The Snowden Files,
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
-The Sun Also Rises, Ernest Hemingway
 The Survivors Club: The Secrets and Science that Could Save Your Life, Ben Sherwood
 The Time Machine, H.G. Wells
 The Turner Diaries, Andrew MacDonald
@@ -272,10 +271,10 @@ When the Killing's Done, T.C. Boyle
 Wherever you go there you are
 Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
-Wolf In White Van, John Darnielle
 Women, Charles Bukowski
 *, Nicholas Carr
 *, Gérard de Villiers
+
 
 DONE
 1984, George Orwell
@@ -373,6 +372,7 @@ The Way of the Knife, Mark Mazzetti
 The Signal and the Noise, Nate Silver
 All Quiet on the Western Front, Erich Maria Remarque
 Whistling Vivaldi, Claude M. Steele
+The Sun Also Rises, Ernest Hemingway
 Fear and Trembling, Søren Kierkegaard
 Daily Rituals: How Artists Work
 Epic Win for Anonymous, Cole Stryker
@@ -384,3 +384,7 @@ A Brief History of Time, Stephen Hawking
 The Art of Deception, Kevin Mitnick
 Johnny Got His Gun, Dalton Trumbo
 If You Meet the Buddha on the Road, Kill Him! The Pilgrimage of Psychotherapy Patients
+Wolf In White Van, John Darnielle
+Flannery O'Connor The Complete Stories
+Helter Skelter, Vincent Bugliosi
+Escape from Baghdad, Saad Hossain

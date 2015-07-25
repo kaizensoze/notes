@@ -1,3 +1,4 @@
+
 places
   sandwiches
     Anthony & Son Panini Shoppe
@@ -21,8 +22,14 @@ places
     The Mill Coffee Company
     The West
     Toby's Estate
+  travel
+    paris
+    amsterdam
+    rome
+    prague
 
 movies
+  Mission Impossible
   The End of the Tour
 
 tv
@@ -30,23 +37,20 @@ tv
   Anthony Bourdain: No Reservations
   Anthony Bourdain: The Layover
   Anthony Bourdain: Parts Unknown
-  Banged Up Abroad
-  Betipul
   Bones
   Burn notice
-  dead like me
-  dean of invention
+  Dead like me
+  Dean of invention
   Derek
-  doctor who
-  dollhouse
-  malcolm in the middle
+  Doctor who
+  Dollhouse
   MST3K
-  pete & pete
-  salute your shorts
-  scrubs
+  Pete & pete
+  Salute your shorts
+  Scrubs
   The Dresden Files
-  venture brothers
-  veronica mars
+  Venture brothers
+  Veronica mars
 
 videogames
   PS4
