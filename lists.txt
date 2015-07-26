@@ -22,11 +22,18 @@ places
     The Mill Coffee Company
     The West
     Toby's Estate
-  travel
-    paris
-    amsterdam
-    rome
-    prague
+
+travel
+  Paris
+  Amsterdam
+  Rome
+  Prague
+  Montreal
+
+  Philadelphia
+  New Orleans
+  Portland
+  Seattle
 
 movies
   Mission Impossible
@@ -35,7 +42,6 @@ movies
 tv
   24
   Anthony Bourdain: No Reservations
-  Anthony Bourdain: The Layover
   Anthony Bourdain: Parts Unknown
   Bones
   Burn notice

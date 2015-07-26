@@ -1,6 +1,7 @@
 
 
-adjust view insets on keyboard appear
+test api signup
+fix embedded view insets
 
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat
