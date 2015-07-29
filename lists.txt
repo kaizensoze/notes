@@ -24,16 +24,33 @@ places
     Toby's Estate
 
 travel
+  Tarrytown, NY
+
+  New Haven, CT
+  Providence, RI
+  Burlington, VT
+  Portland, ME
+
+  Philadelphia
+  Pittsburgh
+  Cleveland
+  Ann Arbor, MI
+
+  Asheville, NC
+  Durham-Chapel Hill, NC
+  Atlanta, GA
+  New Orleans
+  Austin
+
+  Portland
+  Seattle
+  Chicago
+
   Paris
   Amsterdam
   Rome
   Prague
   Montreal
-
-  Philadelphia
-  New Orleans
-  Portland
-  Seattle
 
 movies
   Mission Impossible
@@ -41,6 +58,7 @@ movies
 
 tv
   24
+  Agent Carter
   Anthony Bourdain: No Reservations
   Anthony Bourdain: Parts Unknown
   Bones
@@ -54,6 +72,7 @@ tv
   Pete & pete
   Salute your shorts
   Scrubs
+  The Americans
   The Dresden Files
   Venture brothers
   Veronica mars

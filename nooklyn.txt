@@ -1,7 +1,6 @@
 
 
-test api signup
-fix embedded view insets
+304x349
 
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat
@@ -12,6 +11,14 @@ convo.participating_agents
 convo.messages
 convo.destroy
 ConversationMessage.find(642).destroy
+
+11183 | Joe        | Gallo     | gallo.j@gmail.com
+11184 | Jim        | Gallo     | first9894@gmail.com
+11185 | John       | Gallo     | first9895@gmail.com
+11191 | Henry      | Gallo     | first9896@gmail.com
+
+Henry Gallo
+first9896@gmail.com
 
 Joe Gallo (11183)
 gallo.j@gmail.com
