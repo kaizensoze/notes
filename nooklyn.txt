@@ -1,6 +1,7 @@
+02:00 - 04:30
+11:30 - 12:00
 
-
-304x349
+quick tap/untap of primary image on detail page causes crash
 
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat

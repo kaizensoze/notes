@@ -32,9 +32,13 @@ travel
   Portland, ME
 
   Philadelphia
+
   Pittsburgh
   Cleveland
   Ann Arbor, MI
+  Chicago
+  Iowa City, IA
+  Des Moines, IA
 
   Asheville, NC
   Durham-Chapel Hill, NC

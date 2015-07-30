@@ -63,7 +63,6 @@ Generations, Neil Howe
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Ghost in the Wires, Kevin Mitnick
 Girlboss, Sophia Amoruso
-Girl interrupted, Susanna Kaysen
 Godel Escher Bach, Douglas R. Hofstadter
 Going Rogue, Sarah Palin
 Gormenghast, Mervyn Peake
@@ -108,7 +107,6 @@ Odyssey, Homer
 Oh Myyy!: There Goes The Internet, George Takei
 On the Origin of Species, Charles Darwin
 Oryx and Crake, Margaret Atwood
-Our Dumb Century,
 Outliers,
 Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan
 Parallel Worlds,
@@ -242,7 +240,6 @@ The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook,  Simson L. Garfinkel
 The Voyage of Argo: The Argonautica, Apollonius of Rhodes
 The Wheel of Time, Robert Jordan
-The Worst-Case Scenario Survival Handbook, Joshua Piven
 Things Fall Apart, Chinua Achebe
 Thinking,  Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
@@ -390,3 +387,6 @@ Helter Skelter, Vincent Bugliosi
 Escape from Baghdad, Saad Hossain
 Child of God, Cormac McCarthy
 City by City, Keith Gessen
+The Worst-Case Scenario Survival Handbook, Joshua Piven
+Our Dumb Century, The Onion
+Girl interrupted, Susanna Kaysen
