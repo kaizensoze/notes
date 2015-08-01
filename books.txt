@@ -2,12 +2,9 @@ A Fire Upon the Deep, Vernor Vinge (pg 32)
 A Suitable Boy, Vikram Seth
 Amnesia, Peter Carey
 Among Others, Jo Walton
-An American Life, Ronald Reagan
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Around the World in 50 Years: My Adventure to Every Country on Earth, Albert Podell
-Asimov's Guide to the Bible, Isaac Asimov
-Atheism: The Case Against God, George H. Smith
 Atlas Shrugged, Ayn Rand
 Basic Economics, Thomas Sowell
 Batman: Whatever Happened to the Caped Crusader, Neil Gaiman
@@ -15,27 +12,23 @@ Best of 2600, Emmanuel Goldstein
 Best of MAKE, Mark Frauenfelder
 Black Lamb and Grey Falcon, Rebecca West
 Bleeding Edge, Thomas Pynchon
-Body By Science, John Little
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 Broken Markets
 Business@The Speed of Thought, Bill Gates
 Candide, Voltaire
-Castle, Diana Wynne Jones
 Catching the Big Fish, David Lynch
 Chaos, James Gleick
-Civilization and Capitalism, Fernand Braudel
+Chaos in Kabul, Gérard de Villiers
 Cloud Atlas, David Mitchell
 Collapse, Jared Diamond
 Command and Control, Eric Schlosser
 Common Sense, Thomas Paine
-Complexity, M. Mitchell Waldrop
 Conscious Capitalism, John Mackey
 Contact, Carl Sagan
 Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
-Count of Monte Cristo, Alexandre Dumas
 Countdown to Zero Day, Kim Zetter
 Cybersecurity and Cyberwar, P.W. Singer
 Dark Pools, Scott Patterson
@@ -47,23 +40,17 @@ Doing Good Better: How Effective Altruism Can Help You Make a Difference, Willia
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
 Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds, Murray Shanahan
-Enemies: A History of the FBI, Tim Weiner
 Energy Revolution: The Physics and the Promise of Efficient Technology
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
 Everything's Eventual, Stephen King
 Fermat's Enigma, Simon Singh
-Fifty dangerous things, Gever Tulley
-Flatland, Edwin A. Abbott
-For the Win, Cory Doctorow
-Four Steps to the Epiphany, Steven Gary Blank
-Gateway, Frederik Pohl
 Generation Kill, Evan Wright
 Generations, Neil Howe
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Ghost in the Wires, Kevin Mitnick
 Girlboss, Sophia Amoruso
 Godel Escher Bach, Douglas R. Hofstadter
-Gormenghast, Mervyn Peake
+Titus Groan, Mervyn Peake
 Hacking: The Art of Exploitation, Jon Erickson
 Heart of Darkness, Joseph Conrad
 Here Be Dragons, Sharon Kay Penman
@@ -71,8 +58,6 @@ Here is New York, e.b. white
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
 How Children Succeed,
-How Complex Systems Fail, Dr. Richard Cook
-How We Die, Sherwin B. Nuland
 Ishmael, Daniel Quinn
 Jonathan Strange & Mr Norrell, Susanna Clarke
 Kingpin, Kevin Poulson
@@ -80,21 +65,17 @@ Kitchen Confidential
 Leaves of Grass,
 Life in the Woods, Henry David Thoreau
 Lolita, Vladimir Nabokov
-Long Walk to Freedom, Nelson Mandlla
+Long Walk to Freedom, Nelson Mandela
 Love All the People: The Essential Bill Hicks,
 Macbeth, Shakespeare
-Makers,
 Man's Search for Meaning, Viktor Frankl
-Manufacturing Consent: The Political Economy of the Mass Media, Edward Herman and Noam Chomsky
 Men are from mars,  women are from venus, Joe Peacock
-Mere Christianity, CS Lewis
 Moby Dick, Herman Melville
 Modern Romance, Aziz Ansari
 My Years With General Motors,  Alfred P Sloan Jr
 Never Let Me Go,
-Nichomachean ethics,  Aristotle
-No Easy Day,  Sudhir Alladi Venkatesh
-Notes From Underground,  Fyodor Dostoyevsky
+No Easy Day, Mark Owen
+Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
 Oh Myyy!: There Goes The Internet, George Takei
 On the Origin of Species, Charles Darwin
@@ -102,69 +83,45 @@ Oryx and Crake, Margaret Atwood
 Outliers,
 Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan
 Parallel Worlds,
-Pedigree: How Elite Students Get Elite Jobs
 Perdido Street Station, China Mieville
-Peter pan,
-Philosophical Investigations, Ludwig Wittgenstein
-Pi to 5 million places, [kick books]
-Pop Surrealism: The Rise of Underground Art,
 Pour Your Heart Into It, Howard Schultz
 Principles of Compiler Design, Aho/Ullman
 Producing Open Source Software: How to Run a Successful Free Software Project, Karl Fogel
-Raising the Bar, Gary Erickson
 Red Mars, Kim Stanley Robinson
 Rendezvous with Rama, Arthur C Clarke
-Rilke,
+Revenge of the Kremlin, Gérard de Villiers
 Ringworld, Larry Niven
 Rise of the Warrior Cop: The Militarization of America’s Police Forces, Daniel Defoe
 Robinson Crusoe,
-Rocket Surgery Made Easy,
 Rtfm: Red Team Field Manual
-Sailing Alone Around the World,
 Sandman Slim,
-Setting the Table, Danny Meyer
-Shadow Work, Craig Lambert
-Show Me A Hero, Lisa Belkin
 Siddhartha, Hermann Hesse
 Silence of the Lambs, Thomas Harris
-Sirens of Tian,
-Smalltalk-80: The Language and its Implementation, Adele Goldberg
-Smart People Should Build Things, Andrew Yang
-So You Think You're Indispensable, Stanislew Lem
+Sirens of Titan,
 Solaris, Ray Bradbury
 Something Wicked This Way Comes,
 Sophie's World, Jostein Gaarder
 Spycraft, Robert Wallace (pg 284)
 Starship Troopers, Robert A.  Heinlein
 Steppenwolf, Hermann Hesse
-Stitches: a memoir,
 Stranger in a Strange Land, Robert A.  Heinlein
 Swan song,
 Tales of the unexpected, Roald Dahl
-Tao Te Ching, Lao Tse
-The Art of Learning: An Inner Journey to Optimal Performance
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
 The Barbary Coast: An Informal History of the San Francisco Underworld, William Faulkner
 The Baroque Cycle, Neal Stephenson
 The Black Power: The “Islamic State” and the Strategists of Terror
-The Blank Slate, Steven Pinker
-The Book of Ler, MA Foster
-The Book: On the Taboo Against Knowing Who You Are, Alan Watts
 The Botany of Desire,
-The Box,
 The Brothers Karamazov, Fyodor Dostoevsky
-The Burning Room,
-The Chomsky Reader, Noam Chomsky
+The Burning Room, Michael Connelly
 The Chrysalids, John Wyndham
 The Circle, Dave Eggers
-The Classical Style, Charles Rosen
 The Collapse of Complex Societies, Joseph Tainter
 The Communist Manifesto, Karl Marx
 The Corpse Reader,
 The Count of Monte Cristo, Alexandre Dumas
 The Curious Incident of the Dog in the Nightime, Mark Haddon
 The Dark Tower, Stephen King
-The Definitive Book of Body Language,
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
 The Department of Mad Scientists,
 The Dispossessed, Ursula K. Le Guin
@@ -172,31 +129,30 @@ The Dorito Effect, Mark Schatzker
 The Elegant Universe, Brian Green
 The Emperor of all Maladies,
 The Emperor's new mind, Patricia C. Wrede
-The Enchanted Forest Chronicles,
 The Everything Store: Jeff Bezos and the Age of Amazon, Joanna Russ
 The Faith Healers, James Randi
 The Forever War, Joe Haldeman
 The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
 The Geography of Nowhere, James Howard Kunstler
-The Ghost Map,
+The Ghost Map, Steven Johnson
 The Girl Next Door, Jack Ketchum
 The God Delusion, Richard Dawkins
 The Grand Design, Stephen Hawking
 The Grapes of Wrath, John Steinbeck
-The Great Unraveling,
+The Great Unraveling, Paul R. Krugman
 The Greatest Show on Earth, Richard Dawkins
 The Handmaid's Tale, Margaret Atwood
 The Hard Thing About Hard Things, Ben Horowitz
 The Hero with a Thousand Faces, Joseph Campbell
 The Hyperion Cantos, Dan Simmons
-The Illuminatus Trilogy,
+The Illuminatus Trilogy, Robert Shea
 The Last Unicorn, Peter S. Beagle
 The Little Prince, Antoine de Saint Exupéry
-The Little Schemer, Friedman & Felleisen
 The Long Walk, Stephen King (writing as Richard Bachman)
+The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
-The Martian
+The Martian, Andy Weir
 The Master and Margarita, Mikhail Bulgakov
 The Mists of Avalon, Marion Zimmer Bradley
 The Mote in God's Eye, Larry Niven and Jerry Pournelle
@@ -210,29 +166,26 @@ The Prince of Nothing, R. Scott Bakker
 The Promise of a Pencil, Adam Braun
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
 The Restaurant at the End of the Universe,
-The Saga of Seven Suns, Kevin J Anderson
 The Scar, China Mieville
 The Scented Ape,
-The Secret Miracle,
-The Secret Sentry,
+The Secret Sentry, Matthew M. Aid
 The Selfish Gene, Richard Dawkins
-The Shadow Factory,
+The Shadow Factory, James Bamford
+The Shallows: What the Internet Is Doing to Our Brains, Nicholas Carr
 The Singularity is Near, Ray Kurzweil
-The Snowden Files,
+The Snowden Files, Luke Harding
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Survivors Club: The Secrets and Science that Could Save Your Life, Ben Sherwood
 The Time Machine, H.G. Wells
-The Turner Diaries, Andrew MacDonald
 The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook,  Simson L. Garfinkel
-The Voyage of Argo: The Argonautica, Apollonius of Rhodes
 The Wheel of Time, Robert Jordan
 Things Fall Apart, Chinua Achebe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
-This Time is Different
+This Time is Different, Carmen M. Reinhart
 This Will Change Everything, John Brockman
 Through the Woods, Emily Caroll
 Too Big to Fail
@@ -248,16 +201,13 @@ War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 We Are All Completely Beside Ourselves, Karen Joy Fowler
 We Learn Nothing, Tim Kreider
-Wealth of nations, Adam Smith
+Wealth of Nations, Adam Smith
 What I Learned Losing a Million Dollars
 When the Killing's Done, T.C. Boyle
 Wherever you go there you are
 Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
 Women, Charles Bukowski
-*, Nicholas Carr
-*, Gérard de Villiers
-
 
 DONE
 1984, George Orwell

@@ -3,19 +3,10 @@
 
 
 (iphone 5s LTE)
-loading overlay, DISPATCH_QUEUE_PRIORITY_BACKGROUND, dispatch_async: 23.7502185833291
 loading overlay, DISPATCH_QUEUE_PRIORITY_DEFAULT, dispatch_async: 16.7781462916755
 loading overlay, DISPATCH_QUEUE_PRIORITY_DEFAULT, dispatch_sync: 19.5697511250037
 no loading overlay, DISPATCH_QUEUE_PRIORITY_DEFAULT, dispatch_async: 8.47936366664362
 no loading overlay, DISPATCH_QUEUE_PRIORITY_DEFAULT, dispatch_sync: 8.63848304166459
-no loading overlay, DISPATCH_QUEUE_PRIORITY_BACKGROUND, dispatch_async: 13.8989053333353
-no loading overlay, DISPATCH_QUEUE_PRIORITY_BACKGROUND, dispatch_sync: 13.2017413333233
-
-// ordered by load time
-no loading overlay, DISPATCH_QUEUE_PRIORITY_DEFAULT, dispatch_async: 8.47936366664362
-no loading overlay, DISPATCH_QUEUE_PRIORITY_DEFAULT, dispatch_sync: 8.63848304166459
-loading overlay, DISPATCH_QUEUE_PRIORITY_DEFAULT, dispatch_async: 16.7781462916755
-loading overlay, DISPATCH_QUEUE_PRIORITY_DEFAULT, dispatch_sync: 19.5697511250037
 
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat
