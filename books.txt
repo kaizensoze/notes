@@ -37,7 +37,6 @@ Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
 Count of Monte Cristo, Alexandre Dumas
 Countdown to Zero Day, Kim Zetter
-Cracking the Coding Interview, Gayle Laakmann McDowell
 Cybersecurity and Cyberwar, P.W. Singer
 Dark Pools, Scott Patterson
 Deliverance, James Dickey
@@ -64,9 +63,7 @@ Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Ghost in the Wires, Kevin Mitnick
 Girlboss, Sophia Amoruso
 Godel Escher Bach, Douglas R. Hofstadter
-Going Rogue, Sarah Palin
 Gormenghast, Mervyn Peake
-Grave's End, Elaine Mercado
 Hacking: The Art of Exploitation, Jon Erickson
 Heart of Darkness, Joseph Conrad
 Here Be Dragons, Sharon Kay Penman
@@ -76,16 +73,11 @@ History of Western Philosophy,
 How Children Succeed,
 How Complex Systems Fail, Dr. Richard Cook
 How We Die, Sherwin B. Nuland
-I Could Tell You But Then You Would Have to be Destroyed by Me,
-In Defense of Food, Michael Pollan
-Influence: the psychology of persuasion,
 Ishmael, Daniel Quinn
 Jonathan Strange & Mr Norrell, Susanna Clarke
 Kingpin, Kevin Poulson
 Kitchen Confidential
 Leaves of Grass,
-Let My People Go Surfing, Yvon Chouinard
-Lies My Teacher Told Me, James Loewen
 Life in the Woods, Henry David Thoreau
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandlla
@@ -154,6 +146,7 @@ The Art of Learning: An Inner Journey to Optimal Performance
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
 The Barbary Coast: An Informal History of the San Francisco Underworld, William Faulkner
 The Baroque Cycle, Neal Stephenson
+The Black Power: The “Islamic State” and the Strategists of Terror
 The Blank Slate, Steven Pinker
 The Book of Ler, MA Foster
 The Book: On the Taboo Against Knowing Who You Are, Alan Watts
@@ -167,7 +160,6 @@ The Circle, Dave Eggers
 The Classical Style, Charles Rosen
 The Collapse of Complex Societies, Joseph Tainter
 The Communist Manifesto, Karl Marx
-The Consulting Bible,
 The Corpse Reader,
 The Count of Monte Cristo, Alexandre Dumas
 The Curious Incident of the Dog in the Nightime, Mark Haddon
@@ -198,7 +190,6 @@ The Handmaid's Tale, Margaret Atwood
 The Hard Thing About Hard Things, Ben Horowitz
 The Hero with a Thousand Faces, Joseph Campbell
 The Hyperion Cantos, Dan Simmons
-The Hypochondriac's Pocket Guide to Horrible Diseases You Probably Already Have,
 The Illuminatus Trilogy,
 The Last Unicorn, Peter S. Beagle
 The Little Prince, Antoine de Saint Exupéry
@@ -210,15 +201,12 @@ The Master and Margarita, Mikhail Bulgakov
 The Mists of Avalon, Marion Zimmer Bradley
 The Mote in God's Eye, Larry Niven and Jerry Pournelle
 The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
-The Occult, Colin Wilson
 The Once and Future King, T.H. White
-The Open Road, Pico Iyer
 The Painted Bird, Jerzy Kosinski
 The Panda's Thumb, Stephen Jay Gould
 The Pillars of the Earth, Ken Follett
 The Power of Myth, Joseph Campbell
 The Prince of Nothing, R. Scott Bakker
-The Prince, Niccolò Machiavelli
 The Promise of a Pencil, Adam Braun
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
 The Restaurant at the End of the Universe,
@@ -241,7 +229,7 @@ The Unix-Haters Handbook,  Simson L. Garfinkel
 The Voyage of Argo: The Argonautica, Apollonius of Rhodes
 The Wheel of Time, Robert Jordan
 Things Fall Apart, Chinua Achebe
-Thinking,  Fast and Slow, Daniel Kahneman
+Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
 This Time is Different
@@ -254,13 +242,11 @@ Ubik, Philip K. Dick
 Ulysses, James Joyce
 Unbroken: A World War II Story of Survival,  Resilience,  and Redemption, Laura Hillenbrand
 Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
-Various, Dr. Seuss
 Walden, Henry David Thoreau
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 We Are All Completely Beside Ourselves, Karen Joy Fowler
-We Need To Talk About Kevin, Lionel Shriver
 We Learn Nothing, Tim Kreider
 Wealth of nations, Adam Smith
 What I Learned Losing a Million Dollars
@@ -390,3 +376,4 @@ City by City, Keith Gessen
 The Worst-Case Scenario Survival Handbook, Joshua Piven
 Our Dumb Century, The Onion
 Girl interrupted, Susanna Kaysen
+The Girl Next Door, Ruth Rendell
