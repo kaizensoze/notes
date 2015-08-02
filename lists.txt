@@ -115,15 +115,7 @@ tech
 projects
   cve list github
   chip's challenge
-    look into angular
-    render chip on move
-    menu
-    dynamically generate template for each mapTile
-    pad map and adjust map tile positions on submit/save
-    level info overlay
-    show hint in side bar
   driving simulation using google street view [+ occulus rift]
-  earthworm jim groovy button
   food database app
   visualize wifi/emf
 
