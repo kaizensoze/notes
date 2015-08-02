@@ -55,6 +55,7 @@ travel
   Rome
   Prague
   Montreal
+  Reykjavik
 
 movies
   Mission Impossible

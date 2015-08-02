@@ -108,6 +108,7 @@ Steppenwolf, Hermann Hesse
 Stranger in a Strange Land, Robert A.  Heinlein
 Swan song,
 Tales of the unexpected, Roald Dahl
+The Alienist, Caleb Carr
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
 The Barbary Coast: An Informal History of the San Francisco Underworld, William Faulkner
 The Baroque Cycle, Neal Stephenson
@@ -146,6 +147,7 @@ The Greatest Show on Earth, Richard Dawkins
 The Handmaid's Tale, Margaret Atwood
 The Hard Thing About Hard Things, Ben Horowitz
 The Hero with a Thousand Faces, Joseph Campbell
+The Hot Zone, Richard Preston
 The Hyperion Cantos, Dan Simmons
 The Illuminatus Trilogy, Robert Shea
 The Last Unicorn, Peter S. Beagle
