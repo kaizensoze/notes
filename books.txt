@@ -70,10 +70,10 @@ Long Walk to Freedom, Nelson Mandela
 Love All the People: The Essential Bill Hicks,
 Macbeth, Shakespeare
 Man's Search for Meaning, Viktor Frankl
-Men are from mars,  women are from venus, Joe Peacock
+Men are from mars, women are from venus, Joe Peacock
 Moby Dick, Herman Melville
 Modern Romance, Aziz Ansari
-My Years With General Motors,  Alfred P Sloan Jr
+My Years With General Motors, Alfred P Sloan Jr
 Never Let Me Go,
 No Easy Day, Mark Owen
 Notes From Underground, Fyodor Dostoyevsky
@@ -196,7 +196,7 @@ Tropic of Cancer, Henry Miller
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Ubik, Philip K. Dick
 Ulysses, James Joyce
-Unbroken: A World War II Story of Survival,  Resilience,  and Redemption, Laura Hillenbrand
+Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
 Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
 Walden, Henry David Thoreau
 Walking the Amazon, Ed Stafford
@@ -248,7 +248,7 @@ For Whom the Bell Tolls, Ernest Hemingway
 Freakonomics, Stephen Dubner and Steven Levitt
 Good Omens, Terry Pratchett & Neil Gaiman
 Gravity's Rainbow, Thomas Pynchon
-Guns,  Germs,  and Steel ", Jared Diamond
+Guns, Germs, and Steel ", Jared Diamond
 Guts, Chuck Palahniuk
 Hackers: Heroes of the Computer Revolution, Stephen Levy
 Hamlet, Shakespeare
@@ -268,10 +268,10 @@ On the Road, Jack Kerouac
 One Flew Over the Cuckoo's Nest, Ken Kesey
 Red Dragon, Thomas Harris
 Sandman, Neil Gaiman
-Sex,  Drugs,  and Cocoa Puffs ", Chuck Klosterman
+Sex, Drugs, and Cocoa Puffs ", Chuck Klosterman
 Slaughterhouse 5, Kurt Vonnegut
 Snow Crash, Neal Stephenson
-Surely You're Joking,  Mr.  Feynman! ", Richard P. Feynman
+Surely You're Joking, Mr.  Feynman! ", Richard P. Feynman
 The Art of War, Sun Tzu
 The Catcher in the Rye, J. D. Salinger
 The Day of the Trifids, John Wyndham
@@ -314,7 +314,7 @@ Daily Rituals: How Artists Work
 Epic Win for Anonymous, Cole Stryker
 Legacy of Ashes: The History of the CIA, Tim Weiner
 Go Ask Alice, Anonymous
-A Canticle for Leibowitz, Walter M. Miller,  Jr
+A Canticle for Leibowitz, Walter M. Miller, Jr
 A Brief History of Time, Stephen Hawking
 120 Days of Sodom, Marquis De Sade
 The Art of Deception, Kevin Mitnick
