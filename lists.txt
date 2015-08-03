@@ -1,13 +1,6 @@
 
 places
-  sandwiches
-    Anthony & Son Panini Shoppe
-    Court Street Grocers
-    Mazzola Bakery
-    Defontes
-    Jimmy's Diner
-    Original John's Deli
-  dessert
+  bakery
     Four & Twenty Blackbirds
     Margaret Palca Bakes
     Bakeri
@@ -17,11 +10,19 @@ places
     Court Street Pastry Shoppe
     Caprice's by Sophie
     Robicelli Bakery
+    Napoli Bakery
   coffee
     Otha's
     The Mill Coffee Company
     The West
     Toby's Estate
+  sandwiches
+    Anthony & Son Panini Shoppe
+    Court Street Grocers
+    Mazzola Bakery
+    Defontes
+    Jimmy's Diner
+    Original John's Deli
 
 travel
   Tarrytown, NY
@@ -63,22 +64,12 @@ movies
 
 tv
   24
-  Agent Carter
-  Anthony Bourdain: No Reservations
   Anthony Bourdain: Parts Unknown
-  Bones
   Burn notice
-  Dead like me
-  Dean of invention
-  Derek
   Doctor who
-  Dollhouse
-  MST3K
   Pete & pete
   Salute your shorts
   Scrubs
-  The Americans
-  The Dresden Files
   Venture brothers
   Veronica mars
 
