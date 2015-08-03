@@ -1,0 +1,553 @@
+
+0d1b1e778cc939ffd7410814860eec6f1d0f7303
+697689173de0128740a9a86c8e5642550c3ac6cb
+
+http://www.tastesavant.com/social/login/facebook/?next=/
+http://tastesavant.com/social/complete/facebook/
+
+http://www.tastesavant.com
+http://www.tastesavant.com/social/complete/facebook/
+
+merge chicago restaurants into main restaurants folder in s3
+
+newyork.tastesavant.com: productionloadbalancer-1760118190.us-east-1.elb.amazonaws.com
+chicago.tastesavant.com: productionloadbalancer-1760118190.us-east-1.elb.amazonaws.com
+brooklyn.tastesavant.com: productionloadbalancer-1760118190.us-east-1.elb.amazonaws.com
+
+ns1145.dns.dyn.com  208.76.58.145
+ns2199.dns.dyn.com  208.76.59.199
+ns3128.dns.dyn.com  208.76.60.128
+ns4155.dns.dyn.com  208.76.61.155
+
+aws
+  aws autoscaling suspend-processes --auto-scaling-group-name asg
+  aws autoscaling resume-processes --auto-scaling-group-name asg
+  aws autoscaling update-auto-scaling-group --auto-scaling-group-name asg --min-size 1 --max-size 1 --desired-capacity 1
+
+TEST NYC/BKLYN
+-74.011598, 40.705552 (NY)
+-73.986020, 40.703600 (BK)
+-73.957524, 40.733264 (BK)
+-73.980870, 40.712969 (NY)
+-73.996148, 40.691887 (BK)
+-73.985505, 40.668064 (BK)
+-73.974862, 40.745100 (NY)
+-73.982372, 40.716205 (NY)
+-73.983917, 40.719588 (NY)
+-73.983102, 40.719165 (NY)
+
+SETUP
+workon taste && cp etc/local_settings.py.sample settings/local.py && export DJANGO_SETTINGS_MODULE=taste.settings.local && ./manage.py runserver &
+
+EMAIL TEMPLATES
+password reset
+account activation
+follow someone
+
+FOURSQUARE
+https://foursquare.com/oauth2/authenticate?client_id=CZIDKCSMWVZAYWIEPBZHU0RJOU5ZJQ1MNXGCWCW02YK3D2ZR&response_type=code&redirect_uri=http://www.tastesavant.com/social/complete/foursquare/
+
+MIGRATIONS
+./manage.py schemamigration restaurants --auto
+./manage.py migrate restaurants
+
+LOGGING
+import logging
+log = logging.getLogger('MYAPP')
+log.debug('here')
+
+f = open('server.log', 'w')
+f.write('here4')
+f.close()
+
+MAILCHIMP
+https://us2.admin.mailchimp.com/lists/members/?id=759725#p:1-s:100-sa:optin_time-so:false
+
+https://us2.api.mailchimp.com/1.3/?method= {
+  id = 9e81c4feb0;
+  "email_address" = "joe@elephantventures.com";
+  "double_optin" = true;
+  "update_existing" = true;
+  "merge_vars" = {
+    groupings = ({
+      groups = "Mobile - New York";
+      name = City;
+    });
+  };
+}
+
+./manage.py migrate --all zero
+
+APPLE/ITUNES CONNECT
+Sonia.kapadia@gmail.com
+Ily1681sj
+
+AWS
+sonia.kapadia@gmail.com
+tasty123
+
+GMAIL
+soniafbtest@gmail.com
+ily1681sonia
+
+TWITTER
+
+MAILCHIMP
+soniakapadia
+1681sjk
+
+MANDRILL
+sonia@tastesavant.com
+ily1681
+
+WOOPRA
+soniakapadia
+ily1681
+
+FOURSQUARE
+admin@tastesavant.com
+foursquare
+
+DYNDNS
+soniakapadia
+Tasty123
+
+FACEBOOK (test)
+soniafbtest@gmail.com
+ily1681
+
+TWITTER (test)
+user: testtastesavant
+pw: TestTest2013
+email: tastesavanttest2013@gmail.com
+
+TestTest
+
+SEAMLESS
+workon playground.tastesavant.com
+export DJANGO_SETTINGS_MODULE=settings.staging_nyc
+export DJANGO_SETTINGS_MODULE=settings.staging_bklyn
+./manage.py shell
+from taste.apps.seamless.tasks import update_all_seamless_delivery_data
+update_all_seamless_delivery_data.apply()
+
+API
+  curl -X POST -d 'username=duckspeaker&password=duckspeaker' http://localhost:8000/api/1/login/
+
+  curl -X POST -d "username=test653&email=test653@dispostable.com&password1=test&password2=test" http://playground.tastesavant.com/api/1/register/
+
+  curl -H "Authorization: token 7934f0b167d896dfe0ddc3c5b872f63983775112" -H "Accept: application/json" -H "Content-type: application/json" -X POST -d '{"public": true, "description": "", "files": {"gist.py": {"content": "test"}}}' https://api.github.com/gists?per_page=100
+
+  LOCAL SIGNUP
+  curl -X POST -d "username=first9894&email=first9894@gmail.com&password1=first&password2=first" http://localhost:8000/api/1/register/
+  curl -X POST -d "username=first9894&email=first9894@gmail.com&password1=first&password2=first" http://nyc.playground.tastesavant.com/api/1/register/
+
+  SOCIAL SIGNUP
+  curl -X POST -d 'access_token=CAAFccfWbx7oBAOZAqKH1aqCvPiVD7lhZBNcAMBan6loDS7G1QamP1kLae0VzZBGTlbdCOOXNGuLkWaX3ZAmdj8YfsTFSKvNkSAPYP18PQnpK3xVmeUiXYNtTmy0ureYql97JDoDJxKl4a16gT5vO1ClCqn0ZAWOR3bZB9V1YsXVlg8VUem3b20ju2cj8OWzZBVVAuwFcYoZAtuGMPykWcTmUELF8pxZCPn9sZD&email=first9893@gmail.com&first_name=John&id=100006611898768&last_name=Smith&provider=facebook&username=john.smith' http://localhost:8000/api/1/login/
+
+  REVIEW
+  curl -X POST \
+       -H "Authorization: token 8a8e06e9de29a67726724f51dfd8fb73474e7e4b" \
+       -H "Accept: application/json" \
+       -H "Content-type: application/json" \
+       -d @/Users/user/temp/tastesavant/body.json \
+       http://localhost:8000/api/1/restaurants/vida/reviews/
+
+  BLACKBOOK
+  http://localhost:8000/api/1/blackbook/?user=duckspeaker
+  curl -H "Authorization: token b5a42b30304a6fa1bbffa325bbd6d5ceb5e7db6e" https://tastesavant.com/api/1/blackbook/
+
+NEW PROJECT
+django-admin.py startproject mysite
+./manage.py runserver &
+./manage.py startapp polls
+add app to INSTALLED_APPS
+create models for app
+./manage.py syncdb
+
+GEOIP
+new york: 40.707899, -73.950023
+chicago: 41.88, -87.62
+boston: 42.37, -71.03
+los angeles: 33.93, -118.40
+anchorage: 61.17, -150.02
+
+BROOKLYN NEIGHBORHOODS
+  Waterfront District
+      Boerum Hill
+      Brooklyn Heights
+      Carroll Gardens
+      Red Hook
+      Cobble Hill
+      Waterfront
+
+  Central + East Brooklyn
+      Flatbush - Ditimus Park
+      Fort Greene
+      Clinton Hill
+      Park Slope
+      Gowanus
+      Prospect Heights
+      Crown Heights
+
+  North Brooklyn
+      Bed-Stuy
+      Bushwick
+      Greenpoint
+      Williamsburg
+
+  Southern Brooklyn
+
+select
+    rln.location_id,
+    rln.neighborhood_id
+  from
+    restaurants_restaurant r
+    join restaurants_location rl on (r.id = rl.restaurant_id)
+    join restaurants_location_neighborhood rln on (rl.id = rln.location_id)
+  where
+    r.name in (
+      '606 R&D',
+      '61 Local',
+      'Al Di La',
+      'Amarin Cafe',
+      'Anella',
+      'Applewood',
+      'Atrium DUMBO',
+      'Baci & Abbracci',
+      'Baguetteaboudit!',
+      'Baked',
+      'Barboncino',
+      'Bark Hot Dogs',
+      'Battersby',
+      'Bergen Hill',
+      'Bergen Hill',
+      'Bien Cuit ',
+      'Blanca',
+      'Blue Ribbon Brasserie - Brooklyn',
+      'Brooklyn Bowl',
+      'Brucie',
+      'Buttermilk Channel',
+      'Cafe Grumpy - Greenpoint',
+      'Cafe LULUc',
+      'Caracas Arepa Bar-Williamsburg',
+      'Char No. 4',
+      'Chavela''s',
+      'Chef''s Table at Brooklyn Fare',
+      'Choice Market',
+      'Chuko',
+      'Clover Club',
+      'Colonia Verde',
+      'Court Street Grocers - Carroll Gardens',
+      'Court Street Grocers - Red Hook',
+      'Crif Dogs - Williamsburg',
+      'Dear Bushwick',
+      'Delaney Barbecue: Briskettown',
+      'Di Fara Pizza',
+      'Diner',
+      'Do or Dine',
+      'Dotory',
+      'Dover',
+      'DuMont Burger',
+      'Egg',
+      'El Born',
+      'Emily',
+      'Ethiopian Lunchbox',
+      'Fette Sau',
+      'Flatbush Farm',
+      'Forcella - Brooklyn',
+      'Four & Twenty Blackbirds',
+      'Frankies 457 Spuntino',
+      'Franny''s',
+      'French Louie',
+      'Fritzl''s Lunch Box',
+      'Glady''s',
+      'Glasserie',
+      'Gran Electrica',
+      'Graziella''s Restaurant',
+      'Grimaldi''s',
+      'Grindhaus',
+      'iCi',
+      'Isa',
+      'Jack the Horse',
+      'James ',
+      'Juliana''s Pizza',
+      'Kiwiana',
+      'La Nonna Pizzeria Trattoria Paninoteca',
+      'La Vara',
+      'Lachlan',
+      'Littleneck',
+      'Lucali',
+      'Lucky Luna',
+      'Luksus',
+      'Lulu & Po',
+      'Marco''s',
+      'Marlow and Sons',
+      'Martha',
+      'Mayfield',
+      'Meadowsweet',
+      'Mesa Coyoacan',
+      'Mile End Delicatessen',
+      'Mimi''s Hummus',
+      'Miriam',
+      'Mole - Brooklyn',
+      'Montana''s Trail House',
+      'Northeast Kingdom',
+      'Olea',
+      'Onomea',
+      'Palo Santo',
+      'Parlor Coffee',
+      'Patrizia''s Pizza & Pasta',
+      'Paulie Gee''s',
+      'Peppino''s 3rd Avenue',
+      'Peppino''s 5th Avenue',
+      'Peter Luger',
+      'Pickle Shack',
+      'Pies ''n'' Thighs',
+      'Pok Pok NY',
+      'Pork Slope',
+      'Prime Meats',
+      'Prospect',
+      'Purple Yam',
+      'Randazzo''s Clam Bar',
+      'Red Gravy',
+      'Red Hook Lobster Pound',
+      'Reynards',
+      'River Cafe',
+      'Roberta''s',
+      'Roman''s',
+      'Rose Water',
+      'Runner and Stone',
+      'Rye',
+      'Samurai Mama',
+      'Saul',
+      'Sea - Brooklyn',
+      'Shake Shack - Brooklyn',
+      'Shalom Japan',
+      'Song',
+      'Sottocasa',
+      'Speedy Romeo',
+      'St. Anselm',
+      'Superfine',
+      'Sweet Chick - Williamsburg',
+      'Talde',
+      'Tanoreen',
+      'Ted and Honey - Brooklyn Navy Yard',
+      'Ted and Honey - Cobble Hill',
+      'Tenzan - Brooklyn',
+      'The Commodore',
+      'The Elm',
+      'The General Greene',
+      'The Good Fork',
+      'The JakeWalk ',
+      'The Little Elm',
+      'The Meatball Shop - Brooklyn',
+      'The Pines',
+      'The Runner',
+      'Tortilleria Mexicana Los Hermanos',
+      'Totonno''s Pizzeria ',
+      'Traif',
+      'two8two',
+      'Van Leeuwen''s - Boerum Hill',
+      'Van Leeuwen''s - Greenpoint',
+      'Vinegar Hill House',
+      'Whiskey Soda Lounge NY',
+      'Xi An Famous Foods - East Williamsburg',
+      'Xixa',
+      'Zenkichi'
+    )
+
+select * from restaurants_restaurant where added >= '2014-07-22 06:16:00'
+
+insert into restaurants_restaurant_sites (restaurant_id, site_id)
+select restaurant_id, (select id from django_site where name = 'New York') from restaurants_restaurant_sites where site_id = 8
+
+select
+--  rr.name restaurant_name
+  rc.name cuisine_name
+from
+  restaurants_restaurant rr
+  join restaurants_restaurant_cuisine rrc on (rr.id = rrc.restaurant_id)
+  join restaurants_cuisine rc on (rrc.cuisine_id = rc.id)
+where
+  rr.name in (
+'Al Di La',
+'Baci & Abbracci',
+'Bark Hot Dogs',
+'Belleville',
+'Brooklyn Bowl',
+'Buttermilk Channel',
+'Char No. 4',
+'Chef''s Table at Brooklyn Fare',
+'Dressler',
+'DuMont',
+'Egg',
+'Fatty ''Cue',
+'Fette Sau',
+'Frankies 457 Spuntino',
+'Franny''s',
+'The Good Fork',
+'Grimaldi''s',
+'Jack the Horse',
+'Kif',
+'Lucali',
+'Marlow and Sons',
+'Mesa Coyoacan',
+'Mile End Delicatessen',
+'Paulie Gee''s',
+'Peter Luger',
+'Pies ''n'' Thighs',
+'Prime Meats',
+'River Cafe',
+'Rye',
+'Saul',
+'Sette Enoteca and Cucina',
+'Tanoreen',
+'The Commodore',
+'Traif',
+'Vinegar Hill House',
+'World Tong',
+'Zenkichi',
+'Bubby''s - Brooklyn',
+'Mole - Brooklyn',
+'Blue Ribbon Brasserie - Brooklyn',
+'Blue Ribbon Sushi - Brooklyn',
+'The Meatball Shop - Brooklyn',
+'Roberta''s',
+'La Esquina - Brooklyn',
+'Do or Dine',
+'Reynards',
+'St. Anselm',
+'Purple Yam',
+'Anella',
+'The General Greene',
+'La Nonna Pizzeria Trattoria Paninoteca',
+'Lollipop',
+'Van Leeuwen''s - Greenpoint',
+'Van Leeuwen''s - Boerum Hill',
+'Song',
+'Sottocasa',
+'Forcella - Brooklyn',
+'Amarin Cafe',
+'Baguetteaboudit!',
+'Barboncino',
+'Beet',
+'Tenzan - Brooklyn',
+'Patrizia''s Pizza & Pasta',
+'Peppino''s 3rd Avenue',
+'Peppino''s 5th Avenue',
+'Cafe LULUc',
+'Choice Market',
+'Di Fara Pizza',
+'Kiwiana',
+'Isa',
+'Samurai Mama',
+'Caracas Arepa Bar-Williamsburg',
+'Mercado on Kent',
+'Talde',
+'Miriam',
+'Rose Water',
+'iCi',
+'Mimi''s Hummus',
+'Palo Santo',
+'Flatbush Farm',
+'James ',
+'Blanca',
+'Gran Electrica',
+'Pok Pok NY',
+'Brucie',
+'Red Hook Lobster Pound',
+'Shake Shack - Brooklyn',
+'Tortilleria Mexicana Los Hermanos',
+'Graziella''s Restaurant',
+'aBistro',
+'Roman''s',
+'Sweet Melissa Patisserie',
+'Whirlybird Brooklyn',
+'DuMont Burger',
+'Applewood',
+'Olea',
+'Sea - Brooklyn',
+'Four & Twenty Blackbirds',
+'Battersby',
+'61 Local',
+'Burger On Smith',
+'TJ''s',
+'two8two',
+'Crif Dogs - Williamsburg',
+'Bien Cuit ',
+'Gwynnett St',
+'606 R&D',
+'Frej',
+'The JakeWalk ',
+'Clover Club',
+'La Vara',
+'Superfine',
+'Arthur on Smith',
+'Lulu & Po',
+'Governor',
+'Calyer',
+'Chavela''s',
+'Terroir - Park Slope',
+'Speedy Romeo',
+'Diner',
+'Aska',
+'The Pines',
+'Nightingale 9',
+'Randazzo''s Clam Bar',
+'Red Gravy',
+'Delaney Barbecue: Briskettown',
+'The Elm',
+'Luksus',
+'Dear Bushwick',
+'Mayfield',
+'Northeast Kingdom',
+'Prospect',
+'Runner and Stone',
+'Seersucker',
+'Xixa',
+'Fritzl''s Lunch Box',
+'Chuko',
+'Shalom Japan',
+'Court Street Grocers - Carroll Gardens',
+'Court Street Grocers - Red Hook',
+'Glasserie',
+'Atrium DUMBO',
+'Whiskey Soda Lounge NY',
+'Marco''s',
+'The Little Elm',
+'Ethiopian Lunchbox',
+'Martha',
+'Xi An Famous Foods - Greenpoint',
+'Grindhaus',
+'Onomea',
+'Littleneck',
+'Totonno''s Pizzeria ',
+'Juliana''s Pizza',
+'Dover',
+'Sweet Chick - Williamsburg',
+'Morgan''s',
+'El Born',
+'Bergen Hill',
+'Emily',
+'Lachlan',
+'Colonia Verde',
+'French Louie',
+'Pork Slope',
+'Baked',
+'Xi An Famous Foods - East Williamsburg',
+'The Runner',
+'Lucky Luna',
+'Dotory',
+'Cafe Grumpy - Greenpoint',
+'Parlor Coffee',
+'Pickle Shack',
+'Ted and Honey - Cobble Hill',
+'Ted and Honey - Brooklyn Navy Yard',
+'Glady''s',
+'Meadowsweet',
+'Montana''s Trail House'
+)
+order by
+  rr.name,
+  rc.name
