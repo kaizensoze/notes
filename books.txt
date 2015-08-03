@@ -8,13 +8,12 @@ Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford
 Around the World in 50 Years: My Adventure to Every Country on Earth, Albert Podell
 Atlas Shrugged, Ayn Rand
 Basic Economics, Thomas Sowell
-Batman: Whatever Happened to the Caped Crusader, Neil Gaiman
 Best of 2600, Emmanuel Goldstein
 Best of MAKE, Mark Frauenfelder
 Bleeding Edge, Thomas Pynchon
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
-Both Flesh and Not: Essays 
+Both Flesh and Not: Essays
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 Broken Markets
 Business@The Speed of Thought, Bill Gates
@@ -59,7 +58,6 @@ Titus Groan, Mervyn Peake
 Hacking: The Art of Exploitation, Jon Erickson
 Heart of Darkness, Joseph Conrad
 Here Be Dragons, Sharon Kay Penman
-Here is New York, e.b. white
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
 How Children Succeed,
@@ -147,6 +145,7 @@ The Girl Next Door, Jack Ketchum
 The God Delusion, Richard Dawkins
 The Grand Design, Stephen Hawking
 The Grapes of Wrath, John Steinbeck
+The Great Race
 The Great Unraveling, Paul R. Krugman
 The Greatest Show on Earth, Richard Dawkins
 The Handmaid's Tale, Margaret Atwood
@@ -338,3 +337,5 @@ The Worst-Case Scenario Survival Handbook, Joshua Piven
 Our Dumb Century, The Onion
 Girl interrupted, Susanna Kaysen
 The Girl Next Door, Ruth Rendell
+Batman: Whatever Happened to the Caped Crusader, Neil Gaiman
+Here is New York, e.b. white
