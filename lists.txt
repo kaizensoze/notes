@@ -65,12 +65,11 @@ movies
 tv
   24
   Anthony Bourdain: Parts Unknown
+  BoJack Horseman
   Burn notice
   Doctor who
   Pete & pete
   Salute your shorts
-  Scrubs
-  Venture brothers
   Veronica mars
 
 videogames
