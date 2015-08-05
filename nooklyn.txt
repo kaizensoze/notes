@@ -2,6 +2,10 @@
 
 
 
+bucket: nooklyn-dev
+access_key_id: AKIAI6SP3RIVOVM7MA4A
+secret_access_key: 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
+
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat
 

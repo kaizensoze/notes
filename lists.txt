@@ -25,8 +25,6 @@ places
     Original John's Deli
 
 travel
-  Tarrytown, NY
-
   New Haven, CT
   Providence, RI
   Burlington, VT
@@ -63,14 +61,7 @@ movies
   The End of the Tour
 
 tv
-  24
-  Anthony Bourdain: Parts Unknown
-  BoJack Horseman
-  Burn notice
-  Doctor who
   Pete & pete
-  Salute your shorts
-  Veronica mars
 
 videogames
   PS4
