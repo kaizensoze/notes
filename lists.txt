@@ -61,7 +61,7 @@ movies
   The End of the Tour
 
 tv
-  Pete & pete
+  
 
 videogames
   PS4
