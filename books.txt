@@ -43,6 +43,7 @@ Dragonriders of Pern, Anne McCaffrey
 Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds, Murray Shanahan
 Energy Revolution: The Physics and the Promise of Efficient Technology
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
+Essays of E. B. White
 Everything and More: A Compact History of Infinity
 Everything's Eventual, Stephen King
 Every Love Story Is a Ghost Story: A Life of David Foster Wallace
@@ -70,7 +71,6 @@ Leaves of Grass,
 Life in the Woods, Henry David Thoreau
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela
-Love All the People: The Essential Bill Hicks,
 Macbeth, Shakespeare
 Man's Search for Meaning, Viktor Frankl
 Men are from mars, women are from venus, Joe Peacock
@@ -218,6 +218,7 @@ When the Killing's Done, T.C. Boyle
 Wherever you go there you are
 Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
+Without Feathers, Woody Allen
 Women, Charles Bukowski
 
 DONE
@@ -341,3 +342,4 @@ The Girl Next Door, Ruth Rendell
 Batman: Whatever Happened to the Caped Crusader, Neil Gaiman
 Here is New York, e.b. white
 Don't Pee on My Leg and Tell Me It's Raining, Judge Judy Sheindlin
+Love All the People: The Essential Bill Hicks,

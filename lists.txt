@@ -57,11 +57,9 @@ travel
   Reykjavik
 
 movies
-  Mission Impossible
   The End of the Tour
 
 tv
-  
 
 videogames
   PS4
