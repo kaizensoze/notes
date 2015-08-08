@@ -84,7 +84,6 @@ Odyssey, Homer
 Oh Myyy!: There Goes The Internet, George Takei
 On the Origin of Species, Charles Darwin
 Oryx and Crake, Margaret Atwood
-Outliers,
 Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan
 Parallel Worlds,
 Perdido Street Station, China Mieville
@@ -184,9 +183,9 @@ The Shadow Factory, James Bamford
 The Shallows: What the Internet Is Doing to Our Brains, Nicholas Carr
 The Singularity is Near, Ray Kurzweil
 The Snowden Files, Luke Harding
+The Sound and the Fury, William Faulkner
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
-The Survivors Club: The Secrets and Science that Could Save Your Life, Ben Sherwood
 The Time Machine, H.G. Wells
 The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook,  Simson L. Garfinkel
@@ -275,6 +274,7 @@ Neuromancer, William Gibson
 Of Mice and Men, John Steinbeck
 On the Road, Jack Kerouac
 One Flew Over the Cuckoo's Nest, Ken Kesey
+Outliers, Malcolm Gladwell
 Red Dragon, Thomas Harris
 Sandman, Neil Gaiman
 Sex, Drugs, and Cocoa Puffs ", Chuck Klosterman
@@ -282,6 +282,7 @@ Slaughterhouse 5, Kurt Vonnegut
 Snow Crash, Neal Stephenson
 Surely You're Joking, Mr.  Feynman! ", Richard P. Feynman
 The Art of War, Sun Tzu
+The Black Swan, Nassim Nicholas Taleb
 The Catcher in the Rye, J. D. Salinger
 The Day of the Trifids, John Wyndham
 The Dharma Bums, Jack Kerouac
@@ -343,3 +344,4 @@ Batman: Whatever Happened to the Caped Crusader, Neil Gaiman
 Here is New York, e.b. white
 Don't Pee on My Leg and Tell Me It's Raining, Judge Judy Sheindlin
 Love All the People: The Essential Bill Hicks,
+The Survivors Club: The Secrets and Science that Could Save Your Life, Ben Sherwood

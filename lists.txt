@@ -60,6 +60,7 @@ movies
   The End of the Tour
 
 tv
+  Show Me a Hero
 
 videogames
   PS4
