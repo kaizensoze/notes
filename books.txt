@@ -10,6 +10,7 @@ Atlas Shrugged, Ayn Rand
 Basic Economics, Thomas Sowell
 Best of 2600, Emmanuel Goldstein
 Best of MAKE, Mark Frauenfelder
+Big Brother Game, Scott French
 Bleeding Edge, Thomas Pynchon
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
@@ -62,7 +63,9 @@ Here Be Dragons, Sharon Kay Penman
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
 How Children Succeed,
+Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
+Islamic State: The Digital Caliphate, Abdel Bari Atwan
 Jonathan Strange & Mr Norrell, Susanna Clarke
 Kingpin, Kevin Poulson
 Kitchen Confidential
@@ -167,6 +170,7 @@ The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
 The Once and Future King, T.H. White
 The Painted Bird, Jerzy Kosinski
 The Panda's Thumb, Stephen Jay Gould
+The Paper Trip, Barry Reid
 The Pillars of the Earth, Ken Follett
 The Power of Myth, Joseph Campbell
 The Prince of Nothing, R. Scott Bakker
@@ -174,6 +178,7 @@ The Professor Is In: The Essential Guide to Turning Your Ph.D. Into a Job
 The Promise of a Pencil, Adam Braun
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
 The Restaurant at the End of the Universe,
+The Rise of Islamic State, Patrick Cockburn
 The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Scar, China Mieville
 The Scented Ape,
@@ -186,6 +191,7 @@ The Snowden Files, Luke Harding
 The Sound and the Fury, William Faulkner
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
+The Three-Body Problem, Liu Cixin
 The Time Machine, H.G. Wells
 The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook,  Simson L. Garfinkel
