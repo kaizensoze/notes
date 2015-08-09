@@ -150,25 +150,6 @@ talk shows
       craig ferguson (2005-2014)
       james corden (2015-present)
 
-momofuku milkbar cakes
-  pretzel
-  chocolate chip
-  strawberry lemon
-  pistachio
-
-recovery supplements
-  Empyrean Nutrition Insu-Pro
-  Optimum Nutrition 2:1:1
-  CytoSport Cytomax
-  Universal Torrent
-  Myonova Cytofuse
-  Muscle Pharm Re-Con
-  MHP Dark Matter
-  Myogenix AfterShock Recovery
-  BSN CellMass 2.0
-  GlycoFuse
-  Dagger by Infinite Labs
-
 estimated tax deadlines
   Q1  April 15, 2014
   Q2  June 16, 2014
@@ -179,13 +160,6 @@ health insurance
   chamber of commerce
   Freelancers Union
   Healthcare.gov
-
-water
-  aquahydrate - 98ppm
-  essentia - 66ppm
-  kitchen tap (unfiltered) - 32ppm
-  kitchen tap (filtered) - 67ppm
-  bathroom tap (unfiltered) - 34ppm
 
 techorgs
 	hackNY
