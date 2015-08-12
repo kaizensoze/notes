@@ -25,6 +25,16 @@ places
     Jimmy's Diner
     Original John's Deli
 
+movies
+  The End of the Tour
+  The Long Goodbye
+
+tv
+  Leverage
+  Michael Palin's New Europe
+  Real Hustle
+  Show Me a Hero
+
 travel
   New Haven, CT
   Providence, RI
@@ -57,19 +67,6 @@ travel
   Montreal
   Reykjavik
   Beirut
-
-movies
-  Code 2600
-  Deliverance
-  The Dictator
-  The End of the Tour
-  The Long Goodbye
-
-tv
-  Leverage
-  Michael Palin's New Europe
-  Real Hustle
-  Show Me a Hero
 
 videogames
   PS4
