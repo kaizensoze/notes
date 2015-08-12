@@ -1,5 +1,6 @@
 A Fire Upon the Deep, Vernor Vinge (pg 32)
 A Suitable Boy, Vikram Seth
+Affluenza, Clive Hamilton
 Although Of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace
 Amnesia, Peter Carey
 Among Others, Jo Walton
@@ -67,7 +68,7 @@ Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
 Jonathan Strange & Mr Norrell, Susanna Clarke
-Kingpin, Kevin Poulson
+Kingpin, Kevin Poulsen
 Kitchen Confidential
 Last and First Men and Star Maker, Olaf Stapledon
 Leaves of Grass,
@@ -86,6 +87,7 @@ Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
 Oh Myyy!: There Goes The Internet, George Takei
 On the Origin of Species, Charles Darwin
+One Day in the Life of Ivan Denisovich, Aleksandr Solzhenitsyn
 Oryx and Crake, Margaret Atwood
 Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan
 Parallel Worlds,
@@ -131,6 +133,7 @@ The Curious Incident of the Dog in the Nightime, Mark Haddon
 The Dark Tower, Stephen King
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
 The Department of Mad Scientists,
+The Devil in the White City, Erik Larson
 The Dispossessed, Ursula K. Le Guin
 The Dorito Effect, Mark Schatzker
 The Elegant Universe, Brian Green
@@ -150,8 +153,10 @@ The Grapes of Wrath, John Steinbeck
 The Great Race
 The Great Unraveling, Paul R. Krugman
 The Greatest Show on Earth, Richard Dawkins
+The Gulag Archipelago Abridged, Aleksandr Solzhenitsyn
 The Handmaid's Tale, Margaret Atwood
 The Hard Thing About Hard Things, Ben Horowitz
+The Heretic's Guide to Global Finance, Brett Scott
 The Hero with a Thousand Faces, Joseph Campbell
 The Hot Zone, Richard Preston
 The Hyperion Cantos, Dan Simmons
@@ -165,6 +170,7 @@ The Making of a Radical, Scott Nearing
 The Martian, Andy Weir
 The Master and Margarita, Mikhail Bulgakov
 The Mists of Avalon, Marion Zimmer Bradley
+The Most Good You Can Do, Peter Singer
 The Mote in God's Eye, Larry Niven and Jerry Pournelle
 The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
 The Once and Future King, T.H. White
@@ -211,6 +217,7 @@ Ubik, Philip K. Dick
 Ulysses, James Joyce
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
 Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+Violent Python
 Walden, Henry David Thoreau
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
@@ -225,6 +232,7 @@ Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
 Without Feathers, Woody Allen
 Women, Charles Bukowski
+*, Chris Hedges
 
 DONE
 1984, George Orwell

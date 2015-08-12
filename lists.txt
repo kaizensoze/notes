@@ -56,11 +56,19 @@ travel
   Prague
   Montreal
   Reykjavik
+  Beirut
 
 movies
+  Code 2600
+  Deliverance
+  The Dictator
   The End of the Tour
+  The Long Goodbye
 
 tv
+  Leverage
+  Michael Palin's New Europe
+  Real Hustle
   Show Me a Hero
 
 videogames
@@ -124,6 +132,7 @@ conferences
   (05/05) thotcon
   (06/08) dotscale
   (06/12) circlecitycon
+  (07/09) toorcamp
   (08/01) blackhat
   (08/06) defcon
   (09/22) appsec
