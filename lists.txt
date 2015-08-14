@@ -132,6 +132,7 @@ conferences
   (07/09) toorcamp
   (08/01) blackhat
   (08/06) defcon
+  (08/13) ccc-camp
   (09/22) appsec
 
 talk shows

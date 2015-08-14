@@ -54,7 +54,6 @@ Generation Kill, Evan Wright
 Generations, Neil Howe
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Girl With Curious Hair
-Girlboss, Sophia Amoruso
 Godel Escher Bach, Douglas R. Hofstadter
 Titus Groan, Mervyn Peake
 Hacking: The Art of Exploitation, Jon Erickson
@@ -201,6 +200,7 @@ The Time Machine, H.G. Wells
 The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook,  Simson L. Garfinkel
 The Wheel of Time, Robert Jordan
+The Wicked + The Divine
 Things Fall Apart, Chinua Achebe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
