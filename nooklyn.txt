@@ -1,10 +1,13 @@
 
 
-
+location view
+agent view
 
 bucket: nooklyn-dev
 access_key_id: AKIAI6SP3RIVOVM7MA4A
 secret_access_key: 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
+
+apn push "<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>" -c ~/Downloads/dev.pem -m "Hello from the command line" -b 1 -s sosumi.aiff
 
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
 curl -H 'API-TOKEN: 53206c648ff94b12b88c19978c3ae74b' 'https://nooklyn.com/api/v1/conversations?include=participating-agents,messages' | jsonformat
@@ -60,3 +63,19 @@ curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' -H 'Content-Type: applicat
   }
 }
 curl -X DELETE -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/hearts/3057
+
+curl -i \
+	-X PUT \
+	-H "API-TOKEN: 6f9f1f4608224dd5859ba80258271895" \
+	-H "Content-Type: application/vnd.api+json" \
+	-H "Accept-Language: en;q=1.0,fr;q=0.9,de;q=0.8,zh-Hans;q=0.7,zh-Hant;q=0.6,ja;q=0.5" \
+	-H "Accept-Encoding: gzip;q=1.0,compress;q=0.5" \
+	-H "User-Agent: Nooklyn/com.nooklyn.Nooklyn (4; OS Version 8.4 (Build 12H141))" \
+	-d "{\"data\":{\"type\":\"agents\",\"id\":\"11183\",\"attributes\":{\"device-token\":\"<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>\"}}}" \
+	"http://localhost:3000/api/v1/agents/11183"
+
+{"data"
+	{
+		"type": "conversation-messages",
+	 	"attributes"=>{"message"=>"d", "ip-address"=>"127.0.0.1", "user-agent"=>"iOS"},
+		"relationships"=>{"agent"=>{"data"=>{"id"=>"11183", "type"=>"agents"}}, "conversation"=>{"data"=>{"id"=>"570", "type"=>"conversations"}}}}, :controller=>"api/v1/conversation_messages", :action=>"create"}

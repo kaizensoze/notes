@@ -27,7 +27,6 @@ places
 
 movies
   The End of the Tour
-  The Long Goodbye
 
 tv
   Leverage
@@ -126,6 +125,8 @@ mischief
 
 conferences
   (01/16) shmoocon
+  (03/18) cansecwest
+  (03/18) pwn2own
   (05/05) thotcon
   (06/08) dotscale
   (06/12) circlecitycon
