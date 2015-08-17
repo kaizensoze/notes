@@ -1,6 +1,12 @@
+15:30 -
 
+get heroku stuff setup
+delete existing prod account
+record calls for facebook auth on prod
 
-facebook auth
+facebook button link -> https://nooklyn.com/agents/auth/facebook
+hit ok to share on facebook
+	-> https://nooklyn.com/agents/auth/facebook/callback?code=AQDyl9gIUE6w4N2If_c-_wLfHg8hEVCjnstb_EyD2CQnsqLSD2QeGo-FkeFtmz-XmvH1EAahh4LPjV1AQ5wl9Mx6PdMnl6FNM0weaMQ2WK91ymiJ47OozwE6YJHQDSWF9W6s5098ZG41C0WN70ok5V3xV8d-LFzGmb1UL5oNRtBmkhnW3pAIAZJbLRRh-Aq_gZ1aHd4ARjcdzwhHTjQrpPYxiwredHoaJTREMKTQqAQ3I5DZ3aBE0pXQ8ggfO_rUJ-y7Wmm0dC_C4dUMkD9WINlm4utaQPlEznXxEFmUsJu2TOQFUNNeoeINwIfBmEulEok&state=d3e769cf68614f60ba184c83536457017f8a316b50393cc1#_=_
 
 bucket: nooklyn-dev
 access_key_id: AKIAI6SP3RIVOVM7MA4A
