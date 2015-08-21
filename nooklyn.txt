@@ -1,16 +1,20 @@
-15:30 -
 
-get heroku stuff setup
-delete existing prod account
-record calls for facebook auth on prod
 
-facebook button link -> https://nooklyn.com/agents/auth/facebook
-hit ok to share on facebook
-	-> https://nooklyn.com/agents/auth/facebook/callback?code=AQDyl9gIUE6w4N2If_c-_wLfHg8hEVCjnstb_EyD2CQnsqLSD2QeGo-FkeFtmz-XmvH1EAahh4LPjV1AQ5wl9Mx6PdMnl6FNM0weaMQ2WK91ymiJ47OozwE6YJHQDSWF9W6s5098ZG41C0WN70ok5V3xV8d-LFzGmb1UL5oNRtBmkhnW3pAIAZJbLRRh-Aq_gZ1aHd4ARjcdzwhHTjQrpPYxiwredHoaJTREMKTQqAQ3I5DZ3aBE0pXQ8ggfO_rUJ-y7Wmm0dC_C4dUMkD9WINlm4utaQPlEznXxEFmUsJu2TOQFUNNeoeINwIfBmEulEok&state=d3e769cf68614f60ba184c83536457017f8a316b50393cc1#_=_
+add api tests
+switch APN client to be environment-dependent
 
-bucket: nooklyn-dev
-access_key_id: AKIAI6SP3RIVOVM7MA4A
-secret_access_key: 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
+development:
+  bucket: nooklyn-dev
+  access_key_id: AKIAI6SP3RIVOVM7MA4A
+  secret_access_key: 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
+test:
+  bucket: nooklyn-test
+  access_key_id: AKIAI6SP3RIVOVM7MA4A
+  secret_access_key: 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
+production:
+  bucket: nooklyn-pro
+  access_key_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
+  secret_access_key: <%= ENV['S3_ACCESS_KEY'] %>
 
 apn push "<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>" -c ~/Downloads/dev.pem -m "Hello from the command line" -b 1 -s sosumi.aiff
 
@@ -55,7 +59,7 @@ http://localhost:3000/locations.json?lattude=40.7191413&longitude=-73.9528119&ra
 
 http://nooklyn-files.s3.amazonaws.com/subway/2x/L.png
 
-curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
+curl -d 'session[email]=gallo.j2@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/favorites
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents' | jsonformat
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/hearts?listing-id=3057
@@ -86,3 +90,5 @@ curl -i \
 		"type": "conversation-messages",
 	 	"attributes"=>{"message"=>"d", "ip-address"=>"127.0.0.1", "user-agent"=>"iOS"},
 		"relationships"=>{"agent"=>{"data"=>{"id"=>"11183", "type"=>"agents"}}, "conversation"=>{"data"=>{"id"=>"570", "type"=>"conversations"}}}}, :controller=>"api/v1/conversation_messages", :action=>"create"}
+
+curl -d 'access-token=CAAFpWip2KRABAEZA095A0RaR77rQTrtpKhUZAZCxUfEsvyZB3fue5uAGOwQkJctZCz3BDIBtCUWtuW9M5ZAp42nLaNlKOZCME5TKSUIGmF8QjS6pJZCVS9ZCqMyCfaLbGiZCD4xmE9GEOKb7YgC9w4NprZCGeNW4hCoDRajIa6YJraHM8mGEPIYrPWgr8exhJAQBfK0dTIsuBTA6fyh0UhK7ybzg147FicCrZCdgedONNHY5kAZDZD&access-token-expiration=2015-10-16 18:42:36' 'http://localhost:3000/facebook-login'

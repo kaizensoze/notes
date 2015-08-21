@@ -16,7 +16,7 @@ curl
   curl -X GET -H 'Authorization: Token token="427ecba7da11b68675405bd69d19b756"' http://0.0.0.0:3000/api/v1/help-now > blah.html && chrome blah.html
 
 ffmpeg
-  for x (*.flac); do ffmpeg -i $x -ab 196k -ac 2 -ar 48000 "${x:r}.mp3"; done 
+  for x (*.flac); do ffmpeg -i $x -ab 196k -ac 2 -ar 48000 "${x:r}.mp3"; done
 
 ghostscript
   gs \
@@ -31,6 +31,9 @@ ghostscript
 
 git
   git grep 'addSection' $(git rev-list --all)
+  git bisect start
+  git bisect bad
+  git bisect good <hash>
 
 heroku
   heroku run rake db:migrate
@@ -42,17 +45,25 @@ heroku
   heroku pg:reset DATABASE_URL
   heroku pg:reset HEROKU_POSTGRESQL_PINK_URL --confirm hbs-stage && heroku run rake db:migrate db:seed
 
+  heroku logs -t
+
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
-  
+
+osx
+  sudo dscacheutil -flushcache
 
 postgres
-  pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
-  pg_ctl -D /usr/local/var/postgres stop -s -m fast
-  \list (list databases)
-  \dt (list tables)
+  \connect nooklyn
+  \l (list databases)
+  \d (list tables)
   \d+ (describe table)
   \q (quit)
+  create database nooklyn_test with template nooklyn owner joegallo;
+  pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+  pg_ctl -D /usr/local/var/postgres stop -s -m fast
+  pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
+  psql nooklyn < ~/Downloads/nooklyn.sql
 
 rails
   be rake db:migrate VERSION=0 && be rake db:migrate
@@ -60,6 +71,13 @@ rails
 
   (in rails console)
   puts BackgroundImage.all.select("sort_order").order("sort_order").map(&:sort_order).join("\n")
+
+  bundle install && rake db:migrate && cd frontend && npm install && cd .. && PORT=3000 foreman start
+
+  User.find(9999).destroy
+
+  rake test [testpath]
+  be rspec [testpath]
 
 s3
   aws --profile hbs-stage s3 ls s3://hbs-stage --recursive
@@ -94,4 +112,3 @@ wireshark
 
 xcode
   po thing.recursiveDescription
-
