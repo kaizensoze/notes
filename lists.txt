@@ -27,7 +27,6 @@ places
 
 movies
   Mistress America
-  People Places Things
   The End of the Tour
   The Gift
 
@@ -36,7 +35,6 @@ tv
   Leverage
   Michael Palin's New Europe
   Real Hustle
-  Show Me a Hero
 
 travel
   New Haven, CT
