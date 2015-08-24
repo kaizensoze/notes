@@ -13,6 +13,7 @@ Best of 2600, Emmanuel Goldstein
 Best of MAKE, Mark Frauenfelder
 Big Brother Game, Scott French
 Bleeding Edge, Thomas Pynchon
+Body of Secrets, James Bamford
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
 Both Flesh and Not: Essays
@@ -33,7 +34,6 @@ Contact, Carl Sagan
 Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
 Cybersecurity and Cyberwar, P.W. Singer
-Dark Pools, Scott Patterson
 David Foster Wallace: The Last Interview: and Other Conversations (The Last Interview Series)
 Deliverance, James Dickey
 Dhalgren, Samuel R. Delany
@@ -90,6 +90,7 @@ Oryx and Crake, Margaret Atwood
 Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan
 Parallel Worlds,
 Perdido Street Station, China Mieville
+Permanent Midnight, Jerry Stahl
 Pour Your Heart Into It, Howard Schultz
 Principles of Compiler Design, Aho/Ullman
 Producing Open Source Software: How to Run a Successful Free Software Project, Karl Fogel
@@ -148,6 +149,7 @@ The Girl Next Door, Jack Ketchum
 The God Delusion, Richard Dawkins
 The Grand Design, Stephen Hawking
 The Grapes of Wrath, John Steinbeck
+The Great Divide: Unequal Societies and What We Can Do About Them
 The Great Race
 The Great Unraveling, Paul R. Krugman
 The Greatest Show on Earth, Richard Dawkins
