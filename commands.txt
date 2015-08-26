@@ -64,6 +64,7 @@ postgres
   pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
   pg_ctl -D /usr/local/var/postgres stop -s -m fast
   pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
+  pg_restore -d newdb db.dump
   psql nooklyn < ~/Downloads/nooklyn.sql
 
 rails
