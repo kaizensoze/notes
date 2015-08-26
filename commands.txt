@@ -34,6 +34,7 @@ git
   git bisect start
   git bisect bad
   git bisect good <hash>
+  git tag -f -a v1.0 -m '1.0 release'
 
 heroku
   heroku run rake db:migrate

@@ -27,7 +27,6 @@ places
 
 movies
   Mistress America
-  The End of the Tour
   The Gift
 
 tv

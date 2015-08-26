@@ -1,7 +1,8 @@
 
 
 add api tests
-switch APN client to be environment-dependent
+check api routes (list routes)
+fix apitoken social auth security snafu
 
 development:
   bucket: nooklyn-dev
@@ -15,6 +16,11 @@ production:
   bucket: nooklyn-pro
   access_key_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
   secret_access_key: <%= ENV['S3_ACCESS_KEY'] %>
+
+Access Key ID:
+AKIAJGPHHWBPQKACQB4A
+Secret Access Key:
+aUqZDtkLdJLVsCT9HOcyjD6RJMWj5IsNhHSHdJbp
 
 apn push "<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>" -c ~/Downloads/dev.pem -m "Hello from the command line" -b 1 -s sosumi.aiff
 
@@ -58,6 +64,7 @@ update agents set employee = true, admin = true, super_admin = true where email 
 http://localhost:3000/locations.json?lattude=40.7191413&longitude=-73.9528119&radius=1.0
 
 http://nooklyn-files.s3.amazonaws.com/subway/2x/L.png
+https://commons.wikimedia.org/wiki/File:NYCS-bull-trans-L.svg
 
 curl -d 'session[email]=gallo.j2@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
 curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/favorites
