@@ -1,11 +1,6 @@
 
 
-select count(*) from agents where updated_at >= '2015-08-25 21:00';
-select id, first_name, last_name, email, provider, uid from agents where updated_at >= '2015-08-25 21:00' order by last_name, first_name;
-
-add api tests
-check api routes (list routes)
-fix apitoken social auth security snafu
+add optional oauth token param to api token function and use that if fb account
 
 development:
   bucket: nooklyn-dev

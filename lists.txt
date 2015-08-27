@@ -12,6 +12,7 @@ places
     Robicelli Bakery
     Napoli Bakery
     Sugar Couture
+    The Civil Service Cafe
   coffee
     Otha's
     The Mill Coffee Company
@@ -92,19 +93,16 @@ videogames
     The Talos Principle
 
 tech
+  rethinkdb
+  react
+  go
   angular
   ember
-  go
-  pipelinedb
-  react
-	rethinkdb
 
 projects
   cve list github
   chip's challenge
   driving simulation using google street view [+ occulus rift]
-  food database app
-  visualize wifi/emf
 
 museums
   the met
@@ -112,12 +110,6 @@ museums
   brooklyn museum
   The New York Historical Society
   lower east side tenement museum
-
-textbooks
-  physics
-  linear algebra
-  chemistry
-  material science
 
 mischief
 	f-bomb spy computer
