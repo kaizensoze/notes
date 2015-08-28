@@ -1,6 +1,26 @@
 
 
-add optional oauth token param to api token function and use that if fb account
+nooklyn: api tests
+nklyn-ios: agent view
+
+tests
+  curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions' [GOOD]
+  curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpasswor' 'http://localhost:3000/api/v1/sessions' [BAD]
+  curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword&session[oauth_token]=' 'http://localhost:3000/api/v1/sessions' [GOOD]
+  curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword&session[oauth_token]=blah' 'http://localhost:3000/api/v1/sessions' [GOOD]
+
+  curl -d 'access-token=CAAFpWip2KRABAEKx6EXeUPRbW5XbT12CXyuGSu8mdueMjzlWQPfOFz4Pgn0ffrWm5xVoBuPhXhH0ykZCwzqL0ExZAq8O0ednWHsrcUr01Qa1H4ZAeGBa7buRiO9JTThwjDwytLjdEqGwUzutnjJLqVrd7NUj3unrja5F13gfTrKruZAvADPy4ksWEBF4hZBnhNOaGpKn9v3oy4QErPUemTZBIy9AsSyD6HCL1po7lblQZDZD&access-token-expiration=2015-10-16 18:42:36' 'http://localhost:3000/facebook-login' [GOOD]
+  curl -d 'access-token=wrong&access-token-expiration=2015-10-16 18:42:36' 'http://localhost:3000/facebook-login' [BAD]
+
+  sessions
+    normal
+      correct
+      incorrect email
+      incorrect password
+    social
+      correct
+      incorrect email
+      incorrect password
 
 development:
   bucket: nooklyn-dev
