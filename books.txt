@@ -4,6 +4,7 @@ Age of Ambition, Evan Osnos
 Affluence and Influence, Martin Gilens
 Affluenza, Clive Hamilton
 Although Of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace
+America Again, Stephen Colbert
 Amnesia, Peter Carey
 Among Others, Jo Walton
 Anna Karenina, Leo Tolstoy
@@ -24,6 +25,7 @@ Broken Markets
 Business@The Speed of Thought, Bill Gates
 Candide, Voltaire
 Can't We Talk about Something More Pleasant?, Roz Chast
+Carsick, John Waters
 Catching the Big Fish, David Lynch
 Chaos, James Gleick
 Chaos in Kabul, Gérard de Villiers
@@ -37,6 +39,7 @@ Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
 Cybersecurity and Cyberwar, P.W. Singer
 David Foster Wallace: The Last Interview: and Other Conversations (The Last Interview Series)
+Dear White People, Justin Simien
 Deliverance, James Dickey
 Dhalgren, Samuel R. Delany
 Different Seasons, Stephen King
@@ -45,6 +48,7 @@ Doing Good Better: How Effective Altruism Can Help You Make a Difference, Willia
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
 Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds, Murray Shanahan
+End This Depression Now, Paul Krugman
 Energy Revolution: The Physics and the Promise of Efficient Technology
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
 Essays of E. B. White
@@ -57,13 +61,16 @@ Generations, Neil Howe
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Girl With Curious Hair
 Godel Escher Bach, Douglas R. Hofstadter
-Titus Groan, Mervyn Peake
 Hacking: The Art of Exploitation, Jon Erickson
 Heart of Darkness, Joseph Conrad
 Here Be Dragons, Sharon Kay Penman
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
 How Children Succeed,
+How Markets Fail, John Cassidy
+How to Change the World, David Bornstein
+Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
+Infections and Inequalities
 Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
@@ -77,9 +84,12 @@ Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela
 Macbeth, Shakespeare
 Man's Search for Meaning, Viktor Frankl
+Mating in Captivity, Esther Perel
 Men are from mars, women are from venus, Joe Peacock
 Moby Dick, Herman Melville
 Modern Romance, Aziz Ansari
+My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind, Scott Stossel
+My Age of Anxiety
 My Years With General Motors, Alfred P Sloan Jr
 Never Let Me Go,
 No Easy Day, Mark Owen
@@ -100,6 +110,7 @@ Pour Your Heart Into It, Howard Schultz
 Principles of Compiler Design, Aho/Ullman
 Producing Open Source Software: How to Run a Successful Free Software Project, Karl Fogel
 Red Mars, Kim Stanley Robinson
+Redeployment, Phil Klay
 Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
 Ringworld, Larry Niven
@@ -118,6 +129,7 @@ Spycraft, Robert Wallace (pg 284)
 Starship Troopers, Robert A.  Heinlein
 Steppenwolf, Hermann Hesse
 Stranger in a Strange Land, Robert A.  Heinlein
+Stuff White People Like, Christian Lander
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song,
 Tales of the unexpected, Roald Dahl
@@ -147,6 +159,7 @@ The Emperor of all Maladies,
 The Emperor's new mind, Patricia C. Wrede
 The Everything Store: Jeff Bezos and the Age of Amazon, Joanna Russ
 The Faith Healers, James Randi
+The Forever War, Dexter Filkins
 The Forever War, Joe Haldeman
 The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
@@ -168,6 +181,7 @@ The Hero with a Thousand Faces, Joseph Campbell
 The Hot Zone, Richard Preston
 The Hyperion Cantos, Dan Simmons
 The Illuminatus Trilogy, Robert Shea
+The Innovators, Walter Isaacson
 The Last Unicorn, Peter S. Beagle
 The Little Prince, Antoine de Saint Exupéry
 The Long Tomorrow, Leigh Brackett
@@ -201,6 +215,7 @@ The Selfish Gene, Richard Dawkins
 The Shadow Factory, James Bamford
 The Shallows: What the Internet Is Doing to Our Brains, Nicholas Carr
 The Singularity is Near, Ray Kurzweil
+The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
 The Snowden Files, Luke Harding
 The Sound and the Fury, William Faulkner
 The Stand, Stephen King
@@ -220,6 +235,7 @@ This Machine Kills Secrets, Andy Greenberg
 This Time is Different, Carmen M. Reinhart
 This Will Change Everything, John Brockman
 Through the Woods, Emily Caroll
+Titus Groan, Mervyn Peake
 Too Big to Fail
 Tropic of Cancer, Henry Miller
 Twenty Thousand Leagues Under the Sea, Jules Verne
