@@ -5,6 +5,7 @@ require 'open-uri'
 require 'uri'
 
 output_file = File.open("#{Dir.home}/Dropbox/documents/txt/books/books.csv", "w")
+output_file.puts ['title', 'author', 'genre', '# pages', 'rating', '# ratings', 'progress'].join(', ')
 
 File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
   file.each_line do |line|
@@ -41,9 +42,10 @@ File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
       num_pages = book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)[1].tr(',', '') if book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)
       rating = book_page.css('a.staticStar.p10')[0].text.match(/(.+) of 5 stars/)[1]
       num_ratings = book_page.css('span[itemprop="ratingCount"]').text.match(/(.+) rating.?/)[1].tr(',', '')
+      progress = ''
 
-      # title, author, genre, # pages, rating, # ratings
-      output_file.puts [title, author, genre, num_pages, rating, num_ratings].join(', ')
+      # title, author, genre, # pages, rating, # ratings, progress
+      output_file.puts [title, author, genre, num_pages, rating, num_ratings, progress].join(', ')
     end
   end
 end
