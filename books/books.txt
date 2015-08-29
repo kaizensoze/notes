@@ -14,14 +14,13 @@ Atlas Shrugged, Ayn Rand
 Basic Economics, Thomas Sowell
 Best of 2600, Emmanuel Goldstein
 Best of MAKE, Mark Frauenfelder
-Big Brother Game, Scott French
 Bleeding Edge, Thomas Pynchon
 Body of Secrets, James Bamford
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
 Both Flesh and Not: Essays
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
-Broken Markets
+Broken Markets, Sal L. Arnuk
 Business@The Speed of Thought, Bill Gates
 Cancer Ward, Aleksandr Solzhenitsyn
 Candide, Voltaire
@@ -33,7 +32,7 @@ Chaos in Kabul, Gérard de Villiers
 Cloud Atlas, David Mitchell
 Collapse, Jared Diamond
 Common Sense, Thomas Paine
-Confront and Conceal
+Confront and Conceal, David E. Sanger
 Conscious Capitalism, John Mackey
 Contact, Carl Sagan
 Corporate Warriors, P.W. Singer
@@ -49,10 +48,8 @@ Discworld, Terry Pratchett
 Doing Good Better: How Effective Altruism Can Help You Make a Difference, William MacAskill
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
-Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds, Murray Shanahan
 Empire of Illusion, Chris Hedges
 End This Depression Now, Paul Krugman
-Energy Revolution: The Physics and the Promise of Efficient Technology
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
 Essays of E. B. White
 Everything and More: A Compact History of Infinity
@@ -62,13 +59,13 @@ Fermat's Enigma, Simon Singh
 Generation Kill, Evan Wright
 Generations, Neil Howe
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
-Girl With Curious Hair
+Girl With Curious Hair, David Foster Wallace
 Godel Escher Bach, Douglas R. Hofstadter
 Hacking: The Art of Exploitation, Jon Erickson
 Heart of Darkness, Joseph Conrad
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
-How Children Succeed,
+How Children Succeed, Paul Tough
 How Markets Fail, John Cassidy
 How to Change the World, David Bornstein
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
@@ -79,9 +76,9 @@ Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
 Jonathan Strange & Mr Norrell, Susanna Clarke
 Kingpin, Kevin Poulsen
-Kitchen Confidential
+Kitchen Confidential, Anthony Bourdain
 Last and First Men and Star Maker, Olaf Stapledon
-Leaves of Grass,
+Leaves of Grass, Walt Whitman
 Life in the Woods, Henry David Thoreau
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela
@@ -93,7 +90,7 @@ Moby Dick, Herman Melville
 Modern Romance, Aziz Ansari
 My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind, Scott Stossel
 My Years With General Motors, Alfred P Sloan Jr
-Never Let Me Go,
+Never Let Me Go, Kazuo Ishiguro
 No Easy Day, Mark Owen
 No Good Men Among the Living, Anand Gopal
 Notes From Underground, Fyodor Dostoyevsky
@@ -105,7 +102,7 @@ One Day in the Life of Ivan Denisovich, Aleksandr Solzhenitsyn
 Oryx and Crake, Margaret Atwood
 Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
 Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan
-Parallel Worlds,
+Parallel Worlds, Michio Kaku
 Perdido Street Station, China Mieville
 Permanent Midnight, Jerry Stahl
 Pour Your Heart Into It, Howard Schultz
@@ -118,12 +115,12 @@ Revenge of the Kremlin, Gérard de Villiers
 Ringworld, Larry Niven
 Rise of the Robots, Martin Ford
 Rise of the Warrior Cop: The Militarization of America’s Police Forces, Daniel Defoe
-Robinson Crusoe,
+Robinson Crusoe, Daniel Defoe
 Rtfm: Red Team Field Manual
-Sandman Slim,
+Sandman Slim, Richard Kadrey
 Siddhartha, Hermann Hesse
 Silence of the Lambs, Thomas Harris
-Sirens of Titan,
+Sirens of Titan, Kurt Vonnegut
 Solaris, Ray Bradbury
 Something Wicked This Way Comes,
 Sophie's World, Jostein Gaarder
@@ -133,31 +130,30 @@ Steppenwolf, Hermann Hesse
 Stranger in a Strange Land, Robert A. Heinlein
 Stuff White People Like, Christian Lander
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
-Swan song,
+Swan song, Robert McCammon
 Tales of the unexpected, Roald Dahl
 The Alienist, Caleb Carr
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
 The Barbary Coast: An Informal History of the San Francisco Underworld, William Faulkner
 The Baroque Cycle, Neal Stephenson
-The Black Power: The “Islamic State” and the Strategists of Terror
-The Botany of Desire,
+The Botany of Desire, Michael Pollan
 The Brothers Karamazov, Fyodor Dostoevsky
 The Burning Room, Michael Connelly
 The Chrysalids, John Wyndham
 The Circle, Dave Eggers
 The Collapse of Complex Societies, Joseph Tainter
 The Communist Manifesto, Karl Marx
-The Corpse Reader,
+The Corpse Reader, Antonio Garrido
 The Count of Monte Cristo, Alexandre Dumas
 The Curious Incident of the Dog in the Nightime, Mark Haddon
 The Dark Tower, Stephen King
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
-The Department of Mad Scientists,
+The Department of Mad Scientists, Michael Belfiore
 The Devil in the White City, Erik Larson
 The Dispossessed, Ursula K. Le Guin
 The Dorito Effect, Mark Schatzker
 The Elegant Universe, Brian Green
-The Emperor of all Maladies,
+The Emperor of all Maladies, Siddhartha Mukherjee
 The Emperor's new mind, Patricia C. Wrede
 The Everything Store: Jeff Bezos and the Age of Amazon, Joanna Russ
 The Faith Healers, James Randi
@@ -171,8 +167,7 @@ The Girl Next Door, Jack Ketchum
 The God Delusion, Richard Dawkins
 The Grand Design, Stephen Hawking
 The Grapes of Wrath, John Steinbeck
-The Great Divide: Unequal Societies and What We Can Do About Them
-The Great Race
+The Great Divide: Unequal Societies and What We Can Do About Them, Joseph E. Stiglitz
 The Great Unraveling, Paul R. Krugman
 The Greatest Show on Earth, Richard Dawkins
 The Gulag Archipelago Abridged, Aleksandr Solzhenitsyn
@@ -198,7 +193,7 @@ The Mists of Avalon, Marion Zimmer Bradley
 The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
 The Most Good You Can Do, Peter Singer
 The Mote in God's Eye, Larry Niven and Jerry Pournelle
-The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
+The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan Holiday
 The Once and Future King, T.H. White
 The Painted Bird, Jerzy Kosinski
 The Panda's Thumb, Stephen Jay Gould
@@ -206,14 +201,13 @@ The Paper Trip, Barry Reid
 The Pillars of the Earth, Ken Follett
 The Power of Myth, Joseph Campbell
 The Prince of Nothing, R. Scott Bakker
-The Professor Is In: The Essential Guide to Turning Your Ph.D. Into a Job
 The Promise of a Pencil, Adam Braun
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
-The Restaurant at the End of the Universe,
+The Restaurant at the End of the Universe, Douglas Adams
 The Rise of Islamic State, Patrick Cockburn
 The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Scar, China Mieville
-The Scented Ape,
+The Scented Ape, David Michael Stoddart
 The Secret Sentry, Matthew M. Aid
 The Selfish Gene, Richard Dawkins
 The Shallows: What the Internet Is Doing to Our Brains, Nicholas Carr
@@ -229,7 +223,7 @@ The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook, Simson L. Garfinkel
 The Unwinding, George Packer
 The Wheel of Time, Robert Jordan
-The Wicked + The Divine
+The Wicked + The Divine, Kieron Gillen
 Things Fall Apart, Chinua Achebe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
@@ -245,17 +239,17 @@ Twenty Thousand Leagues Under the Sea, Jules Verne
 Ubik, Philip K. Dick
 Ulysses, James Joyce
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
-Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
-Violent Python
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel, Rolf Potts
+Violent Python,  T.J. O'Connor
 Walden, Henry David Thoreau
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 We Are All Completely Beside Ourselves, Karen Joy Fowler
 Wealth of Nations, Adam Smith
-What I Learned Losing a Million Dollars
+What I Learned Losing a Million Dollars, Jim Paul
 When the Killing's Done, T.C. Boyle
-Wherever you go there you are
+Wherever you go there you are, Jon Kabat-Zinn
 Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
 Without Feathers, Woody Allen

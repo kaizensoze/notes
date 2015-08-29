@@ -28,7 +28,7 @@ File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
       list_item_image_url = list_item.css('td')[0].css('img').attr('src').to_s
       list_item_num_ratings = list_item.css('td')[1].css('span.minirating').text.match(/— (.+) rating.?/)[1].tr(',', '').to_i
       list_item_index += 1
-      break if !list_item_image_url.include?('nophoto') && list_item_num_ratings >= 5
+      break if !list_item_image_url.include?('nophoto') && list_item_num_ratings >= 200
     end
 
     # get book details
