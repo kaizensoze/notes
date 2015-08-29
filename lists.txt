@@ -69,29 +69,6 @@ travel
   Reykjavik
   Beirut
 
-videogames
-  PS4
-    Bloodborne
-    Infamous: Second Son
-    Lords of the Fallen
-    Metro Redux
-    Oddworld: New 'n' Tasty
-    Resogun
-    Rogue Legacy
-    Strider
-    The Vanishing of Ethan Carter
-    The Last of Us
-    The Witcher 3
-    Transistor
-
-  PS3
-    Heavy Rain
-    Journey
-    LittleBigPlanet 2
-    Rogue Legacy
-    The Last of Us
-    The Talos Principle
-
 tech
   rethinkdb
   react
@@ -129,28 +106,6 @@ conferences
   (08/13) ccc-camp
   (09/22) appsec
 
-talk shows
-  11:35pm-12:35am
-    tonight show (NBC)
-      johnny carson (1962-1992)
-      jay leno (1992-2009)
-      conan o'brien (2009-2010)
-      jay leno (2010-2014)
-      jimmy fallon (2014-present)
-    late show (CBS)
-      letterman (1993-2015)
-      colbert (2015-present)
-  12:35am-1:35am
-    late night (NBC)
-      letterman (1982-1993)
-      conan (1993-2009)
-      jimmy fallon (2009-2014
-      seth meyers (2014-present)
-    late late show (CBS)
-      craig kilborn (1999-2004)
-      craig ferguson (2005-2014)
-      james corden (2015-present)
-
 estimated tax deadlines
   Q1  April 15, 2014
   Q2  June 16, 2014
@@ -185,3 +140,48 @@ quotes
 
   “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
   Ursula K. Le Guin. “The Left Hand of Darkness.”
+
+videogames
+  PS4
+    Bloodborne
+    Infamous: Second Son
+    Lords of the Fallen
+    Metro Redux
+    Oddworld: New 'n' Tasty
+    Resogun
+    Rogue Legacy
+    Strider
+    The Vanishing of Ethan Carter
+    The Last of Us
+    The Witcher 3
+    Transistor
+
+  PS3
+    Heavy Rain
+    Journey
+    LittleBigPlanet 2
+    Rogue Legacy
+    The Last of Us
+    The Talos Principle
+
+talk shows
+  11:35pm-12:35am
+    tonight show (NBC)
+      johnny carson (1962-1992)
+      jay leno (1992-2009)
+      conan o'brien (2009-2010)
+      jay leno (2010-2014)
+      jimmy fallon (2014-present)
+    late show (CBS)
+      letterman (1993-2015)
+      colbert (2015-present)
+  12:35am-1:35am
+    late night (NBC)
+      letterman (1982-1993)
+      conan (1993-2009)
+      jimmy fallon (2009-2014
+      seth meyers (2014-present)
+    late late show (CBS)
+      craig kilborn (1999-2004)
+      craig ferguson (2005-2014)
+      james corden (2015-present)

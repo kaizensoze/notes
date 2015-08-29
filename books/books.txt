@@ -1,4 +1,4 @@
-A Fire Upon the Deep, Vernor Vinge (pg 32)
+A Fire Upon the Deep, Vernor Vinge
 A Suitable Boy, Vikram Seth
 Age of Ambition, Evan Osnos
 Affluence and Influence, Martin Gilens
@@ -23,6 +23,7 @@ Both Flesh and Not: Essays
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 Broken Markets
 Business@The Speed of Thought, Bill Gates
+Cancer Ward, Aleksandr Solzhenitsyn
 Candide, Voltaire
 Can't We Talk about Something More Pleasant?, Roz Chast
 Carsick, John Waters
@@ -39,6 +40,7 @@ Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
 Cybersecurity and Cyberwar, P.W. Singer
 David Foster Wallace: The Last Interview: and Other Conversations (The Last Interview Series)
+De humani corporis fabrica, Andreas Vesalius
 Dear White People, Justin Simien
 Deliverance, James Dickey
 Dhalgren, Samuel R. Delany
@@ -48,6 +50,7 @@ Doing Good Better: How Effective Altruism Can Help You Make a Difference, Willia
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
 Embodiment and the inner life: Cognition and Consciousness in the Space of Possible Minds, Murray Shanahan
+Empire of Illusion, Chris Hedges
 End This Depression Now, Paul Krugman
 Energy Revolution: The Physics and the Promise of Efficient Technology
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
@@ -68,8 +71,9 @@ History of Western Philosophy,
 How Children Succeed,
 How Markets Fail, John Cassidy
 How to Change the World, David Bornstein
+Human Anatomy: A Visual History from the Renaissance to the Digital Age
+Imhotep, Jerry Dubs
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
-Infections and Inequalities
 Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
@@ -88,7 +92,6 @@ Men are from mars, women are from venus, Joe Peacock
 Moby Dick, Herman Melville
 Modern Romance, Aziz Ansari
 My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind, Scott Stossel
-My Age of Anxiety
 My Years With General Motors, Alfred P Sloan Jr
 Never Let Me Go,
 No Easy Day, Mark Owen
@@ -124,10 +127,10 @@ Sirens of Titan,
 Solaris, Ray Bradbury
 Something Wicked This Way Comes,
 Sophie's World, Jostein Gaarder
-Spycraft, Robert Wallace (pg 284)
-Starship Troopers, Robert A.  Heinlein
+Spycraft, Robert Wallace
+Starship Troopers, Robert A. Heinlein
 Steppenwolf, Hermann Hesse
-Stranger in a Strange Land, Robert A.  Heinlein
+Stranger in a Strange Land, Robert A. Heinlein
 Stuff White People Like, Christian Lander
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song,
@@ -180,6 +183,7 @@ The Hero with a Thousand Faces, Joseph Campbell
 The Hot Zone, Richard Preston
 The Hyperion Cantos, Dan Simmons
 The Illuminatus Trilogy, Robert Shea
+The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovators, Walter Isaacson
 The Last Unicorn, Peter S. Beagle
 The Little Prince, Antoine de Saint Exupéry
@@ -191,6 +195,7 @@ The Martian, Andy Weir
 The Master and Margarita, Mikhail Bulgakov
 The Meaning of Human Existence, Edward O. Wilson
 The Mists of Avalon, Marion Zimmer Bradley
+The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
 The Most Good You Can Do, Peter Singer
 The Mote in God's Eye, Larry Niven and Jerry Pournelle
 The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
@@ -221,20 +226,20 @@ The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
 The Time Machine, H.G. Wells
 The Unbearable Lightness of Being, Milan Kundera
-The Unix-Haters Handbook,  Simson L. Garfinkel
+The Unix-Haters Handbook, Simson L. Garfinkel
 The Unwinding, George Packer
 The Wheel of Time, Robert Jordan
 The Wicked + The Divine
 Things Fall Apart, Chinua Achebe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
-This Is Water
+This Is Water, David Foster Wallace
 This Machine Kills Secrets, Andy Greenberg
 This Time is Different, Carmen M. Reinhart
 This Will Change Everything, John Brockman
 Through the Woods, Emily Caroll
 Titus Groan, Mervyn Peake
-Too Big to Fail
+Too Big to Fail, Andrew Ross Sorkin
 Tropic of Cancer, Henry Miller
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Ubik, Philip K. Dick
@@ -255,4 +260,3 @@ Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
 Without Feathers, Woody Allen
 Women, Charles Bukowski
-*, Chris Hedges
