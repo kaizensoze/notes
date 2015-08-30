@@ -1,4 +1,43 @@
 
+travel
+  New Haven, CT
+  Providence, RI
+  Provincetown, MA
+  Manchester, NH
+  Concord, NH
+  Portsmouth, NH
+  Portland, ME
+  Acadia Park
+  Montpelier, VT
+  Burlington, VT
+  Montreal
+  Quebec City
+  Ottawa
+
+  Philadelphia
+  Pittsburgh
+  Cleveland
+  Ann Arbor, MI
+  Chicago
+  Iowa City, IA
+  Des Moines, IA
+
+  Asheville, NC
+  Durham-Chapel Hill, NC
+  Atlanta, GA
+  New Orleans
+  Austin
+
+  Portland
+  Seattle
+
+  Paris
+  Amsterdam
+  Rome
+  Prague
+  Reykjavik
+  Beirut
+
 places
   bakery
     Four & Twenty Blackbirds
@@ -29,45 +68,12 @@ places
 movies
   Mistress America
   The Gift
+  Victoria
 
 tv
   Difficult People
-  Leverage
   Michael Palin's New Europe
   Real Hustle
-
-travel
-  New Haven, CT
-  Providence, RI
-  Burlington, VT
-  Portland, ME
-
-  Philadelphia
-
-  Pittsburgh
-  Cleveland
-  Ann Arbor, MI
-  Chicago
-  Iowa City, IA
-  Des Moines, IA
-
-  Asheville, NC
-  Durham-Chapel Hill, NC
-  Atlanta, GA
-  New Orleans
-  Austin
-
-  Portland
-  Seattle
-  Chicago
-
-  Paris
-  Amsterdam
-  Rome
-  Prague
-  Montreal
-  Reykjavik
-  Beirut
 
 tech
   rethinkdb
