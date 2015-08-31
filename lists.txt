@@ -36,6 +36,15 @@ travel
   Reykjavik
   Beirut
 
+travel log
+  new haven, CT
+  chester's bbq (clinton, CT)
+  providence, RI
+  portsmouth, RI
+  newport, RI
+  texas roadhouse (dartmouth, MA)
+  castle dawn hotel (yarmouth, MA)
+
 places
   bakery
     Four & Twenty Blackbirds
