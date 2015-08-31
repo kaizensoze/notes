@@ -62,6 +62,7 @@ Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Girl With Curious Hair, David Foster Wallace
 Godel Escher Bach, Douglas R. Hofstadter
 Hacking: The Art of Exploitation, Jon Erickson
+Hallucinations, Oliver Sacks
 Heart of Darkness, Joseph Conrad
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
@@ -97,6 +98,7 @@ Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
 Oh Myyy!: There Goes The Internet, George Takei
 On Intelligence, Jeff Hawkins
+On the Move: A Life, Oliver Sacks
 On the Origin of Species, Charles Darwin
 One Day in the Life of Ivan Denisovich, Aleksandr Solzhenitsyn
 Oryx and Crake, Margaret Atwood
@@ -186,6 +188,7 @@ The Long Tomorrow, Leigh Brackett
 The Long Walk, Stephen King (writing as Richard Bachman)
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
+The Man Who Mistook His Wife For A Hat, Oliver Sacks
 The Martian, Andy Weir
 The Master and Margarita, Mikhail Bulgakov
 The Meaning of Human Existence, Edward O. Wilson
