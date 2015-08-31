@@ -1,6 +1,5 @@
 
 travel
-  Portsmouth, RI
   Provincetown, MA
   Manchester, NH
   Concord, NH
