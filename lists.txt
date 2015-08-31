@@ -1,7 +1,6 @@
 
 travel
-  New Haven, CT
-  Providence, RI
+  Portsmouth, RI
   Provincetown, MA
   Manchester, NH
   Concord, NH
