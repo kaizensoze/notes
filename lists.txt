@@ -1,9 +1,8 @@
 
+todo
+  iced americano
+
 travel
-  Provincetown, MA
-  Manchester, NH
-  Concord, NH
-  Portsmouth, NH
   Portland, ME
   Acadia Park
   Montpelier, VT
