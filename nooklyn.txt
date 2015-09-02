@@ -1,5 +1,7 @@
+08/31: 20:00 - 22:00
+09/01: 
 
-
+continue porting to swift 2
 nooklyn: api tests
 nklyn-ios: agent view
 

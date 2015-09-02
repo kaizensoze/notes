@@ -3,8 +3,6 @@ todo
   iced americano
 
 travel
-  Portland, ME
-  Acadia Park
   Montpelier, VT
   Burlington, VT
   Montreal
@@ -43,11 +41,15 @@ travel log
   newport, RI
   texas roadhouse (dartmouth, MA)
   castle dawn hotel (yarmouth, MA)
-  provincetown, ma
-  manchester, ma
-  concord, ma
-  portsmouth, ma
-  america's best inn (portsmouth, ma)
+  Provincetown, MA
+  Manchester, MA
+  Concord, NH
+  Portsmouth, MA
+  america's best inn (Portsmouth, NH)
+  Kennebunkport, ME
+  Portland, ME
+  Acadia National Park, ME
+  Bar Harbor, ME
 
 places
   bakery
