@@ -1,14 +1,12 @@
 
 todo
   iced americano
+  tax estimate
+  thermarest compressible pillow
+  sell rock climbing gear
+  bike tuneup
 
 travel
-  Montpelier, VT
-  Burlington, VT
-  Montreal
-  Quebec City
-  Ottawa
-
   Philadelphia
   Pittsburgh
   Cleveland
@@ -16,6 +14,10 @@ travel
   Chicago
   Iowa City, IA
   Des Moines, IA
+
+  Montreal
+  Quebec City
+  Ottawa
 
   Asheville, NC
   Durham-Chapel Hill, NC
@@ -34,13 +36,13 @@ travel
   Beirut
 
 travel log
-  new haven, CT
-  chester's bbq (clinton, CT)
-  providence, RI
-  portsmouth, RI
+  New Haven, CT
+  chester's bbq (Clinton, CT)
+  Providence, RI
+  Portsmouth, RI
   newport, RI
-  texas roadhouse (dartmouth, MA)
-  castle dawn hotel (yarmouth, MA)
+  texas roadhouse (Dartmouth, MA)
+  castle dawn hotel (Yarmouth, MA)
   Provincetown, MA
   Manchester, MA
   Concord, NH
@@ -50,6 +52,10 @@ travel log
   Portland, ME
   Acadia National Park, ME
   Bar Harbor, ME
+  Bethlehem, NH
+  Montpelier, VT
+  Burlington, VT
+  Lake George, NY
 
 places
   bakery

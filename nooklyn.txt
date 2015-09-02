@@ -1,5 +1,6 @@
 08/31: 20:00 - 22:00
-09/01: 
+09/01: 22:30 - 23:30
+09/02: 
 
 continue porting to swift 2
 nooklyn: api tests
