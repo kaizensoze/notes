@@ -56,6 +56,11 @@ travel log
   Montpelier, VT
   Burlington, VT
   Lake George, NY
+  Glens Falls, NY
+  Albany, NY
+  Woodstock, NY
+  New Paltz, NY
+  Culinary Institute of America, NY
 
 places
   bakery
