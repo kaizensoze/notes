@@ -69,6 +69,7 @@ History of Western Philosophy,
 How Children Succeed, Paul Tough
 How Markets Fail, John Cassidy
 How to Change the World, David Bornstein
+How We Live Now, Bella DePaulo
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
 Imhotep, Jerry Dubs
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
@@ -122,6 +123,7 @@ Rtfm: Red Team Field Manual
 Sandman Slim, Richard Kadrey
 Siddhartha, Hermann Hesse
 Silence of the Lambs, Thomas Harris
+Singled Out, Bella DePaulo
 Sirens of Titan, Kurt Vonnegut
 Solaris, Ray Bradbury
 Something Wicked This Way Comes,
@@ -230,7 +232,6 @@ The Wicked + The Divine, Kieron Gillen
 Things Fall Apart, Chinua Achebe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
-This Is Water, David Foster Wallace
 This Machine Kills Secrets, Andy Greenberg
 This Time is Different, Carmen M. Reinhart
 This Will Change Everything, John Brockman
