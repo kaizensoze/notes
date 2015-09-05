@@ -1,7 +1,9 @@
 08/31: 20:00 - 22:00
 09/01: 22:30 - 23:30
+09/04: 10:00 - 14:00
 
-continue porting to swift 2
+test app
+figure out indexOf(<Realm object>) issue
 nooklyn: api tests
 nklyn-ios: agent view
 

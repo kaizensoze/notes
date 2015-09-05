@@ -1,32 +1,92 @@
 
 todo
-  iced americano
-  tax estimate
-  thermarest compressible pillow
-  sell rock climbing gear
+  nooklyn
   bike tuneup
+  ems: thermarest compressible pillow
+  tax estimate
+  sell rock climbing gear
+
+car candidates
+  chevy spark
+  chevy sonic
+  ford fiesta
+  ford focus
+  honda fit
+  nissan leaf
+  nissan versa [note]
 
 travel
-  Philadelphia
-  Pittsburgh
-  Cleveland
-  Ann Arbor, MI
-  Chicago
-  Iowa City, IA
+  Philadelphia, PA
+  Baltimore, MD
+  Washington DC
+  Richmond, VA
+  Durham-Chapel Hill, NC
+  Charlotte, NC
+  Asheville, NC
+  Great Smoky Mountains National Park, TN (?)
+  Atlanta, GA
+  Nashville, TN
+  Birmingham, AL
+  Jackson, MS
+  New Orleans, LA
+  Houston, TX
+  San Antonio, TX
+  Austin, TX
+  Dallas, TX
+  Little Rock, AR
+  Branson, MO
+  Oklahoma City, OK or Kansas City, MO (?)
+  Wichita, KS
+  Denver, CO
+  Rocky Mountain National Park, CO (?)
+  Albequerque, NM
+  Tucson, AZ
+  Scottsdale, AZ
+  Phoenix, AZ
+  Sedona, AZ
+  Grand Canyon, AZ
+  Mojave National Preserve, CA
+  Joshua Tree National Park, CA
+  Palm Springs, CA
+  San Diego, CA
+  (try to drive along coast)
+  Yosemite National Park, CA
+  Lake Tahoe, CA
+  Sacramento, CA
+  (try to drive along coast)
+  Portland, OR
+  Seattle, WA
+  Olympic National Forest, WA (?)
+  Vancouver, BC
+  Boise, ID
+  Salt Lake City, UT
+  Jackson, WY
+  Yellowstone National Park, WY
+  Billings, MT
+  Devils Tower, WY
+  Rapid City, SD
+  Sioux Falls, SD
+  Omaha, NE
   Des Moines, IA
+  Minneapolis, MN
+  Milwaukee, WI
+  Chicago, IL
+  Indianapolis, IN
+  Louisville, KY
+  Cincinnati, OH
+  Columbus, OH
+  Ann Arbor, MI
+  Detroit, MI
+  Cleveland, OH
+  Pittsburgh, PA
+  Brooklyn, NY
 
   Montreal
   Quebec City
   Ottawa
 
-  Asheville, NC
-  Durham-Chapel Hill, NC
-  Atlanta, GA
-  New Orleans
-  Austin
-
-  Portland
-  Seattle
+  Delaware
+  Hawaii
 
   Paris
   Amsterdam
@@ -40,19 +100,20 @@ travel log
   chester's bbq (Clinton, CT)
   Providence, RI
   Portsmouth, RI
-  newport, RI
+  Newport, RI
   texas roadhouse (Dartmouth, MA)
   castle dawn hotel (Yarmouth, MA)
   Provincetown, MA
-  Manchester, MA
+  Manchester, NH
   Concord, NH
-  Portsmouth, MA
+  Portsmouth, NH
   america's best inn (Portsmouth, NH)
   Kennebunkport, ME
   Portland, ME
   Acadia National Park, ME
   Bar Harbor, ME
   Bethlehem, NH
+  Goddard College, VT
   Montpelier, VT
   Burlington, VT
   Lake George, NY
@@ -97,6 +158,7 @@ movies
 tv
   Difficult People
   Michael Palin's New Europe
+  Passport to Europe
   Real Hustle
 
 tech
