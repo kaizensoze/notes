@@ -1,6 +1,5 @@
 
 todo
-  nooklyn
   bike tuneup
   ems: thermarest compressible pillow
   tax estimate
@@ -89,7 +88,14 @@ travel
   Hawaii
 
   Paris
+  Berlin
+  Monaco
+  Vienna
+  Lisbon
+  Barcelona
+  Salzburg
   Amsterdam
+  Naples
   Rome
   Prague
   Reykjavik
@@ -151,15 +157,13 @@ places
     Original John's Deli
 
 movies
+  Legend
   Mistress America
   The Gift
   Victoria
 
 tv
-  Difficult People
   Michael Palin's New Europe
-  Passport to Europe
-  Real Hustle
 
 tech
   rethinkdb

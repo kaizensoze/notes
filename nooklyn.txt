@@ -1,11 +1,65 @@
-08/31: 20:00 - 22:00
-09/01: 22:30 - 23:30
-09/04: 10:00 - 14:00
 
-test app
-figure out indexOf(<Realm object>) issue
+
+first time [DONE]
+login
+  normal [DONE]
+  facebook [DONE]
+signup
+  normal [DONE]
+  facebook [DONE]
+listings
+  preview favorite [DONE]
+  preview unfavorite [DONE]
+  preview tap [DONE]
+  preview drag up [DONE]
+  collection tap [DONE]
+  collection favorite tap [DONE]
+  collection unfavorite tap [DONE]
+  collection favorite hold [DONE]
+  collection unfavorite hold [DONE]
+listing filters
+  min, _ [DONE]
+  _, max [DONE]
+  min, max [DONE]
+  beds [DONE]
+  baths [DONE]
+  neighborhood [DONE]
+  neighborhoods [DONE]
+  rental [DONE]
+  residential [DONE]
+  need help [SIMULATOR FAIL: TODO]
+  clear filters [DONE]
+listing details
+  favorite tap [DONE]
+  unfavorite tap [DONE]
+  favorite hold [DONE]
+  unfavorite hold [DONE]
+  photo tap [DONE]
+  location tap [DONE]
+  call contact [TODO]
+  message contact [TODO]
+  share [TODO]
+location
+  location tap [DONE]
+neighborhoods
+  tap neighborhood [DONE]
+messages
+  conversation tap [DONE]
+  send message [DONE]
+favorites
+  unfavorite tap [DONE]
+  unfavorite hold [DONE]
+  tap [DONE]
+settings
+  logout [DONE]
+  support [SIMULATOR FAIL: TODO]
+  facebook [DONE]
+  twitter [DONE]
+
 nooklyn: api tests
 nklyn-ios: agent view
+
+sudo cp /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib
 
 tests
   curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions' [GOOD]
