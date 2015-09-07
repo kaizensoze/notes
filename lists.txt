@@ -1,8 +1,8 @@
 
 todo
-  bike tuneup
-  ems: thermarest compressible pillow
   tax estimate
+  ems: thermarest compressible pillow
+  bike tuneup
   sell rock climbing gear
 
 car candidates
@@ -15,70 +15,75 @@ car candidates
   nissan versa [note]
 
 travel
-  Philadelphia, PA
-  Baltimore, MD
-  Washington DC
-  Richmond, VA
-  Durham-Chapel Hill, NC
-  Charlotte, NC
-  Asheville, NC
-  Great Smoky Mountains National Park, TN (?)
-  Atlanta, GA
-  Nashville, TN
-  Birmingham, AL
-  Jackson, MS
-  New Orleans, LA
-  Houston, TX
-  San Antonio, TX
-  Austin, TX
-  Dallas, TX
-  Little Rock, AR
-  Branson, MO
-  Oklahoma City, OK or Kansas City, MO (?)
-  Wichita, KS
-  Denver, CO
-  Rocky Mountain National Park, CO (?)
-  Albequerque, NM
-  Tucson, AZ
-  Scottsdale, AZ
-  Phoenix, AZ
-  Sedona, AZ
-  Grand Canyon, AZ
-  Mojave National Preserve, CA
-  Joshua Tree National Park, CA
-  Palm Springs, CA
-  San Diego, CA
-  (try to drive along coast)
-  Yosemite National Park, CA
-  Lake Tahoe, CA
-  Sacramento, CA
-  (try to drive along coast)
-  Portland, OR
-  Seattle, WA
-  Olympic National Forest, WA (?)
-  Vancouver, BC
-  Boise, ID
-  Salt Lake City, UT
-  Jackson, WY
-  Yellowstone National Park, WY
-  Billings, MT
-  Devils Tower, WY
-  Rapid City, SD
-  Sioux Falls, SD
-  Omaha, NE
-  Des Moines, IA
-  Minneapolis, MN
-  Milwaukee, WI
-  Chicago, IL
-  Indianapolis, IN
-  Louisville, KY
-  Cincinnati, OH
-  Columbus, OH
-  Ann Arbor, MI
-  Detroit, MI
-  Cleveland, OH
-  Pittsburgh, PA
-  Brooklyn, NY
+  Philadelphia, PA [2]
+  Baltimore, MD [1]
+  Washington DC [1]
+  Richmond, VA [2]
+  Durham-Chapel Hill, NC [2.5]
+  Charlotte, NC [2]
+  Asheville, NC [2]
+  Great Smoky Mountains National Park, TN [1]
+  Atlanta, GA [3]
+  Nashville, TN [4]
+  Birmingham, AL [3]
+  Jackson, MS [3.5]
+  New Orleans, LA [3]
+  Houston, TX [5]
+  San Antonio, TX [3]
+  Austin, TX [1.5]
+  Dallas, TX [3]
+  ====================== [46.5] (7 days)
+  Little Rock, AR [4.5]
+  Branson, MO [3]
+  Oklahoma City, OK [5]
+  Wichita, KS [2.5]
+  Denver, CO [7.5]
+  Rocky Mountain National Park, CO [1.5]
+  Albequerque, NM [8]
+  Tucson, AZ [6.5]
+  Scottsdale, AZ [2]
+  Phoenix, AZ [0.5]
+  ====================== [41] (7 days)
+  Sedona, AZ [2]
+  Grand Canyon, AZ [2]
+  Mojave National Preserve, CA [5]
+  Joshua Tree National Park, CA [2.5]
+  Palm Springs, CA [1]
+  San Diego, CA [2]
+  Yosemite National Park, CA [7]
+  Lake Tahoe, CA [2.5]
+  Sacramento, CA [2]
+  Portland, OR [9]
+  Seattle, WA [3]
+  Olympic National Forest, WA [3]
+  Seattle, WA [3]
+  ====================== [44] (7 days)
+  Vancouver, BC [5.5]
+  Boise, ID [10.5]
+  Salt Lake City, UT [5]
+  Jackson, WY [4.5]
+  Yellowstone National Park, WY [1.5]
+  Billings, MT [2.5]
+  Devils Tower, WY [4]
+  Rapid City, SD [2]
+  Sioux Falls, SD [5]
+  Omaha, NE [3]
+  ====================== [43.5] (7 days)
+  Des Moines, IA [2]
+  Minneapolis, MN [4]
+  Milwaukee, WI [5]
+  Chicago, IL [2]
+  Indianapolis, IN [3]
+  Louisville, KY [2]
+  Cincinnati, OH [1.5]
+  Columbus, OH [2]
+  Ann Arbor, MI [3]
+  Detroit, MI [1]
+  Cleveland, OH [3]
+  Pittsburgh, PA [2]
+  Brooklyn, NY [6]
+====================== [36.5] (6 days)
+[204.5]
 
   Montreal
   Quebec City
@@ -102,32 +107,34 @@ travel
   Beirut
 
 travel log
-  New Haven, CT
-  chester's bbq (Clinton, CT)
-  Providence, RI
-  Portsmouth, RI
-  Newport, RI
-  texas roadhouse (Dartmouth, MA)
-  castle dawn hotel (Yarmouth, MA)
-  Provincetown, MA
-  Manchester, NH
-  Concord, NH
-  Portsmouth, NH
+  New Haven, CT [2]
+  chester's bbq (Clinton, CT) [0.5]
+  Providence, RI [1.5]
+  Portsmouth, RI [0.5]
+  Newport, RI [0.5]
+  texas roadhouse (Dartmouth, MA) [1]
+  castle dawn hotel (Yarmouth, MA) [1]
+  Provincetown, MA [1]
+  Manchester, NH [3]
+  Concord, NH [0.5]
+  Portsmouth, NH [1]
   america's best inn (Portsmouth, NH)
-  Kennebunkport, ME
-  Portland, ME
-  Acadia National Park, ME
+  Kennebunkport, ME [1]
+  Portland, ME [0.5]
+  Acadia National Park, ME [3]
   Bar Harbor, ME
-  Bethlehem, NH
+  Bethlehem, NH [5]
   Goddard College, VT
-  Montpelier, VT
-  Burlington, VT
-  Lake George, NY
-  Glens Falls, NY
-  Albany, NY
-  Woodstock, NY
-  New Paltz, NY
-  Culinary Institute of America, NY
+  Montpelier, VT [1.5]
+  Burlington, VT [1]
+  Lake George, NY [2]
+  Glens Falls, NY [0.5]
+  Albany, NY [1]
+  Woodstock, NY [1]
+  New Paltz, NY [1]
+  Culinary Institute of America, NY [0.5]
+  Brooklyn, NY [2]
+  [32.5] (5 days)
 
 places
   bakery
@@ -164,6 +171,8 @@ movies
 
 tv
   Michael Palin's New Europe
+  Brazil with Michael Palin
+  Americas National Treasures
 
 tech
   rethinkdb
