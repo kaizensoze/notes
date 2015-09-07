@@ -66,8 +66,9 @@ travel
   Billings, MT [2.5]
   Devils Tower, WY [4]
   Rapid City, SD [2]
-  Sioux Falls, SD [5]
-  Omaha, NE [3]
+  Badlands National Park, SD [1]
+  Sioux Falls, SD [4]
+  Omaha, NE (try reuben) [3]
   ====================== [43.5] (7 days)
   Des Moines, IA [2]
   Minneapolis, MN [4]
@@ -173,8 +174,8 @@ movies
   Victoria
 
 tv
+  America's National Treasures
   Brazil with Michael Palin
-  Americas National Treasures
 
 tech
   rethinkdb
