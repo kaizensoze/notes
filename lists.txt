@@ -105,6 +105,9 @@ travel
   Prague
   Reykjavik
   Beirut
+  Istanbul
+  Lviv
+  Kiev
 
 travel log
   New Haven, CT [2]
@@ -170,7 +173,6 @@ movies
   Victoria
 
 tv
-  Michael Palin's New Europe
   Brazil with Michael Palin
   Americas National Treasures
 
