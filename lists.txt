@@ -1,7 +1,15 @@
 
 todo
+  shower
+  tissues
+  ems: thermarest compressible pillow
+  update income/expenses -> email martin finkle requesting quarterly tax vouchers
+  munchery delivery
+  alec's reading
+
   bike tuneup
   sell rock climbing gear
+  apply for brazilian dual citizenship
 
 car candidates
   chevy spark
@@ -107,6 +115,7 @@ travel
   Istanbul
   Lviv
   Kiev
+  Sheffield
 
 travel log
   New Haven, CT [2]
@@ -172,7 +181,12 @@ movies
   Victoria
 
 tv
-  Brazil with Michael Palin
+  Michael Palin's Around the World in 80 Days
+  Michael Palin: Full Circle
+  Michael Palin - Himalaya
+  Michael Palin: Hemingway Adventure / Great Railway Journeys
+  Michael Palin - Pole to Pole
+  Michael Palin - Sahara
 
 tech
   rethinkdb
