@@ -1,7 +1,5 @@
 
 todo
-  tax estimate
-  ems: thermarest compressible pillow
   bike tuneup
   sell rock climbing gear
 
