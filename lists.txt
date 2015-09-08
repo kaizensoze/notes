@@ -1,6 +1,5 @@
 
 todo
-  research thermarest compressible pillow
   read
   update income/expenses -> email martin finkle requesting quarterly tax vouchers
   munchery delivery
