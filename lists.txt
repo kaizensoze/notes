@@ -60,7 +60,7 @@ travel
   ====================== [44] (7 days)
   Vancouver, BC [5.5]
   Boise, ID [10.5]
-  Salt Lake City, UT [5]
+  Salt Lake City, UT (food: pastrami burger) [5]
   Jackson, WY [4.5]
   Yellowstone National Park, WY [1.5]
   Billings, MT [2.5]
@@ -68,7 +68,7 @@ travel
   Rapid City, SD [2]
   Badlands National Park, SD [1]
   Sioux Falls, SD [4]
-  Omaha, NE (try reuben) [3]
+  Omaha, NE (food: reuben) [3]
   ====================== [43.5] (7 days)
   Des Moines, IA [2]
   Minneapolis, MN [4]
@@ -174,7 +174,6 @@ movies
   Victoria
 
 tv
-  America's National Treasures
   Brazil with Michael Palin
 
 tech
