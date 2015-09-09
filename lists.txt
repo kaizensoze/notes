@@ -1,15 +1,9 @@
 
 todo
-  apple event
-  r crumb
-  research s-corp llc estimated tax forms
-  email martin finkle requesting quarterly tax vouchers
-  check apple site
   the most good you can do
-  nooklyn
-  VR streetview
+  randomstreetview
+  reassess road trip
   calvin & hobbes
-  look into 3D4Medical
 
   bike tuneup
   sell rock climbing gear
@@ -286,6 +280,9 @@ videogames
     Rogue Legacy
     The Last of Us
     The Talos Principle
+
+comics
+  Walking Dead: 145
 
 talk shows
   11:35pm-12:35am
