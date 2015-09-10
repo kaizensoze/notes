@@ -1,9 +1,7 @@
 
 todo
-  the most good you can do
-  randomstreetview
-  reassess road trip
   calvin & hobbes
+  reassess road trip
 
   bike tuneup
   sell rock climbing gear
@@ -282,7 +280,7 @@ videogames
     The Talos Principle
 
 comics
-  Walking Dead: 145
+  Walking Dead: 146
 
 talk shows
   11:35pm-12:35am
