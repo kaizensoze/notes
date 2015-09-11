@@ -19,7 +19,6 @@ Bleeding Edge, Thomas Pynchon
 Body of Secrets, James Bamford
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
-Both Flesh and Not: Essays
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 Broken Markets, Sal L. Arnuk
 Business@The Speed of Thought, Bill Gates
@@ -132,6 +131,7 @@ Starship Troopers, Robert A. Heinlein
 Steppenwolf, Hermann Hesse
 Stranger in a Strange Land, Robert A. Heinlein
 Stuff White People Like, Christian Lander
+Subliminal: How Your Unconscious Mind Rules Your Behavior, Leonard Mlodinow
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
 Tales of the unexpected, Roald Dahl
@@ -155,6 +155,7 @@ The Department of Mad Scientists, Michael Belfiore
 The Devil in the White City, Erik Larson
 The Dispossessed, Ursula K. Le Guin
 The Dorito Effect, Mark Schatzker
+The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 The Elegant Universe, Brian Green
 The Emperor of all Maladies, Siddhartha Mukherjee
 The Emperor's new mind, Patricia C. Wrede

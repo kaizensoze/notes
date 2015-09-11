@@ -1,11 +1,13 @@
 
 todo
-  calvin & hobbes
-  reassess road trip
+  shower
+  pack
+  mail checks
+  library dropoff
+  pick up rental car
 
   bike tuneup
   sell rock climbing gear
-  apply for brazilian dual citizenship
 
 car candidates
   chevy spark
@@ -114,34 +116,34 @@ travel
   Sheffield
 
 travel log
-  New Haven, CT [2]
-  chester's bbq (Clinton, CT) [0.5]
-  Providence, RI [1.5]
-  Portsmouth, RI [0.5]
-  Newport, RI [0.5]
-  texas roadhouse (Dartmouth, MA) [1]
-  castle dawn hotel (Yarmouth, MA) [1]
-  Provincetown, MA [1]
-  Manchester, NH [3]
-  Concord, NH [0.5]
-  Portsmouth, NH [1]
-  america's best inn (Portsmouth, NH)
-  Kennebunkport, ME [1]
-  Portland, ME [0.5]
-  Acadia National Park, ME [3]
-  Bar Harbor, ME
-  Bethlehem, NH [5]
-  Goddard College, VT
-  Montpelier, VT [1.5]
-  Burlington, VT [1]
-  Lake George, NY [2]
-  Glens Falls, NY [0.5]
-  Albany, NY [1]
-  Woodstock, NY [1]
-  New Paltz, NY [1]
-  Culinary Institute of America, NY [0.5]
-  Brooklyn, NY [2]
-  [32.5] (5 days)
+New Haven, CT [2]
+chester's bbq (Clinton, CT) [0.5]
+Providence, RI [1.5]
+Portsmouth, RI [0.5]
+Newport, RI [0.5]
+texas roadhouse (Dartmouth, MA) [1]
+castle dawn hotel (Yarmouth, MA) [1]
+Provincetown, MA [1]
+Manchester, NH [3]
+Concord, NH [0.5]
+Portsmouth, NH [1]
+america's best inn (Portsmouth, NH)
+Kennebunkport, ME [1]
+Portland, ME [0.5]
+Acadia National Park, ME [3]
+Bar Harbor, ME
+Bethlehem, NH [5]
+Goddard College, VT
+Montpelier, VT [1.5]
+Burlington, VT [1]
+Lake George, NY [2]
+Glens Falls, NY [0.5]
+Albany, NY [1]
+Woodstock, NY [1]
+New Paltz, NY [1]
+Culinary Institute of America, NY [0.5]
+Brooklyn, NY [2]
+[32.5] (5 days)
 
 places
   bakery
@@ -186,7 +188,7 @@ tv
 
 tech
   rethinkdb
-  react
+  react [native]
   go
   angular
   ember
