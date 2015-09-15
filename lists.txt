@@ -1,11 +1,5 @@
 
 todo
-  shower
-  pack
-  mail checks
-  library dropoff
-  pick up rental car
-
   bike tuneup
   sell rock climbing gear
 
@@ -90,12 +84,14 @@ travel
 ====================== [36.5] (6 days)
 [204.5]
 
+  Orlando
+  New Orleans
+  Delaware
+  Hawaii
+
   Montreal
   Quebec City
   Ottawa
-
-  Delaware
-  Hawaii
 
   Paris
   Berlin
@@ -176,9 +172,11 @@ movies
   Legend
   Mistress America
   The Gift
+  The History of Future Folk
   Victoria
 
 tv
+  The Late Show with Stephen Colbert
   Michael Palin's Around the World in 80 Days
   Michael Palin: Full Circle
   Michael Palin - Himalaya
