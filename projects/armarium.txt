@@ -1,0 +1,18 @@
+go through referenced apps
+
+features
+  invite code
+  content (a la House Account)
+  schedule appointment
+    in-home
+    showroom
+  profile
+    fit
+    upcoming events
+    past events
+    wish list
+  -------------------------------
+  stylist profiles
+
+questions
+  iphone or universal?

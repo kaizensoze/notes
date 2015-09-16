@@ -1,4 +1,7 @@
 
+install final xcode release and test app
+nooklyn: api tests
+nklyn-ios: agent view
 
 first time [DONE]
 login
@@ -55,9 +58,6 @@ settings
   support [SIMULATOR FAIL: TODO]
   facebook [DONE]
   twitter [DONE]
-
-nooklyn: api tests
-nklyn-ios: agent view
 
 sudo cp /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib
 
