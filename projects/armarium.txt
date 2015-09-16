@@ -1,4 +1,3 @@
-go through referenced apps
 
 features
   invite code
@@ -13,6 +12,3 @@ features
     wish list
   -------------------------------
   stylist profiles
-
-questions
-  iphone or universal?
