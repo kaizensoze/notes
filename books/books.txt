@@ -26,7 +26,6 @@ Cancer Ward, Aleksandr Solzhenitsyn
 Candide, Voltaire
 Can't We Talk about Something More Pleasant?, Roz Chast
 Carsick, John Waters
-Catching the Big Fish, David Lynch
 Chaos, James Gleick
 Chaos in Kabul, Gérard de Villiers
 Cloud Atlas, David Mitchell
@@ -62,6 +61,7 @@ Godel Escher Bach, Douglas R. Hofstadter
 Hacking: The Art of Exploitation, Jon Erickson
 Hallucinations, Oliver Sacks
 Heart of Darkness, Joseph Conrad
+High Output Management, Andy Grove
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
 How Children Succeed, Paul Tough

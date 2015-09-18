@@ -1,6 +1,5 @@
 
 
-install final xcode release and test app
 nklyn-ios: agent view
 nooklyn: api tests
 

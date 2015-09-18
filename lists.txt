@@ -1,7 +1,6 @@
 
 todo
-  bike tuneup
-  sell rock climbing gear
+  
 
 car candidates
   chevy spark
@@ -169,8 +168,11 @@ places
     Original John's Deli
 
 movies
+  Black Mass
+  Everest
   Legend
   Mistress America
+  Sicario
   The Gift
   The History of Future Folk
   Victoria
