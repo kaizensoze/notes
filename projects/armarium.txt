@@ -12,3 +12,10 @@ features
     wish list
   -------------------------------
   stylist profiles
+
+tech
+  heroku
+  rails
+  cms (TODO: pick a rails cms gem)
+  api (rails gems)
+  swift

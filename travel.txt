@@ -1,0 +1,131 @@
+
+Pittsburgh, PA [6]
+Cleveland, OH [2]
+Detroit, MI [2.5]
+Ann Arbor, MI [1]
+Columbus, OH [3]
+Cincinnati, OH [1.5]
+Louisville, KY [1.5]
+Indianapolis, IN [2]
+Chicago, IL [3]
+Milwaukee, WI [1.5]
+Minneapolis, MN [5]
+Des Moines, IA [3.5]
+Omaha, NE [2]
+Sioux Falls, SD [3]
+Badlands National Park, SD [4]
+Rapid City, SD [1]
+Devils Tower, WY [1.5]
+Billings, MT [4]
+Yellowstone National Park, WY [2.5]
+Jackson, WY [1.5]
+Salt Lake City, UT [4.5]
+Boise, ID [4.5]
+Vancouver, BC [10]
+Seattle, WA [2.5]
+Olympic National Forest, WA [3]
+Portland, OR [3.5]
+===============================
+[80] (10 days)
+
+Portland, OR (fly)
+Sacramento, CA [8.5]
+Lake Tahoe, CA [2]
+Yosemite National Park, CA [2.5]
+San Diego, CA [7]
+Palm Springs, CA [2]
+Joshua Tree National Park, CA [1]
+Mojave National Preserve, CA [2.5]
+Grand Canyon, AZ [5]
+Sedona, AZ [2]
+Phoenix, AZ [2]
+Scottsdale, AZ [0.5]
+Tucson, AZ [2]
+Albequerque, NM [6.5]
+Rocky Mountain National Park, CO [8]
+Denver, CO [2]
+Wichita, KS [7]
+Oklahoma City, OK [2.5]
+Branson, MO [4.5]
+Little Rock, AR [3.5]
+===============================
+[71] (9 days)
+
+Orlando
+New Orleans
+Delaware
+Hawaii
+
+Montreal
+Quebec City
+Ottawa
+
+Paris
+Berlin
+Monaco
+Vienna
+Lisbon
+Barcelona
+Salzburg
+Amsterdam
+Naples
+Rome
+Prague
+Reykjavik
+Beirut
+Istanbul
+Lviv
+Kiev
+Sheffield
+
+trip 1: New England
+---------------------
+New Haven, CT [2]
+chester's bbq (Clinton, CT) [0.5]
+Providence, RI [1.5]
+Portsmouth, RI [0.5]
+Newport, RI [0.5]
+texas roadhouse (Dartmouth, MA) [1]
+castle dawn hotel (Yarmouth, MA) [1]
+Provincetown, MA [1]
+Manchester, NH [3]
+Concord, NH [0.5]
+Portsmouth, NH [1]
+america's best inn (Portsmouth, NH)
+Kennebunkport, ME [1]
+Portland, ME [0.5]
+Acadia National Park, ME [3]
+Bar Harbor, ME
+Bethlehem, NH [5]
+Goddard College, VT
+Montpelier, VT [1.5]
+Burlington, VT [1]
+Lake George, NY [2]
+Glens Falls, NY [0.5]
+Albany, NY [1]
+Woodstock, NY [1]
+New Paltz, NY [1]
+Culinary Institute of America, NY [0.5]
+Brooklyn, NY [2]
+[32.5] (5 days)
+
+trip 2: South
+---------------------
+Philadelphia, PA [2]
+Baltimore, MD [1]
+Washington DC [1]
+Richmond, VA [2]
+Durham-Chapel Hill, NC [2.5]
+Charlotte, NC [2]
+Asheville, NC [2]
+Great Smoky Mountains National Park, TN [1]
+Atlanta, GA [3]
+Nashville, TN [4]
+Birmingham, AL [3]
+Jackson, MS [3.5]
+New Orleans, LA [3]
+Houston, TX [5]
+San Antonio, TX [3]
+Austin, TX [1.5]
+Dallas, TX [3]
+[42.5] (5 days)
