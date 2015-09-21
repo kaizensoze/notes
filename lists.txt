@@ -1,6 +1,4 @@
 
-todo
-
 car candidates
   ford fiesta
   ford focus

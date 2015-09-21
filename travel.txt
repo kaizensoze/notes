@@ -1,4 +1,6 @@
 
+planned road trip 3
+---------------------
 Pittsburgh, PA [6]
 Cleveland, OH [2]
 Detroit, MI [2.5]
@@ -25,9 +27,11 @@ Vancouver, BC [10]
 Seattle, WA [2.5]
 Olympic National Forest, WA [3]
 Portland, OR [3.5]
-===============================
+==============
 [80] (10 days)
 
+planned road trip 4
+---------------------
 Portland, OR (fly)
 Sacramento, CA [8.5]
 Lake Tahoe, CA [2]
@@ -48,18 +52,24 @@ Wichita, KS [7]
 Oklahoma City, OK [2.5]
 Branson, MO [4.5]
 Little Rock, AR [3.5]
-===============================
+==============
 [71] (9 days)
 
+us
+---------------
 Orlando
 New Orleans
 Delaware
 Hawaii
 
+canada
+---------------
 Montreal
 Quebec City
 Ottawa
 
+abroad
+---------------
 Paris
 Berlin
 Monaco
@@ -78,7 +88,12 @@ Lviv
 Kiev
 Sheffield
 
-trip 1: New England
+places to live
+------------------
+richmond, va
+nashville, tn
+
+road trip 1: New England
 ---------------------
 New Haven, CT [2]
 chester's bbq (Clinton, CT) [0.5]
@@ -109,7 +124,7 @@ Culinary Institute of America, NY [0.5]
 Brooklyn, NY [2]
 [32.5] (5 days)
 
-trip 2: South
+road trip 2: South
 ---------------------
 Philadelphia, PA [2]
 Baltimore, MD [1]
