@@ -1,10 +1,35 @@
 
-car candidates
-  ford fiesta
-  ford focus
-  honda fit
-  nissan leaf
-  nissan versa [note]
+movies
+  Black Mass
+  Everest
+  Legend
+  Mistress America
+  Sicario
+  The Gift
+  The History of Future Folk
+  Victoria
+
+tv
+  The Late Show with Stephen Colbert
+  Michael Palin's Around the World in 80 Days
+  Michael Palin: Full Circle
+  Michael Palin - Himalaya
+  Michael Palin: Hemingway Adventure / Great Railway Journeys
+  Michael Palin - Pole to Pole
+  Michael Palin - Sahara
+
+tech
+  rethinkdb
+  go [web framework]
+  scala [web framework]
+  java [web framework]
+  angular
+  ember
+
+projects
+  chip's challenge
+  google street view driving simulator
+  apple watch app
 
 places
   bakery
@@ -33,37 +58,12 @@ places
     Jimmy's Diner
     Original John's Deli
 
-movies
-  Black Mass
-  Everest
-  Legend
-  Mistress America
-  Sicario
-  The Gift
-  The History of Future Folk
-  Victoria
-
-tv
-  The Late Show with Stephen Colbert
-  Michael Palin's Around the World in 80 Days
-  Michael Palin: Full Circle
-  Michael Palin - Himalaya
-  Michael Palin: Hemingway Adventure / Great Railway Journeys
-  Michael Palin - Pole to Pole
-  Michael Palin - Sahara
-
-tech
-  rethinkdb
-  react [native]
-  go
-  angular
-  ember
-
-projects
-  cve list github
-  chip's challenge
-  driving simulation using google street view [+ occulus rift]
-  apple watch app
+car candidates
+  ford fiesta
+  ford focus
+  honda fit
+  nissan leaf
+  nissan versa [note]
 
 museums
   the met

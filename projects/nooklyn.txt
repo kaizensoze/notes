@@ -1,7 +1,7 @@
 
 
-nklyn-ios: agent view
-nooklyn: api tests
+swap out google analytics
+
 
 first time [DONE]
 login
