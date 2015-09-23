@@ -1,7 +1,7 @@
 
 
 swap out google analytics
-
+bug tracking
 
 first time [DONE]
 login
