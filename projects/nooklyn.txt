@@ -1,7 +1,11 @@
-09/23: 13:30 - 16:30
 
-filter icon?
-mates
+
+figure out needed mate model attributes
+add attributes to api model
+pull down mates from api
+setup mate realm model
+play view
+loading overlay
 
 first time [DONE]
 login

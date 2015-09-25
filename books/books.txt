@@ -30,7 +30,6 @@ Chaos, James Gleick
 Chaos in Kabul, Gérard de Villiers
 Cloud Atlas, David Mitchell
 Collapse, Jared Diamond
-Common Sense, Thomas Paine
 Confront and Conceal, David E. Sanger
 Conscious Capitalism, John Mackey
 Contact, Carl Sagan
@@ -223,7 +222,6 @@ The Sound and the Fury, William Faulkner
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
-The Time Machine, H.G. Wells
 The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook, Simson L. Garfinkel
 The Unwinding, George Packer
@@ -252,7 +250,6 @@ War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 We Are All Completely Beside Ourselves, Karen Joy Fowler
 Wealth of Nations, Adam Smith
-What I Learned Losing a Million Dollars, Jim Paul
 When the Killing's Done, T.C. Boyle
 Wherever you go there you are, Jon Kabat-Zinn
 Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
