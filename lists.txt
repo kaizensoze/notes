@@ -14,7 +14,6 @@ movies
   Victoria
 
 tv
-  Michael Palin - Himalaya
   Michael Palin: Hemingway Adventure / Great Railway Journeys
   Michael Palin's Around the World in 80 Days
   Michael Palin: Full Circle
