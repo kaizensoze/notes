@@ -191,7 +191,6 @@ The Long Walk, Stephen King (writing as Richard Bachman)
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
 The Man Who Mistook His Wife For A Hat, Oliver Sacks
-The Martian, Andy Weir
 The Master and Margarita, Mikhail Bulgakov
 The Meaning of Human Existence, Edward O. Wilson
 The Mists of Avalon, Marion Zimmer Bradley
@@ -227,6 +226,7 @@ The Unix-Haters Handbook, Simson L. Garfinkel
 The Unwinding, George Packer
 The Wheel of Time, Robert Jordan
 The Wicked + The Divine, Kieron Gillen
+The Wisdom of Crowds, James Surowiecki
 Things Fall Apart, Chinua Achebe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
@@ -249,6 +249,7 @@ Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 We Are All Completely Beside Ourselves, Karen Joy Fowler
+We Are Anonymous, Parmy Olson
 Wealth of Nations, Adam Smith
 When the Killing's Done, T.C. Boyle
 Wherever you go there you are, Jon Kabat-Zinn

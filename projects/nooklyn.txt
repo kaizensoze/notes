@@ -1,11 +1,12 @@
 
 
-figure out needed mate model attributes
-add attributes to api model
-pull down mates from api
-setup mate realm model
+filters
+  Min Price, Max Price
+  Move In
+  Neighborhood
 play view
 loading overlay
+facebook login overlay
 
 first time [DONE]
 login
@@ -104,10 +105,6 @@ aUqZDtkLdJLVsCT9HOcyjD6RJMWj5IsNhHSHdJbp
 
 apn push "<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>" -c ~/Downloads/dev.pem -m "Hello from the command line" -b 1 -s sosumi.aiff
 
-curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
-curl -H 'API-TOKEN: 53206c648ff94b12b88c19978c3ae74b' 'https://nooklyn.com/api/v1/conversations?include=participating-agents,messages' | jsonformat
-curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat
-
 convo = Conversation.find(563)
 convo.participants
 convo.participating_agents
@@ -146,11 +143,14 @@ http://localhost:3000/locations.json?lattude=40.7191413&longitude=-73.9528119&ra
 http://nooklyn-files.s3.amazonaws.com/subway/2x/L.png
 https://commons.wikimedia.org/wiki/File:NYCS-bull-trans-L.svg
 
-curl -d 'session[email]=gallo.j2@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
-curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/favorites
-curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' 'http://localhost:3000/api/v1/conversations?include=participating-agents' | jsonformat
-curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/hearts?listing-id=3057
-curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' -H 'Content-Type: application/vnd.api+json' http://localhost:3000/api/v1/hearts/ -d @input.json
+curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
+curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/favorites
+curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/mates
+curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/conversations?include=participating-agents' | jsonformat
+curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
+curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat
+curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/hearts?listing-id=3057
+curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' -H 'Content-Type: application/vnd.api+json' http://localhost:3000/api/v1/hearts/ -d @input.json
 {
   "data": {
     "type": "hearts",
@@ -160,11 +160,11 @@ curl -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' -H 'Content-Type: applicat
     }
   }
 }
-curl -X DELETE -H 'API-TOKEN: 6f9f1f4608224dd5859ba80258271895' http://localhost:3000/api/v1/hearts/3057
+curl -X DELETE -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/hearts/3057
 
 curl -i \
 	-X PUT \
-	-H "API-TOKEN: 6f9f1f4608224dd5859ba80258271895" \
+	-H "API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e" \
 	-H "Content-Type: application/vnd.api+json" \
 	-H "Accept-Language: en;q=1.0,fr;q=0.9,de;q=0.8,zh-Hans;q=0.7,zh-Hant;q=0.6,ja;q=0.5" \
 	-H "Accept-Encoding: gzip;q=1.0,compress;q=0.5" \

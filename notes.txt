@@ -77,7 +77,7 @@ Eisenhower becomes president (1953)
 Allen Dulles made director; looks to push covert over espionage
 Stalin dies; Nikita Khrushchev takes over (Mar 1953)
 in Iran, CIA overthrows Mohammed Mossadegh in military coup and replaces him with Shah of Iran after he threatens to nationalize British oil; sha's secret police SAVAK are brutal (1953)
-CIA overthrows Jacob Arbenz in military coup after he threatens to nationalize Rockefeller-owned United Fruit Company (1954) 
+CIA overthrows Jacob Arbenz in military coup after he threatens to nationalize Rockefeller-owned United Fruit Company (1954)
 CIA supports Liberal Democratic Party (LDP) under Nobusuke Kishi in Japan (Nov 1955)
 Radio Free Europe incites Hungary to revolt by broadcasting Khruschev's Secret Speech denouncing Stalin; hints that US will provide aid. No aid comes, Soviets invade, lots die. (1956)
 operative Rocky Stone goes to offer money to Syrian army for help to kill Abdul Hamij Serraj, chief of Syrian intelligence; backfires, leading to Syria-Egypt alliance: United Arab Republic (1957)
@@ -217,3 +217,18 @@ cordova build
 cordova plugin add plugin.google.maps --variable API_KEY_FOR_IOS="AIzaSyCSi7Zh5unqv-Vt83BOgvOdfvPHEGANi_g"
 cordova emulate
 
+breakup of yugoslavia
+=====================
+Slovenia
+Croatia
+Bosnia-Herzegovina
+Montenegro
+Serbia
+Kosovo
+Macedonia
+
+nsa program transition
+======================
+echelon
+trailblazer (thinthread loses)
+turbulence
