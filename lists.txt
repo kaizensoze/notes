@@ -5,12 +5,10 @@ movies
   Everest
   Grandma
   Legend
-  Leonard in Slow Motion
   Mistress America
   Sicario
   Shut In
   The Gift
-  The History of Future Folk
   Victoria
 
 tv
