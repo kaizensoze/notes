@@ -14,7 +14,6 @@ movies
 tv
   Michael Palin's Around the World in 80 Days
   Michael Palin: Full Circle
-  Michael Palin - Sahara
   Drunk History
 
 tech
