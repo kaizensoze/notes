@@ -16,7 +16,6 @@ movies
 tv
   Michael Palin's Around the World in 80 Days
   Michael Palin: Full Circle
-  Michael Palin - Pole to Pole
   Michael Palin - Sahara
   Drunk History
 
@@ -29,34 +28,32 @@ tech
 projects
   chip's challenge
   google street view driving simulator
-  apple watch app
 
 places
   bakery
-    Four & Twenty Blackbirds
-    Margaret Palca Bakes
     Bakeri
-    Du Jour Bakery
     Buttermilk Bakery
+    Sugar Couture
+    Du Jour Bakery
+    Margaret Palca Bakes
+    Four & Twenty Blackbirds
     Betty Bakery
     Court Street Pastry Shoppe
     Caprice's by Sophie
     Robicelli Bakery
     Napoli Bakery
-    Sugar Couture
     The Civil Service Cafe
   coffee
-    Otha's
-    The Mill Coffee Company
-    The West
     Toby's Estate
+    Otha's
+    The West
+    The Mill Coffee Company
   sandwiches
-    Anthony & Son Panini Shoppe
     Court Street Grocers
     Mazzola Bakery
     Defontes
-    Jimmy's Diner
     Original John's Deli
+    Jimmy's Diner
 
 car candidates
   ford fiesta
@@ -67,10 +64,8 @@ car candidates
 
 museums
   the met
-  museum of natural history
+  moma
   brooklyn museum
-  The New York Historical Society
-  lower east side tenement museum
 
 mischief
 	f-bomb spy computer
@@ -118,13 +113,6 @@ challenges
 	Facebook Engineering Puzzles
 	Top Coder
 
-quotes
-  "It is the good fortune of many to live distant from the scene of sorrow.”
-  Thomas Paine. “Common Sense.”
-
-  “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
-  Ursula K. Le Guin. “The Left Hand of Darkness.”
-
 videogames
   PS4
     Bloodborne
@@ -152,23 +140,28 @@ comics
   Walking Dead: 146
 
 talk shows
-  11:35pm-12:35am
-    tonight show (NBC)
-      johnny carson (1962-1992)
-      jay leno (1992-2009)
-      conan o'brien (2009-2010)
-      jay leno (2010-2014)
-      jimmy fallon (2014-present)
-    late show (CBS)
-      letterman (1993-2015)
-      colbert (2015-present)
-  12:35am-1:35am
-    late night (NBC)
-      letterman (1982-1993)
-      conan (1993-2009)
-      jimmy fallon (2009-2014
-      seth meyers (2014-present)
-    late late show (CBS)
-      craig kilborn (1999-2004)
-      craig ferguson (2005-2014)
-      james corden (2015-present)
+  tonight show (NBC) [11:35pm-12:35am]
+    jimmy fallon (2014-present)
+    jay leno (2010-2014)
+    conan o'brien (2009-2010)
+    jay leno (1992-2009)
+    johnny carson (1962-1992)
+  late show (CBS) [11:35pm-12:35am]
+    stephen colbert (2015-present)
+    david letterman (1993-2015)
+  late night (NBC) [12:35am-1:35am]
+    seth meyers (2014-present)
+    jimmy fallon (2009-2014
+    conan o'brien (1993-2009)
+    david letterman (1982-1993)
+  late late show (CBS) [12:35am-1:35am]
+    james corden (2015-present)
+    craig ferguson (2005-2014)
+    craig kilborn (1999-2004)
+
+quotes
+  "It is the good fortune of many to live distant from the scene of sorrow.”
+  Thomas Paine. “Common Sense.”
+
+  “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
+  Ursula K. Le Guin. “The Left Hand of Darkness.”

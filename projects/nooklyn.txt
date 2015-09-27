@@ -1,7 +1,8 @@
 
 
-play view
+favorite mate
 facebook login overlay
+play view
 mate detail view
 
 first time [DONE]
@@ -143,7 +144,7 @@ prod api key: 3a197ffc2f9e4bdca6f9249fbe6af222
 
 curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
 curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/favorites
-curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/mates
+curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/mates?include=neighborhood
 curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/conversations?include=participating-agents' | jsonformat
 curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
 curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat
