@@ -12,9 +12,7 @@ movies
   Victoria
 
 tv
-  Michael Palin's Around the World in 80 Days
-  Michael Palin: Full Circle
-  Drunk History
+  
 
 tech
   rethinkdb
