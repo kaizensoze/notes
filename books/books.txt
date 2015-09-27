@@ -1,3 +1,4 @@
+A Cook's Tour, Anthony Bourdain
 A Fire Upon the Deep, Vernor Vinge
 A Suitable Boy, Vikram Seth
 Age of Ambition, Evan Osnos
@@ -85,6 +86,7 @@ Long Walk to Freedom, Nelson Mandela
 Macbeth, Shakespeare
 Man's Search for Meaning, Viktor Frankl
 Mating in Captivity, Esther Perel
+Medium Raw, Anthony Bourdain
 Men are from mars, women are from venus, Joe Peacock
 Moby Dick, Herman Melville
 Modern Romance, Aziz Ansari
@@ -185,7 +187,6 @@ The Illuminatus Trilogy, Robert Shea
 The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovators, Walter Isaacson
 The Last Unicorn, Peter S. Beagle
-The Little Prince, Antoine de Saint Exupéry
 The Long Tomorrow, Leigh Brackett
 The Long Walk, Stephen King (writing as Richard Bachman)
 The Madmen of Benghazi, Gérard de Villiers
