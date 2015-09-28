@@ -1,9 +1,7 @@
 
 movies
   tomie
-  uzumaki
   orochi
-  hell baby
 
   99 Homes
   Black Mass
@@ -20,10 +18,9 @@ tv
 
 
 tech
-  rethinkdb
   go [web framework]
+  hack (php)
   scala [web framework]
-  java [web framework]
 
 projects
   chip's challenge
