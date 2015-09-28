@@ -1,5 +1,10 @@
 
 movies
+  tomie
+  uzumaki
+  orochi
+  hell baby
+
   99 Homes
   Black Mass
   Everest
@@ -12,7 +17,7 @@ movies
   Victoria
 
 tv
-  
+
 
 tech
   rethinkdb
@@ -31,13 +36,13 @@ places
     Sugar Couture
     Du Jour Bakery
     Margaret Palca Bakes
-    Four & Twenty Blackbirds
     Betty Bakery
     Court Street Pastry Shoppe
     Caprice's by Sophie
     Robicelli Bakery
     Napoli Bakery
     The Civil Service Cafe
+    Four & Twenty Blackbirds
   coffee
     Toby's Estate
     Otha's
