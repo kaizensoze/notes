@@ -1,14 +1,13 @@
 17:00 -
 
-total: 1716 / 3 = 572
-top: 1128
-bottom: 586
-
-play layout for iphone 6+
 play layout for smaller screen sizes
+dynamically fill in play view
 
 mate play view
 mate detail view
+
+questions
+active state for ignore button
 
 first time [DONE]
 login
