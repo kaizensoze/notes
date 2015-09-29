@@ -20,7 +20,6 @@ tv
 tech
   go [web framework]
   hack (php)
-  scala [web framework]
 
 projects
   chip's challenge

@@ -203,6 +203,7 @@ The Once and Future King, T.H. White
 The Painted Bird, Jerzy Kosinski
 The Panda's Thumb, Stephen Jay Gould
 The Paper Trip, Barry Reid
+The Pentagon's Brain, Annie Jacobsen
 The Pillars of the Earth, Ken Follett
 The Power of Myth, Joseph Campbell
 The Prince of Nothing, R. Scott Bakker
@@ -259,4 +260,4 @@ Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
 Without Feathers, Woody Allen
 Women, Charles Bukowski
-Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel 
+Zero to One: Notes on Startups, or How to Build the Future, Peter Thiel

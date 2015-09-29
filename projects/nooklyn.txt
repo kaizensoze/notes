@@ -1,4 +1,11 @@
+17:00 -
 
+total: 1716 / 3 = 572
+top: 1128
+bottom: 586
+
+play layout for iphone 6+
+play layout for smaller screen sizes
 
 mate play view
 mate detail view
