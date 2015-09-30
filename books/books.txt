@@ -23,12 +23,14 @@ Book of Numbers, Joshua Cohen
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 Broken Markets, Sal L. Arnuk
 Business@The Speed of Thought, Bill Gates
+By Night in Chile, Roberto Bolano
 Cancer Ward, Aleksandr Solzhenitsyn
 Candide, Voltaire
 Can't We Talk about Something More Pleasant?, Roz Chast
 Carsick, John Waters
 Chaos, James Gleick
 Chaos in Kabul, Gérard de Villiers
+Child of God, Cormac McCarthy
 Cloud Atlas, David Mitchell
 Collapse, Jared Diamond
 Confront and Conceal, David E. Sanger
@@ -69,6 +71,7 @@ History of Western Philosophy,
 How Children Succeed, Paul Tough
 How Markets Fail, John Cassidy
 How to Change the World, David Bornstein
+How To Get Into The Twin Palms, Karolina Waclawiak
 How We Live Now, Bella DePaulo
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
 Imhotep, Jerry Dubs
@@ -188,6 +191,7 @@ The Illuminatus Trilogy, Robert Shea
 The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovators, Walter Isaacson
 The Last Unicorn, Peter S. Beagle
+The Lathe of Heaven, Ursula K. Le Guin
 The Long Tomorrow, Leigh Brackett
 The Long Walk, Stephen King (writing as Richard Bachman)
 The Madmen of Benghazi, Gérard de Villiers
@@ -253,6 +257,7 @@ War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 We Are All Completely Beside Ourselves, Karen Joy Fowler
 We Are Anonymous, Parmy Olson
+We Have Always Lived In The Castle, Shirley Jackson
 Wealth of Nations, Adam Smith
 When the Killing's Done, T.C. Boyle
 Wherever you go there you are, Jon Kabat-Zinn

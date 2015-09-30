@@ -1,6 +1,6 @@
-17:00 -
 
-play layout for smaller screen sizes
+
+adjust play layout for smaller screen sizes
 dynamically fill in play view
 
 mate play view

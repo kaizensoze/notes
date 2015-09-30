@@ -18,12 +18,12 @@ tv
 
 
 tech
-  go [web framework]
   hack (php)
 
 projects
   chip's challenge
   google street view driving simulator
+  metabolomics project
 
 places
   bakery
