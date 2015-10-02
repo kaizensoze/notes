@@ -1,13 +1,10 @@
 
 
-adjust play layout for smaller screen sizes
-dynamically fill in play view
-
-mate play view
-mate detail view
-
-questions
-active state for ignore button
+tinder-like swipe
+test prod
+update pods
+agent view: favorite listings + mates
+detail view
 
 first time [DONE]
 login

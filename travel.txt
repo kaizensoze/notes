@@ -11,7 +11,8 @@ Louisville, KY [1.5]
 Indianapolis, IN [2]
 Chicago, IL [3]
 Milwaukee, WI [1.5]
-Minneapolis, MN [5]
+Madison, WI [1.5]
+Minneapolis, MN [4]
 Des Moines, IA [3.5]
 Omaha, NE [2]
 Sioux Falls, SD [3]
@@ -41,7 +42,8 @@ Palm Springs, CA [2]
 Joshua Tree National Park, CA [1]
 Mojave National Preserve, CA [2.5]
 Grand Canyon, AZ [5]
-Sedona, AZ [2]
+Flagstaff, AZ [1.5]
+Sedona, AZ [1]
 Phoenix, AZ [2]
 Scottsdale, AZ [0.5]
 Tucson, AZ [2]
@@ -61,6 +63,14 @@ Orlando
 New Orleans
 Delaware
 Hawaii
+
+college towns
+---------------
+Athens, GA
+Charlottesville, VA
+Madison, WI
+Troy, AL
+Bowling Green, KY
 
 canada
 ---------------
@@ -90,8 +100,9 @@ Sheffield
 
 places to live
 ------------------
-richmond, va
-nashville, tn
+Richmond, VA
+Nashville, TN
+Austin, TX
 
 road trip 1: New England
 ---------------------

@@ -15,7 +15,9 @@ movies
   Victoria
 
 tv
-
+  Southcliffe
+  Chef's Table
+  The Unbreakable Kimmy Schmidt
 
 tech
   hack (php)
@@ -112,25 +114,12 @@ challenges
 videogames
   PS4
     Bloodborne
-    Infamous: Second Son
-    Lords of the Fallen
+    Heavy Rain
     Metro Redux
     Oddworld: New 'n' Tasty
-    Resogun
-    Rogue Legacy
-    Strider
     The Vanishing of Ethan Carter
     The Last of Us
     The Witcher 3
-    Transistor
-
-  PS3
-    Heavy Rain
-    Journey
-    LittleBigPlanet 2
-    Rogue Legacy
-    The Last of Us
-    The Talos Principle
 
 comics
   Walking Dead: 147
