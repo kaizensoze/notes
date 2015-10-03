@@ -1,10 +1,6 @@
 
 movies
-  tomie
-  orochi
-
   99 Homes
-  Black Mass
   Everest
   Grandma
   Legend
@@ -12,6 +8,7 @@ movies
   Sicario
   Shut In
   The Gift
+  The Walk
   Victoria
 
 tv
@@ -114,12 +111,11 @@ challenges
 videogames
   PS4
     Bloodborne
-    Heavy Rain
     Metro Redux
-    Oddworld: New 'n' Tasty
-    The Vanishing of Ethan Carter
-    The Last of Us
     The Witcher 3
+  PC
+    Allison Road
+    Fallout 4
 
 comics
   Walking Dead: 147
