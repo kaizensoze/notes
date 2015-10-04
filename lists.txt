@@ -1,7 +1,6 @@
 
 movies
   99 Homes
-  Everest
   Grandma
   Legend
   Mistress America
@@ -12,9 +11,8 @@ movies
   Victoria
 
 tv
-  Southcliffe
   Chef's Table
-  The Unbreakable Kimmy Schmidt
+  Unbreakable Kimmy Schmidt
 
 tech
   hack (php)

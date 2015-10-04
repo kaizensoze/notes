@@ -1,4 +1,9 @@
+21:45
 
+drag image around view
+release to bounce back
+left side: show ignore icon over top right part of image
+right side: show favorite icon over top left part of image
 
 tinder-like swipe
 test prod
