@@ -15,8 +15,8 @@ there'll also be a flag option
 you can delete a message
 basically a way to get interesting messages from random people
 an upvote will trigger an additional distribution to other users ( + additional 1% of users?)
-3 tabs: inbox, sent, top 10
-update top 10 list every day/[week]/month? -> update top 10 in real-time
+3 tabs: inbox, sent, top n
+update top n list every day/[week]/month? -> update top n in real-time
 probably need to moderate content
 sending a message goes to a PENDING table that moderators need to destroy/approve
 
@@ -38,7 +38,7 @@ message list views
     subject
     upvote count
     sent date?
-  top 10
+  top n
     username
     subject
     upvote count
@@ -83,11 +83,13 @@ for sponsored messages, record message open, image open
 
 have an initial max view count for each sent message (set it to a % of [logged in] users?)
 an upvote increases the max view count
-later allow users to pay to increase that initial max view count
 
 TODO: research reddit regarding content moderation
 TODO: need to think about distribution algorithm
 TODO: look into shorter name for app
 TODO: purchase domain name
+
+LATER: allow users to pay to increase that initial max view count
+LATER: opt to restrict messages to those created by someone within a certain radius from the user
 
 TLDR: like snapchat but email and global
