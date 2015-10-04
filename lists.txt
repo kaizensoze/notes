@@ -12,12 +12,11 @@ movies
 
 tv
   Chef's Table
-  Unbreakable Kimmy Schmidt
 
 tech
-  hack (php)
 
 projects
+  to whom it may concern app
   chip's challenge
   google street view driving simulator
   metabolomics project
@@ -79,10 +78,10 @@ conferences
   (09/22) appsec
 
 estimated tax deadlines
-  Q1  April 15, 2014
-  Q2  June 16, 2014
-  Q3  September 15, 2014
-  Q4  January 15, 2015
+  Q1 April 15, 2014
+  Q2 June 16, 2014
+  Q3 September 15, 2014
+  Q4 January 15, 2015
 
 health insurance
   chamber of commerce
@@ -109,10 +108,6 @@ challenges
 videogames
   PS4
     Bloodborne
-    Metro Redux
-    The Witcher 3
-  PC
-    Allison Road
     Fallout 4
 
 comics

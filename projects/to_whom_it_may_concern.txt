@@ -1,0 +1,93 @@
+To Whom It May Concern
+
+you have an inbox
+you're given some "account" with a random ridiculous name -> you pick username (people would get butt-hurt over messages coming from an unverified seemingly legit name)
+maybe allow username + name?
+initial message explaining what to do, etc.
+your inbox gets random [but hopefully interesting messages] from strangers
+message can contain text and image (1 image only)
+you can't immediately see image. there's an icon you tap to view it (press and hold)
+you have to scroll to bottom of text before you can tap image icon to view image
+the idea is to read the text first without seeing the images to hopefully up the comedic factor
+anything goes (except illegal shit) -> might need to moderate (people coming across an illegal photo on their phone is understandably cause for concern)
+when viewing a message, you can rate it -> upvote/downvote
+there'll also be a flag option
+you can delete a message
+basically a way to get interesting messages from random people
+an upvote will trigger an additional distribution to other users ( + additional 1% of users?)
+3 tabs: inbox, sent, top 10
+update top 10 list every day/[week]/month? -> update top 10 in real-time
+probably need to moderate content
+sending a message goes to a PENDING table that moderators need to destroy/approve
+
+login
+  username
+  password
+
+signup
+  username
+  name
+  email
+  password
+
+message list views
+  inbox
+    username
+    subject
+  sent
+    subject
+    upvote count
+    sent date?
+  top 10
+    username
+    subject
+    upvote count
+
+message view
+  text in scrollview
+  image icon view
+  toolbar with upvote, downvote, burn, flag buttons
+
+user
+  id
+  username
+  name
+  email
+  hashed password
+
+message model
+  id
+  author (user.id)
+  subject
+  text
+  image
+  max view count
+  view count
+  upvotes
+  downvotes
+  [sponsored]
+
+message assignments
+  message.id
+  user.id
+
+press hold image icon to show image
+releasing image icon hides image
+
+refresh button
+have a max number of unread messages in inbox so people don't freak out about bandwidth issues
+
+eventually have sponsored messages
+only record up/downvotes in general
+for sponsored messages, record message open, image open
+
+have an initial max view count for each sent message (set it to a % of [logged in] users?)
+an upvote increases the max view count
+later allow users to pay to increase that initial max view count
+
+TODO: research reddit regarding content moderation
+TODO: need to think about distribution algorithm
+TODO: look into shorter name for app
+TODO: purchase domain name
+
+TLDR: like snapchat but email and global

@@ -1,15 +1,10 @@
-21:45
 
-drag image around view
-release to bounce back
-left side: show ignore icon over top right part of image
-right side: show favorite icon over top left part of image
 
-tinder-like swipe
+detail view
+refine play view
+agent view: favorite listings + mates
 test prod
 update pods
-agent view: favorite listings + mates
-detail view
 
 first time [DONE]
 login
