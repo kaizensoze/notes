@@ -84,6 +84,7 @@ for sponsored messages, record message open, image open
 have an initial max view count for each sent message (set it to a % of [logged in] users?)
 an upvote increases the max view count
 
+TODO: research [legal] terms for snapchat, reddit, instagram, facebook, 4chan
 TODO: research reddit regarding content moderation
 TODO: need to think about distribution algorithm
 TODO: look into shorter name for app

@@ -1,8 +1,11 @@
 
 
-detail view
-refine play view
 agent view: favorite listings + mates
+
+refine mate play view
+mate detail view
+create mate profile
+
 test prod
 update pods
 
