@@ -1,17 +1,21 @@
+http://natas12.natas.labs.overthewire.org
+EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
+
+/etc/natas_webpass/natas13
 
 movies
   99 Homes
   Grandma
   Legend
   Mistress America
-  Sicario
   Shut In
+  Steve Jobs
   The Gift
   The Walk
   Victoria
 
 tv
-  Chef's Table
+
 
 tech
 
