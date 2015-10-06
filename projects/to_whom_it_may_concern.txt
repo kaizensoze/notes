@@ -91,11 +91,30 @@ make a user's message's reach proportional to their bump count
 
 when you sign up, there's a scripted part (reserved messages) as if you're starting at a company that will segue into "open world" mode
 
-TODO: research [legal] terms for snapchat, reddit, instagram, facebook, 4chan
+act as if everyone works at the company
+have the user shown as <username>@brassafrax.com
+
+allow direct (private) emails?
+
 TODO: research reddit regarding content moderation
 TODO: need to think about distribution algorithm
 TODO: look into shorter name for app
 TODO: purchase domain name
+
+legal
+  snapchat
+    https://www.snapchat.com/terms
+    https://www.snapchat.com/privacy
+  reddit
+    https://www.reddit.com/help/useragreement
+    https://www.reddit.com/help/privacypolicy
+  facebook
+    https://www.facebook.com/terms.php
+  imgur
+    http://imgur.com/tos
+  4chan
+    http://www.4chan.org/rules
+    see disclaimer popup text on selecting a board
 
 LATER: allow users to pay to increase their messages' reach
 LATER: opt to restrict messages to those created by someone within a certain radius from the user
