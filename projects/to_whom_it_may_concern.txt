@@ -90,33 +90,40 @@ show user's bump count next to their username in messages
 make a user's message's reach proportional to their bump count
 
 when you sign up, there's a scripted part (reserved messages) as if you're starting at a company that will segue into "open world" mode
+the last "reserved" message (reserved = authored by admin and sent to every user) will be the supposed IT guy of the company who starts his message with
+To Whom It May Concern, and the message states that he's had enough and he's out
 
 act as if everyone works at the company
 have the user shown as <username>@brassafrax.com
 
 allow direct (private) emails?
 
-TODO: research reddit regarding content moderation
+to prevent abuse of content, only allow images shot directly from phone (disallow access to photos on device)
+
+writing a long message on the phone can be a pain so allow a web interface that allows saving a draft (no image upload) that you can access from your phone?
+
+references
+  legal
+    snapchat
+      https://www.snapchat.com/terms
+      https://www.snapchat.com/privacy
+    reddit
+      https://www.reddit.com/help/useragreement
+      https://www.reddit.com/help/privacypolicy
+    facebook
+      https://www.facebook.com/terms.php
+    imgur
+      http://imgur.com/tos
+    4chan
+      http://www.4chan.org/rules
+      see disclaimer popup text on selecting a board
+
+  moderation
+    https://www.reddit.com/r/Entrepreneur/comments/3h0aym/content_moderation_how_we_solved_our_dick_pic/
+
 TODO: need to think about distribution algorithm
 TODO: look into shorter name for app
 TODO: purchase domain name
 
-legal
-  snapchat
-    https://www.snapchat.com/terms
-    https://www.snapchat.com/privacy
-  reddit
-    https://www.reddit.com/help/useragreement
-    https://www.reddit.com/help/privacypolicy
-  facebook
-    https://www.facebook.com/terms.php
-  imgur
-    http://imgur.com/tos
-  4chan
-    http://www.4chan.org/rules
-    see disclaimer popup text on selecting a board
-
 LATER: allow users to pay to increase their messages' reach
-LATER: opt to restrict messages to those created by someone within a certain radius from the user
-
-TLDR: like snapchat but email and global
+LATER: restrict messages in inbox to those created by users nearby? (no restriction on global top list though)
