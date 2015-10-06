@@ -59,6 +59,7 @@ Every Love Story Is a Ghost Story: A Life of David Foster Wallace
 Fermat's Enigma, Simon Singh
 Generation Kill, Evan Wright
 Generations, Neil Howe
+Generation X, Douglas Coupland
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Girl With Curious Hair, David Foster Wallace
 Godel Escher Bach, Douglas R. Hofstadter
@@ -154,6 +155,7 @@ The Collapse of Complex Societies, Joseph Tainter
 The Communist Manifesto, Karl Marx
 The Corpse Reader, Antonio Garrido
 The Count of Monte Cristo, Alexandre Dumas
+The Courage to Act: A Memoir of a Crisis and Its Aftermath, Ben Bernanke
 The Curious Incident of the Dog in the Nightime, Mark Haddon
 The Dark Tower, Stephen King
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
@@ -178,6 +180,7 @@ The God Delusion, Richard Dawkins
 The Grand Design, Stephen Hawking
 The Grapes of Wrath, John Steinbeck
 The Great Divide: Unequal Societies and What We Can Do About Them, Joseph E. Stiglitz
+The Great Surge: The Ascent of the Developing World, Steven Radelet
 The Great Unraveling, Paul R. Krugman
 The Greatest Show on Earth, Richard Dawkins
 The Gulag Archipelago Abridged, Aleksandr Solzhenitsyn
@@ -251,7 +254,6 @@ Twenty Thousand Leagues Under the Sea, Jules Verne
 Ubik, Philip K. Dick
 Ulysses, James Joyce
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
-Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel, Rolf Potts
 Violent Python,  T.J. O'Connor
 Walden, Henry David Thoreau
 Walking the Amazon, Ed Stafford

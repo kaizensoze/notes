@@ -1,7 +1,9 @@
-http://natas12.natas.labs.overthewire.org
-EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
 
-/etc/natas_webpass/natas13
+The 9-to-5 Escape Artist: A Startup Guide for Aspiring Lifestyle Entrepreneurs and Digital Nomads
+Travel: How To Travel The World (Almost) For Free
+The Suitcase Entrepreneur: Create freedom in business and adventure in life
+Travel Like A Pro: Road-Tested Tips for Digital Nomads and Frequent Travelers
+Travel While You Work: The Ultimate Guide to Running a Business from Anywhere
 
 movies
   99 Homes
@@ -24,6 +26,15 @@ projects
   chip's challenge
   google street view driving simulator
   metabolomics project
+
+overthewire
+  http://natas12.natas.labs.overthewire.org
+  EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
+  /etc/natas_webpass/natas13
+
+wine
+  white
+    verdejo
 
 places
   bakery
