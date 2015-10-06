@@ -89,6 +89,8 @@ buttons: flag burn bump star
 show user's bump count next to their username in messages
 make a user's message's reach proportional to their bump count
 
+when you sign up, there's a scripted part (reserved messages) as if you're starting at a company that will segue into "open world" mode
+
 TODO: research [legal] terms for snapchat, reddit, instagram, facebook, 4chan
 TODO: research reddit regarding content moderation
 TODO: need to think about distribution algorithm
