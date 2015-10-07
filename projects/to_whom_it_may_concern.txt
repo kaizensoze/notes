@@ -1,31 +1,27 @@
 To Whom It May Concern
 
-you have an inbox
-you're given some "account" with a random ridiculous name -> you pick username (people would get butt-hurt over messages coming from an unverified seemingly legit name)
-maybe allow username + name?
-initial message explaining what to do, etc.
-your inbox gets random [but hopefully interesting messages] from strangers
+sign up
+login
+gmail-like inbox shown
+start intro sequence (just joined a company, etc.)
 message can contain text and image (1 image only)
 you can't immediately see image. there's an icon you tap to view it (press and hold)
 you have to scroll to bottom of text before you can tap image icon to view image
 the idea is to read the text first without seeing the images to hopefully up the comedic factor
-when viewing a message, you can rate it -> upvote/downvote
-there'll also be a flag option
-you can delete a message
-basically a way to get interesting messages from random people
-an upvote will trigger an additional distribution to other users ( + additional 1% of users?)
-3 tabs: inbox, sent, top n
-update top n list every day/[week]/month? -> update top n in real-time
+when viewing a message, you can flag, burn, bump, star
+you can also delete a message from messages list view (inbox)
+a bump will trigger an additional distribution to other users
+5 tabs?: inbox, sent, drafts, top n, favorites
 no moderation
-
-login
-  username
-  password
 
 signup
   username
   name
   email
+  password
+
+login
+  username
   password
 
 message list views
@@ -44,45 +40,46 @@ message list views
 message view
   text in scrollview
   image icon view
-  toolbar with upvote, downvote, burn, flag buttons
+  toolbar with flag, burn, bump, star buttons
 
-user
-  id
-  username
-  name
-  email
-  hashed password
+models
+  user
+    id
+    username
+    email
+    hashed_password
+    bump_count
+    flagged_count
 
-message model
-  id
-  author (user.id)
-  subject
-  text
-  image
-  max view count
-  view count
-  upvotes
-  downvotes
-  [sponsored]
+  message
+    id
+    user_id
+    subject
+    text
+    image
+    max_view_count
+    view count
+    bump_count
+    flagged_count
 
-message assignments
-  message.id
-  user.id
+  message_assignments
+    id
+    message_id
+    user_id
+
+  favorites
+    id
+    user_id
+    message_id
 
 press hold image icon to show image
 releasing image icon hides image
 
 refresh button
-have a max number of unread messages in inbox so people don't freak out about bandwidth issues
-
-eventually have sponsored messages
-only record up/downvotes in general
-for sponsored messages, record message open, image open
+have a max number of unread messages (10) in inbox so people don't freak out about bandwidth issues
 
 have an initial max view count for each sent message (set it to a % of [logged in] users?) => tie message's reach to user, not message
 an upvote increases the max view count
-
-might want to have a favorite option with a favorites tab
 
 buttons: flag burn bump star
 
@@ -94,7 +91,7 @@ the last "reserved" message (reserved = authored by admin and sent to every user
 To Whom It May Concern, and the message states that he's had enough and he's out
 
 act as if everyone works at the company
-have the user shown as <username>@brassafrax.com
+have the user shown as <username>@<made_up_company>
 
 allow direct (private) emails?
 
@@ -121,9 +118,13 @@ references
   moderation
     https://www.reddit.com/r/Entrepreneur/comments/3h0aym/content_moderation_how_we_solved_our_dick_pic/
 
-TODO: need to think about distribution algorithm
-TODO: look into shorter name for app
-TODO: purchase domain name
+  architecture
+    http://serverfault.com/questions/706953/why-would-a-image-hosting-website-such-as-imgur-use-aws-ec2-instances-over-s3
+    http://www.forbes.com/sites/parmyolson/2012/10/18/how-4chans-chris-poole-runs-his-web-giant-on-a-shoestring/
+    http://imgur.com/blog/2013/06/04/tech-tuesday-our-technology-stack/
+
+TODO: decide on UI: inbox, sent, top n, favorites
+TODO: figure out distribution algorithm
 
 LATER: allow users to pay to increase their messages' reach
 LATER: restrict messages in inbox to those created by users nearby? (no restriction on global top list though)

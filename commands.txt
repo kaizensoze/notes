@@ -48,6 +48,9 @@ heroku
 
   heroku logs -t
 
+imagemagick
+  identify -verbose <image>
+
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
 

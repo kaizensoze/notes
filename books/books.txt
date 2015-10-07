@@ -124,7 +124,7 @@ Ringworld, Larry Niven
 Rise of the Robots, Martin Ford
 Rise of the Warrior Cop: The Militarization of America’s Police Forces, Daniel Defoe
 Robinson Crusoe, Daniel Defoe
-Rtfm: Red Team Field Manual
+Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
 Siddhartha, Hermann Hesse
 Silence of the Lambs, Thomas Harris
@@ -133,6 +133,7 @@ Sirens of Titan, Kurt Vonnegut
 Solaris, Ray Bradbury
 Something Wicked This Way Comes,
 Sophie's World, Jostein Gaarder
+Spam Nation, Brian Krebs
 Spycraft, Robert Wallace
 Starship Troopers, Robert A. Heinlein
 Steppenwolf, Hermann Hesse
