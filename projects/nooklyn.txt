@@ -1,5 +1,10 @@
 + 0.5
 
+leave current /favorites for now
+create new /favorites2
+need to pass agent_id to /favorites2, /mate-favorites
+restrict create/update/destroy to current_user
+
 agent view: favorite listings + mates
 
 refine mate play view
