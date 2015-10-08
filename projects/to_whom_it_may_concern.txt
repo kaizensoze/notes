@@ -119,6 +119,11 @@ references
     https://www.reddit.com/r/Entrepreneur/comments/3h0aym/content_moderation_how_we_solved_our_dick_pic/
 
   architecture
+    digitalocean
+    node
+    postgres
+    redis
+
     http://serverfault.com/questions/706953/why-would-a-image-hosting-website-such-as-imgur-use-aws-ec2-instances-over-s3
     http://www.forbes.com/sites/parmyolson/2012/10/18/how-4chans-chris-poole-runs-his-web-giant-on-a-shoestring/
     http://imgur.com/blog/2013/06/04/tech-tuesday-our-technology-stack/
