@@ -16,8 +16,8 @@ tv
 tech
 
 projects
-  to whom it may concern app
   chip's challenge
+  to whom it may concern app
   google street view driving simulator
   metabolomics project
 
@@ -148,3 +148,6 @@ quotes
 
   “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
   Ursula K. Le Guin. “The Left Hand of Darkness.”
+
+  "Did it ever occur to you, sir, what an opportunity a battlefield affords liars?"
+  Stonewall Jackson

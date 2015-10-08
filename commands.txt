@@ -49,7 +49,8 @@ heroku
   heroku logs -t
 
 imagemagick
-  identify -verbose <image>
+  identify -verbose [image]
+  exiftool -all= [image]
 
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com

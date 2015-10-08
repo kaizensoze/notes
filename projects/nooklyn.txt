@@ -1,6 +1,6 @@
 
 
-agent view
+favorites view
   favorite listings
   favorite mates
 
