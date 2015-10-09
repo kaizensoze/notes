@@ -1,15 +1,20 @@
+11:00 - 12:30
+14:15 - 14:45
+15:30 - 18:30
 
+figure out how to fix the Listing/Favorite, Mate/MateFavorite issue
+  getFavorites() isn't grabbing and creating Neighborhood objects
+  getMateFavorites() isn't grabbing and creating MateNeighborhood objects [or Agent objects]
 
-favorites view
-  favorite listings
-  favorite mates
+test unfavorite mate
+test mate message
+dynamically adjust info, buttons views for < iphone 6
 
 refine mate play view
 mate detail view
 create mate profile
 
 test prod
-update pods
 
 first time [DONE]
 login
