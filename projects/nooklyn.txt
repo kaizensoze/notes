@@ -1,10 +1,6 @@
 
 
-have ignore remove mate from grid
-add confirmation to ignore button
-
-consolidate loading view
-move all api-related code into ApiManager
+prevent being able to unfavorite on favorites view for someone else
 
 figure out how to fix the Listing/Favorite, Mate/MateFavorite issue
   getFavorites() isn't grabbing and creating Neighborhood objects
@@ -15,11 +11,15 @@ test unfavorite mate
 test mate message
 dynamically adjust info, buttons views for < iphone 6
 
+have ignore remove mate from grid
+add confirmation to ignore button
+
 refine mate play view
 mate detail view
 create mate profile
-
 test prod
+
+find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/3184918C-E437-446C-AE92-879284313E40/data/Containers/Data/Application/' -type f -name 'default.realm'
 
 first time [DONE]
 login
