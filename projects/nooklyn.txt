@@ -1,8 +1,15 @@
 
 
+have ignore remove mate from grid
+add confirmation to ignore button
+
+consolidate loading view
+move all api-related code into ApiManager
+
 figure out how to fix the Listing/Favorite, Mate/MateFavorite issue
   getFavorites() isn't grabbing and creating Neighborhood objects
   getMateFavorites() isn't grabbing and creating MateNeighborhood objects [or Agent objects]
+  I think I need to separate out getting subresources into reusable functions (Neighborhood, MateNeighborhood, etc.)
 
 test unfavorite mate
 test mate message

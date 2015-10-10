@@ -6,7 +6,6 @@ movies
   Mistress America
   Shut In
   Steve Jobs
-  The Gift
   The Walk
   Victoria
 
