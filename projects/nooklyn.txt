@@ -1,14 +1,6 @@
 
 
-prevent being able to unfavorite on favorites view for someone else
-
-figure out how to fix the Listing/Favorite, Mate/MateFavorite issue
-  getFavorites() isn't grabbing and creating Neighborhood objects
-  getMateFavorites() isn't grabbing and creating MateNeighborhood objects [or Agent objects]
-  I think I need to separate out getting subresources into reusable functions (Neighborhood, MateNeighborhood, etc.)
-
-test unfavorite mate
-test mate message
+separate other's favorites from your own
 dynamically adjust info, buttons views for < iphone 6
 
 have ignore remove mate from grid
