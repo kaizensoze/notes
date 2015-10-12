@@ -1,10 +1,10 @@
+10:30 - 14:00
 
-
-separate other's favorites from your own
-dynamically adjust info, buttons views for < iphone 6
-
-have ignore remove mate from grid
-add confirmation to ignore button
+test favorites view
+  iphone 6
+  iphone 5s
+  iphone 4s
+  ipad
 
 refine mate play view
 mate detail view
