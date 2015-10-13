@@ -25,10 +25,6 @@ overthewire
   EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
   /etc/natas_webpass/natas13
 
-wine
-  white
-    verdejo
-
 places
   bakery
     Bakeri
