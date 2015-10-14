@@ -91,6 +91,13 @@ express
   TODO: setup ec2 instance and compare
   TODO: setup heroku and compare
 
+cpus
+  digitalocean: Intel(R) Xeon(R) CPU E5-2650L v3 @ 1.80GHz
+  linode (kvm): Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+  aws (t2.micro): Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz
+
+tests were performed around 3 AM EST
+
 results
   digitalocean
           Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
