@@ -88,9 +88,6 @@ express
   echo -e "logging = true\nlogfile = $HOME/siege.log" >> ~/.siegerc
   siege -c500 -t1M "http://localhost:3000"
 
-  TODO: setup ec2 instance and compare
-  TODO: setup heroku and compare
-
 cpus
   digitalocean: Intel(R) Xeon(R) CPU E5-2650L v3 @ 1.80GHz
   linode (kvm): Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
