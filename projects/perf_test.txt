@@ -60,6 +60,7 @@ basic setup
   sudo apt-get upgrade
   sudo apt-get install -y fail2ban
   sudo apt-get install -y siege
+  echo -e "logging = true\nlogfile = $HOME/siege.log" >> ~/.siegerc
 
 express
   sudo apt-get install -y curl git
@@ -84,8 +85,7 @@ express
       var host = server.address().address;
       var port = server.address().port;
     });
-  pm2 start app.js
-  echo -e "logging = true\nlogfile = $HOME/siege.log" >> ~/.siegerc
+  pm2 start ~/node-app/app.js
   siege -c500 -t1M "http://localhost:3000"
 
 cpus
@@ -95,30 +95,79 @@ cpus
 
 tests were performed around 3 AM EST
 
-results
-  digitalocean
-          Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
-    2015-10-14 03:11:16, 105042,      59.13,         128,       0.27,     1776.46,        2.16,      487.34,  105042,       0
-    2015-10-14 03:14:25, 110658,      59.52,         135,       0.26,     1859.17,        2.27,      488.94,  110658,       0
-    2015-10-14 03:17:18, 108659,      60.07,         132,       0.27,     1808.87,        2.20,      489.28,  108659,       0
-  linode (xen)
-          Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
-    2015-10-14 07:11:06,  92523,      59.14,         112,       0.31,     1564.47,        1.89,      489.70,   92523,       0
-    2015-10-14 07:14:28,  96393,      60.05,         117,       0.31,     1605.21,        1.95,      490.19,   96393,       0
-    2015-10-14 07:17:23,  95718,      59.96,         116,       0.31,     1596.36,        1.93,      492.30,   95718,       0
-  linode (kvm)
-          Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
-    2015-10-14 07:41:00, 126421,      59.05,         154,       0.23,     2140.91,        2.61,      488.69,  126421,       0
-    2015-10-14 07:43:29, 126616,      59.41,         154,       0.23,     2131.22,        2.59,      492.40,  126616,       0
-    2015-10-14 07:51:37, 123518,      59.45,         150,       0.24,     2077.68,        2.52,      493.84,  123518,       0
-  aws (t2.micro)
-          Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
-    2015-10-14 07:06:04, 128968,      59.70,         157,       0.23,     2160.27,        2.63,      492.68,  128968,       0
-    2015-10-14 07:14:32, 127580,      59.47,         155,       0.23,     2145.28,        2.61,      492.10,  127580,       0
-    2015-10-14 07:17:26, 130899,      60.04,         159,       0.23,     2180.20,        2.65,      493.55,  130899,       0
+results (node-test)
+  node-test
+    digitalocean
+            Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
+      2015-10-14 03:11:16, 105042,      59.13,         128,       0.27,     1776.46,        2.16,      487.34,  105042,       0
+      2015-10-14 03:14:25, 110658,      59.52,         135,       0.26,     1859.17,        2.27,      488.94,  110658,       0
+      2015-10-14 03:17:18, 108659,      60.07,         132,       0.27,     1808.87,        2.20,      489.28,  108659,       0
+    linode (xen)
+            Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
+      2015-10-14 07:11:06,  92523,      59.14,         112,       0.31,     1564.47,        1.89,      489.70,   92523,       0
+      2015-10-14 07:14:28,  96393,      60.05,         117,       0.31,     1605.21,        1.95,      490.19,   96393,       0
+      2015-10-14 07:17:23,  95718,      59.96,         116,       0.31,     1596.36,        1.93,      492.30,   95718,       0
+    linode (kvm)
+            Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
+      2015-10-14 07:41:00, 126421,      59.05,         154,       0.23,     2140.91,        2.61,      488.69,  126421,       0
+      2015-10-14 07:43:29, 126616,      59.41,         154,       0.23,     2131.22,        2.59,      492.40,  126616,       0
+      2015-10-14 07:51:37, 123518,      59.45,         150,       0.24,     2077.68,        2.52,      493.84,  123518,       0
+    aws (t2.micro)
+            Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
+      2015-10-14 07:06:04, 128968,      59.70,         157,       0.23,     2160.27,        2.63,      492.68,  128968,       0
+      2015-10-14 07:14:32, 127580,      59.47,         155,       0.23,     2145.28,        2.61,      492.10,  127580,       0
+      2015-10-14 07:17:26, 130899,      60.04,         159,       0.23,     2180.20,        2.65,      493.55,  130899,       0
+  go-test
+    aws (t2.micro)
+            Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
+      2015-10-15 06:39:44, 286872,      59.23,         350,       0.10,     4843.36,        5.91,      493.39,  286872,       0
+      2015-10-15 06:41:33, 292825,      59.13,         357,       0.10,     4952.22,        6.04,      493.97,  292825,       0
+      2015-10-15 06:43:31, 296075,      59.79,         361,       0.10,     4951.92,        6.04,      493.45,  296075,       0
 
 flask
+  mkdir flask-app && cd flask-app
+  sudo apt-get install -y python python-pip gunicorn
+  sudo pip install Flask==0.10.1
+  sudo vim app.py
+    from flask import Flask, jsonify
+
+    app = Flask(__name__)
+
+    @app.route('/')
+    def index():
+        return jsonify({
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit.\n\nNunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean ligula dolor, gravida auctor, auctor et, suscipit in, erat. Sed malesuada, enim ut congue pharetra, massa elit convallis pede, ornare scelerisque libero neque ut neque. In at libero. Curabitur molestie. Sed vel neque. Proin et dolor ac ipsum elementum malesuada. Praesent id orci. Donec hendrerit. In hac habitasse platea dictumst. Aenean sit amet arcu a turpis posuere pretium.",
+            "imageURL": "http://i.imgur.com/RbQUkoe.jpg"
+        })
+
+    if __name__ == '__main__':
+        app.run()
+  gunicorn app:app -b localhost:8000
+  siege -c500 -t1M "http://localhost:8000"
 
 golang
+  sudo apt-get install -y git build-essential bison
+  bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
+  source /home/duckspeaker/.gvm/scripts/gvm
+  gvm listall
+  gvm install go1.4
+  gvm use go1.4 --default
+  mkdir go-app && cd go-app
+  vim main.go
+    package main
 
-bottle
+    import (
+      "net/http"
+    )
+
+    func main() {
+      http.HandleFunc("/", foo)
+      http.ListenAndServe(":3000", nil)
+    }
+
+    func foo(w http.ResponseWriter, r *http.Request) {
+      json := []byte(`{"text":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit.\n\nNunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean ligula dolor, gravida auctor, auctor et, suscipit in, erat. Sed malesuada, enim ut congue pharetra, massa elit convallis pede, ornare scelerisque libero neque ut neque. In at libero. Curabitur molestie. Sed vel neque. Proin et dolor ac ipsum elementum malesuada. Praesent id orci. Donec hendrerit. In hac habitasse platea dictumst. Aenean sit amet arcu a turpis posuere pretium.", "imageURL":"http://i.imgur.com/RbQUkoe.jpg"}`)
+      w.Header().Set("Content-Type", "application/json")
+      w.Write(json)
+    }
+  siege -c500 -t1M "http://localhost:3000"
