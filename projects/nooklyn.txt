@@ -1,4 +1,11 @@
 09:30 - 12:00
+14:00 - 15:00
+15:30 - 16:30
+17:00 -
+
+button yPos = descriptionLabel.y + descriptionLabel.height + 50
+
+50
 
 mate detail view
 test mates branch against prod

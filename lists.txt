@@ -151,4 +151,7 @@ quotes
   "Did it ever occur to you, sir, what an opportunity a battlefield affords liars?"
   Stonewall Jackson
 
+  "A date is an experience you have with another person that makes you appreciate being alone."
+  Larry David
+
 ideal temp range: 65 - 75
