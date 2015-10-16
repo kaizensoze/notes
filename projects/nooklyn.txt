@@ -1,15 +1,7 @@
+09:30 - 12:00
 
-
-test favorites view
-  iphone 6
-  iphone 5s
-  iphone 4s
-  ipad
-
-refine mate play view
 mate detail view
-create mate profile
-test prod
+test mates branch against prod
 
 find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/3184918C-E437-446C-AE92-879284313E40/data/Containers/Data/Application/' -type f -name 'default.realm'
 

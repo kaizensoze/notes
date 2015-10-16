@@ -16,10 +16,14 @@ tv
 tech
 
 projects
+  knifereps
+    https://www.youtube.com//v/XY2eW2cXcNg?start=150&end=153
+  vineseek
   chip's challenge
   to whom it may concern app
   google street view driving simulator
   metabolomics project
+  over the wire
 
 overthewire
   http://natas12.natas.labs.overthewire.org
@@ -112,7 +116,6 @@ challenges
 
 videogames
   PS4
-    Bloodborne
     Fallout 4
 
 comics
@@ -147,3 +150,5 @@ quotes
 
   "Did it ever occur to you, sir, what an opportunity a battlefield affords liars?"
   Stonewall Jackson
+
+ideal temp range: 65 - 75
