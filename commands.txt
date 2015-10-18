@@ -5,9 +5,29 @@ awk
   sudo tail -n 9000 /var/log/nginx/access.log | awk '/postVote/ {print $0}' | awk '!/stellar-envoy/ {print $0}';
 
 aws
-  aws autoscaling update-auto-scaling-group --auto-scaling-group-name asg --min-size 1 --max-size 1 --desired-capacity 1
-  aws autoscaling suspend-processes --auto-scaling-group-name asg
-  aws autoscaling resume-processes --auto-scaling-group-name asg
+  autoscaling
+    aws autoscaling update-auto-scaling-group --auto-scaling-group-name asg --min-size 1 --max-size 1 --desired-capacity 1
+    aws autoscaling suspend-processes --auto-scaling-group-name asg
+    aws autoscaling resume-processes --auto-scaling-group-name asg
+  ec2
+    aws ec2 describe-images
+    aws ec2 describe-instances
+    aws ec2 describe-key-pairs
+    aws ec2 describe-regions
+    aws ec2 describe-security-groups
+    aws ec2 describe-subnets
+    aws ec2 describe-volumes
+    aws ec2 describe-vpcs
+    aws ec2 reboot-instances
+    aws ec2 run-instances
+    aws ec2 start-instances
+    aws ec2 stop-instances
+    aws ec2 terminate-instances
+
+    // creating ec2 instance
+    aws ec2 create-security-group --group-name launch-wizard-2 --description "test" --vpc-id vpc-175cfb73
+    aws ec2 run-instances --image-id ami-d05e75b8 --count 1 --instance-type t2.micro --key-name duckspeaker --security-group-ids sg-deab7fb8 --subnet-id subnet-65546d3c --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":20,\"VolumeType\":\"gp2\",\"DeleteOnTermination\":true}}]"
+    aws ec2 create-tags --resources i-25e11986 --tags Key=Name,Value=scala-test
 
 curl
   cat urls.txt | parallel -j30 --eta curl -I
