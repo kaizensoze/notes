@@ -54,8 +54,7 @@ basic setup
 
   sudo apt-get update
   sudo apt-get upgrade -y
-  sudo apt-get install -y fail2ban
-  sudo apt-get install -y siege
+  sudo apt-get install -y fail2ban siege
   echo -e "logging = true\nlogfile = $HOME/siege.log" >> ~/.siegerc
   sudo reboot
 
@@ -133,8 +132,39 @@ golang
     }
   siege -c500 -t1M "http://localhost:3000"
 
-scala (play)
-  
+scala (play, scalatra)
+  sudo apt-get install -y unzip
+
+  sudo add-apt-repository ppa:webupd8team/java
+  sudo apt-get update
+  java -version
+  sudo apt-get install oracle-java8-set-default
+
+  wget http://www.scala-lang.org/files/archive/scala-2.11.7.deb
+  sudo dpkg -i scala-2.11.7.deb
+
+  echo "deb http://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
+  sudo apt-get update
+  sudo apt-get install sbt
+
+  wget https://downloads.typesafe.com/typesafe-activator/1.3.6/typesafe-activator-1.3.6.zip
+  unzip typesafe-activator-1.3.6.zip
+  cd activator*
+  export PATH=/home/duckspeaker/activator-dist-1.3.6:$PATH
+  ....
+  # There is insufficient memory for the Java Runtime Environment to continue.
+
+  // switching from play to scalatra
+
+  ...
+  # There is insufficient memory for the Java Runtime Environment to continue.
+  // the hell with java...
+
+php (phalcon, laravel)
+  sudo apt-add-repository ppa:phalcon/stable
+  sudo apt-get update
+  sudo apt-get install -y php5-phalcon
+  // yeah nevermind
 
 cpus
   digitalocean: Intel(R) Xeon(R) CPU E5-2650L v3 @ 1.80GHz

@@ -26,8 +26,8 @@ aws
 
     // creating ec2 instance
     aws ec2 create-security-group --group-name launch-wizard-2 --description "test" --vpc-id vpc-175cfb73
-    aws ec2 run-instances --image-id ami-d05e75b8 --count 1 --instance-type t2.micro --key-name duckspeaker --security-group-ids sg-deab7fb8 --subnet-id subnet-65546d3c --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":20,\"VolumeType\":\"gp2\",\"DeleteOnTermination\":true}}]"
-    aws ec2 create-tags --resources i-bfe71f1c --tags Key=Name,Value=scala-test
+    aws ec2 run-instances --image-id ami-d05e75b8 --count 1 --instance-type t2.micro --key-name duckspeaker --security-group-ids sg-ae10c4c8 --subnet-id subnet-65546d3c --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":20,\"VolumeType\":\"gp2\",\"DeleteOnTermination\":true}}]"
+    aws ec2 create-tags --resources i-c110e862 --tags Key=Name,Value=php-test
 
 curl
   cat urls.txt | parallel -j30 --eta curl -I
