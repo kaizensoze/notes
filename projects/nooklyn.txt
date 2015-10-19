@@ -1,17 +1,5 @@
 
 
-re-enable push notifications
-select tabbar by label instead of number
-
-nooklyn
-  trying to favorite listing on agent's favorites
-  later messages are on top
-  some more spacing between nearby location cards
-  Nearby Locations should have same font as Photos and Location on a listing detail page
-  location card should have a set height
-  favorite on listing detail page should be async
-  don't highlight images in orange on hover
-
 15842
 curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842' | jsonformat
 curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mates' | jsonformat
@@ -114,6 +102,7 @@ Secret Access Key:
 aUqZDtkLdJLVsCT9HOcyjD6RJMWj5IsNhHSHdJbp
 
 apn push "<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>" -c ~/Downloads/dev.pem -m "Hello from the command line" -b 1 -s sosumi.aiff
+apn push "<bba0ae50 65d65cff ebd32f50 ceafcceb 497153a2 72f663d9 b31dba19 9f48161a>" -c ./config/apns/nooklyn_apple_push_notification_dev.pem -m "Test" -b 1 -s sosumi.aiff
 
 convo = Conversation.find(563)
 convo.participants
