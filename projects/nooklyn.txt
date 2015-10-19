@@ -1,13 +1,16 @@
 
 
-site tickets to create
+re-enable push notifications
+select tabbar by label instead of number
+
+nooklyn
   trying to favorite listing on agent's favorites
   later messages are on top
-  don't highlight images in orange on hover
   some more spacing between nearby location cards
-  nearby location card image should be clickable
   Nearby Locations should have same font as Photos and Location on a listing detail page
+  location card should have a set height
   favorite on listing detail page should be async
+  don't highlight images in orange on hover
 
 15842
 curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842' | jsonformat
