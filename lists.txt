@@ -56,7 +56,14 @@ places
     Original John's Deli
     Jimmy's Diner
 
-car candidates
+books
+  A Confederacy of Dunces, John Kennedy Toole
+  All's Quiet on the Western Front, Erich Maria Remarque
+  Dark Pools, Scott Patterson
+  Siddhartha, Herman Hesse
+  Voltaire's Bastards, John Ralston Saul
+
+cars
   ford fiesta
   ford focus
   honda fit
