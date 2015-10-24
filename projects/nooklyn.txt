@@ -1,10 +1,13 @@
 
 
-15842
-curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842' | jsonformat
-curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mates' | jsonformat
+upload image
+create mate
 
-find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/3184918C-E437-446C-AE92-879284313E40/data/Containers/Data/Application/' -type f -name 'default.realm'
+find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
+
+cp /Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/D401E697-F5B4-4C2D-AA18-4DE6C2CB7464/Documents/default.realm ~/Downloads
+
+cp ~/Downloads/default.realm /Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/D401E697-F5B4-4C2D-AA18-4DE6C2CB7464/Documents/default.realm
 
 first time [DONE]
 login
@@ -143,6 +146,10 @@ http://nooklyn-files.s3.amazonaws.com/subway/2x/L.png
 https://commons.wikimedia.org/wiki/File:NYCS-bull-trans-L.svg
 
 prod api key: 3a197ffc2f9e4bdca6f9249fbe6af222
+
+15842
+curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842' | jsonformat
+curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mates' | jsonformat
 
 curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
 curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/favorites2s?agent-id=

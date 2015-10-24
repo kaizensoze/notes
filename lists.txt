@@ -1,14 +1,14 @@
 
 movies
   99 Homes
-  Bridge of Spies
+  Goosebumps
   Grandma
   Legend
   Mistress America
   Shut In
   Steve Jobs
-  The Walk
   Victoria
+  Woodlawn
 
 tv
 

@@ -27,7 +27,6 @@ Broken Markets, Sal L. Arnuk
 Business@The Speed of Thought, Bill Gates
 By Night in Chile, Roberto Bolano
 Cancer Ward, Aleksandr Solzhenitsyn
-Candide, Voltaire
 Can't We Talk about Something More Pleasant?, Roz Chast
 Carsick, John Waters
 Chaos, James Gleick
@@ -67,7 +66,6 @@ Godel Escher Bach, Douglas R. Hofstadter
 Hacking: The Art of Exploitation, Jon Erickson
 Hallucinations, Oliver Sacks
 Have A Nice Day: A Tale of Blood and Sweatsocks, Mick Foley
-Heart of Darkness, Joseph Conrad
 High Output Management, Andy Grove
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
@@ -140,6 +138,7 @@ Steppenwolf, Hermann Hesse
 Stranger in a Strange Land, Robert A. Heinlein
 Stuff White People Like, Christian Lander
 Subliminal: How Your Unconscious Mind Rules Your Behavior, Leonard Mlodinow
+Suburban Nation, Andres Duany
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
 Tales of the unexpected, Roald Dahl
@@ -159,6 +158,7 @@ The Count of Monte Cristo, Alexandre Dumas
 The Courage to Act: A Memoir of a Crisis and Its Aftermath, Ben Bernanke
 The Curious Incident of the Dog in the Nightime, Mark Haddon
 The Dark Tower, Stephen King
+The Death and Life of Great American Cities, Jane Jacobs
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
 The Department of Mad Scientists, Michael Belfiore
 The Devil in the White City, Erik Larson
@@ -166,7 +166,6 @@ The Dispossessed, Ursula K. Le Guin
 The Dorito Effect, Mark Schatzker
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 The Elegant Universe, Brian Green
-The Emperor of all Maladies, Siddhartha Mukherjee
 The Emperor's new mind, Patricia C. Wrede
 The Everything Store: Jeff Bezos and the Age of Amazon, Joanna Russ
 The Faith Healers, James Randi
@@ -211,6 +210,7 @@ The Panda's Thumb, Stephen Jay Gould
 The Paper Trip, Barry Reid
 The Pentagon's Brain, Annie Jacobsen
 The Pillars of the Earth, Ken Follett
+The Power Broker, Robert A. Caro
 The Power of Myth, Joseph Campbell
 The Prince of Nothing, R. Scott Bakker
 The Promise of a Pencil, Adam Braun
@@ -226,6 +226,7 @@ The Singularity is Near, Ray Kurzweil
 The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
 The Snowden Files, Luke Harding
 The Sound and the Fury, William Faulkner
+The Sovereign Individual
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
