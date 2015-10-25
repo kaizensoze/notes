@@ -62,6 +62,7 @@ books
   Countdown to Zero Day, Kim Zetter
   Dark Pools, Scott Patterson
   Siddhartha, Herman Hesse
+  The Shadow Factory, James Bamford
   The Unwinding, George Packer
   Voltaire's Bastards, John Ralston Saul
 
