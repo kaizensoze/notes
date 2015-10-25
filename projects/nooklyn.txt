@@ -1,7 +1,8 @@
+14:00 - 16:00
 
-
-upload image
-create mate
+test mate form on localhost
+validate input
+do request to create mate post
 
 find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
 

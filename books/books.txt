@@ -123,11 +123,13 @@ Revenge of the Kremlin, Gérard de Villiers
 Ringworld, Larry Niven
 Rise of the Robots, Martin Ford
 Robinson Crusoe, Daniel Defoe
+Rock Surgery Made Easy, Steve Krug
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
 Silence of the Lambs, Thomas Harris
 Singled Out, Bella DePaulo
 Sirens of Titan, Kurt Vonnegut
+So Good They Can't Ignore You, Cal Newport
 Solaris, Ray Bradbury
 Something Wicked This Way Comes,
 Sophie's World, Jostein Gaarder
@@ -143,6 +145,7 @@ Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
 Tales of the unexpected, Roald Dahl
 The Alienist, Caleb Carr
+The American Challenge, Jean-Jacques Servan-Schreiber
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
 The Barbary Coast: An Informal History of the San Francisco Underworld, William Faulkner
 The Baroque Cycle, Neal Stephenson
@@ -194,6 +197,7 @@ The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovators, Walter Isaacson
 The Last Unicorn, Peter S. Beagle
 The Lathe of Heaven, Ursula K. Le Guin
+The Lean Startup, Eric Ries
 The Long Tomorrow, Leigh Brackett
 The Long Walk, Stephen King (writing as Richard Bachman)
 The Madmen of Benghazi, Gérard de Villiers
@@ -232,7 +236,6 @@ The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
 The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook, Simson L. Garfinkel
-The Unwinding, George Packer
 The Wheel of Time, Robert Jordan
 The Wicked + The Divine, Kieron Gillen
 The Wisdom of Crowds, James Surowiecki
