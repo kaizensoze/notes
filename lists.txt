@@ -7,11 +7,12 @@ movies
   Mistress America
   Shut In
   Steve Jobs
+  The Diary of a Teenage Girl
   Victoria
   Woodlawn
 
 tv
-
+  Wayward Pines
 
 tech
 

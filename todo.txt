@@ -1,5 +1,4 @@
-movies
-food
-read
 nooklyn
-shower
+read
+
+library, dough
