@@ -1,8 +1,14 @@
 
 
-show error message on fail
-do request to create mate post
-figure out image upload endpoint
+get login working against prod with ApiManager.getMate() commented out
+test create mate via camera on ipad
+
+figure out logged in agent mate issue
+test update case for mate form
+test interaction with making mate post private on site
+
+try string agent directly in userdefaults as loggedInAgent
+don't autorefresh favorites view in favorites tab
 
 find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
 
