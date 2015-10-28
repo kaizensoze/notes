@@ -1,4 +1,3 @@
-read
 nooklyn
 netflix
   changing lanes
