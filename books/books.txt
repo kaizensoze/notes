@@ -1,5 +1,4 @@
 A Cook's Tour: Global Adventures in Extreme Cuisines, Anthony Bourdain
-A Cook's Tour: In Search of the Perfect Meal, Anthony Bourdain
 A Fire Upon the Deep, Vernor Vinge
 A Suitable Boy, Vikram Seth
 Age of Ambition, Evan Osnos
@@ -165,7 +164,6 @@ The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
 The Department of Mad Scientists, Michael Belfiore
 The Devil in the White City, Erik Larson
 The Dispossessed, Ursula K. Le Guin
-The Dorito Effect, Mark Schatzker
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 The Elegant Universe, Brian Green
 The Emperor's new mind, Patricia C. Wrede

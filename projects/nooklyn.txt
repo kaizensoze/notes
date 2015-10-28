@@ -1,14 +1,9 @@
 
 
-get login working against prod with ApiManager.getMate() commented out
-test create mate via camera on ipad
+test removing all favorite mates, reload mates and see if any missing neighborhood
+store loggedInAgentMateId in userdefaults, create util function
 
-figure out logged in agent mate issue
-test update case for mate form
-test interaction with making mate post private on site
-
-try string agent directly in userdefaults as loggedInAgent
-don't autorefresh favorites view in favorites tab
+curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/agents/11208/mate-posts (returns private post -> GOOD)
 
 find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
 
