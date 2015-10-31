@@ -3,7 +3,6 @@ A Suitable Boy, Vikram Seth
 Age of Ambition, Evan Osnos
 Affluence and Influence, Martin Gilens
 Affluenza, Clive Hamilton
-Although Of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace
 America, Jon Stewart
 America Again, Stephen Colbert
 American Nations: A History of the Eleven Rival Regional Cultures of North America, Colin Woodard
@@ -54,7 +53,6 @@ Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
 Essays of E. B. White
 Everything and More: A Compact History of Infinity
 Everything's Eventual, Stephen King
-Every Love Story Is a Ghost Story: A Life of David Foster Wallace
 Fall of Giants, Ken Follett
 Fermat's Enigma, Simon Singh
 Generation X, Douglas Coupland
@@ -92,7 +90,6 @@ Mating in Captivity, Esther Perel
 Men are from mars, women are from venus, Joe Peacock
 Moby Dick, Herman Melville
 Modern Romance, Aziz Ansari
-More, Now, Again, Elizabeth Wurtzel
 My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind, Scott Stossel
 My Years With General Motors, Alfred P Sloan Jr
 Neil Patrick Harris: Choose Your Own Autobiography, Neil Patrick Harris
@@ -100,7 +97,6 @@ Never Let Me Go, Kazuo Ishiguro
 No Good Men Among the Living, Anand Gopal
 Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
-Oh Myyy!: There Goes The Internet, George Takei
 On the Move: A Life, Oliver Sacks
 On the Origin of Species, Charles Darwin
 Oryx and Crake, Margaret Atwood
@@ -228,8 +224,8 @@ The Three-Body Problem, Liu Cixin
 The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook, Simson L. Garfinkel
 The Wheel of Time, Robert Jordan
-The Wicked + The Divine, Kieron Gillen
 The Wisdom of Crowds, James Surowiecki
+Their Eyes Were Watching God, Zora Neale Hurston
 Things Fall Apart, Chinua Achebe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
@@ -238,7 +234,6 @@ This Time is Different, Carmen M. Reinhart
 This Will Change Everything, John Brockman
 Through the Woods, Emily Caroll
 Titus Groan, Mervyn Peake
-Tokyo Vice, Jake Adelstein
 Too Big to Fail, Andrew Ross Sorkin
 Tropic of Cancer, Henry Miller
 Twenty Thousand Leagues Under the Sea, Jules Verne
