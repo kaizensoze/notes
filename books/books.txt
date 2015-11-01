@@ -21,6 +21,7 @@ Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 Broken Markets, Sal L. Arnuk
+Bruce Davidson: Subway
 Business@The Speed of Thought, Bill Gates
 By Night in Chile, Roberto Bolano
 Cancer Ward, Aleksandr Solzhenitsyn
@@ -38,6 +39,7 @@ Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
 Cybersecurity and Cyberwar, P.W. Singer
 Data and Goliath, Bruce Schneier
+Days of Destruction, Days of Revolt, Chris Hedges
 De humani corporis fabrica, Andreas Vesalius
 Deliverance, James Dickey
 Dhalgren, Samuel R. Delany
@@ -85,12 +87,10 @@ Life in the Woods, Henry David Thoreau
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela, page: 24
 Macbeth, Shakespeare
-Man's Search for Meaning, Viktor Frankl
 Mating in Captivity, Esther Perel
 Men are from mars, women are from venus, Joe Peacock
 Moby Dick, Herman Melville
 Modern Romance, Aziz Ansari
-My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind, Scott Stossel
 My Years With General Motors, Alfred P Sloan Jr
 Neil Patrick Harris: Choose Your Own Autobiography, Neil Patrick Harris
 Never Let Me Go, Kazuo Ishiguro
@@ -230,7 +230,6 @@ Things Fall Apart, Chinua Achebe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
-This Time is Different, Carmen M. Reinhart
 This Will Change Everything, John Brockman
 Through the Woods, Emily Caroll
 Titus Groan, Mervyn Peake
@@ -250,7 +249,6 @@ We Are Anonymous, Parmy Olson
 We Have Always Lived In The Castle, Shirley Jackson
 Wealth of Nations, Adam Smith
 When the Killing's Done, T.C. Boyle
-Wherever you go there you are, Jon Kabat-Zinn
 Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
 Women, Charles Bukowski

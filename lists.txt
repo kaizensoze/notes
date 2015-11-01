@@ -166,4 +166,7 @@ quotes
   "A date is an experience you have with another person that makes you appreciate being alone."
   Larry David
 
+  "He who has a why to live for can bear with almost any how."
+  Nietzsche
+
 ideal temp range: 65 - 75
