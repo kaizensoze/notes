@@ -14,7 +14,17 @@ movies
 tv
   Wayward Pines
 
-tech
+books
+  A Confederacy of Dunces, John Kennedy Toole
+  All's Quiet on the Western Front, Erich Maria Remarque
+  Countdown to Zero Day, Kim Zetter
+  Dark Pools, Scott Patterson
+  Ghost in the Wires, Kevin Mitnick
+  Siddhartha, Herman Hesse
+  The Curious Incident Of the Dog In The Night Time, Mark Haddon
+  The Shadow Factory, James Bamford
+  The Unwinding, George Packer
+  Voltaire's Bastards, John Ralston Saul
 
 projects
   knifereps
@@ -56,17 +66,6 @@ places
     Defontes
     Original John's Deli
     Jimmy's Diner
-
-books
-  A Confederacy of Dunces, John Kennedy Toole
-  All's Quiet on the Western Front, Erich Maria Remarque
-  Countdown to Zero Day, Kim Zetter
-  Dark Pools, Scott Patterson
-  Siddhartha, Herman Hesse
-  The Curious Incident Of the Dog In The Night Time, Mark Haddon
-  The Shadow Factory, James Bamford
-  The Unwinding, George Packer
-  Voltaire's Bastards, John Ralston Saul
 
 cars
   ford fiesta
