@@ -1,10 +1,10 @@
 A Fire Upon the Deep, Vernor Vinge
 A Suitable Boy, Vikram Seth
+A Wizard of Earthsea, Ursula K. Le Guin
 Age of Ambition, Evan Osnos
 Affluence and Influence, Martin Gilens
-Affluenza, Clive Hamilton
 America, Jon Stewart
-America Again, Stephen Colbert
+America Again, Stephen Colbert, 01:02:00
 American Nations: A History of the Eleven Rival Regional Cultures of North America, Colin Woodard
 Amnesia, Peter Carey
 Among Others, Jo Walton
@@ -149,7 +149,6 @@ The Communist Manifesto, Karl Marx
 The Corpse Reader, Antonio Garrido
 The Count of Monte Cristo, Alexandre Dumas
 The Courage to Act: A Memoir of a Crisis and Its Aftermath, Ben Bernanke
-The Curious Incident of the Dog in the Nightime, Mark Haddon
 The Dark Tower, Stephen King
 The Death and Life of Great American Cities, Jane Jacobs
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
@@ -184,7 +183,6 @@ The Illuminatus Trilogy, Robert Shea
 The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovators, Walter Isaacson
 The Last Unicorn, Peter S. Beagle
-The Lathe of Heaven, Ursula K. Le Guin
 The Lean Startup, Eric Ries
 The Long Tomorrow, Leigh Brackett
 The Long Walk, Stephen King (writing as Richard Bachman)
@@ -226,7 +224,6 @@ The Unix-Haters Handbook, Simson L. Garfinkel
 The Wheel of Time, Robert Jordan
 The Wisdom of Crowds, James Surowiecki
 Their Eyes Were Watching God, Zora Neale Hurston
-Things Fall Apart, Chinua Achebe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
