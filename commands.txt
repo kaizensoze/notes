@@ -94,6 +94,7 @@ postgres
   pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
   pg_restore -d newdb db.dump
   psql nooklyn < ~/Downloads/nooklyn.sql
+  pg_restore --verbose --clean --no-acl --no-owner -h localhost -U joegallo -d nooklyn latest.dump
 
 rails
   be rake db:migrate VERSION=0 && be rake db:migrate
