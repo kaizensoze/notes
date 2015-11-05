@@ -4,8 +4,10 @@ movies
   Goosebumps
   Grandma
   Legend
+  Love
   Mistress America
   Shut In
+  Starlet
   Steve Jobs
   The Diary of a Teenage Girl
   Victoria
@@ -19,6 +21,7 @@ books
   All's Quiet on the Western Front, Erich Maria Remarque
   Countdown to Zero Day, Kim Zetter
   Dark Pools, Scott Patterson
+  End This Depression Now!, Paul Krugman
   Ghost in the Wires, Kevin Mitnick
   Siddhartha, Herman Hesse
   The Curious Incident Of the Dog In The Night Time, Mark Haddon
@@ -53,19 +56,19 @@ places
     Caprice's by Sophie
     Robicelli Bakery
     Napoli Bakery
+    Mazzola Bakery
     The Civil Service Cafe
     Four & Twenty Blackbirds
+  sandwiches
+    Court Street Grocers
+    Defontes
+    Original John's Deli
+    Jimmy's Diner
   coffee
     Toby's Estate
     Otha's
     The West
     The Mill Coffee Company
-  sandwiches
-    Court Street Grocers
-    Mazzola Bakery
-    Defontes
-    Original John's Deli
-    Jimmy's Diner
 
 cars
   ford fiesta
@@ -73,16 +76,6 @@ cars
   honda fit
   nissan leaf
   nissan versa [note]
-
-museums
-  the met
-  moma
-  brooklyn museum
-
-mischief
-	f-bomb spy computer
-	facedancer
-  leap motion
 
 conferences
   (01/16) shmoocon
