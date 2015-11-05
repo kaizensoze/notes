@@ -72,6 +72,8 @@ heroku
 
   heroku logs -t
 
+  git push heroku master && heroku run rake db:migrate && heroku restart
+
 imagemagick
   identify -verbose [image]
   exiftool -all= [image]

@@ -1,16 +1,15 @@
+09:30 - 11:30
+15:00 -
 
-
-select * from conversation_messages where agent_id = 18284;
-select * from conversation_participants where conversation_id = 14618;
-delete from conversation_participants where conversation_id = 14618;
-delete from conversation_messages where agent_id = 18284;
-delete from conversations where id = 14618;
+verify that ignore updates grid view
+test changes to mates view
 
 API
   prod (agent_id: 15842)
     curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'https://nooklyn.com/api/v1/sessions'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/listings'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/ignored-listings'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mates?include=neighborhood,agent'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mate-favorites?agent-id=18284'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mate-ignores'
@@ -48,6 +47,12 @@ Access Key ID:
 AKIAJGPHHWBPQKACQB4A
 Secret Access Key:
 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
+
+select * from conversation_messages where agent_id = 18284;
+select * from conversation_participants where conversation_id = 14618;
+delete from conversation_participants where conversation_id = 14618;
+delete from conversation_messages where agent_id = 18284;
+delete from conversations where id = 14618;
 
 find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
 

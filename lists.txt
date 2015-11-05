@@ -1,15 +1,19 @@
 
 movies
   99 Homes
+  Brooklyn
   Goosebumps
   Grandma
   Legend
   Love
   Mistress America
   Shut In
+  Spectre
+  Spotlight
   Starlet
   Steve Jobs
   The Diary of a Teenage Girl
+  Trumbo
   Victoria
   Woodlawn
 
@@ -72,7 +76,6 @@ places
 
 cars
   ford fiesta
-  ford focus
   honda fit
   nissan leaf
   nissan versa [note]
