@@ -155,3 +155,14 @@ San Antonio, TX [3]
 Austin, TX [1.5]
 Dallas, TX [3]
 [42.5] (5 days)
+
+AVOID
+  Estonia
+  Latvia
+  Belarus
+  Ukraine
+  Moldova
+  Romania
+  Bulgaria
+  Philippines
+  Indonesia

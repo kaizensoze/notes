@@ -1,87 +1,35 @@
 
 
-find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
+select * from conversation_messages where agent_id = 18284;
+select * from conversation_participants where conversation_id = 14618;
+delete from conversation_participants where conversation_id = 14618;
+delete from conversation_messages where agent_id = 18284;
+delete from conversations where id = 14618;
 
-cp /Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/D401E697-F5B4-4C2D-AA18-4DE6C2CB7464/Documents/default.realm ~/Downloads
+API
+  prod (agent_id: 15842)
+    curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'https://nooklyn.com/api/v1/sessions'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/listings'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mates?include=neighborhood,agent'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mate-favorites?agent-id=18284'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mate-ignores'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/conversations?include=participating-agents,messages'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/conversation-messages'
 
-cp ~/Downloads/default.realm /Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/D401E697-F5B4-4C2D-AA18-4DE6C2CB7464/Documents/default.realm
-
-first time [DONE]
-login
-  normal [DONE]
-  facebook [DONE]
-signup
-  normal [DONE]
-  facebook [DONE]
-listings
-  preview favorite [DONE]
-  preview unfavorite [DONE]
-  preview tap [DONE]
-  preview drag up [DONE]
-  collection tap [DONE]
-  collection favorite tap [DONE]
-  collection unfavorite tap [DONE]
-  collection favorite hold [DONE]
-  collection unfavorite hold [DONE]
-listing filters
-  min, _ [DONE]
-  _, max [DONE]
-  min, max [DONE]
-  beds [DONE]
-  baths [DONE]
-  neighborhood [DONE]
-  neighborhoods [DONE]
-  rental [DONE]
-  residential [DONE]
-  need help [SIMULATOR FAIL: TODO]
-  clear filters [DONE]
-listing details
-  favorite tap [DONE]
-  unfavorite tap [DONE]
-  favorite hold [DONE]
-  unfavorite hold [DONE]
-  photo tap [DONE]
-  location tap [DONE]
-  call contact [TODO]
-  message contact [TODO]
-  share [TODO]
-location
-  location tap [DONE]
-neighborhoods
-  tap neighborhood [DONE]
-messages
-  conversation tap [DONE]
-  send message [DONE]
-favorites
-  unfavorite tap [DONE]
-  unfavorite hold [DONE]
-  tap [DONE]
-settings
-  logout [DONE]
-  support [SIMULATOR FAIL: TODO]
-  facebook [DONE]
-  twitter [DONE]
-
-sudo cp /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib
-
-tests
-  curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions' [GOOD]
-  curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpasswor' 'http://localhost:3000/api/v1/sessions' [BAD]
-  curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword&session[oauth_token]=' 'http://localhost:3000/api/v1/sessions' [GOOD]
-  curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword&session[oauth_token]=blah' 'http://localhost:3000/api/v1/sessions' [GOOD]
-
-  curl -d 'access-token=CAAFpWip2KRABAEKx6EXeUPRbW5XbT12CXyuGSu8mdueMjzlWQPfOFz4Pgn0ffrWm5xVoBuPhXhH0ykZCwzqL0ExZAq8O0ednWHsrcUr01Qa1H4ZAeGBa7buRiO9JTThwjDwytLjdEqGwUzutnjJLqVrd7NUj3unrja5F13gfTrKruZAvADPy4ksWEBF4hZBnhNOaGpKn9v3oy4QErPUemTZBIy9AsSyD6HCL1po7lblQZDZD&access-token-expiration=2015-10-16 18:42:36' 'http://localhost:3000/facebook-login' [GOOD]
-  curl -d 'access-token=wrong&access-token-expiration=2015-10-16 18:42:36' 'http://localhost:3000/facebook-login' [BAD]
-
-  sessions
-    normal
-      correct
-      incorrect email
-      incorrect password
-    social
-      correct
-      incorrect email
-      incorrect password
+  local (agent_id: 18284)
+    curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/listings'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/favorite2s?agent-id=18284'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/ignored-listings'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mates?include=neighborhood,agent'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mate-favorites?agent-id=18284'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mate-ignores'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/conversation-messages'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/hearts?listing-id=3456'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/agents/18284/mate-posts'
+    curl -X DELETE -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/hearts/3456'
 
 development:
   bucket: nooklyn-dev
@@ -101,87 +49,13 @@ AKIAJGPHHWBPQKACQB4A
 Secret Access Key:
 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
 
+find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
+
+cp /Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/D401E697-F5B4-4C2D-AA18-4DE6C2CB7464/Documents/default.realm ~/Downloads
+
+cp ~/Downloads/default.realm /Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/D401E697-F5B4-4C2D-AA18-4DE6C2CB7464/Documents/default.realm
+
+sudo cp /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib
+
 apn push "<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>" -c ~/Downloads/dev.pem -m "Hello from the command line" -b 1 -s sosumi.aiff
 apn push "<bba0ae50 65d65cff ebd32f50 ceafcceb 497153a2 72f663d9 b31dba19 9f48161a>" -c ./config/apns/nooklyn_apple_push_notification_dev.pem -m "Test" -b 1 -s sosumi.aiff
-
-convo = Conversation.find(563)
-convo.participants
-convo.participating_agents
-convo.messages
-convo.destroy
-ConversationMessage.find(642).destroy
-
-11183 | Joe        | Gallo     | gallo.j@gmail.com
-11184 | Jim        | Gallo     | first9894@gmail.com
-11185 | John       | Gallo     | first9895@gmail.com
-11191 | Henry      | Gallo     | first9896@gmail.com
-
-Henry Gallo
-first9896@gmail.com
-
-Joe Gallo (11183)
-gallo.j@gmail.com
-http://localhost:3000/listings/2929
-
-Jim Gallo (11184)
-first9894@gmail.com
-http://localhost:3000/listings/3140
-
-John Gallo (11185)
-first9895@gmail.com
-http://localhost:3000/listings/3103
-
-update listings set sales_agent_id = 11183, listing_agent_id = 11183 where id = 2929;
-update listings set sales_agent_id = 11184, listing_agent_id = 11184 where id = 3140;
-update listings set sales_agent_id = 11185, listing_agent_id = 11185 where id = 3103;
-
-update agents set employee = true, admin = true, super_admin = true where email = 'first9894@gmail.com';
-
-http://localhost:3000/locations.json?lattude=40.7191413&longitude=-73.9528119&radius=1.0
-
-http://nooklyn-files.s3.amazonaws.com/subway/2x/L.png
-https://commons.wikimedia.org/wiki/File:NYCS-bull-trans-L.svg
-
-prod api key: 3a197ffc2f9e4bdca6f9249fbe6af222
-
-15842
-curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842' | jsonformat
-curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mates' | jsonformat
-
-curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
-curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/favorites2s?agent-id=
-curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/mates?include=neighborhood,agent' | jsonformat
-curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/conversations?include=participating-agents' | jsonformat
-curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages' | jsonformat
-curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' 'http://localhost:3000/api/v1/conversation-messages' | jsonformat
-curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/hearts?listing-id=3057
-curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/agents/11208/mate-posts
-curl -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' -H 'Content-Type: application/vnd.api+json' http://localhost:3000/api/v1/hearts/ -d @input.json
-{
-  "data": {
-    "type": "hearts",
-    "attributes": {
-      "agent-id": "11183",
-      "listing-id": "3057"
-    }
-  }
-}
-curl -X DELETE -H 'API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e' http://localhost:3000/api/v1/hearts/3057
-
-curl -i \
-	-X PUT \
-	-H "API-TOKEN: 53c1afe604394c22b14ad696a2e7b72e" \
-	-H "Content-Type: application/vnd.api+json" \
-	-H "Accept-Language: en;q=1.0,fr;q=0.9,de;q=0.8,zh-Hans;q=0.7,zh-Hant;q=0.6,ja;q=0.5" \
-	-H "Accept-Encoding: gzip;q=1.0,compress;q=0.5" \
-	-H "User-Agent: Nooklyn/com.nooklyn.Nooklyn (4; OS Version 8.4 (Build 12H141))" \
-	-d "{\"data\":{\"type\":\"agents\",\"id\":\"11183\",\"attributes\":{\"device-token\":\"<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>\"}}}" \
-	"http://localhost:3000/api/v1/agents/11183"
-
-{"data"
-	{
-		"type": "conversation-messages",
-	 	"attributes"=>{"message"=>"d", "ip-address"=>"127.0.0.1", "user-agent"=>"iOS"},
-		"relationships"=>{"agent"=>{"data"=>{"id"=>"11183", "type"=>"agents"}}, "conversation"=>{"data"=>{"id"=>"570", "type"=>"conversations"}}}}, :controller=>"api/v1/conversation_messages", :action=>"create"}
-
-curl -d 'access-token=CAAFpWip2KRABAEZA095A0RaR77rQTrtpKhUZAZCxUfEsvyZB3fue5uAGOwQkJctZCz3BDIBtCUWtuW9M5ZAp42nLaNlKOZCME5TKSUIGmF8QjS6pJZCVS9ZCqMyCfaLbGiZCD4xmE9GEOKb7YgC9w4NprZCGeNW4hCoDRajIa6YJraHM8mGEPIYrPWgr8exhJAQBfK0dTIsuBTA6fyh0UhK7ybzg147FicCrZCdgedONNHY5kAZDZD&access-token-expiration=2015-10-16 18:42:36' 'http://localhost:3000/facebook-login'
