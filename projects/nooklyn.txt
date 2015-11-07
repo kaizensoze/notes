@@ -1,8 +1,4 @@
-09:30 - 11:30
-15:00 -
 
-verify that ignore updates grid view
-test changes to mates view
 
 API
   prod (agent_id: 15842)
