@@ -18,9 +18,6 @@ movies
   Welcome to Me
   Woodlawn
 
-tv
-  Wayward Pines
-
 books
   A Confederacy of Dunces, John Kennedy Toole
   All's Quiet on the Western Front, Erich Maria Remarque
