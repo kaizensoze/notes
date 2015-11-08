@@ -2,11 +2,9 @@
 movies
   99 Homes
   Brooklyn
-  Goosebumps
   Grandma
   Legend
   Love
-  Mistress America
   Shut In
   Spectre
   Spotlight
@@ -15,7 +13,6 @@ movies
   The Diary of a Teenage Girl
   Trumbo
   Victoria
-  Welcome to Me
   Woodlawn
 
 books
