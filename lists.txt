@@ -5,6 +5,7 @@ movies
   Grandma
   Legend
   Love
+  Man Up
   Shut In
   Spectre
   Spotlight
@@ -14,6 +15,12 @@ movies
   Trumbo
   Victoria
   Woodlawn
+
+tv
+  Broad City
+  Getting On
+  Louie
+  Master of None
 
 books
   A Confederacy of Dunces, John Kennedy Toole

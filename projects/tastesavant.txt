@@ -1,3 +1,26 @@
+11/09/15
+  13:00 - 13:30
+
+// relevant
+sudo vim /var/log/supervisor/la.tastesavant.com-stdout---supervisor-PzFUuJ.log
+sudo vim /var/log/supervisor/brooklyn.tastesavant.com-stdout---supervisor-aN8YR6.log
+sudo vim /var/log/supervisor/newyork.tastesavant.com-stdout---supervisor-KiT4P8.log
+
+// not helpful
+sudo vim /var/log/tomcat6/catalina.2015-11-09.log
+
+// nothing
+sudo vim /var/log/nginx/error.log
+sudo vim /var/log/nginx/error.log
+sudo vim /var/log/nginx/error.la.tastesavant.com.log
+sudo vim /var/log/nginx/error.production.tastesavant.com.log
+sudo vim /var/log/nginx/error.tastesavant.com.log
+sudo vim /var/log/nginx/error.www.tastesavant.com.log
+
+// nothing
+sudo vim /var/log/gunicorn/caribou.tastesavant.com.access.log
+sudo vim /var/log/gunicorn/caribou.tastesavant.com.error.log
+sudo vim /var/log/gunicorn/tastesavant.log
 
 0d1b1e778cc939ffd7410814860eec6f1d0f7303
 697689173de0128740a9a86c8e5642550c3ac6cb
