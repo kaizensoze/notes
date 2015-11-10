@@ -29,6 +29,10 @@ aws
     aws ec2 run-instances --image-id ami-d05e75b8 --count 1 --instance-type t2.micro --key-name duckspeaker --security-group-ids sg-ae10c4c8 --subnet-id subnet-65546d3c --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":20,\"VolumeType\":\"gp2\",\"DeleteOnTermination\":true}}]"
     aws ec2 create-tags --resources i-c110e862 --tags Key=Name,Value=php-test
 
+brew
+  brew info elasticsearch
+  brew switch elasticsearch 1.7.3
+
 curl
   cat urls.txt | parallel -j30 --eta curl -I
   curl --user name:password http://www.example.com
