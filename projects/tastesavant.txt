@@ -1,5 +1,101 @@
-11/09/15
-  13:00 - 13:30
+
+
+// mailchimp user signups
+// mailchimp newsletter signups
+// mailchimp beta signups
+
+// mailchimp combined
+MANUAL: combine user signups, beta signups, newsletter signups mailchimp lists into one; remove unneeded columns
+
+create table mailchimp_data ( first_name varchar, last_name varchar, email varchar, city varchar, confirm_ip varchar, latitude varchar, longitude varchar);
+copy mailchimp_data from '/Users/joegallo/Downloads/mailchimp_combined.csv' WITH CSV HEADER DELIMITER AS ',';
+
+delete from mailchimp_data where first_name ilike '%test%' or last_name ilike '%test';
+delete from mailchimp_data where email ilike '%dispostable%';
+
+// admin data
+// profile data
+
+// augmented profile data
+select
+	p.first_name,
+	p.last_name,
+	u.email,
+/* 	sa.provider,
+	sa.uid, */
+	p.gender,
+	p.birthday,
+	s.name preferred_site,
+	p.location profile_location,
+	p.zipcode,
+	p.type_expert,
+	p.type_reviewer,
+	p.favorite_food,
+	p.favorite_restaurant,
+	p.view_count
+from
+	profiles_profile p
+	join auth_user u on u.id = p.user_id
+-- 	left outer join social_auth_usersocialauth sa on sa.user_id = u.id
+	join django_site s on p.preferred_site_id = s.id
+order by
+	p.last_name,
+	p.first_name;
+drop table site_data;
+create table site_data ( first_name varchar, last_name varchar, email varchar, gender varchar, birthday varchar, preferred_site varchar, profile_location varchar,  zipcode varchar, type_expert varchar, type_reviewer varchar, favorite_food varchar, favorite_restaurant varchar, view_count int);
+copy site_data from '/Users/joegallo/Downloads/profile_augmented.csv' WITH CSV HEADER DELIMITER AS ',';
+delete from site_data where first_name ilike '%test%' or last_name ilike '%test';
+delete from site_data where email ilike '%dispostable%';
+update site_data set first_name = null where first_name = '';
+update site_data set last_name = null where last_name = '';
+
+// socialauth data
+select
+	u.first_name,
+	u.last_name,
+	u.email,
+	sa.provider,
+	sa.uid
+from
+	auth_user u
+	join social_auth_usersocialauth sa on sa.user_id = u.id
+order by
+	u.last_name,
+	u.first_name;
+drop table social_auth;
+create table social_auth ( first_name varchar, last_name varchar, email varchar, provider varchar, uid varchar);
+copy social_auth from '/Users/joegallo/Downloads/social_auth.csv' WITH CSV HEADER DELIMITER AS ',';
+update social_auth set first_name = null where first_name = '';
+update social_auth set last_name = null where last_name = '';
+
+// combined
+select
+	coalesce(m.first_name, s.first_name) first_name,
+	coalesce(m.last_name, s.last_name) last_name,
+	coalesce(m.email, s.email) email,
+	s.gender,
+	s.birthday,
+	s.type_expert,
+	s.type_reviewer,
+	s.favorite_food,
+	s.favorite_restaurant,
+	s.zipcode,
+	s.preferred_site,
+	s.profile_location,
+	m.city mailchimp_city,
+	m.confirm_ip ip,
+	m.latitude,
+	m.longitude,
+	sa.provider,
+	sa.uid
+from
+	site_data s
+	full outer join mailchimp_data m on s.email = m.email
+	left outer join social_auth sa on sa.email = m.email
+order by
+	last_name,
+	first_name;
+
 
 // relevant
 sudo vim /var/log/supervisor/la.tastesavant.com-stdout---supervisor-PzFUuJ.log

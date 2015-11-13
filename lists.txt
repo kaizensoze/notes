@@ -5,9 +5,7 @@ movies
   Grandma
   Legend
   Love
-  Man Up
   Shut In
-  Spectre
   Spotlight
   Starlet
   Steve Jobs
@@ -18,7 +16,6 @@ movies
 
 tv
   Broad City
-  Getting On
   Louie
   Sherlock
 
@@ -127,9 +124,20 @@ videogames
   PS4
     Fallout 4
     For Honor
+    Rise of the Tomb Raider
+
+pale
+  Rayveness
+  Justine Joli
+  Piper Fawn
+  Ginger Redd
+  Marie McCray
+  Jessi Palmer
+  Sage Evans
+  Neesa
 
 comics
-  Walking Dead: 147
+  Walking Dead: 148
 
 talk shows
   tonight show (NBC) [11:35pm-12:35am]

@@ -1,5 +1,7 @@
 
 
+
+
 API
   prod (agent_id: 15842)
     curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'https://nooklyn.com/api/v1/sessions'
@@ -9,6 +11,7 @@ API
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mates?include=neighborhood,agent'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mate-favorites?agent-id=18284'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mate-ignores'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/agents/15842/mate-posts'
     curl 'https://nooklyn.com/locations.json?latitude=40.7100288&longitude=-73.9470297&radius=1'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/location-favorites?agent-id=18284'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/conversations?include=participating-agents,messages'
@@ -22,6 +25,7 @@ API
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mates?include=neighborhood,agent'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mate-favorites?agent-id=18284'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mate-ignores'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/agents/18284/mate-posts'
     curl 'http://localhost:3000/locations.json?latitude=40.7100288&longitude=-73.9470297&radius=1'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/location-favorites?agent-id=18284'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages'
