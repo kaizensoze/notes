@@ -3,16 +3,16 @@ movies
   99 Homes
   Brooklyn
   Grandma
-  Legend
-  Love
-  Shut In
   Spotlight
-  Starlet
-  Steve Jobs
   The Diary of a Teenage Girl
+  The Peanuts Movie
   Trumbo
   Victoria
   Woodlawn
+
+  Legend
+  Love
+  Shut In
 
 tv
   Broad City

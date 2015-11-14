@@ -1,6 +1,7 @@
 
-
-
+ditch the Sales link?
+replace hardcoded values on about page with variables?
+Thousands of people have already found roommates using Nooklyn's Rooms & Mates. -> Thousands of people have found roommates using Nooklyn's Rooms & Mates.
 
 API
   prod (agent_id: 15842)
