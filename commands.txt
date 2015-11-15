@@ -29,6 +29,20 @@ aws
     aws ec2 run-instances --image-id ami-d05e75b8 --count 1 --instance-type t2.micro --key-name duckspeaker --security-group-ids sg-ae10c4c8 --subnet-id subnet-65546d3c --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":20,\"VolumeType\":\"gp2\",\"DeleteOnTermination\":true}}]"
     aws ec2 create-tags --resources i-c110e862 --tags Key=Name,Value=php-test
 
+    // in the event you fuck up ssh access
+    aws ec2 stop-instances --instance-ids i-9a31e5f8
+    aws ec2 describe-instances --instance-ids i-9a31e5f8
+    aws ec2 detach-volume --volume-id vol-91b3defc
+    aws ec2 attach-volume --volume-id vol-91b3defc --instance-id i-3785de80 --device /dev/sdf
+    ssh scratch
+    sudo -i
+    mount /dev/xvdf /mnt
+    umount /mnt
+    aws ec2 describe-instances --instance-ids i-3785de80
+    aws ec2 detach-volume --volume-id vol-91b3defc
+    aws ec2 attach-volume --volume-id vol-91b3defc --instance-id i-9a31e5f8 --device /dev/sda1
+    aws ec2 start-instances --instance-ids i-9a31e5f8
+
 brew
   brew info elasticsearch
   brew switch elasticsearch 1.7.3

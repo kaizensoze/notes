@@ -1,5 +1,33 @@
 
 
+old new ip: 54.227.79.91
+change caribou's ip to 50.16.202.217
+
+caribou.tastesavant.com
+
+caribou: i-9a31e5f8
+scratch: i-3785de80
+
+caribou root volume: /dev/sda1 vol-91b3defc
+
+// in the event you fuck up ssh access
+aws ec2 stop-instances --instance-ids i-9a31e5f8
+aws ec2 describe-instances --instance-ids i-9a31e5f8
+aws ec2 detach-volume --volume-id vol-91b3defc
+aws ec2 attach-volume --volume-id vol-91b3defc --instance-id i-3785de80 --device /dev/sdf
+ssh scratch
+sudo -i
+mount /dev/xvdf /mnt
+umount /mnt
+aws ec2 describe-instances --instance-ids i-3785de80
+aws ec2 detach-volume --volume-id vol-91b3defc
+aws ec2 attach-volume --volume-id vol-91b3defc --instance-id i-9a31e5f8 --device /dev/sda1
+aws ec2 start-instances --instance-ids i-9a31e5f8
+
+username: user
+aws_access_key_id:     AKIAJ4IDDUWAN7MXN7OQ
+aws_secret_access_key: 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
+
 // mailchimp user signups
 // mailchimp newsletter signups
 // mailchimp beta signups

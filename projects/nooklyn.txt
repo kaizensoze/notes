@@ -1,7 +1,15 @@
 
+
+consider widening what's returned by listing resource base records and use filters instead
+
+replace hardcoded values on about page with variables
+  select count(*) from listings where status = 'Rented' and date_available >= CURRENT_DATE - INTERVAL '3 years';
+  select count(*) from conversation_messages;
+  select count(*) from agents where employee = true; ??
+  select count(*) from photos where created_at >= CURRENT_DATE - INTERVAL '1 years';
+  ??
+  select count(*) from agents;
 ditch the Sales link?
-replace hardcoded values on about page with variables?
-Thousands of people have already found roommates using Nooklyn's Rooms & Mates. -> Thousands of people have found roommates using Nooklyn's Rooms & Mates.
 
 API
   prod (agent_id: 15842)
