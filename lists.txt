@@ -16,7 +16,6 @@ movies
 
 tv
   Broad City
-  Louie
   Sherlock
 
 books
