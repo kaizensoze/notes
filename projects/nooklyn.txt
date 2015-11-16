@@ -1,15 +1,33 @@
 
+width: 250
+  width: 100
 
-consider widening what's returned by listing resource base records and use filters instead
+site
+  don't make /rentals, /commercial accessible; just use /listings
+  make /listings more like airbnb (left side: filters, grid; right side: map)
+  ditch map/satellite, google user overlay over map
+  change Roommates to Rooms & Mates
+  footer padding
+    div.nooklyn-footer {
+      padding-top: 10px;
+      padding-bottom: 30px;
+    }
+    .social-icons-row {
+      padding-top: 15px;
+    }
+  KEEP UP WITH US => FOLLOW US
+  ditch app button under roommates sign up free
+  div.nooklyn_listing_square div.nooklyn_listing_square_bed_and_bath {
+    margin-left: 140px;
+    margin-top: 25px;
+  }
+  div.nooklyn_listing_square div.featured {
+    margin-left: 140px;
+    margin-top: 50px;
+  }
 
-replace hardcoded values on about page with variables
-  select count(*) from listings where status = 'Rented' and date_available >= CURRENT_DATE - INTERVAL '3 years';
-  select count(*) from conversation_messages;
-  select count(*) from agents where employee = true; ??
-  select count(*) from photos where created_at >= CURRENT_DATE - INTERVAL '1 years';
-  ??
-  select count(*) from agents;
-ditch the Sales link?
+app
+  consider widening what's returned by listing resource base records and use filters instead
 
 API
   prod (agent_id: 15842)

@@ -16,7 +16,6 @@ movies
 
 tv
   Broad City
-  Sherlock
 
 books
   A Confederacy of Dunces, John Kennedy Toole
