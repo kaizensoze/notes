@@ -8,6 +8,7 @@ movies
   The Peanuts Movie
   Trumbo
   Victoria
+  We're The Millers
   Woodlawn
 
   Legend

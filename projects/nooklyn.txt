@@ -1,11 +1,20 @@
 
-width: 250
-  width: 100
+
+
+app
+  location categories collection view
+  neighborhood locations view
+  mates cell
 
 site
-  don't make /rentals, /commercial accessible; just use /listings
-  make /listings more like airbnb (left side: filters, grid; right side: map)
+  firefox google maps drag issue
+  set min width/height for listing cell
+  hovering over listing grid cell highlights marker
+  fix scroll position?
+  load listings asynchronously
+
   ditch map/satellite, google user overlay over map
+  room/mates gridcell click instead of overlay
   change Roommates to Rooms & Mates
   footer padding
     div.nooklyn-footer {
@@ -17,22 +26,13 @@ site
     }
   KEEP UP WITH US => FOLLOW US
   ditch app button under roommates sign up free
-  div.nooklyn_listing_square div.nooklyn_listing_square_bed_and_bath {
-    margin-left: 140px;
-    margin-top: 25px;
-  }
-  div.nooklyn_listing_square div.featured {
-    margin-left: 140px;
-    margin-top: 50px;
-  }
-
-app
-  consider widening what's returned by listing resource base records and use filters instead
 
 API
   prod (agent_id: 15842)
     curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'https://nooklyn.com/api/v1/sessions'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/listings'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/locations?neighborhood-id=35&location-category-id=3&include=location-category'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/location-categories'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/ignored-listings'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mates?include=neighborhood,agent'
@@ -47,6 +47,8 @@ API
   local (agent_id: 18284)
     curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/listings'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/locations?neighborhood-id=35&location-category-id=3&include=location-category'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/location-categories'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/favorite2s?agent-id=18284'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/ignored-listings'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mates?include=neighborhood,agent'
