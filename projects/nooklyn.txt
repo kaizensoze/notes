@@ -1,10 +1,10 @@
 
 
-
 app
-  location categories collection view
-  neighborhood locations view
+  tap location category -> neighborhood locations view
   mates cell
+  go through and simplify any collectionview-embedded-in-tableview tomfoolery
+  enable dsym
 
 site
   firefox google maps drag issue
@@ -31,7 +31,7 @@ API
   prod (agent_id: 15842)
     curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'https://nooklyn.com/api/v1/sessions'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/listings'
-    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/locations?neighborhood-id=35&location-category-id=3&include=location-category'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/locations?filter[neighborhood-id]=35&filter[location-category-id]=3&include=location-category'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/location-categories'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/ignored-listings'
@@ -47,7 +47,7 @@ API
   local (agent_id: 18284)
     curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/listings'
-    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/locations?neighborhood-id=35&location-category-id=3&include=location-category'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/locations?filter[neighborhood-id]=35&filter[location-category-id]=3&include=location-category'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/location-categories'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/favorite2s?agent-id=18284'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/ignored-listings'
