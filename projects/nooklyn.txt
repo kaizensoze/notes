@@ -1,12 +1,11 @@
-
+13:00 - 14:30
 
 app
-  tap location category -> neighborhood locations view
-  mates cell
-  go through and simplify any collectionview-embedded-in-tableview tomfoolery
-  enable dsym
+  suggest simple button to go to mates tab from neighborhood detail view since you're not supposed to see any mates when not logged in
 
 site
+  look into conversations with no messages
+  remove birds from ridgewood image
   firefox google maps drag issue
   set min width/height for listing cell
   hovering over listing grid cell highlights marker
@@ -74,13 +73,8 @@ test:
   secret_access_key: YHh9JEAebZo091jar/xw1VW5urgvgAdyC6Ly6lfG
 production:
   bucket: nooklyn-pro
-  access_key_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
-  secret_access_key: <%= ENV['S3_ACCESS_KEY'] %>
-
-Access Key ID:
-AKIAJGPHHWBPQKACQB4A
-Secret Access Key:
-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
+  access_key_id: AKIAJGPHHWBPQKACQB4A
+  secret_access_key: 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
 
 select * from conversation_messages where agent_id = 18284;
 select * from conversation_participants where conversation_id = 14618;
