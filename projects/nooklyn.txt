@@ -1,10 +1,167 @@
 13:00 - 14:30
+16:00 -
 
-app
-  suggest simple button to go to mates tab from neighborhood detail view since you're not supposed to see any mates when not logged in
+select
+  id
+from
+  conversations
+where id not in (
+  select conversation_id
+  from conversation_messages
+)
+
+select * from conversations where id in (
+  1300,
+  1360,
+  1465,
+  6290,
+ 11352,
+ 11353,
+ 11761,
+ 12031,
+ 12091,
+ 14138,
+ 14139,
+ 14140,
+ 14801,
+ 14802,
+ 15178,
+ 15179,
+ 15180,
+ 15181,
+ 15204,
+ 15226,
+ 15227,
+ 15239,
+ 15240,
+ 15265,
+ 15267,
+ 15268,
+ 15269,
+ 15270,
+ 15271,
+ 15273,
+ 15274,
+ 15300,
+ 15301
+)
+order by created_at;
+
+select * from conversations where id = 15301;
+select * from conversation_participants where conversation_id = 15301;
+
+delete from conversation_participants where conversation_id = 15301;
+delete from conversations where id = 15301;
+
+  id   |         created_at         |         updated_at         |             context_url
+-------+----------------------------+----------------------------+-------------------------------------
+  1300 | 2015-06-04 19:14:59.870765 | 2015-06-04 19:14:59.870765 | https://nooklyn.com/room_posts/311  [DONE]
+  1360 | 2015-06-05 15:54:06.864822 | 2015-06-05 15:54:06.864822 | https://nooklyn.com/room_posts/299  [DONE]
+  1465 | 2015-06-06 16:19:28.317184 | 2015-06-06 16:19:28.317184 | https://nooklyn.com/mate_posts/771  [DONE]
+  6290 | 2015-07-25 00:23:35.544529 | 2015-07-31 07:27:49.267984 | https://nooklyn.com/listings/3300   [DONE]
+ 11352 | 2015-09-09 21:57:04.491782 | 2015-09-09 21:57:04.491782 | https://nooklyn.com/listings/1975   [DONE]
+ 11353 | 2015-09-09 21:57:05.383331 | 2015-09-09 21:57:05.383331 | https://nooklyn.com/listings/1975   [DONE]
+ 11761 | 2015-09-15 22:42:15.322492 | 2015-09-15 22:42:15.322492 | https://nooklyn.com/listings/3811   [DONE]
+ 12031 | 2015-09-19 16:46:52.203074 | 2015-09-19 16:46:52.203074 | https://nooklyn.com/listings/3934   [DONE]
+ 12091 | 2015-09-20 15:46:29.583171 | 2015-09-20 15:46:29.583171 | https://nooklyn.com/listings/1939   [DONE]
+ 14138 | 2015-10-22 20:43:36.186687 | 2015-10-22 20:43:36.186687 | https://nooklyn.com/listings/3957   [DONE]
+ 14139 | 2015-10-22 20:43:37.598482 | 2015-10-22 20:43:37.598482 | https://nooklyn.com/listings/3957   [DONE]
+ 14140 | 2015-10-22 20:43:38.399942 | 2015-10-22 20:43:38.399942 | https://nooklyn.com/listings/3957   [DONE]
+ 14801 | 2015-11-08 18:00:40.292195 | 2015-11-08 18:00:40.292195 | https://nooklyn.com/listings/2507   [DONE]
+ 14802 | 2015-11-08 18:00:40.352743 | 2015-11-08 18:00:40.352743 | https://nooklyn.com/listings/2507   [DONE]
+ 15178 | 2015-11-17 23:13:02.903136 | 2015-11-17 23:13:02.903136 | https://nooklyn.com/listings/4216   [DONE]
+ 15179 | 2015-11-17 23:13:05.466698 | 2015-11-17 23:13:05.466698 | https://nooklyn.com/listings/4216   [DONE]
+ 15180 | 2015-11-17 23:13:06.03298  | 2015-11-17 23:13:06.03298  | https://nooklyn.com/listings/4216   [DONE]
+ 15181 | 2015-11-17 23:13:06.038513 | 2015-11-17 23:13:06.038513 | https://nooklyn.com/listings/4216   [DONE]
+ 15204 | 2015-11-18 00:02:58.794033 | 2015-11-18 00:02:58.794033 | https://nooklyn.com/mate_posts/2389 [DONE]
+ 15226 | 2015-11-18 00:13:59.998908 | 2015-11-18 00:13:59.998908 | https://nooklyn.com/mate_posts/2396 [DONE]
+ 15227 | 2015-11-18 00:14:07.323739 | 2015-11-18 00:14:07.323739 | https://nooklyn.com/mate_posts/2396 [DONE]
+ 15239 | 2015-11-18 13:55:16.676628 | 2015-11-18 13:55:16.676628 | https://nooklyn.com/listings/3888   [DONE]
+ 15240 | 2015-11-18 13:55:17.138251 | 2015-11-18 13:55:17.138251 | https://nooklyn.com/listings/3888   [DONE]
+ 15265 | 2015-11-19 02:19:03.562864 | 2015-11-19 02:19:03.562864 | https://nooklyn.com/mate_posts/2460 [DONE]
+ 15267 | 2015-11-19 02:19:29.376351 | 2015-11-19 02:19:29.376351 | https://nooklyn.com/mate_posts/2460 [DONE]
+ 15268 | 2015-11-19 02:20:10.188084 | 2015-11-19 02:20:10.188084 | https://nooklyn.com/mate_posts/2378 [DONE]
+ 15269 | 2015-11-19 02:20:22.583286 | 2015-11-19 02:20:22.583286 | https://nooklyn.com/mate_posts/1695 [DONE]
+ 15270 | 2015-11-19 02:20:23.004819 | 2015-11-19 02:20:23.004819 | https://nooklyn.com/mate_posts/1695 [DONE]
+ 15271 | 2015-11-19 02:21:18.823929 | 2015-11-19 02:21:18.823929 | https://nooklyn.com/mate_posts/2301 [DONE]
+ 15273 | 2015-11-19 03:14:55.072926 | 2015-11-19 03:14:55.072926 | https://nooklyn.com/listings/425    [DONE]
+ 15274 | 2015-11-19 03:14:55.086042 | 2015-11-19 03:14:55.086042 | https://nooklyn.com/listings/425    [DONE]
+ 15300 | 2015-11-19 14:25:22.719933 | 2015-11-19 14:25:22.719933 | https://nooklyn.com/mate_posts/2339 [DONE]
+ 15301 | 2015-11-19 14:25:23.022586 | 2015-11-19 14:25:23.022586 | https://nooklyn.com/mate_posts/2339 [DONE]
+
+  id   | first_name | last_name |                               device_token
+-------+------------+-----------+---------------------------------------------------------------------------
+     1 | Steve      | Jobs      | <1a251843 60df38f0 06945477 7f2b230b f5836376 2ecfa682 3ce9b159 ac962ae4>
+     2 | Moiz       | K. Malik  | <61222a12 765adb32 c23a0f96 83d19993 1f031f15 bd230f56 8b377c2a aa43dc91>
+     3 | Harley     | Courts    | <f16e64dc 9e8cb190 e95a4c00 43031bf9 03cb36f0 5e44f8e0 009e8faf 1213ff7c>
+  1802 | Kate       | Quintard  | <7d405239 b331a1ad 01a2890d 9d7a318e 767ab9e5 2e6c7f20 722cac09 bfda3312>
+  9342 | Ory        | Baum      | <eedcf513 12e1b5a9 c5e48694 83ed4b60 18a33b4b 061a1326 fc0caecb 931041fe>
+ 11777 | Axel       | Melo      | <ff042efe 08af709d 5c280c84 149a9969 8b967643 5adc42cc c1bef5b9 a238fe94>
+ 13237 | emma       | exley     | <a9c78fe4 3ea2bcf1 c2d57a75 e564bb60 ce36123b ac6d8776 247e005f 910b840f>
+ 14289 | App        | Store     | <1d7f08ad 765c09b9 d9041ed7 38b7e42b b40dc199 c6b1b7e3 0ef84206 031e68e8>
+ 15842 | Joe        | Gallo     | <4ccbc5eb d32b9d03 d28cab44 5616b541 eb781405 09d5ba28 4915e3f3 21c26f75>
+ 17224 | Brittany   | Thoma     | <c48ef8fe 412de2ae 822c09e8 ca0e91bf 495106da 98243780 15aa585e 8be6f86f>
+ 18480 | Justina    | Eng       | <2f2c2821 56283eae 01b1e5f6 f460ecb8 50661b2c 6306194d de8a0a5d c6762926>
+ 18748 | Amy        | Olivo     | <8f7ecf19 aea4d8de 021c797b 39bca9d2 47ae156d d02cae53 5a64ae0e 0ea32f4c>
+ 18767 | Loza       | Abduselam | <b434a6c7 8b8ec442 f79e877f 4f7f8f8e d96cf8b1 b3e7309c 4d033621 3f92a4bc>
+ 18828 | Jeri       | Ekdahl    | <78e06f36 94d551df ef063e14 81d42292 5447a8ef e79d8e49 7c60d1b4 892ed405>
+ 18841 | John       | Bajana    | <4f547129 417d910f b970beb6 30faec19 53b11197 c84876a5 f9126143 1d1042ba>
+ 18844 | Kat        | Ton       | <d95957c3 afa4f75e bf465e60 4b2ab60d e31f1cae 54fbcc4d e30ce1d0 0dd8d41a>
+ 18846 | TeShima    | Brennnen  | <0b4e78d8 882d0448 58c5bf45 0240915f 0f890667 35929ca0 0c5e68dc 17bab3fe>
+ 18850 | Amy        | Kynoch    | <d0c6005a 63fb762d 52d8594e 975dcb5f 63c715d4 f21940eb eec9bbf4 fcb75c18>
+ 18853 | Alexis     | King      | <195eddac e9bc00cf fa0941e4 27b1bdc5 f7ed9596 976c655a ec721f59 87bba313>
+ 18858 | Lexi       | Priest    | <7d43d3b7 c16f700f a254b9b5 a87dd342 bbf49f86 874347e6 65556e82 0494fc43>
+ 18865 | Dagreat    | Twin      | <6b876d98 4d688597 70402a89 3a558914 358b247b 11a8747f eca029fb f3e68cf3>
+ 18878 | Travone    | Knights   | <4008a808 5b6ad3a7 31b21782 2b209bda 3023f4f8 21a2b084 0921e854 ce4eb3bc>
+ 18883 | Marcela    | Nadel     | <fca33d18 d765dadd 69aa717e 290b59f6 64b66b3d 63916707 e59dc5b1 414679c9>
+ 18884 | Clay       | Crawford  | <5fd8b440 6321fa14 2a0f27e0 3be02df7 aa8b5a78 90f8a8eb 8b7b42b0 213702c2>
+
+     1,
+     2,
+     3,
+  1802,
+  9342,
+ 11777,
+ 13237,
+ 14289,
+ 15842,
+ 17224,
+ 18480,
+ 18748,
+ 18767,
+ 18828,
+ 18841,
+ 18844,
+ 18846,
+ 18850,
+ 18853,
+ 18858,
+ 18865,
+ 18878,
+ 18883,
+ 18884
+
+select
+  a.id,
+  a.first_name,
+  a.last_name,
+  m.message
+from
+  agents a
+  join conversation_messages m on m.agent_id = a.id
+where
+  m.user_agent = 'iOS'
+  and a.device_token != ''
+  and a.id not in (1,2)
+order by
+  a.id;
+
+look into push notifications
 
 site
   look into conversations with no messages
+  find image for nooklyn site
+  change title to iOS Developer
   remove birds from ridgewood image
   firefox google maps drag issue
   set min width/height for listing cell
@@ -25,6 +182,9 @@ site
     }
   KEEP UP WITH US => FOLLOW US
   ditch app button under roommates sign up free
+
+app
+  suggest simple button to go to mates tab from neighborhood detail view since you're not supposed to see any mates when not logged in
 
 API
   prod (agent_id: 15842)
