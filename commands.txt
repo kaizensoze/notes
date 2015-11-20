@@ -42,6 +42,10 @@ aws
     aws ec2 detach-volume --volume-id vol-91b3defc
     aws ec2 attach-volume --volume-id vol-91b3defc --instance-id i-9a31e5f8 --device /dev/sda1
     aws ec2 start-instances --instance-ids i-9a31e5f8
+  s3
+    aws s3 ls s3://nooklyn-pro/locations/ --recursive --profile nooklyn | vim -
+    aws --profile hbs-stage s3 rm s3://hbs-stage/uploads/background_image/image/2/background2.JPG
+    aws s3 cp "7th Avenue Donuts and Diner" 's3://storage.tastesavant.com/restaurants/7th Avenue Donuts and Diner' --recursive
 
 brew
   brew info elasticsearch
@@ -129,11 +133,6 @@ rails
 
   rake test [testpath]
   be rspec [testpath]
-
-s3
-  aws --profile hbs-stage s3 ls s3://hbs-stage --recursive
-  aws --profile hbs-stage s3 rm s3://hbs-stage/uploads/background_image/image/2/background2.JPG
-  aws s3 cp "7th Avenue Donuts and Diner" 's3://storage.tastesavant.com/restaurants/7th Avenue Donuts and Diner' --recursive
 
 siege
   siege -c200 -b -t3M -i -f urls.txt
