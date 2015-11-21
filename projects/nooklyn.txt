@@ -1,16 +1,13 @@
-20:30 - 21:00
-22:00 -
+
 
 site
-  fix broken location images
-    GABY'S BAKERY
-  one location info window at a time
-  one room info window at a time
-  find http content on hood detail page
-  fix email/phone spacing in agent card
+  don't show location card on its own page
+  add location cards to /locations
   choose either /api/v1/locations.json or /locations but not both
   fix calls to /api/v1/locations.json (need to apply filters)
-  update location_favorite_resource to match location_resource
+  get rid of jbuilder stuff?
+  update location_favorite_resource to match location_resource (check with location favorite included in app)
+  fix http primary photos for listings
 
   firefox google maps drag issue
   set min width/height for listing cell
