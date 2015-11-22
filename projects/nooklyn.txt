@@ -3,6 +3,7 @@
 app
   neighborhood detail mates cell
   make neighborhood card fit at least 2x2 on iphone 5
+  widen listing base records
   go through fabric bugs
 
 site
