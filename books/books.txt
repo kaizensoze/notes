@@ -8,15 +8,14 @@ Among Others, Jo Walton
 Angler: The Cheney Vice Presidency, Barton Gellman
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
-Around the World in 50 Years: My Adventure to Every Country on Earth, Albert Podell
 Atlas Shrugged, Ayn Rand
 Average Is Over, Tyler Cowen
 Basic Economics, Thomas Sowell, page: 38
-Best of MAKE, Mark Frauenfelder
 Bleeding Edge, Thomas Pynchon
 Body of Secrets, James Bamford
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
+Born Standing Up, Steve Martin
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 Broken Markets, Sal L. Arnuk
 Bruce Davidson: Subway
@@ -25,7 +24,6 @@ By Night in Chile, Roberto Bolano
 Cancer Ward, Aleksandr Solzhenitsyn
 Chaos, James Gleick
 Chaos in Kabul, Gérard de Villiers
-Child of God, Cormac McCarthy
 Cloud Atlas, David Mitchell
 Collapse, Jared Diamond
 Confront and Conceal, David E. Sanger
@@ -40,10 +38,8 @@ Deliverance, James Dickey
 Dhalgren, Samuel R. Delany
 Different Seasons, Stephen King
 Discworld, Terry Pratchett
-Doing Good Better: How Effective Altruism Can Help You Make a Difference, William MacAskill
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
-Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
 Everything and More: A Compact History of Infinity
 Everything's Eventual, Stephen King
@@ -53,13 +49,11 @@ Generation X, Douglas Coupland
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Girl With Curious Hair, David Foster Wallace
 Hacking: The Art of Exploitation, Jon Erickson
-Hallucinations, Oliver Sacks
 Ham on Rye, Charles Bukowski
 Have A Nice Day: A Tale of Blood and Sweatsocks, Mick Foley
 High Output Management, Andy Grove
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
-How Children Succeed, Paul Tough
 How Markets Fail, John Cassidy
 How to Change the World, David Bornstein
 How To Get Into The Twin Palms, Karolina Waclawiak
@@ -83,15 +77,12 @@ Made in the USA, Vaclav Smil
 Mating in Captivity, Esther Perel
 Men are from mars, women are from venus, Joe Peacock
 Moby Dick, Herman Melville
-Modern Romance, Aziz Ansari
 My Years With General Motors, Alfred P Sloan Jr
 Neil Patrick Harris: Choose Your Own Autobiography, Neil Patrick Harris
 Never Let Me Go, Kazuo Ishiguro
 No Good Men Among the Living, Anand Gopal
 Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
-On the Move: A Life, Oliver Sacks
-On the Origin of Species, Charles Darwin
 Oryx and Crake, Margaret Atwood
 Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
 Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan
@@ -142,7 +133,6 @@ The Corpse Reader, Antonio Garrido
 The Count of Monte Cristo, Alexandre Dumas
 The Courage to Act: A Memoir of a Crisis and Its Aftermath, Ben Bernanke
 The Dark Tower, Stephen King
-The Death and Life of Great American Cities, Jane Jacobs
 The Death of Common Sense, Philip K. Howard
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
 The Department of Mad Scientists, Michael Belfiore
@@ -180,7 +170,6 @@ The Long Tomorrow, Leigh Brackett
 The Long Walk, Stephen King (writing as Richard Bachman)
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
-The Man Who Mistook His Wife For A Hat, Oliver Sacks
 The Master and Margarita, Mikhail Bulgakov
 The Mists of Avalon, Marion Zimmer Bradley
 The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
@@ -202,7 +191,6 @@ The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Scar, China Mieville
 The Scented Ape, David Michael Stoddart
 The Secret Sentry, Matthew M. Aid
-The Shallows: What the Internet Is Doing to Our Brains, Nicholas Carr
 The Singularity is Near, Ray Kurzweil
 The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
 The Snowden Files, Luke Harding
@@ -211,7 +199,6 @@ The Sovereign Individual
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
-The Unbearable Lightness of Being, Milan Kundera
 The Unix-Haters Handbook, Simson L. Garfinkel
 The Wheel of Time, Robert Jordan
 The Wisdom of Crowds, James Surowiecki
@@ -233,12 +220,9 @@ Walden, Henry David Thoreau
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
-We Are All Completely Beside Ourselves, Karen Joy Fowler
-We Are Anonymous, Parmy Olson
 We Have Always Lived In The Castle, Shirley Jackson
 Wealth of Nations, Adam Smith
 When the Killing's Done, T.C. Boyle
-Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
 Winning, Jack Welch
 Women, Charles Bukowski
 Zero to One: Notes on Startups or How to Build the Future, Peter Thiel

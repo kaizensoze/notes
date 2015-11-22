@@ -8,15 +8,11 @@ movies
   The Peanuts Movie
   Trumbo
   Victoria
-  We're The Millers
   Woodlawn
 
   Legend
   Love
   Shut In
-
-tv
-  Broad City
 
 books
   A Confederacy of Dunces, John Kennedy Toole
@@ -25,6 +21,7 @@ books
   Dark Pools, Scott Patterson
   End This Depression Now!, Paul Krugman
   Ghost in the Wires, Kevin Mitnick
+  Kitchen Confidential, Anthony Bourdain
   Siddhartha, Herman Hesse
   The Curious Incident Of the Dog In The Night Time, Mark Haddon
   The Shadow Factory, James Bamford

@@ -1,19 +1,27 @@
 
 
+app
+  neighborhood detail mates cell
+  make neighborhood card fit at least 2x2 on iphone 5
+  go through fabric bugs
+
 site
-  don't show location card on its own page
-  add location cards to /locations
-  choose either /api/v1/locations.json or /locations but not both
   fix calls to /api/v1/locations.json (need to apply filters)
-  get rid of jbuilder stuff?
+  take another look into /api/v1/locations, /locations
+  look into jbuilder stuff
   update location_favorite_resource to match location_resource (check with location favorite included in app)
-  fix http primary photos for listings
+  make sure all neighborhoods have an image
+  add location cards to /locations
 
   firefox google maps drag issue
   set min width/height for listing cell
   hovering over listing grid cell highlights marker
   fix scroll position?
   load listings asynchronously
+
+ideas
+  an image and users have to guess its location
+  for each neighborhood, have sections for new, closing, and recently closed locations
 
 API
   prod (agent_id: 15842)
@@ -52,6 +60,7 @@ API
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/agents/18284/mate-posts'
     curl -X DELETE -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/hearts/3456'
 
+# S3
 development:
   bucket: nooklyn-dev
   access_key_id: AKIAI6SP3RIVOVM7MA4A
@@ -65,12 +74,45 @@ production:
   access_key_id: AKIAJGPHHWBPQKACQB4A
   secret_access_key: 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
 
+# get all conversations with no messages
+select
+  id
+from
+  conversations
+where id not in (
+  select conversation_id
+  from conversation_messages
+);
+
+# get all malformatted/empty subway lines
+select
+  id,
+  subway_line
+from
+  listings
+where
+  status = 'Available'
+  and (
+    length(subway_line) = 0
+    or subway_line ~ '  '
+    or (length(subway_line) > 1 and subway_line !~ ' ')
+    or subway_line ~ '([^[:alnum:]\s])'
+  )
+order by
+  subway_line,
+  id;
+
+# get all listings with http primaryphoto
+select id, primaryphoto from listings where primaryphoto like 'http:%' order by id;
+update listings set primaryphoto = regexp_replace(primaryphoto, '^http:', 'https:') where primaryphoto like 'http:%';
+
 select * from conversation_messages where agent_id = 18284;
 select * from conversation_participants where conversation_id = 14618;
 delete from conversation_participants where conversation_id = 14618;
 delete from conversation_messages where agent_id = 18284;
 delete from conversations where id = 14618;
 
+# saving realm db to test
 find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
 
 cp /Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/D401E697-F5B4-4C2D-AA18-4DE6C2CB7464/Documents/default.realm ~/Downloads
@@ -79,5 +121,6 @@ cp ~/Downloads/default.realm /Users/joegallo/Library/Developer/CoreSimulator/Dev
 
 sudo cp /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/libswiftSecurity.dylib
 
+# push notifications
 apn push "<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>" -c ~/Downloads/dev.pem -m "Hello from the command line" -b 1 -s sosumi.aiff
 apn push "<bba0ae50 65d65cff ebd32f50 ceafcceb 497153a2 72f663d9 b31dba19 9f48161a>" -c ./config/apns/nooklyn_apple_push_notification_dev.pem -m "Test" -b 1 -s sosumi.aiff
