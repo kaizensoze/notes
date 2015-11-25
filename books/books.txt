@@ -77,7 +77,6 @@ Mating in Captivity, Esther Perel
 Men are from mars, women are from venus, Joe Peacock
 Moby Dick, Herman Melville
 My Years With General Motors, Alfred P Sloan Jr
-Neil Patrick Harris: Choose Your Own Autobiography, Neil Patrick Harris
 Never Let Me Go, Kazuo Ishiguro
 No Good Men Among the Living, Anand Gopal
 Notes From Underground, Fyodor Dostoyevsky
@@ -170,6 +169,7 @@ The Long Walk, Stephen King (writing as Richard Bachman)
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
 The Master and Margarita, Mikhail Bulgakov
+The Master Switch: The Rise and Fall of Information Empires, Tim Wu
 The Mists of Avalon, Marion Zimmer Bradley
 The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
 The Mote in God's Eye, Larry Niven and Jerry Pournelle
@@ -198,6 +198,7 @@ The Sovereign Individual
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
+The Universe in a Nutshell, Stephen Hawking
 The Unix-Haters Handbook, Simson L. Garfinkel
 The Wheel of Time, Robert Jordan
 The Wisdom of Crowds, James Surowiecki
@@ -221,6 +222,7 @@ War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 We Have Always Lived In The Castle, Shirley Jackson
 Wealth of Nations, Adam Smith
+What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
 Winning, Jack Welch
 Women, Charles Bukowski

@@ -83,17 +83,23 @@ git
   git push --follow-tags
 
 heroku
-  heroku run rake db:migrate
-  heroku run rails console
-  heroku run rails console -a hbs-stage
+  heroku pg:psql
+  heroku pg:backups
+  heroku pg:backups public-url a399
 
   heroku pg:info
-  heroku pg:psql
   heroku pg:reset DATABASE_URL
   heroku pg:reset HEROKU_POSTGRESQL_PINK_URL --confirm hbs-stage && heroku run rake db:migrate db:seed
 
   heroku logs -t
 
+  heroku run rake db:migrate
+  heroku run rails console
+  heroku run rails console -a hbs-stage
+
+  heroku config
+
+  heroku releases
   git push heroku master && heroku run rake db:migrate && heroku restart
 
 imagemagick
@@ -107,27 +113,32 @@ osx
   sudo dscacheutil -flushcache
 
 postgres
-  \connect nooklyn
-  \l (list databases)
-  \d (list tables)
-  \d+ (describe table)
-  \q (quit)
-  create database nooklyn_test with template nooklyn owner joegallo;
-  pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
-  pg_ctl -D /usr/local/var/postgres stop -s -m fast
-  pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
-  pg_restore -d newdb db.dump
-  psql nooklyn < ~/Downloads/nooklyn.sql
-  pg_restore --verbose --clean --no-acl --no-owner -h localhost -U joegallo -d nooklyn latest.dump
+  run/stop server
+    pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+    pg_ctl -D /usr/local/var/postgres stop -s -m fast
+  psql
+    \connect nooklyn
+    \l (list databases)
+    \d (list tables)
+    \d[+] [table] (describe table)
+    \q (quit)
+  create database
+    create database nooklyn_test with template nooklyn owner joegallo;
+  dump/restore (import)
+    import dump into existing database
+      pg_restore --verbose --clean --no-acl --no-owner -h localhost -U joegallo -d nooklyn ~/Downloads/latest.dump
+    pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
+    pg_restore -d newdb db.dump
+    psql nooklyn < ~/Downloads/nooklyn.sql
 
 rails
+  bundle install && rake db:migrate && PORT=3000 foreman start
+
   be rake db:migrate VERSION=0 && be rake db:migrate
   be rake db:drop db:create db:migrate db:seed
 
-  (in rails console)
   puts BackgroundImage.all.select("sort_order").order("sort_order").map(&:sort_order).join("\n")
-
-  bundle install && rake db:migrate && cd frontend && npm install && cd .. && PORT=3000 foreman start
+  Location.joins(:neighborhood).where(neighborhoods: { region_id: [value] })
 
   User.find(9999).destroy
 
@@ -143,6 +154,7 @@ solr
 sort
   sort -u (unique)
   sort -f (ignore case)
+
 ssh
   ssh -fN -L 3307:127.0.0.1:3306 web@caribou.tastesavant.com
 

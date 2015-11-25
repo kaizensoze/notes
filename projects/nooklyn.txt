@@ -1,28 +1,26 @@
 
 
 app
-  neighborhood detail mates cell
-  make neighborhood card fit at least 2x2 on iphone 5
-  widen listing base records
+  subway spacing
   go through fabric bugs
+  allow all 4 orientations for ipad
+  fix rotation on ipad
+  add MARKs where appropriate
 
 site
-  fix calls to /api/v1/locations.json (need to apply filters)
-  take another look into /api/v1/locations, /locations
-  look into jbuilder stuff
-  update location_favorite_resource to match location_resource (check with location favorite included in app)
-  make sure all neighborhoods have an image
-  add location cards to /locations
-
-  firefox google maps drag issue
-  set min width/height for listing cell
-  hovering over listing grid cell highlights marker
-  fix scroll position?
-  load listings asynchronously
+  switch houston to production
+  revamp listings
+    firefox google maps drag issue
+    set min width/height for listing cell
+    hovering over listing grid cell highlights marker
+    fix scroll position?
+    load listings asynchronously
 
 ideas
   an image and users have to guess its location
   for each neighborhood, have sections for new, closing, and recently closed locations
+  foods unique to a city/region?
+  page for requested features (voting system?)
 
 API
   prod (agent_id: 15842)
@@ -84,6 +82,10 @@ where id not in (
   select conversation_id
   from conversation_messages
 );
+delete from conversations where id not in (
+  select conversation_id
+  from conversation_messages
+);
 
 # get all malformatted/empty subway lines
 select
@@ -106,6 +108,11 @@ order by
 # get all listings with http primaryphoto
 select id, primaryphoto from listings where primaryphoto like 'http:%' order by id;
 update listings set primaryphoto = regexp_replace(primaryphoto, '^http:', 'https:') where primaryphoto like 'http:%';
+
+# get all photos containing quotes
+select primaryphoto, image_file_name from listings where primaryphoto like '%''%' or image_file_name like '%''%';
+select image_file_name from photos where image_file_name like '%''%';
+select image_file_name from location_photos where image_file_name like '%''%';
 
 select * from conversation_messages where agent_id = 18284;
 select * from conversation_participants where conversation_id = 14618;
