@@ -1,13 +1,16 @@
 
 
 app
+  look into conversation-related crashes
+  load locations on location detail view in background if possible
+
   subway spacing
-  go through fabric bugs
   allow all 4 orientations for ipad
   fix rotation on ipad
   add MARKs where appropriate
 
 site
+  add map to guides#show
   switch houston to production
   revamp listings
     firefox google maps drag issue
@@ -50,7 +53,7 @@ API
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mate-favorites?agent-id=18284'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mate-ignores'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/agents/18284/mate-posts'
-    curl 'http://localhost:3000/api/v1/locations?latitude=40.7100288&longitude=-73.9470297&radius=1'
+    curl 'http://localhost:3000/locations.json?latitude=40.7100288&longitude=-73.9470297&radius=1'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/location-favorites?agent-id=18284'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/conversation-messages'
@@ -72,6 +75,12 @@ production:
   bucket: nooklyn-pro
   access_key_id: AKIAJGPHHWBPQKACQB4A
   secret_access_key: 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
+
+// TODO: remove
+let realm = try! Realm()
+try! realm.write {
+    realm.delete(realm.objects(Listing))
+}
 
 # get all conversations with no messages
 select
@@ -110,9 +119,10 @@ select id, primaryphoto from listings where primaryphoto like 'http:%' order by 
 update listings set primaryphoto = regexp_replace(primaryphoto, '^http:', 'https:') where primaryphoto like 'http:%';
 
 # get all photos containing quotes
-select primaryphoto, image_file_name from listings where primaryphoto like '%''%' or image_file_name like '%''%';
-select image_file_name from photos where image_file_name like '%''%';
-select image_file_name from location_photos where image_file_name like '%''%';
+select id, primaryphoto, image_file_name from listings where primaryphoto like '%''%' or image_file_name like '%''%' order by id;
+select listing_id, image_file_name from photos where image_file_name like '%''%' order by id;
+select id, image_file_name from locations where image_file_name like '%''%' order by id;
+select location_id, image_file_name from location_photos where image_file_name like '%''%' order by id;
 
 select * from conversation_messages where agent_id = 18284;
 select * from conversation_participants where conversation_id = 14618;

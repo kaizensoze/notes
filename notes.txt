@@ -239,3 +239,55 @@ rise of the warrior cop
 =======================
 Whitman shootings mark the birth of the SWAT
 1969: Jerry Wilson heads DC's Metro Police in 1969; does it right
+
+LOTR
+====
+Eru Ilúvatar
+  Ainur
+    Valar
+      Lords
+        Manwë
+        Ulmo
+        Aulë
+        Oromë
+        Mandos
+        Lórien
+        Tulkas
+      Queens
+        Varda
+        Yavanna
+        Nienna
+        Estë
+        Valrë
+        Vána
+        Nessa
+      Other
+        Melkor
+    Maiar
+      Istari
+        Sauroman the White
+        Gandalf the Gray
+        Radagast the Brown
+        The [Two] Blue Wizards
+      Sauron
+      Balrogs
+
+Eru Ilúvatar ->
+  Men
+    Hobbits
+  Elves
+
+Manwe ->
+  Eagles
+
+Aulë ->
+  Dwarves
+
+Yavanna ->
+  All animals/plants including Ents
+
+Melkor ->
+  Balrogs
+  Dragons
+  Trolls
+  Orcs (Corrupted Elves)
