@@ -1,23 +1,20 @@
 
 
 app
-  look into conversation-related crashes
   load locations on location detail view in background if possible
-
+  look into conversation-related crashes
   subway spacing
-  allow all 4 orientations for ipad
-  fix rotation on ipad
   add MARKs where appropriate
 
 site
-  add map to guides#show
-  switch houston to production
   revamp listings
     firefox google maps drag issue
     set min width/height for listing cell
     hovering over listing grid cell highlights marker
     fix scroll position?
     load listings asynchronously
+  switch houston to production
+  add map to guides#show
 
 ideas
   an image and users have to guess its location
