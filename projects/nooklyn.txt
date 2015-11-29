@@ -1,26 +1,29 @@
 
 
-app
-  load locations on location detail view in background if possible
-  look into conversation-related crashes
-  subway spacing
-  add MARKs where appropriate
-
 site
+  sort agent leaderboard
+  fix table column sort on stats page
+  releasing 1.3
+    go through TODO
+    switch houston to production
   revamp listings
     firefox google maps drag issue
     set min width/height for listing cell
     hovering over listing grid cell highlights marker
     fix scroll position?
     load listings asynchronously
-  switch houston to production
   add map to guides#show
+
+app
+  look into conversation-related crashes
+  add MARKs where appropriate
 
 ideas
   an image and users have to guess its location
   for each neighborhood, have sections for new, closing, and recently closed locations
   foods unique to a city/region?
   page for requested features (voting system?)
+  location play
 
 API
   prod (agent_id: 15842)
@@ -121,11 +124,11 @@ select listing_id, image_file_name from photos where image_file_name like '%''%'
 select id, image_file_name from locations where image_file_name like '%''%' order by id;
 select location_id, image_file_name from location_photos where image_file_name like '%''%' order by id;
 
-select * from conversation_messages where agent_id = 18284;
-select * from conversation_participants where conversation_id = 14618;
-delete from conversation_participants where conversation_id = 14618;
-delete from conversation_messages where agent_id = 18284;
-delete from conversations where id = 14618;
+# get all locations with a slug containing a period
+select id, slug from locations where slug like '%.%' order by id;
+
+# get all locations with malformatted address
+select id, name, address_line_one, state from locations where address_line_one ~ '(Avenue|Street|\.$)' or state ~ '(New York|California)' or address_line_one ~ city;
 
 # saving realm db to test
 find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'

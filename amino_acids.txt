@@ -108,3 +108,6 @@ tryptophan -> indole
 
 damascenone <- carotenoid
 damascenone: roses
+
+amino acid catabolism
+protein hyrolysis
