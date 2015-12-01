@@ -1,18 +1,21 @@
 
 
 site
-  sort agent leaderboard
-  fix table column sort on stats page
-  releasing 1.3
-    go through TODO
-    switch houston to production
   revamp listings
     firefox google maps drag issue
     set min width/height for listing cell
     hovering over listing grid cell highlights marker
     fix scroll position?
     load listings asynchronously
+
+  releasing 1.3
+    go through TODO
+    switch houston to production
+
   add map to guides#show
+
+  ruby http server comparison
+  look into unicorn affected javascript error console
 
 app
   look into conversation-related crashes
@@ -114,21 +117,11 @@ order by
   subway_line,
   id;
 
-# get all listings with http primaryphoto
-select id, primaryphoto from listings where primaryphoto like 'http:%' order by id;
-update listings set primaryphoto = regexp_replace(primaryphoto, '^http:', 'https:') where primaryphoto like 'http:%';
-
-# get all photos containing quotes
-select id, primaryphoto, image_file_name from listings where primaryphoto like '%''%' or image_file_name like '%''%' order by id;
-select listing_id, image_file_name from photos where image_file_name like '%''%' order by id;
-select id, image_file_name from locations where image_file_name like '%''%' order by id;
-select location_id, image_file_name from location_photos where image_file_name like '%''%' order by id;
+# get all locations with malformatted address
+select id, name, address_line_one, state from locations where address_line_one ~ '(Avenue|Street|\.$)' or state ~ '(New York|California)' or address_line_one ~ city;
 
 # get all locations with a slug containing a period
 select id, slug from locations where slug like '%.%' order by id;
-
-# get all locations with malformatted address
-select id, name, address_line_one, state from locations where address_line_one ~ '(Avenue|Street|\.$)' or state ~ '(New York|California)' or address_line_one ~ city;
 
 # saving realm db to test
 find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
