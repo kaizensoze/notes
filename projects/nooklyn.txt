@@ -1,12 +1,23 @@
+13:30 -
 
+itunes connect
+  change app name
+  adjust screenshots
+  submit
+
+old: brooklyn, apartments, roommates, neighborhoods, lofts, bushwick, williamsburg, manhattan, nooklyn
+new: brooklyn,apartments,roommates,local,places,neighborhoods,nyc,bushwick,williamsburg,manhattan,nooklyn
 
 site
-  revamp listings
-    firefox google maps drag issue
-    set min width/height for listing cell
-    hovering over listing grid cell highlights marker
-    fix scroll position?
-    load listings asynchronously
+  add nearby listings to location show page
+    need to add latitude, longitude to listing table
+    use address to get and store lat/lon
+    make listing Locationable
+    add a listings index jbuilder
+    allow json for listings index
+    use geo_search in listings index
+  prefill map form
+  look into ajax cache
 
   releasing 1.3
     go through TODO
@@ -14,10 +25,9 @@ site
 
   add map to guides#show
 
-  ruby http server comparison
-  look into unicorn affected javascript error console
-
 app
+  create nooklyn user for joe@nooklyn.com to test messaging on prod
+  conversation tickets
   look into conversation-related crashes
   add MARKs where appropriate
 
