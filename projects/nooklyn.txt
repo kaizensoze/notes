@@ -1,17 +1,15 @@
-13:30 -
+13:30 - 17:00
+19:00 - 23:00
+00:00 - 04:00
 
-itunes connect
-  change app name
-  adjust screenshots
-  submit
+http://localhost:3000/listings.json?latitude=40.7194209&longitude=-73.9420559
+Listing.geo_search(radius: 1, latitude: 40.7194209, longitude: -73.9420559)
 
-old: brooklyn, apartments, roommates, neighborhoods, lofts, bushwick, williamsburg, manhattan, nooklyn
-new: brooklyn,apartments,roommates,local,places,neighborhoods,nyc,bushwick,williamsburg,manhattan,nooklyn
+Listing.geo_search(radius: 1, latitude: 40.7194209, longitude: -73.9420559).results.map { |r| r.status }
+Listing.available.visible.has_thumbnail.pluck(:id)
 
 site
   add nearby listings to location show page
-    need to add latitude, longitude to listing table
-    use address to get and store lat/lon
     make listing Locationable
     add a listings index jbuilder
     allow json for listings index
@@ -30,6 +28,18 @@ app
   conversation tickets
   look into conversation-related crashes
   add MARKs where appropriate
+
+think about site changes
+  region
+    neighborhood
+      apartments
+      rooms
+      mates
+      neighborhoods
+
+  dropdown: neighborhood
+  apartments, rooms, mates, places
+    split pane
 
 ideas
   an image and users have to guess its location
