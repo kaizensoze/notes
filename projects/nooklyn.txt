@@ -1,27 +1,15 @@
-13:30 - 17:00
-19:00 - 23:00
-00:00 - 04:00
 
-http://localhost:3000/listings.json?latitude=40.7194209&longitude=-73.9420559
-Listing.geo_search(radius: 1, latitude: 40.7194209, longitude: -73.9420559)
-
-Listing.geo_search(radius: 1, latitude: 40.7194209, longitude: -73.9420559).results.map { |r| r.status }
-Listing.available.visible.has_thumbnail.pluck(:id)
 
 site
-  add nearby listings to location show page
-    make listing Locationable
-    add a listings index jbuilder
-    allow json for listings index
-    use geo_search in listings index
-  prefill map form
+  add map to guides#show
   look into ajax cache
 
   releasing 1.3
     go through TODO
     switch houston to production
 
-  add map to guides#show
+  locations split pane
+  tabbed split pane on neighborhood page (apartments, roommates, locations)
 
 app
   create nooklyn user for joe@nooklyn.com to test messaging on prod
@@ -29,24 +17,13 @@ app
   look into conversation-related crashes
   add MARKs where appropriate
 
-think about site changes
-  region
-    neighborhood
-      apartments
-      rooms
-      mates
-      neighborhoods
-
-  dropdown: neighborhood
-  apartments, rooms, mates, places
-    split pane
-
 ideas
   an image and users have to guess its location
   for each neighborhood, have sections for new, closing, and recently closed locations
   foods unique to a city/region?
   page for requested features (voting system?)
-  location play
+  location play (images of food)
+  add contributor role allowing people to submit new locations to be reviewed by staff
 
 API
   prod (agent_id: 15842)

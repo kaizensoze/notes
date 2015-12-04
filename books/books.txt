@@ -31,12 +31,12 @@ Contact, Carl Sagan
 Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
 Cybersecurity and Cyberwar, P.W. Singer
-Data and Goliath, Bruce Schneier
 De humani corporis fabrica, Andreas Vesalius
 Deliverance, James Dickey
 Dhalgren, Samuel R. Delany
 Different Seasons, Stephen King
 Discworld, Terry Pratchett
+Do No Harm, Henry Marsh
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
 Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
@@ -66,11 +66,8 @@ Islamic State: The Digital Caliphate, Abdel Bari Atwan
 Jonathan Strange & Mr Norrell, Susanna Clarke
 Kingpin, Kevin Poulsen
 Last and First Men and Star Maker, Olaf Stapledon
-Leaves of Grass, Walt Whitman
-Life in the Woods, Henry David Thoreau
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela, page: 24
-Macbeth, Shakespeare
 Made in the USA, Vaclav Smil
 Mating in Captivity, Esther Perel
 Men are from mars, women are from venus, Joe Peacock
@@ -113,7 +110,7 @@ Steppenwolf, Hermann Hesse
 Stranger in a Strange Land, Robert A. Heinlein
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
-Tales of the unexpected, Roald Dahl
+Tales of the Unexpected, Roald Dahl
 The Alienist, Caleb Carr
 The American Challenge, Jean-Jacques Servan-Schreiber
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
@@ -144,10 +141,8 @@ The Forever War, Dexter Filkins
 The Forever War, Joe Haldeman
 The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
-The Geography of Nowhere, James Howard Kunstler
 The Ghost Map, Steven Johnson
 The Girl Next Door, Jack Ketchum
-The Grand Design, Stephen Hawking
 The Great Divide: Unequal Societies and What We Can Do About Them, Joseph E. Stiglitz
 The Great Surge: The Ascent of the Developing World, Steven Radelet
 The Gulag Archipelago Abridged, Aleksandr Solzhenitsyn
@@ -189,7 +184,6 @@ The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Scar, China Mieville
 The Scented Ape, David Michael Stoddart
 The Secret Sentry, Matthew M. Aid
-The Singularity is Near, Ray Kurzweil
 The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
 The Snowden Files, Luke Harding
 The Sound and the Fury, William Faulkner
@@ -197,7 +191,6 @@ The Sovereign Individual
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
-The Universe in a Nutshell, Stephen Hawking
 The Unix-Haters Handbook, Simson L. Garfinkel
 The Wheel of Time, Robert Jordan
 The Wisdom of Crowds, James Surowiecki
@@ -212,15 +205,12 @@ Too Big to Fail, Andrew Ross Sorkin
 Tropic of Cancer, Henry Miller
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Ubik, Philip K. Dick
-Ulysses, James Joyce
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
 Violent Python,  T.J. O'Connor
-Walden, Henry David Thoreau
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 We Have Always Lived In The Castle, Shirley Jackson
-Wealth of Nations, Adam Smith
 What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
 Winning, Jack Welch
