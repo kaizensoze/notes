@@ -1,5 +1,15 @@
+00:00 - 02:00
 
+verify I didn't locally fuck up login
+change getLoggedInAgentId() to getLoggedInAgent() where necessary
 
+test going to favorites tab
+test going to other agent's favorites view
+
+mate id: 2507
+mate agent id: 18997
+
+delete Agents on neighborhood view, retest views
 mates
 mate detail
 conversations
@@ -27,7 +37,7 @@ let realm = try! Realm()
 try! realm.write {
     realm.delete(realm.objects(Neighborhood))
     realm.delete(realm.objects(LocationCategory))
-    realm.delete(realm.objects(Location))
+    realm.delete(realm.objects(Location).filter("id != '74'"))
 }
 
 API
