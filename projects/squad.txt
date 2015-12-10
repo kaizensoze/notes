@@ -1,0 +1,32 @@
+allow people to submit project ideas
+if you don't have an idea for a project, you can pick a random suggested idea to get you started
+
+roles
+  generalist
+  designer
+  backend
+  frontend
+  ios developer
+  android developer
+
+goal
+  way to network
+  way to build up portfolio
+
+profile
+  favorite languages
+  roles
+  projects (portfolio)
+  favorites (private)
+    add people you'd want to work with again
+
+project
+  name
+  description
+  github url
+  mobile app url
+
+TODO
+  integrate github into site?
+  integrate chat into site?
+  come up with flow from start to finish

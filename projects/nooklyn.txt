@@ -1,29 +1,34 @@
 
 
-site
-  add map to guides#show
-  look into ajax cache
+mates
+mate detail
+conversations
+messages
+favorites
 
-  releasing 1.3
-    go through TODO
-    switch houston to production
+ask if they're updating the legal docs to remove the open source clause
 
-  locations split pane
-  tabbed split pane on neighborhood page (apartments, roommates, locations)
+1.3.1 app release what's new
+  More neighborhoods to explore!
 
-app
-  create nooklyn user for joe@nooklyn.com to test messaging on prod
-  conversation tickets
-  look into conversation-related crashes
-  add MARKs where appropriate
+  Also, some bug fixes...
 
 ideas
+  tabbed split pane on neighborhood page (apartments, roommates, locations)
   an image and users have to guess its location
   for each neighborhood, have sections for new, closing, and recently closed locations
   foods unique to a city/region?
-  page for requested features (voting system?)
   location play (images of food)
   add contributor role allowing people to submit new locations to be reviewed by staff
+  5 features we're deciding on to add where users can go to vote
+
+// TODO: remove
+let realm = try! Realm()
+try! realm.write {
+    realm.delete(realm.objects(Neighborhood))
+    realm.delete(realm.objects(LocationCategory))
+    realm.delete(realm.objects(Location))
+}
 
 API
   prod (agent_id: 15842)
@@ -31,56 +36,38 @@ API
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/listings'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/locations?filter[neighborhood-id]=35&filter[location-category-id]=3&include=location-category'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/location-categories'
-    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorite2s?agent-id=15842'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/favorites?agent-id=15842'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/ignored-listings'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mates?include=neighborhood,agent'
-    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mate-favorites?agent-id=18284'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mate-favorites?agent-id=15842'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/mate-ignores'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/agents/15842/mate-posts'
     curl 'https://nooklyn.com/locations.json?latitude=40.7100288&longitude=-73.9470297&radius=1'
-    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/location-favorites?agent-id=18284'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/location-favorites?agent-id=15842'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/conversations?include=participating-agents,messages'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/conversation-messages'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/hearts?listing-id=3456'
+    curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/agents/15842/mate-posts'
+    curl -X DELETE -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'https://nooklyn.com/api/v1/hearts/3456'
 
-  local (agent_id: 18284)
+  local (agent_id: 15842)
     curl -d 'session[email]=gallo.j@gmail.com&session[password]=testpassword' 'http://localhost:3000/api/v1/sessions'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/listings'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/locations?filter[neighborhood-id]=35&filter[location-category-id]=3&include=location-category'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/location-categories'
-    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/favorite2s?agent-id=18284'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/favorites?agent-id=15842'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/ignored-listings'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mates?include=neighborhood,agent'
-    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mate-favorites?agent-id=18284'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mate-favorites?agent-id=15842'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/mate-ignores'
-    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/agents/18284/mate-posts'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/agents/15842/mate-posts'
     curl 'http://localhost:3000/locations.json?latitude=40.7100288&longitude=-73.9470297&radius=1'
-    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/location-favorites?agent-id=18284'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/location-favorites?agent-id=15842'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/conversations?include=participating-agents,messages'
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/conversation-messages'
-
     curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/hearts?listing-id=3456'
-    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/agents/18284/mate-posts'
+    curl -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/agents/15842/mate-posts'
     curl -X DELETE -H 'API-TOKEN: 9140fbbae99d4d4a915c4306ee45d2ec' 'http://localhost:3000/api/v1/hearts/3456'
-
-# S3
-development:
-  bucket: nooklyn-dev
-  access_key_id: AKIAI6SP3RIVOVM7MA4A
-  secret_access_key: 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
-test:
-  bucket: nooklyn-test
-  access_key_id: AKIAI6SP3RIVOVM7MA4A
-  secret_access_key: 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
-production:
-  bucket: nooklyn-pro
-  access_key_id: AKIAJGPHHWBPQKACQB4A
-  secret_access_key: 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
-
-// TODO: remove
-let realm = try! Realm()
-try! realm.write {
-    realm.delete(realm.objects(Listing))
-}
 
 # get all conversations with no messages
 select
@@ -119,6 +106,22 @@ select id, name, address_line_one, state from locations where address_line_one ~
 
 # get all locations with a slug containing a period
 select id, slug from locations where slug like '%.%' order by id;
+
+select l.id, l.name, lc.name from locations l join location_categories lc on (lc.id = l.location_category_id) where l.name = 'Enid''s';
+
+# S3
+development:
+  bucket: nooklyn-dev
+  access_key_id: AKIAI6SP3RIVOVM7MA4A
+  secret_access_key: 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
+test:
+  bucket: nooklyn-test
+  access_key_id: AKIAI6SP3RIVOVM7MA4A
+  secret_access_key: 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
+production:
+  bucket: nooklyn-pro
+  access_key_id: AKIAJGPHHWBPQKACQB4A
+  secret_access_key: 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
 
 # saving realm db to test
 find '/Users/joegallo/Library/Developer/CoreSimulator/Devices/7145F404-DAA8-4758-B408-A724850F3B79/data/Containers/Data/Application/' -type f -name 'default.realm'
