@@ -1,11 +1,10 @@
 shower
 walgreens
+  paper towels
+  tissues
+  fiji water
   truvia
   dish soap
-  fiji water
-  tissues
-  paper towels
-bookmarks
 nooklyn
 
 atom

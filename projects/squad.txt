@@ -1,4 +1,13 @@
 
+don't really care about making it employer/recruiter friendly
+goal is to hone your craft and find other people to work with
+list of a user's past projects isn't public
+only published projects are public (they go in a user's portfolio section)
+at a certain point you lock a project down when you're satisfied with the result and publish it
+if you want to continue working on it, you can fork it outside of the site
+one project at a time
+no general chat
+
 site
   home page (not logged in)
   signup
@@ -42,7 +51,7 @@ project
   site url
   app url
   users
-    lead
+    team captain
       can invite user
       can kick (requires vote)
 
@@ -80,12 +89,11 @@ LATER
   if you don't have an idea for a project, you can pick a random suggested idea to get you started
 
 QUESTIONS
-  can you be in more than one project at a time?
-  can only be in one chat at a time?
-  how to go back to a project?
+  
 
 TODO
-  think about roles some more (wildcards, etc.)
+  figure out roles
+  figure out how publishing a project would work [using jekkyl]
 
   create brassafrax github org
   add 3 users to brassafrax
