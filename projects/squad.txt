@@ -46,19 +46,34 @@ project
       can invite user
       can kick (requires vote)
 
-project initialization
+project search/start
   start project
-    list roles project is looking for
-    you can also manually invite a user to join project
+    start looking for users to add
+      by role
+        role options
+          role + language (defaults to any)
+          language
+      can send invite to user by username
   join random project
-    list roles you're willing to take on
+    role options
+      role + language (defaults to any)
+      language
 
 roles
-  backend
-  frontend
-  ios developer
-  android developer
-  designer
+  development
+    android
+    applications
+    backend
+    database
+    devops/sysops
+    frontend
+    iOS
+    machine learning
+    systems
+  design
+    3d animation
+    animation
+    graphic design
 
 LATER
   allow people to submit project ideas
@@ -70,6 +85,8 @@ QUESTIONS
   how to go back to a project?
 
 TODO
+  think about roles some more (wildcards, etc.)
+
   create brassafrax github org
   add 3 users to brassafrax
   create 2 repos
