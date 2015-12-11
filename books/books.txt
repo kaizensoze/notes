@@ -56,6 +56,7 @@ History of Western Philosophy,
 How Markets Fail, John Cassidy
 How to Change the World, David Bornstein
 How We Live Now, Bella DePaulo
+How Will You Measure Your Life?, Clayton M. Christensen
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
 Imhotep, Jerry Dubs
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
@@ -155,6 +156,7 @@ The Hyperion Cantos, Dan Simmons
 The Illuminatus Trilogy, Robert Shea
 The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovators, Walter Isaacson
+The Innovator's Dilemma, Clayton M. Christensen
 The Last Unicorn, Peter S. Beagle
 The Lean Startup, Eric Ries
 The Long Tomorrow, Leigh Brackett

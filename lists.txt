@@ -1,19 +1,21 @@
 
 movies
+  9 Songs
   99 Homes
   Brooklyn
   Creed
   Grandma
   I Am Santa Claus
   Legend
+  Shut In
   Spotlight
+  The Big Short
+  The Brothers Grimsby
   The Diary of a Teenage Girl
   The Peanuts Movie
   Trumbo
   Victoria
   Woodlawn
-  Love
-  Shut In
 
 tv
   The Whitest Kids You Know
