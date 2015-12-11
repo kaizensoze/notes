@@ -54,12 +54,11 @@ project initialization
     list roles you're willing to take on
 
 roles
-  generalist
-  designer
   backend
   frontend
   ios developer
   android developer
+  designer
 
 LATER
   allow people to submit project ideas
