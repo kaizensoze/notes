@@ -1,4 +1,12 @@
-return iphone 6s
+shower
+walgreens
+  truvia
+  dish soap
+  fiji water
+  tissues
+  paper towels
+bookmarks
+nooklyn
 
 atom
   search for alternative markdown plugin

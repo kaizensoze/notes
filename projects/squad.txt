@@ -1,5 +1,57 @@
-allow people to submit project ideas
-if you don't have an idea for a project, you can pick a random suggested idea to get you started
+
+site
+  home page (not logged in)
+  signup
+  login
+  home page (logged in)
+    users (can filter on role)
+    project
+  user page
+    info
+    invite button
+
+sign up
+  username
+  email
+  password
+
+login
+  username/email
+  password
+
+profile
+  personal info
+    image
+    name
+    comma-separated text of favorite technologies/languages
+    comma-separated text of favorite technologies whose existence you'd rather not acknowledge
+    personal site url
+    github url
+    dribbble url
+    behance url
+    linkedin url
+    phone number (2 factor auth)
+  roles
+  favorite users (private)
+  projects
+
+project
+  name
+  description
+  github url
+  site url
+  app url
+  users
+    lead
+      can invite user
+      can kick (requires vote)
+
+project initialization
+  start project
+    list roles project is looking for
+    you can also manually invite a user to join project
+  join random project
+    list roles you're willing to take on
 
 roles
   generalist
@@ -9,24 +61,17 @@ roles
   ios developer
   android developer
 
-goal
-  way to network
-  way to build up portfolio
+LATER
+  allow people to submit project ideas
+  if you don't have an idea for a project, you can pick a random suggested idea to get you started
 
-profile
-  favorite languages
-  roles
-  projects (portfolio)
-  favorites (private)
-    add people you'd want to work with again
-
-project
-  name
-  description
-  github url
-  mobile app url
+QUESTIONS
+  can you be in more than one project at a time?
+  can only be in one chat at a time?
+  how to go back to a project?
 
 TODO
-  integrate github into site?
-  integrate chat into site?
-  come up with flow from start to finish
+  create brassafrax github org
+  add 3 users to brassafrax
+  create 2 repos
+  test team permissions with 2 repos, 3 users

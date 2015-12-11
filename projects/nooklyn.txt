@@ -1,4 +1,9 @@
+13:30 - 14:00
 
+include sf neighborhoods in app
+test filtering mates on sf neighborhood
+filter on subway
+go through legal docs
 
 ask if they're updating the legal docs to remove the open source clause
 
