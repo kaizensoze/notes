@@ -89,9 +89,10 @@ LATER
   if you don't have an idea for a project, you can pick a random suggested idea to get you started
 
 QUESTIONS
-  
+
 
 TODO
+  look into terms similar to squad (ideally single syllable)
   figure out roles
   figure out how publishing a project would work [using jekkyl]
 
