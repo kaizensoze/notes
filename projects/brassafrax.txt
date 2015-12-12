@@ -1,4 +1,12 @@
-figure out how to automate github actions
+write some meteor examples
+
+setup alpha.brassafax.com
+add ssl
+
+homepage
+signup
+  github auth
+login
 
 don't really care about making it employer/recruiter friendly
 goal is to hone your craft and find other people to work with
@@ -97,6 +105,10 @@ QUESTIONS
 
 
 TODO
+  pick a theme
+    https://bootswatch.com/slate/
+      spacelab
+
   look into options for chat
     meteor
     https://slack.com/
