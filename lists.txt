@@ -8,6 +8,7 @@ movies
   I Am Santa Claus
   Legend
   Shut In
+  Son of Saul
   Spotlight
   The Big Short
   The Brothers Grimsby

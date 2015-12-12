@@ -1,3 +1,4 @@
+figure out how to automate github actions
 
 don't really care about making it employer/recruiter friendly
 goal is to hone your craft and find other people to work with
@@ -20,13 +21,15 @@ site
     invite button
 
 sign up
-  username
+  (requires a github account)
+  github username
   email
-  password
+  site password
 
 login
   username/email
   password
+  (2 factor auth)
 
 profile
   personal info
@@ -41,7 +44,8 @@ profile
     linkedin url
     phone number (2 factor auth)
   roles
-  favorite users (private)
+  favorites (private)
+  shitlist (private)
   projects
 
 project
@@ -87,16 +91,18 @@ roles
 LATER
   allow people to submit project ideas
   if you don't have an idea for a project, you can pick a random suggested idea to get you started
+  make master branch protected by default if necessary
 
 QUESTIONS
 
 
 TODO
-  look into terms similar to squad (ideally single syllable)
+  look into options for chat
+    meteor
+    https://slack.com/
+    https://www.hipchat.com/
+    https://www.sqwiggle.com/
+    https://tlk.io/
+    https://kiwiirc.com/
   figure out roles
-  figure out how publishing a project would work [using jekkyl]
-
-  create brassafrax github org
-  add 3 users to brassafrax
-  create 2 repos
-  test team permissions with 2 repos, 3 users
+  figure out how publishing a project should work (https://pages.github.com/)
