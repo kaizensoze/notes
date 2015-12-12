@@ -10,6 +10,10 @@ basic setup
 
   mkdir ~/.ssh && echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCmBTzBf3R+SYbfdoU9LATLQ/pSM2VEKgOXrPcm88R6HrftyviCEz5ilJzm4Ozhh7pSiIYPh5VSAVlS/5pJxsCmokHQpnZYZrP1U47d7fqn9kU1R/aJZS8jxwz4ZPk22TH4kvYwTBtnB5rMIZYhb3PUIhHnwfknQc0mVFTNOz66y2Y9+SjixrdDcwprtTr76SnFAPqRFhxpoH50VAU5zuiP/MNAK932hSYzh65Q2lzZG32fZ8CaHILKf0uG5CLWGk3zxA0Yz+eBy7rbkCXkIsceUekvvVmmx8dc14y9hWTkp7FOTQ/xtxx6UTHaPUk7/tzEXhN5rjYgt8UYAnPdFStH' > ~/.ssh/authorized_keys
 
+  sudo vim /etc/ssh/sshd_config
+  PermitRootLogin yes -> without-password
+  service ssh restart
+
   sudo vim /etc/iptables.firewall.rules
     *filter
 

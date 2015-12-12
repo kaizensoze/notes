@@ -1,7 +1,10 @@
-write some meteor examples
+finish meteor tutorial: https://www.meteor.com/tutorials/react/temporary-ui-state
 
-setup alpha.brassafax.com
-add ssl
+move brassafrax to separate server
+add swap: https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04
+
+create github app
+do github auth
 
 homepage
 signup
