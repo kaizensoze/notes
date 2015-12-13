@@ -4,7 +4,6 @@ movies
   Creed
   Grandma
   I Am Santa Claus
-  Legend
   Shut In
   Son of Saul
   Spotlight

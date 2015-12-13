@@ -1,24 +1,23 @@
-finish meteor tutorial: https://www.meteor.com/tutorials/react/temporary-ui-state
-
-move brassafrax to separate server
-add swap: https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04
+look into how to deploy meteor to digitalocean
+test meteor deploy on brassafrax
 
 create github app
 do github auth
 
-homepage
+homepage (note: use bootstrap 4 (http://v4-alpha.getbootstrap.com/))
 signup
   github auth
 login
 
 don't really care about making it employer/recruiter friendly
-goal is to hone your craft and find other people to work with
+goal is to hone your craft and to find other people to work with to hopefully incentivize that
 list of a user's past projects isn't public
 only published projects are public (they go in a user's portfolio section)
 at a certain point you lock a project down when you're satisfied with the result and publish it
 if you want to continue working on it, you can fork it outside of the site
 one project at a time
 no general chat
+can meteor do multiple pages? => yes: https://github.com/iron-meteor/iron-router
 
 site
   home page (not logged in)
