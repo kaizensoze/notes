@@ -1,10 +1,12 @@
+
+
 look into how to deploy meteor to digitalocean
 test meteor deploy on brassafrax
 
 create github app
 do github auth
 
-homepage (note: use bootstrap 4 (http://v4-alpha.getbootstrap.com/))
+homepage
 signup
   github auth
 login
