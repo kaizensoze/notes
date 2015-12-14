@@ -1,7 +1,6 @@
-
-
-look into how to deploy meteor to digitalocean
-test meteor deploy on brassafrax
+install/setup mongodb
+setup nodejs proxy with nginx
+deploy meteor app
 
 create github app
 do github auth
