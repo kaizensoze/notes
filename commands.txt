@@ -109,6 +109,10 @@ imagemagick
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
 
+mongodb
+  sudo service mongod start
+  sudo service mongod status
+
 osx
   sudo dscacheutil -flushcache
 

@@ -1,6 +1,7 @@
-install/setup mongodb
-setup nodejs proxy with nginx
-deploy meteor app
+figure out data model
+decide on database
+
+get sample meteor app running on brassafrax
 
 create github app
 do github auth
