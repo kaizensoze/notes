@@ -1,15 +1,7 @@
-figure out data model
-decide on database
+github auth
+add user to organization
 
-get sample meteor app running on brassafrax
-
-create github app
-do github auth
-
-homepage
-signup
-  github auth
-login
+eventually get the react stuff working
 
 don't really care about making it employer/recruiter friendly
 goal is to hone your craft and to find other people to work with to hopefully incentivize that
