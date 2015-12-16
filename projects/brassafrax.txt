@@ -1,3 +1,10 @@
+look into promises
+add user to organization
+
+first9892@gmail.com
+first9893@gmail.com
+first9894@gmail.com
+
 github auth
 add user to organization
 
