@@ -1,14 +1,11 @@
 look into promises
+test creating a github account via the github auth login/signup page
+nodejs github api
 add user to organization
 
 first9892@gmail.com
 first9893@gmail.com
 first9894@gmail.com
-
-github auth
-add user to organization
-
-eventually get the react stuff working
 
 don't really care about making it employer/recruiter friendly
 goal is to hone your craft and to find other people to work with to hopefully incentivize that
@@ -18,7 +15,10 @@ at a certain point you lock a project down when you're satisfied with the result
 if you want to continue working on it, you can fork it outside of the site
 one project at a time
 no general chat
-can meteor do multiple pages? => yes: https://github.com/iron-meteor/iron-router
+might be a better idea to not have a shit list
+profile sections (searchable keywords)
+  skills
+  interests
 
 site
   home page (not logged in)
@@ -100,24 +100,16 @@ roles
     graphic design
 
 LATER
+  make master branch protected by default if necessary
   allow people to submit project ideas
   if you don't have an idea for a project, you can pick a random suggested idea to get you started
-  make master branch protected by default if necessary
-
-QUESTIONS
-
 
 TODO
-  pick a theme
-    https://bootswatch.com/slate/
-      spacelab
+  think of the many different uses cases for this product
+    joining random group
+    inviting user(s) to start a group
+    interactive teaching session (publish tutorial at the end) [will require easy mass invite?]
+  should users who join a sesion immediately have write access?
 
-  look into options for chat
-    meteor
-    https://slack.com/
-    https://www.hipchat.com/
-    https://www.sqwiggle.com/
-    https://tlk.io/
-    https://kiwiirc.com/
-  figure out roles
+  come up with a better name for project
   figure out how publishing a project should work (https://pages.github.com/)

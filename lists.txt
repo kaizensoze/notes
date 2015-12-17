@@ -1,7 +1,6 @@
 
 movies
   Brooklyn
-  Creed
   Grandma
   I Am Santa Claus
   Shut In
