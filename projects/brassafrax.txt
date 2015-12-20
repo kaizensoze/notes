@@ -1,11 +1,12 @@
-look into promises
-test creating a github account via the github auth login/signup page
-nodejs github api
-add user to organization
+curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' https://api.github.com/users/defunkt
 
-first9892@gmail.com
-first9893@gmail.com
-first9894@gmail.com
+try to copy over issues using github api
+try to copy over pull requests using github api
+
+add functionality to github4 module
+
+add user to organization
+redirect to confirmation page
 
 don't really care about making it employer/recruiter friendly
 goal is to hone your craft and to find other people to work with to hopefully incentivize that
@@ -19,6 +20,10 @@ might be a better idea to not have a shit list
 profile sections (searchable keywords)
   skills
   interests
+vote to publish?
+user can choose not to link to a published project in their portfolio
+projects in a portfolio would be sorted by stars, publish_date?
+for a published project, list forks and their stars?
 
 site
   home page (not logged in)

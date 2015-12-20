@@ -112,6 +112,11 @@ mail
 mongodb
   sudo service mongod start
   sudo service mongod status
+  mongo brassafrax
+  show collections
+  db.users.find({})
+  db.users.find({}, {username: 1, _id: 0})
+  db.users.remove({})
 
 osx
   sudo dscacheutil -flushcache
@@ -148,6 +153,10 @@ rails
 
   rake test [testpath]
   be rspec [testpath]
+
+screen
+  rename window:  C-a A
+  reorder window: C-a :number n
 
 siege
   siege -c200 -b -t3M -i -f urls.txt

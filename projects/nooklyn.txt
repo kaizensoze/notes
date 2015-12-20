@@ -1,6 +1,5 @@
 
 
-locations sometimes don't show on listing detail page
 go through legal docs
 
 API
