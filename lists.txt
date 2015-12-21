@@ -14,8 +14,6 @@ movies
   Woodlawn
 
 tv
-  The Whitest Kids You Know
-  always sunny in philadelphia
 
 books
   A Confederacy of Dunces, John Kennedy Toole
