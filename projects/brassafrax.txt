@@ -1,12 +1,3 @@
-fix breaking on example
-  node examples/example.js
-
-test token: ef6b58a25fc2e0145754610c3d3b6dce2251d6c1
-
-add any missing endpoints
-update existing endpoints
-go through issues
-
 invite to org will only send one email to not bug users so include message with link to org on confirm page: https://github.com/brassafrax
 
 curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' https://api.github.com/user

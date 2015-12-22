@@ -1,0 +1,7 @@
+generate new auth token for first9890
+fix breaking on example
+  node examples/example.js
+
+add any missing endpoints
+update existing endpoints
+go through issues
