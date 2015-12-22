@@ -25,6 +25,8 @@ vote to publish?
 user can choose not to link to a published project in their portfolio
 projects in a portfolio would be sorted by stars, publish_date?
 for a published project, list forks and their stars?
+option to start session from a fork or from scratch
+easter egg: pi in lower right a la The Net
 
 site
   home page (not logged in)

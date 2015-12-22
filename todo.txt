@@ -1,5 +1,4 @@
 go through nooklyn legal docs
-look into stack views in ios
 
 shashlik
 barg kebab
