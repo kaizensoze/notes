@@ -1,7 +1,5 @@
-generate new auth token for first9890
-fix breaking on example
-  node examples/example.js
-
-add any missing endpoints
-update existing endpoints
+update ghpages
 go through issues
+add/update routes.json
+
+e425bbebd4e8cbb735a532d2949f3d06e6fa961c

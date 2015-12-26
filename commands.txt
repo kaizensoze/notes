@@ -81,6 +81,11 @@ git
   git push origin :refs/tags/v1.2 (for updating tag)
   git tag -f -a v1.2 -m '1.2 release'
   git push --follow-tags
+  easier way of pulling down pull-requests from an upstream
+    [remote "upstream"]
+      url = https://github.com/mikedeboer/node-github.git
+      fetch = +refs/heads/*:refs/remotes/upstream/*
+      fetch = +refs/pull/*/head:refs/remotes/upstream/pr/*   <--
 
 heroku
   heroku pg:psql

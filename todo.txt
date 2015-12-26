@@ -1,9 +1,0 @@
-
-
-shashlik
-barg kebab
-
-atom
-  search for alternative markdown plugin
-  if not
-    markdown preview should be one tab that updates when you focus a markdown file on the left

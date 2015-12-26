@@ -4,13 +4,9 @@ movies
   I Am Santa Claus
   Shut In
   Son of Saul
-  Spotlight
   The Big Short
   The Brothers Grimsby
-  The Hateful Eight
-  The Peanuts Movie
   Trumbo
-  Victoria
   Woodlawn
 
 tv
