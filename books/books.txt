@@ -40,12 +40,15 @@ Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
 Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
+Eradication: Ridding the World of Diseases Forever?, Nancy Leys Stepan
+Exponential Organizations, Salim Ismail
 Everything and More: A Compact History of Infinity
 Everything's Eventual, Stephen King
 Fall of Giants, Ken Follett
 Fermat's Enigma, Simon Singh
 Generation X, Douglas Coupland
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
+Ghost Fleet, P.W. Singer
 Girl With Curious Hair, David Foster Wallace
 Hacking: The Art of Exploitation, Jon Erickson
 Ham on Rye, Charles Bukowski
@@ -53,6 +56,7 @@ Have A Nice Day: A Tale of Blood and Sweatsocks, Mick Foley
 High Output Management, Andy Grove
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy,
+How Google Works, Eric Schmidt
 How Markets Fail, John Cassidy
 How to Change the World, David Bornstein
 How We Live Now, Bella DePaulo
@@ -71,6 +75,7 @@ Long Walk to Freedom, Nelson Mandela, page: 24
 Made in the USA, Vaclav Smil
 Mating in Captivity, Esther Perel
 Men are from mars, women are from venus, Joe Peacock
+Mindset: The New Psychology of Success, Carol S. Dweck
 Moby Dick, Herman Melville
 My Years With General Motors, Alfred P Sloan Jr
 Never Let Me Go, Kazuo Ishiguro
@@ -108,7 +113,9 @@ Spycraft, Robert Wallace
 Starship Troopers, Robert A. Heinlein
 Steppenwolf, Hermann Hesse
 Stranger in a Strange Land, Robert A. Heinlein
+Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
+Sustainable Materials With Both Eyes Open, Julian M. Allwood
 Swan song, Robert McCammon
 Tales of the Unexpected, Roald Dahl
 The Alienist, Caleb Carr
@@ -180,9 +187,11 @@ The Promise of a Pencil, Adam Braun
 The Quiet American, Graham Green
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
 The Restaurant at the End of the Universe, Douglas Adams
+The Road to Character, David Brooks
 The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Scar, China Mieville
 The Scented Ape, David Michael Stoddart
+The Second Machine Age, Erik Brynjolfsson
 The Secret Sentry, Matthew M. Aid
 The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
 The Snowden Files, Luke Harding
@@ -195,6 +204,7 @@ The Unix-Haters Handbook, Simson L. Garfinkel
 The Wheel of Time, Robert Jordan
 The Wisdom of Crowds, James Surowiecki
 Their Eyes Were Watching God, Zora Neale Hurston
+Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
@@ -215,3 +225,4 @@ What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
 Winning, Jack Welch
 Women, Charles Bukowski
+World Order, Henry Kissinger

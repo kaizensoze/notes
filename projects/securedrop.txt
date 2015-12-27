@@ -6,7 +6,9 @@ Document Interface
 
 vagrant up
 vagrant ssh
-./manage.py add_admin
 ./manage.py run
+./manage.py test
+./manage.py reset
+./manage.py add_admin
 
 db file location: /var/lib/securedrop
