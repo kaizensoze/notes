@@ -1,3 +1,2 @@
-go through nomad bookmarks
-pmarchive
-check out the codeschool-like sites
+codeschool
+hackeracademy

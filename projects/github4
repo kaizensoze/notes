@@ -1,3 +1,4 @@
+remove apidoc/ from git
+make apidoc generation less prevalent in readme
 
-
-e425bbebd4e8cbb735a532d2949f3d06e6fa961c
+8786a5c40c107c52e4e174a7b7b789df67901ec8
