@@ -82,6 +82,7 @@ Never Let Me Go, Kazuo Ishiguro
 No Good Men Among the Living, Anand Gopal
 Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
+Only the Paranoid Survive, Andy Grove
 Oryx and Crake, Margaret Atwood
 Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
 Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan
@@ -90,7 +91,6 @@ Parallel Worlds, Michio Kaku
 Perdido Street Station, China Mieville
 Permanent Midnight, Jerry Stahl
 Pour Your Heart Into It, Howard Schultz
-Principles of Compiler Design, Aho/Ullman
 Producing Open Source Software: How to Run a Successful Free Software Project, Karl Fogel
 Red Mars, Kim Stanley Robinson
 Redeployment, Phil Klay
@@ -154,7 +154,6 @@ The Great Divide: Unequal Societies and What We Can Do About Them, Joseph E. Sti
 The Great Surge: The Ascent of the Developing World, Steven Radelet
 The Gulag Archipelago Abridged, Aleksandr Solzhenitsyn
 The Handmaid's Tale, Margaret Atwood
-The Hard Thing About Hard Things, Ben Horowitz
 The Heretic's Guide to Global Finance, Brett Scott
 The Hero with a Thousand Faces, Joseph Campbell
 The Hidden Wealth of Nations, Gabriel Zucman
@@ -221,7 +220,6 @@ Violent Python,  T.J. O'Connor
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
-We Have Always Lived In The Castle, Shirley Jackson
 What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
 Winning, Jack Welch
