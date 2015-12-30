@@ -1,4 +1,7 @@
 consider switching from mongo to graphql
+integrate with gitter?
+
+https://gitter.zendesk.com/hc/en-us/articles/201153242-Do-you-have-an-API-
 
 invite to org will only send one email to not bug users so include message with link to org on confirm page: https://github.com/brassafrax
 

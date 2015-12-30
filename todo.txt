@@ -1,3 +1,2 @@
-codeschool
-github4
+graphql vs mongodb
 hackeracademy
