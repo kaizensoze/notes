@@ -8,7 +8,6 @@ movies
   Mississippi Grind
   Shut In
   Son of Saul
-  The Big Short
   The Brothers Grimsby
   The Wolfpack
   Woodlawn
