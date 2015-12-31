@@ -1,15 +1,29 @@
 
 movies
+  Appropriate Behavior
+  Breathe
   Grandma
   I Am Santa Claus
+  Kumiko
+  Mississippi Grind
   Shut In
   Son of Saul
   The Big Short
   The Brothers Grimsby
-  Trumbo
+  The Wolfpack
   Woodlawn
 
 tv
+  American Crime
+  Banshee
+  Big Bang Theory
+  Catastrophe
+  Documentary Now
+  How I Met Your Mother
+  Supergirl
+  The Knick
+  The Last Kingdom
+  You're The Worst
 
 books
   A Confederacy of Dunces, John Kennedy Toole
@@ -172,9 +186,6 @@ quotes
 
 questions to ask
   What is the endgame?
-  List the 5 top sites you use on a daily basis.
+  List the top five sites you use on a daily basis.
 
 ideal temp range: 65 - 75
-
-cheese
-  taleggio
