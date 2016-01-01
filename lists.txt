@@ -1,23 +1,11 @@
 
 movies
-  Grandma
-  I Am Santa Claus
   Shut In
   Son of Saul
   The Brothers Grimsby
-  Woodlawn
 
 tv
-  American Crime
-  Banshee
   Big Bang Theory
-  Catastrophe
-  Documentary Now
-  How I Met Your Mother
-  Supergirl
-  The Knick
-  The Last Kingdom
-  You're The Worst
 
 books
   A Confederacy of Dunces, John Kennedy Toole
