@@ -1,15 +1,10 @@
 
 movies
-  Appropriate Behavior
-  Breathe
   Grandma
   I Am Santa Claus
-  Kumiko
-  Mississippi Grind
   Shut In
   Son of Saul
   The Brothers Grimsby
-  The Wolfpack
   Woodlawn
 
 tv
