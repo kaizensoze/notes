@@ -123,6 +123,9 @@ mongodb
   db.users.find({}, {username: 1, _id: 0})
   db.users.remove({})
 
+npm
+  npm ls [--global] --depth=0
+
 osx
   sudo dscacheutil -flushcache
 
