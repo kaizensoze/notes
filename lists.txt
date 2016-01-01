@@ -10,6 +10,7 @@ tv
 books
   A Confederacy of Dunces, John Kennedy Toole
   All's Quiet on the Western Front, Erich Maria Remarque
+  Confront and Conceal, David E. Sanger
   Countdown to Zero Day, Kim Zetter
   Dark Pools, Scott Patterson
   Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
