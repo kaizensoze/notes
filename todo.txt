@@ -1,3 +1,2 @@
-comedians in cars getting coffee
 graphql vs mongodb
 hackeracademy

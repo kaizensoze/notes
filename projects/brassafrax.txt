@@ -1,5 +1,9 @@
 consider switching from mongo to graphql
 integrate with gitter?
+look into a voice/video chat option
+no video chat (just voice)
+another pretense on creating a group/channel is working on a PR for an existing repo for a new or existing issue
+don't have to decide on new vs existing before creating group/channel
 
 https://gitter.zendesk.com/hc/en-us/articles/201153242-Do-you-have-an-API-
 
@@ -11,8 +15,6 @@ curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' https
 
 curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' https://api.github.com/orgs/brassafrax/memberships
 curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' -X PUT https://api.github.com/orgs/brassafrax/memberships/first9890
-
-mikedeboer/node-github -> kaizensoze/node-github
 
 don't really care about making it employer/recruiter friendly
 goal is to hone your craft and to find other people to work with to hopefully incentivize that
