@@ -1,23 +1,19 @@
 A Fire Upon the Deep, Vernor Vinge
-A Suitable Boy, Vikram Seth
 A Wizard of Earthsea, Ursula K. Le Guin
 Age of Ambition, Evan Osnos
-Affluence and Influence, Martin Gilens
-Amnesia, Peter Carey
-Among Others, Jo Walton
 Angler: The Cheney Vice Presidency, Barton Gellman
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
 Average Is Over, Tyler Cowen
 Basic Economics, Thomas Sowell, page: 38
+Between the World and Me, Ta-Nehisi Coates
 Bleeding Edge, Thomas Pynchon
 Body of Secrets, James Bamford
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 Broken Markets, Sal L. Arnuk
-Bruce Davidson: Subway
 Built to Last, Jim Collins
 Business@The Speed of Thought, Bill Gates
 Chaos, James Gleick
@@ -30,9 +26,7 @@ Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
 Cybersecurity and Cyberwar, P.W. Singer
 De humani corporis fabrica, Andreas Vesalius
-Deliverance, James Dickey
 Dhalgren, Samuel R. Delany
-Different Seasons, Stephen King
 Discworld, Terry Pratchett
 Do No Harm, Henry Marsh
 Don Quixote, Miguel de Cervantes
@@ -41,11 +35,9 @@ Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
 Eradication: Ridding the World of Diseases Forever?, Nancy Leys Stepan
 Exponential Organizations, Salim Ismail
-Everything and More: A Compact History of Infinity
 Everything's Eventual, Stephen King
-Fall of Giants, Ken Follett
 Fermat's Enigma, Simon Singh
-Generation X, Douglas Coupland
+Furiously Happy, Jenny Lawson
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Ghost Fleet, P.W. Singer
 Girl With Curious Hair, David Foster Wallace
@@ -54,54 +46,36 @@ Ham on Rye, Charles Bukowski
 Have A Nice Day: A Tale of Blood and Sweatsocks, Mick Foley
 High Output Management, Andy Grove
 His Dark Materials Trilogy, Philip Pullman
-History of Western Philosophy,
+History of Western Philosophy, Bertrand Russell
 How Google Works, Eric Schmidt
 How Markets Fail, John Cassidy
-How to Change the World, David Bornstein
-How We Live Now, Bella DePaulo
 How Will You Measure Your Life?, Clayton M. Christensen
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
-Imhotep, Jerry Dubs
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
 Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
-Jonathan Strange & Mr Norrell, Susanna Clarke
-Last and First Men and Star Maker, Olaf Stapledon
 Lolita, Vladimir Nabokov
 Looking for Alaska, John Green
 Long Walk to Freedom, Nelson Mandela, page: 24
 Made in the USA, Vaclav Smil
 Mating in Captivity, Esther Perel
 Men are from mars, women are from venus, Joe Peacock
-Mindset: The New Psychology of Success, Carol S. Dweck
 Moby Dick, Herman Melville
 My Years With General Motors, Alfred P Sloan Jr
-Never Let Me Go, Kazuo Ishiguro
 No Good Men Among the Living, Anand Gopal
 Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
 Only the Paranoid Survive, Andy Grove
-Oryx and Crake, Margaret Atwood
 Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
-Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan
-Paper Towns, John Green
-Parallel Worlds, Michio Kaku
 Perdido Street Station, China Mieville
-Permanent Midnight, Jerry Stahl
 Pour Your Heart Into It, Howard Schultz
 Producing Open Source Software: How to Run a Successful Free Software Project, Karl Fogel
-Red Mars, Kim Stanley Robinson
 Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
-Ringworld, Larry Niven
 Rise of the Robots, Martin Ford
-Robinson Crusoe, Daniel Defoe
-Rock Surgery Made Easy, Steve Krug
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
-Silence of the Lambs, Thomas Harris
-Singled Out, Bella DePaulo
 Sirens of Titan, Kurt Vonnegut
 So Good They Can't Ignore You, Cal Newport
 Solaris, Ray Bradbury
@@ -109,26 +83,18 @@ Something Wicked This Way Comes,
 Sophie's World, Jostein Gaarder
 SpyCatcher, Peter Wright
 Spycraft, Robert Wallace
-Starship Troopers, Robert A. Heinlein
 Steppenwolf, Hermann Hesse
-Stranger in a Strange Land, Robert A. Heinlein
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
-Sustainable Materials With Both Eyes Open, Julian M. Allwood
 Swan song, Robert McCammon
 Tales of the Unexpected, Roald Dahl
 The Alienist, Caleb Carr
 The American Challenge, Jean-Jacques Servan-Schreiber
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
-The Barbary Coast: An Informal History of the San Francisco Underworld, William Faulkner
 The Baroque Cycle, Neal Stephenson
 The Botany of Desire, Michael Pollan
 The Brothers Karamazov, Fyodor Dostoevsky
-The Burning Room, Michael Connelly
-The Chrysalids, John Wyndham
 The Circle, Dave Eggers
-The Collapse of Complex Societies, Joseph Tainter
-The Communist Manifesto, Karl Marx
 The Corpse Reader, Antonio Garrido
 The Count of Monte Cristo, Alexandre Dumas
 The Courage to Act: A Memoir of a Crisis and Its Aftermath, Ben Bernanke
@@ -139,8 +105,7 @@ The Department of Mad Scientists, Michael Belfiore
 The Devil in the White City, Erik Larson
 The Dispossessed, Ursula K. Le Guin
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
-The Elegant Universe, Brian Green
-The Emperor's new mind, Patricia C. Wrede
+The Emperor's New Mind, Roger Penrose
 The Faith Healers, James Randi
 The Forever War, Dexter Filkins
 The Forever War, Joe Haldeman
@@ -148,11 +113,6 @@ The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
 The Four Steps to the Epiphany, Steven Gary Blank
 The Ghost Map, Steven Johnson
-The Girl Next Door, Jack Ketchum
-The Great Divide: Unequal Societies and What We Can Do About Them, Joseph E. Stiglitz
-The Great Surge: The Ascent of the Developing World, Steven Radelet
-The Gulag Archipelago Abridged, Aleksandr Solzhenitsyn
-The Handmaid's Tale, Margaret Atwood
 The Heretic's Guide to Global Finance, Brett Scott
 The Hero with a Thousand Faces, Joseph Campbell
 The Hidden Wealth of Nations, Gabriel Zucman
@@ -165,25 +125,20 @@ The Innovator's Dilemma, Clayton M. Christensen
 The Last Unicorn, Peter S. Beagle
 The Lean Startup, Eric Ries
 The Long Tomorrow, Leigh Brackett
-The Long Walk, Stephen King (writing as Richard Bachman)
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
 The Master and Margarita, Mikhail Bulgakov
 The Master Switch: The Rise and Fall of Information Empires, Tim Wu
-The Mists of Avalon, Marion Zimmer Bradley
 The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
-The Mote in God's Eye, Larry Niven and Jerry Pournelle
+The Nightingale, Kristin Hannah
 The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan Holiday
 The Once and Future King, T.H. White
-The Painted Bird, Jerzy Kosinski
 The Panda's Thumb, Stephen Jay Gould
 The Paper Trip, Barry Reid
 The Pentagon's Brain, Annie Jacobsen
 The Power Broker, Robert A. Caro, page: 25
 The Power of Myth, Joseph Campbell
-The Prince of Nothing, R. Scott Bakker
 The Promise of a Pencil, Adam Braun
-The Quiet American, Graham Green
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
 The Restaurant at the End of the Universe, Douglas Adams
 The Road to Character, David Brooks
@@ -194,15 +149,13 @@ The Second Machine Age, Erik Brynjolfsson
 The Secret Sentry, Matthew M. Aid
 The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
 The Snowden Files, Luke Harding
-The Sound and the Fury, William Faulkner
-The Sovereign Individual
+The Sovereign Individual, James Dale Davidson
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
 The Unix-Haters Handbook, Simson L. Garfinkel
 The Wheel of Time, Robert Jordan
 The Wisdom of Crowds, James Surowiecki
-Their Eyes Were Watching God, Zora Neale Hurston
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Thinking, Fast and Slow, Daniel Kahneman
 Third chimpanzee, Jared Diamond
@@ -218,8 +171,8 @@ Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hi
 Violent Python, T.J. O'Connor
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
-Watership Down, Richard Adams
 What If?, Randall Munroe
+What is the What, Dave Eggers
 When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky
 Winning, Jack Welch
