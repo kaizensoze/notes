@@ -1,2 +1,1 @@
-graphql vs mongodb
 hackeracademy

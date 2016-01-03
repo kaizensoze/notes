@@ -90,6 +90,7 @@ Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
 Tales of the Unexpected, Roald Dahl
 The Alienist, Caleb Carr
+The American Black Chamber, Herbert Yardley
 The American Challenge, Jean-Jacques Servan-Schreiber
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
 The Baroque Cycle, Neal Stephenson
@@ -106,6 +107,7 @@ The Department of Mad Scientists, Michael Belfiore
 The Devil in the White City, Erik Larson
 The Dispossessed, Ursula K. Le Guin
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
+The Education of a Poker Player, Herbert Yardley
 The Emperor's New Mind, Roger Penrose
 The Faith Healers, James Randi
 The Forever War, Dexter Filkins
@@ -128,7 +130,6 @@ The Lean Startup, Eric Ries
 The Long Tomorrow, Leigh Brackett
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
-The Master and Margarita, Mikhail Bulgakov
 The Master Switch: The Rise and Fall of Information Empires, Tim Wu
 The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
 The Nightingale, Kristin Hannah
@@ -150,7 +151,6 @@ The Scented Ape, David Michael Stoddart
 The Second Machine Age, Erik Brynjolfsson
 The Secret Sentry, Matthew M. Aid
 The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
-The Snowden Files, Luke Harding
 The Sovereign Individual, James Dale Davidson
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
@@ -168,7 +168,6 @@ Titus Groan, Mervyn Peake
 Too Big to Fail, Andrew Ross Sorkin
 Tropic of Cancer, Henry Miller
 Twenty Thousand Leagues Under the Sea, Jules Verne
-Ubik, Philip K. Dick
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
 Violent Python, T.J. O'Connor
 Walking the Amazon, Ed Stafford

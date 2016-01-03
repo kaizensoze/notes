@@ -1,4 +1,7 @@
+can a git commit have more than one author?
 consider switching from mongo to graphql
+figure out way around rate limit issue
+  relative to the user is better than a god token but then the app would have to request lots of privileges
 
 new simpler idea
   goal is to collaborate on github without having to start something
