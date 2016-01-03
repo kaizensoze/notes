@@ -1,5 +1,11 @@
 consider switching from mongo to graphql
-integrate with gitter?
+
+new simpler idea
+  goal is to collaborate on github without having to start something
+  github co-op mode
+  go it alone or with friends picking a repo (can do random), optionally looking at issues, and working on a PR
+
+integrate with gitter
 look into a voice/video chat option
 no video chat (just voice)
 another pretense on creating a group/channel is working on a PR for an existing repo for a new or existing issue
