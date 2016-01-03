@@ -1,4 +1,9 @@
+15:00 - 17:30
 
+test
+  go to neighborhood detail view
+  go to another tab that deletes neighborhood objects
+  go back to neighborhood detail view
 
 select agents.last_name, count(deposits.id) as deposits_count from agents left outer join deposits on (deposits.sales_agent_id = agents.id or deposits.other_sales_agent_id = agents.id) and deposits.created_at between date_trunc('month', current_date) and date_trunc('month', current_date) + '1month' and agents.employee = true group by agents.id order by deposits_count desc
 
