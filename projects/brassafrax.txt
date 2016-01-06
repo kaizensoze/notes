@@ -1,7 +1,8 @@
-can a git commit have more than one author?
 consider switching from mongo to graphql
 figure out way around rate limit issue
   relative to the user is better than a god token but then the app would have to request lots of privileges
+
+pair up with someone to contribute something
 
 new simpler idea
   goal is to collaborate on github without having to start something
@@ -13,6 +14,8 @@ look into a voice/video chat option
 no video chat (just voice)
 another pretense on creating a group/channel is working on a PR for an existing repo for a new or existing issue
 don't have to decide on new vs existing before creating group/channel
+
+can a git commit have more than one author? nope
 
 https://gitter.zendesk.com/hc/en-us/articles/201153242-Do-you-have-an-API-
 

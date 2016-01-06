@@ -1,8 +1,11 @@
 
 movies
+  Mediterranea
+  Night Shift
   Shut In
   Son of Saul
   The Brothers Grimsby
+  The Witch
 
 tv
   Big Bang Theory

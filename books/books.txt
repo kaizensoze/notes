@@ -5,6 +5,7 @@ Angler: The Cheney Vice Presidency, Barton Gellman
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
+Bartleby, the Scrivener: A Story of Wall Street, Herman Melville
 Basic Economics, Thomas Sowell, page: 38
 Between the World and Me, Ta-Nehisi Coates
 Bleeding Edge, Thomas Pynchon
@@ -36,7 +37,6 @@ Eradication: Ridding the World of Diseases Forever?, Nancy Leys Stepan
 Exponential Organizations, Salim Ismail
 Everything's Eventual, Stephen King
 Fermat's Enigma, Simon Singh
-Furiously Happy, Jenny Lawson
 Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Ghost Fleet, P.W. Singer
@@ -74,6 +74,7 @@ Producing Open Source Software: How to Run a Successful Free Software Project, K
 Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
 Rise of the Robots, Martin Ford
+Rogue Lawyer, John Grisham
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
 Sirens of Titan, Kurt Vonnegut
@@ -87,6 +88,7 @@ Steppenwolf, Hermann Hesse
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
+Sycamore Row, John Grisham
 Tales of the Unexpected, Roald Dahl
 The Alienist, Caleb Carr
 The American Challenge, Jean-Jacques Servan-Schreiber
@@ -124,6 +126,7 @@ The Innovators, Walter Isaacson
 The Innovator's Dilemma, Clayton M. Christensen
 The Last Unicorn, Peter S. Beagle
 The Lean Startup, Eric Ries
+The Life-Changing Magic of Tidying Up, Marie Kondo
 The Long Tomorrow, Leigh Brackett
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
@@ -139,6 +142,7 @@ The Power Broker, Robert A. Caro, page: 25
 The Power of Myth, Joseph Campbell
 The Promise of a Pencil, Adam Braun
 The Puzzle Palace, James Bamford
+The Racketeer, John Grisham
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
 The Restaurant at the End of the Universe, Douglas Adams
 The Road to Character, David Brooks
