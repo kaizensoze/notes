@@ -80,11 +80,10 @@ Sandman Slim, Richard Kadrey
 Sirens of Titan, Kurt Vonnegut
 So Good They Can't Ignore You, Cal Newport
 Solaris, Ray Bradbury
-Something Wicked This Way Comes,
+Something Wicked This Way Comes, Ray Bradbury
 Sophie's World, Jostein Gaarder
 SpyCatcher, Peter Wright
 Spycraft, Robert Wallace
-Steppenwolf, Hermann Hesse
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
@@ -161,7 +160,6 @@ Thinking, Fast and Slow, Daniel Kahneman
 Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
 This Will Change Everything, John Brockman
-Through the Woods, Emily Caroll
 Titus Groan, Mervyn Peake
 Too Big to Fail, Andrew Ross Sorkin
 Tropic of Cancer, Henry Miller
