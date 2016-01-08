@@ -1,7 +1,6 @@
 
 movies
   Mediterranea
-  Night Shift
   Shut In
   Son of Saul
   The Brothers Grimsby
@@ -135,46 +134,3 @@ pale
 
 comics
   Walking Dead: 148
-
-talk shows
-  tonight show (NBC) [11:35pm-12:35am]
-    jimmy fallon (2014-present)
-    jay leno (2010-2014)
-    conan o'brien (2009-2010)
-    jay leno (1992-2009)
-    johnny carson (1962-1992)
-  late show (CBS) [11:35pm-12:35am]
-    stephen colbert (2015-present)
-    david letterman (1993-2015)
-  late night (NBC) [12:35am-1:35am]
-    seth meyers (2014-present)
-    jimmy fallon (2009-2014
-    conan o'brien (1993-2009)
-    david letterman (1982-1993)
-  late late show (CBS) [12:35am-1:35am]
-    james corden (2015-present)
-    craig ferguson (2005-2014)
-    craig kilborn (1999-2004)
-
-quotes
-  "It is the good fortune of many to live distant from the scene of sorrow.”
-  Thomas Paine. “Common Sense.”
-
-  “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
-  Ursula K. Le Guin. “The Left Hand of Darkness.”
-
-  "A date is an experience you have with another person that makes you appreciate being alone."
-  Larry David
-
-  "He who has a why to live for can bear with almost any how."
-  Nietzsche
-
-  Privileged untalented wealthy people are the fucking scourge of the earth.
-
-  I have more respect for high frequency traders than I do for Jenn Hyman.
-
-questions to ask
-  What is the endgame?
-  List the top five sites you use on a daily basis.
-
-ideal temp range: 65 - 75
