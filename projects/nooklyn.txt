@@ -1,15 +1,6 @@
 
 
-look into setting text container inset for uitextview designable
-
-Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.
-
-get textview to fit to size
-if not, switch to uilabel
-
-my conversation cell
-
-select agents.last_name, count(deposits.id) as deposits_count from agents left outer join deposits on (deposits.sales_agent_id = agents.id or deposits.other_sales_agent_id = agents.id) and deposits.created_at between date_trunc('month', current_date) and date_trunc('month', current_date) + '1month' and agents.employee = true group by agents.id order by deposits_count desc
+look into race condition on loading nearby locations/listings
 
 API
   prod (agent_id: 15842)
@@ -57,46 +48,6 @@ try! realm.write {
     realm.delete(realm.objects(LocationCategory))
     realm.delete(realm.objects(Location).filter("id != '74'"))
 }
-
-# get all conversations with no messages
-select
-  id
-from
-  conversations
-where id not in (
-  select conversation_id
-  from conversation_messages
-);
-delete from conversations where id not in (
-  select conversation_id
-  from conversation_messages
-);
-
-# get all malformatted/empty subway lines
-select
-  id,
-  subway_line
-from
-  listings
-where
-  status = 'Available'
-  and (
-    length(subway_line) = 0
-    or subway_line ~ '  '
-    or (length(subway_line) > 1 and subway_line !~ ' ')
-    or subway_line ~ '([^[:alnum:]\s])'
-  )
-order by
-  subway_line,
-  id;
-
-# get all locations with malformatted address
-select id, name, address_line_one, state from locations where address_line_one ~ '(Avenue|Street|\.$)' or state ~ '(New York|California)' or address_line_one ~ city;
-
-# get all locations with a slug containing a period
-select id, slug from locations where slug like '%.%' order by id;
-
-select l.id, l.name, lc.name from locations l join location_categories lc on (lc.id = l.location_category_id) where l.name = 'Enid''s';
 
 # S3
 development:
