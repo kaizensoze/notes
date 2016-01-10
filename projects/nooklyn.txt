@@ -1,6 +1,7 @@
 
 
-look into race condition on loading nearby locations/listings
+figure out conversations num rows issue
+try to scroll down to last message immediately
 
 API
   prod (agent_id: 15842)
