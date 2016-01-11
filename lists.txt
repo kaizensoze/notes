@@ -7,7 +7,10 @@ movies
   The Witch
 
 tv
+  American Horror Story
   Big Bang Theory
+  House of Cards
+  Key and Peele
 
 books
   A Confederacy of Dunces, John Kennedy Toole
