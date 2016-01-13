@@ -1,6 +1,3 @@
-tissues
-paper towels
-
 movies
   Son of Saul
   The Revenant
@@ -11,7 +8,7 @@ movies
 
 tv
   American Horror Story S05E12
-  Big Bang Theory S05E09
+  Big Bang Theory S06E01
   House of Cards
   Key and Peele
 
