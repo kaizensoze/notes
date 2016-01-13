@@ -1,7 +1,7 @@
 
 
-figure out conversations num rows issue
-try to scroll down to last message immediately
+clicking on pin of already selected listing goes straight to listing detail view
+get next two cards for play mode
 
 API
   prod (agent_id: 15842)
