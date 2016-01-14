@@ -1,6 +1,5 @@
 movies
   Son of Saul
-  The Revenant
   The Witch
   Deadpool
   The Brothers Grimsby
@@ -10,7 +9,8 @@ tv
   American Horror Story S05E12
   Big Bang Theory S06E01
   House of Cards
-  Key and Peele
+  Key and Peele S04E01
+  Orphan Black S03E01
 
 books
   A Confederacy of Dunces, John Kennedy Toole
