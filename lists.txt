@@ -7,10 +7,11 @@ movies
   Shut In
 
 tv
+  House of Cards S03E04
   Big Bang Theory S06E02
+  House MD S04E07
   Girls S05E01
-  House of Cards S03E01
-  Orphan Black S03E01
+  Game of Thrones S06E01
 
 books
   A Confederacy of Dunces, John Kennedy Toole
