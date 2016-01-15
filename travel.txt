@@ -1,9 +1,13 @@
 
-give philly another shot (fishtown)
+potential places to live
+  Richmond, VA
+  Nashville, TN
+  San Antonio, TX
 
-planned road trip 3
+road trip 3: north/midwest
 ---------------------
-Pittsburgh, PA [6]
+Philadelphia, PA [2.5]
+Pittsburgh, PA [5]
 Cleveland, OH [2]
 Detroit, MI [2.5]
 Ann Arbor, MI [1]
@@ -33,7 +37,7 @@ Portland, OR [3.5]
 ==============
 [80] (10 days)
 
-planned road trip 4
+road trip 4: southwest
 ---------------------
 Portland, OR (fly)
 Sacramento, CA [8.5]
@@ -59,44 +63,44 @@ Little Rock, AR [3.5]
 ==============
 [71] (9 days)
 
-places to live
-------------------
-Richmond, VA
-Nashville, TN
-San Antonio, TX
+LEFTOVER
+  Delaware
+  New Orleans
+  Hawaii
 
-us
----------------
-Orlando
-New Orleans
-Delaware
-Hawaii
+  Montreal
+  Quebec City
+  Ottawa
 
-canada
----------------
-Montreal
-Quebec City
-Ottawa
+ABROAD
+  Paris
+  Berlin
+  Monaco
+  Vienna
+  Lisbon
+  Barcelona
+  Salzburg
+  Amsterdam
+  Naples
+  Rome
+  Prague
+  Reykjavik
+  Beirut
+  Istanbul
+  Lviv
+  Kiev
+  Sheffield
 
-abroad
----------------
-Paris
-Berlin
-Monaco
-Vienna
-Lisbon
-Barcelona
-Salzburg
-Amsterdam
-Naples
-Rome
-Prague
-Reykjavik
-Beirut
-Istanbul
-Lviv
-Kiev
-Sheffield
+AVOID
+  Estonia
+  Latvia
+  Belarus
+  Ukraine
+  Moldova
+  Romania
+  Bulgaria
+  Philippines
+  Indonesia
 
 DONE
   road trip 1: New England
@@ -150,14 +154,3 @@ DONE
   Austin, TX [1.5]
   Dallas, TX [3]
   [42.5] (5 days)
-
-AVOID
-  Estonia
-  Latvia
-  Belarus
-  Ukraine
-  Moldova
-  Romania
-  Bulgaria
-  Philippines
-  Indonesia
