@@ -1,8 +1,6 @@
 
 
-go through latest realm documentation
-get next two cards for play mode
-clicking on pin of already selected listing goes straight to listing detail view
+
 
 API
   prod (agent_id: 15842)

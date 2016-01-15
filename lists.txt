@@ -1,3 +1,4 @@
+
 movies
   Son of Saul
   The Witch
@@ -6,11 +7,9 @@ movies
   Shut In
 
 tv
-  American Horror Story S05E12
   Big Bang Theory S06E02
   Girls S05E01
   House of Cards S03E01
-  Key and Peele S04E01
   Orphan Black S03E01
 
 books
