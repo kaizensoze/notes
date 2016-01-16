@@ -12,6 +12,7 @@ Basic Economics, Thomas Sowell, page: 38
 Between the World and Me, Ta-Nehisi Coates
 Bleeding Edge, Thomas Pynchon
 Body of Secrets, James Bamford
+Bonk, Mary Roach
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
@@ -26,12 +27,14 @@ Conscious Capitalism, John Mackey
 Contact, Carl Sagan
 Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
+Dad Is Fat, Jim Gaffigan
 De humani corporis fabrica, Andreas Vesalius
 Dhalgren, Samuel R. Delany
 Discworld, Terry Pratchett
 Do No Harm, Henry Marsh
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
+Enemies: A History of the FBI, Tim Weiner
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
 Eradication: Ridding the World of Diseases Forever?, Nancy Leys Stepan
 Exponential Organizations, Salim Ismail
@@ -41,6 +44,7 @@ Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Ghost Fleet, P.W. Singer
 Girl With Curious Hair, David Foster Wallace
+Gulp, Mary Roach
 Hacking: The Art of Exploitation, Jon Erickson
 Have A Nice Day: A Tale of Blood and Sweatsocks, Mick Foley
 High Output Management, Andy Grove
@@ -54,11 +58,15 @@ Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Pau
 Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
+Kill Chain, Andrew Cockburn
+Legacy of Ashes, Tim Weiner
+Let's Explore Diabetes with Owls, David Sedaris
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela, page: 24
 Made in the USA, Vaclav Smil
 Mating in Captivity, Esther Perel
 Men are from mars, women are from venus, Joe Peacock
+Missing Microbes, Martin Blaser
 Moby Dick, Herman Melville
 My Years With General Motors, Alfred P Sloan Jr
 No Good Men Among the Living, Anand Gopal
@@ -74,8 +82,11 @@ Revenge of the Kremlin, Gérard de Villiers
 Rise of the Robots, Martin Ford
 Rogue Lawyer, John Grisham
 Rtfm: Red Team Field Manual, Ben Clark
+Salt Sugar Fat: How the Food Giants Hooked Us, Michael Moss
 Sandman Slim, Richard Kadrey
+Sick In The Head, Judd Apatow
 Sirens of Titan, Kurt Vonnegut
+So, Anyway..., John Cleese
 So Good They Can't Ignore You, Cal Newport
 Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
@@ -137,6 +148,7 @@ The Pentagon's Brain, Annie Jacobsen
 The Power Broker, Robert A. Caro, page: 25
 The Power of Myth, Joseph Campbell
 The Promise of a Pencil, Adam Braun
+The Psychopath Test: A Journey Through the Madness Industry, Jon Ronson
 The Puzzle Palace, James Bamford
 The Racketeer, John Grisham
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
@@ -170,3 +182,4 @@ Why Zebras Don't Get Ulcers, Robert Sapolsky
 Winning, Jack Welch
 Women, Charles Bukowski
 World Order, Henry Kissinger
+Yes Please, Amy Poehler
