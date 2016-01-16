@@ -40,8 +40,8 @@ File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
       author = book_page.css('a.authorName')[0].css('span').text.strip
       genre = book_page.css('a[href^="/genres/"]')[0].text if book_page.css('a[href^="/genres/"]').length > 0
       num_pages = book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)[1].tr(',', '') if book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)
-      rating = book_page.css('a.staticStar.p10')[0].text.match(/(.+) of 5 stars/)[1]
-      num_ratings = book_page.css('span[itemprop="ratingCount"]').text.match(/(.+) rating.?/)[1].tr(',', '')
+      rating = book_page.css('span.average')[0].text
+      num_ratings = book_page.css('span[itemprop="ratingCount"]').text.match(/(.+) Rating[s]/)[1].tr(',', '')
       progress = ''
 
       # title, author, genre, # pages, rating, # ratings, progress
