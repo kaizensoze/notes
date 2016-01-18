@@ -1,6 +1,7 @@
 
 movies
   Terms of Endearment
+  Broadcast News
   Good Hair
   Drunk Stoned Brilliant Dead
   Begin Again
