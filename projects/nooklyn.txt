@@ -1,5 +1,6 @@
 
 
+update cocoapods
 look into listings view bug
 fix locations sometimes not showing on location detail view
 
