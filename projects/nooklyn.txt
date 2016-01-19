@@ -1,6 +1,6 @@
 
 
-
+fix locations sometimes not showing on location detail view
 
 API
   prod (agent_id: 15842)
