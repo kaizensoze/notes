@@ -1,5 +1,10 @@
-water
-paper towels
+https://www.youtube.com/watch?v=dWIHvuABaFU&t=01m05s
+
+
+water, paper towels, dish soap
+
+ios project best practices
+xcode project best practices
 
 movies
   Terms of Endearment
