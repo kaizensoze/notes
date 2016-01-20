@@ -1,25 +1,8 @@
-consider switching from mongo to graphql
-figure out way around rate limit issue
-  relative to the user is better than a god token but then the app would have to request lots of privileges
 
-pair up with someone to contribute something
-
-new simpler idea
-  goal is to collaborate on github without having to start something
-  github co-op mode
-  go it alone or with friends picking a repo (can do random), optionally looking at issues, and working on a PR
-
-integrate with gitter
-look into a voice/video chat option
-no video chat (just voice)
-another pretense on creating a group/channel is working on a PR for an existing repo for a new or existing issue
-don't have to decide on new vs existing before creating group/channel
-
-can a git commit have more than one author? nope
-
-https://gitter.zendesk.com/hc/en-us/articles/201153242-Do-you-have-an-API-
-
-invite to org will only send one email to not bug users so include message with link to org on confirm page: https://github.com/brassafrax
+confirm
+  invite to org will only send one email to not bug users so include message with link to org on confirm page: https://github.com/brassafrax
+option to start session from a fork or from scratch
+integrate with gitter (https://gitter.zendesk.com/hc/en-us/articles/201153242-Do-you-have-an-API-)
 
 curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' https://api.github.com/user
 curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' https://api.github.com/users/defunkt
@@ -28,15 +11,9 @@ curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' https
 curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' https://api.github.com/orgs/brassafrax/memberships
 curl -i -H 'Authorization: token d6460044b12cfbe60a7e8346ddca81b0cf194393' -X PUT https://api.github.com/orgs/brassafrax/memberships/first9890
 
-don't really care about making it employer/recruiter friendly
-goal is to hone your craft and to find other people to work with to hopefully incentivize that
-list of a user's past projects isn't public
 only published projects are public (they go in a user's portfolio section)
 at a certain point you lock a project down when you're satisfied with the result and publish it
 if you want to continue working on it, you can fork it outside of the site
-one project at a time
-no general chat
-might be a better idea to not have a shit list
 profile sections (searchable keywords)
   skills
   interests
@@ -44,8 +21,6 @@ vote to publish?
 user can choose not to link to a published project in their portfolio
 projects in a portfolio would be sorted by stars, publish_date?
 for a published project, list forks and their stars?
-option to start session from a fork or from scratch
-easter egg: pi in lower right a la The Net
 
 site
   home page (not logged in)
@@ -57,17 +32,6 @@ site
   user page
     info
     invite button
-
-sign up
-  (requires a github account)
-  github username
-  email
-  site password
-
-login
-  username/email
-  password
-  (2 factor auth)
 
 profile
   personal info
@@ -125,20 +89,5 @@ roles
     3d animation
     animation
     graphic design
-
-LATER
-  make master branch protected by default if necessary
-  allow people to submit project ideas
-  if you don't have an idea for a project, you can pick a random suggested idea to get you started
-
-TODO
-  think of the many different uses cases for this product
-    joining random group
-    inviting user(s) to start a group
-    interactive teaching session (publish tutorial at the end) [will require easy mass invite?]
-  should users who join a sesion immediately have write access?
-
-  come up with a better name for project
-  figure out how publishing a project should work (https://pages.github.com/)
 
 auth token: 4f2e732a5b55e84d831b3ba37ccca35e77bfce19
