@@ -1,10 +1,3 @@
-https://www.youtube.com/watch?v=dWIHvuABaFU&t=01m05s
-
-
-water, paper towels, dish soap
-
-ios project best practices
-xcode project best practices
 
 movies
   Terms of Endearment
@@ -24,11 +17,12 @@ movies
   10 Cloverfield Lane
 
 tv
-  House MD S06E02
+  House MD S06E08
   Portlandia S06E01
   The X-Files
   Girls S05E01
   House of Cards S04E01
+  Archer
   Game of Thrones S06E01
 
 books
