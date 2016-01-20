@@ -1,0 +1,14 @@
+two parts
+
+1) build
+grab json from a url you have control over
+load it into a collection view
+specify layout specs that would require overriding collection view layout methods (minimumInter...)
+tapping into collection view shows very basic detail view
+
+2) debug
+change some of the code they submit
+change some of the json returned by the url
+
+key things to mention on giving the assignment:
+  "Treat this as the beginning of a large project as opposed to a one-off assignment."
