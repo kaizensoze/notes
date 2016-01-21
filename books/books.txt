@@ -1,7 +1,6 @@
 A Fire Upon the Deep, Vernor Vinge
 A Wizard of Earthsea, Ursula K. Le Guin
 Age of Ambition, Evan Osnos
-Alone on the Wall, Alex Honnold
 Angler: The Cheney Vice Presidency, Barton Gellman
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
@@ -166,6 +165,7 @@ Thinking, Fast and Slow, Daniel Kahneman
 Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
 This Will Change Everything, John Brockman
+Tibetan Peach Pie, Tom Robbins
 Titus Groan, Mervyn Peake
 Tropic of Cancer, Henry Miller
 Twenty Thousand Leagues Under the Sea, Jules Verne
