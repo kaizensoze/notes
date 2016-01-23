@@ -1,4 +1,5 @@
-app to check moles
+start looking for a next project
+contact people on swift meetups
 generate new ssh key
 
 movies
@@ -13,11 +14,11 @@ movies
   The Witch
   The Brothers Grimsby
   10 Cloverfield Lane
+  Swiss Army Man
 
 tv
-  House MD S06E17
+  House MD S06E18
   Portlandia S06E02
-  Nathan for You
   The X-Files
   Girls S05E01
   House of Cards S04E01

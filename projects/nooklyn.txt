@@ -1,11 +1,24 @@
+11:00 -
 
+test
+  getting started from first time view [DONE]
+  login from first time view [DONE]
+  facebook login from (first time -> login) [DONE]
+  facebook login from (first time -> signup) [DONE]
+  login from tab [DONE]
+  facebook login from tab (login) [DONE]
+  facebook login from tab (signup) [DONE]
+  facebook login from mates view [DONE]
 
-remove duplicates before caching agents
-fix remaining errors
+test on device
+check memory usage
 
-figure out NSCopying for subclasses
-look into passing ListingFavorite to favoriteListingObject instead of Listing
-move Favorites, Ignores to UserDefaults (as array of id's)?
+persist logged in agent to NSUserDefaults
+might have to implement NSCoding for models
+figure out NSCopying, NSCoding, DataConvertible, DataRepresentable for subclasses
+might be able to get rid of copyFromListing for ListingFavorite, etc.
+
+remove swipe to dismiss keyboard on
 
 API
   prod (agent_id: 15842)
