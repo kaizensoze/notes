@@ -2,14 +2,10 @@ app to check moles
 generate new ssh key
 
 movies
-  Terms of Endearment
-  Broadcast News
   Drunk Stoned Brilliant Dead
-  Begin Again
   The Godfather Epic
   Lost In America
   Modern Romance
-  Quadrophenia
   Women Aren't Funny?
   Son of Saul
   Deadpool
@@ -19,9 +15,9 @@ movies
   10 Cloverfield Lane
 
 tv
-  Baskets
-  House MD S06E11
-  Portlandia S06E01
+  House MD S06E17
+  Portlandia S06E02
+  Nathan for You
   The X-Files
   Girls S05E01
   House of Cards S04E01

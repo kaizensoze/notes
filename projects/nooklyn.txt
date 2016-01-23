@@ -1,6 +1,11 @@
 
 
+remove duplicates before caching agents
+fix remaining errors
 
+figure out NSCopying for subclasses
+look into passing ListingFavorite to favoriteListingObject instead of Listing
+move Favorites, Ignores to UserDefaults (as array of id's)?
 
 API
   prod (agent_id: 15842)

@@ -76,7 +76,7 @@ git
   git bisect start
   git bisect bad
   git bisect good <hash>
-  git tag -f -a v1.0 -m '1.0 release'
+  git tag -f -a 1.0 -m '1.0 release'
   git push --follow-tags
   git push origin :refs/tags/v1.2 (for updating tag)
   git tag -f -a v1.2 -m '1.2 release'
