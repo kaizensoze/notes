@@ -1,4 +1,5 @@
-11:00 -
+11:00 - 15:00
+18:15 -
 
 test
   getting started from first time view [DONE]
@@ -9,16 +10,18 @@ test
   facebook login from tab (login) [DONE]
   facebook login from tab (signup) [DONE]
   facebook login from mates view [DONE]
+  yay mate [DONE]
+  nay mate [DONE]
+  yay listing [DONE]
+  nay listing [DONE]
 
 test on device
 check memory usage
 
-persist logged in agent to NSUserDefaults
-might have to implement NSCoding for models
-figure out NSCopying, NSCoding, DataConvertible, DataRepresentable for subclasses
-might be able to get rid of copyFromListing for ListingFavorite, etc.
-
-remove swipe to dismiss keyboard on
+add NSCoding to models
+persist favorites, ignores, logged in agent in NSUSerDefaults
+remove Haneke
+remove DataConvertible, DataRepresentable
 
 API
   prod (agent_id: 15842)
