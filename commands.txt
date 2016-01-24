@@ -117,7 +117,7 @@ mail
 mongodb
   sudo service mongod start
   sudo service mongod status
-  mongo brassafrax
+  mongo karass
   show collections
   db.users.find({})
   db.users.find({}, {username: 1, _id: 0})
