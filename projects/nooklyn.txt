@@ -1,5 +1,4 @@
-11:00 - 15:00
-18:15 -
+
 
 test
   getting started from first time view [DONE]
@@ -19,7 +18,9 @@ test on device
 check memory usage
 
 add NSCoding to models
-persist favorites, ignores, logged in agent in NSUSerDefaults
+persist favorites, ignores, logged in agent in NSUserDefaults
+clear favorites, ignores, logged in agent from NSUserDefaults on logout
+
 remove Haneke
 remove DataConvertible, DataRepresentable
 
