@@ -1,4 +1,5 @@
-
+10:30 - 13:00
+15:00 - 17:00
 
 test
   getting started from first time view [DONE]
@@ -14,15 +15,14 @@ test
   yay listing [DONE]
   nay listing [DONE]
 
-test on device
-check memory usage
-
-add NSCoding to models
-persist favorites, ignores, logged in agent in NSUserDefaults
-clear favorites, ignores, logged in agent from NSUserDefaults on logout
-
-remove Haneke
+test persisting logged in agent, favorites/ignores
 remove DataConvertible, DataRepresentable
+remove Haneke
+store favorites/ignores on disk instead of user defaults
+test on device (memory check)
+
+store api credentials in Keychain instead of NSUserDefaults
+keep an eye on the Agent-Mate circular dependency
 
 API
   prod (agent_id: 15842)

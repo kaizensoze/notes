@@ -7,7 +7,6 @@ movies
   The Godfather Epic
   Lost In America
   Modern Romance
-  Women Aren't Funny?
   Son of Saul
   Deadpool
   Shut In
@@ -17,9 +16,9 @@ movies
   Swiss Army Man
 
 tv
-  House MD S06E18
-  Portlandia S06E02
+  House MD S07E03
   The X-Files
+  Portlandia S06E02
   Girls S05E01
   House of Cards S04E01
   Archer
