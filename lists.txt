@@ -1,3 +1,4 @@
+pay american express
 start looking for a next project
 contact people on swift meetups
 generate new ssh key

@@ -1,28 +1,5 @@
-10:30 - 13:00
-15:00 - 17:00
 
-test
-  getting started from first time view [DONE]
-  login from first time view [DONE]
-  facebook login from (first time -> login) [DONE]
-  facebook login from (first time -> signup) [DONE]
-  login from tab [DONE]
-  facebook login from tab (login) [DONE]
-  facebook login from tab (signup) [DONE]
-  facebook login from mates view [DONE]
-  yay mate [DONE]
-  nay mate [DONE]
-  yay listing [DONE]
-  nay listing [DONE]
 
-test persisting logged in agent, favorites/ignores
-remove DataConvertible, DataRepresentable
-remove Haneke
-store favorites/ignores on disk instead of user defaults
-test on device (memory check)
-
-store api credentials in Keychain instead of NSUserDefaults
-keep an eye on the Agent-Mate circular dependency
 
 API
   prod (agent_id: 15842)
