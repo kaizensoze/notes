@@ -1,3 +1,5 @@
+webhook: https://api.github.com/orgs/karass-io/hooks/7056276
+auth token: 4f2e732a5b55e84d831b3ba37ccca35e77bfce19
 
 confirm
   invite to org will only send one email to not bug users so include message with link to org on confirm page: https://github.com/karass-io
@@ -92,5 +94,3 @@ roles
     3d animation
     animation
     graphic design
-
-auth token: 4f2e732a5b55e84d831b3ba37ccca35e77bfce19
