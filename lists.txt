@@ -11,6 +11,7 @@ movies
   Lost In America
   Modern Romance
   Son of Saul
+  Manchester by the Sea
   Deadpool
   Shut In
   The Witch

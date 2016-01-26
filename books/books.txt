@@ -49,7 +49,6 @@ Have A Nice Day: A Tale of Blood and Sweatsocks, Mick Foley
 High Output Management, Andy Grove
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
-How Markets Fail, John Cassidy
 How Will You Measure Your Life?, Clayton M. Christensen
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
@@ -178,5 +177,4 @@ When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky
 Winning, Jack Welch
 Women, Charles Bukowski
-World Order, Henry Kissinger
 Yes Please, Amy Poehler
