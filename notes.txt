@@ -73,7 +73,9 @@ Melkor ->
   Trolls
   Orcs (Corrupted Elves)
 
-ideal temp range: 65 - 75
+temp range
+  ideal: 65 - 75
+  tolerable: 45 - 80
 
 Talk Shows
 ==========
