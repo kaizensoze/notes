@@ -133,12 +133,10 @@ challenges
 	Top Coder
 
 videogames
-  PS4
-    Fallout 4
-    For Honor
-    Rise of the Tomb Raider
   PC
     The Town Of Light
+  iOS
+    The Witness
 
 wine
   bordeaux
