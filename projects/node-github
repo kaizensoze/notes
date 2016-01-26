@@ -1,3 +1,5 @@
+update test generation using nock: https://github.com/kaizensoze/node-github/pull/78
+
 ref vs sha?
 branch vs ref?
 
