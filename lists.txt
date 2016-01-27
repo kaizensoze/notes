@@ -1,5 +1,5 @@
 go through most starred repos
-  https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 (left off at: ansible/ansible)
+  https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 (left off at: dhg/Skeleton)
 look into getting into medical-related project
 generate new ssh key
 start looking for a next project

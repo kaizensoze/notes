@@ -1,14 +1,6 @@
 
 
-CacheManager
-  get rid of favorite/ignore cache
 
-  loadDataFromDisk
-    get loggedInAgent from disk
-
-  updateLoggedInUser
-    UserData.loggedInAgentId = loggedInAgentId
-    write loggedInAgent to disk
 
 API
   prod (agent_id: 15842)
