@@ -1,6 +1,11 @@
-12:30 - 17:00
 
 
+test
+  make mate post public
+  clear device
+  load mates as different user
+  try messaging the other user's mate post
+look into setting mate's agent on mate form
 
 API
   prod (agent_id: 15842)
