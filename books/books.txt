@@ -149,6 +149,7 @@ The Racketeer, John Grisham
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
 The Rent Is Too Damn High, Matthew Yglesias
 The Restaurant at the End of the Universe, Douglas Adams
+The Rise and Fall of American Growth, Robert Gordon
 The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Savior Generals, Victor Davis Hanson
 The Scar, China Mieville
@@ -178,3 +179,4 @@ Why Zebras Don't Get Ulcers, Robert Sapolsky
 Winning, Jack Welch
 Women, Charles Bukowski
 Yes Please, Amy Poehler
+*, Jonathan Franzen
