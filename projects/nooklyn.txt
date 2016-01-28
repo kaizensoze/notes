@@ -1,11 +1,7 @@
+12:30
 
-
-test
-  make mate post public
-  clear device
-  load mates as different user
-  try messaging the other user's mate post
-look into setting mate's agent on mate form
+MatePost.find(2409).destroy
+select * from mate_posts where id = 2409;
 
 API
   prod (agent_id: 15842)

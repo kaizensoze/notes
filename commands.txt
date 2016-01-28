@@ -107,6 +107,8 @@ heroku
   heroku releases
   git push heroku master && heroku run rake db:migrate && heroku restart
 
+  heroku pg:backups capture
+
 imagemagick
   identify -verbose [image]
   exiftool -all= [image]
@@ -147,6 +149,8 @@ postgres
     pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
     pg_restore -d newdb db.dump
     psql nooklyn < ~/Downloads/nooklyn.sql
+  select table_name from information_schema.columns where column_name like 'mate';
+
 
 rails
   bundle install && rake db:migrate && PORT=3000 foreman start
@@ -161,6 +165,8 @@ rails
 
   rake test [testpath]
   be rspec [testpath]
+
+  y MatePost.find(2409)  (in rails console)
 
 screen
   rename window:  C-a A
