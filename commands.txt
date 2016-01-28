@@ -149,7 +149,7 @@ postgres
     pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
     pg_restore -d newdb db.dump
     psql nooklyn < ~/Downloads/nooklyn.sql
-  select table_name from information_schema.columns where column_name like 'mate';
+  select table_name from information_schema.columns where column_name like 'mate_post_id';
 
 
 rails
