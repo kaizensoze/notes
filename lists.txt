@@ -1,5 +1,6 @@
+go through engineering blogs (last: Takipi)
 go through most starred repos
-  https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 (left off at: pugjs/jade)
+  https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 (last: pugjs/jade)
 look into getting into medical-related project
 generate new ssh key
 start looking for a next project
