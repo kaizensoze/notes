@@ -1,14 +1,7 @@
-12:30 -
 
-create mate post from app
-test messaging that newly created mate post
-verify that it still breaks reloading app w/o logging in again
 
-select table_name from information_schema.columns where column_name like 'mate_post_id';
-
-MatePost.find(2780).destroy
-delete from mate_post_views where mate_post_id = 2780;
-delete from mate_posts where id = 2780;
+fix model init
+/*.json image urls image urls returned
 
 API
   prod (agent_id: 15842)
