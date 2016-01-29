@@ -1,11 +1,13 @@
-go through engineering blogs (last: Individuals/Groups A)
-go through most starred repos
-  https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 (last: pugjs/jade)
+https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 (last: dotnet/corefx)
+
 pay rent
-look into getting into medical-related project
-generate new ssh key
-start looking for a next project
+pay health insurance
+
 contact people on swift meetups
+start looking for a next project
+look into getting into medical-related project
+
+generate new ssh key
 
 movies
   Lo and Behold, Reveries of the Connected World
