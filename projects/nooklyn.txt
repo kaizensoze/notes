@@ -1,8 +1,21 @@
 
 
-do a test run on iPhone 5S
-fix model init
-/*.json image urls image urls returned
+location
+  xxlarge: "2500x2500#",
+  xlarge: "1250x1250#",  *
+  large: "612x612#",     *
+  medium: "250x250#",
+  thumb: "100x100#" },   *
+
+listing
+  xxlarge: "2500x2500#",
+  xlarge: "1250x1250#",  *
+  large: "750x750#",
+  medium: "500x500#",    *
+  thumb: "250x250#" },   *
+
+test upgraded location images on device against pr url
+test upgrade listing images on device against pr url
 
 API
   prod (agent_id: 15842)
