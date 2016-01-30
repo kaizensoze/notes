@@ -1,4 +1,4 @@
-https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 nsqio/nsq
+https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 jverkoey/nimbus
 
 earthbound farms organic carrots
 pay rent
