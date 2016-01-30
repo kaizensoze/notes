@@ -1,4 +1,4 @@
-https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 lhorie/mithril.js
+https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 tommoor/tinycon
 
 earthbound farms organic carrots
 pay rent
