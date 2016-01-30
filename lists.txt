@@ -1,11 +1,9 @@
-https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 benweet/stackedit
+https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 nsqio/nsq
 
 earthbound farms organic carrots
-
-post to hacker news on Feb 1
-
 pay rent
 pay health insurance
+post to hacker news on Feb 1
 
 contact people on swift meetups
 start looking for a next project
