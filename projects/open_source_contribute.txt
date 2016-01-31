@@ -1,0 +1,2 @@
+github/hub
+  doing a fork doesn't use https url despite protocol: https in config

@@ -113,6 +113,13 @@ imagemagick
   identify -verbose [image]
   exiftool -all= [image]
 
+laravel
+  php artisan init
+  php artisan serve
+
+  php artisan migrate:refresh && php artisan init
+  php artisan serve
+
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
 
@@ -130,6 +137,11 @@ npm
 
 osx
   sudo dscacheutil -flushcache
+
+php
+  brew install homebrew/php/php70
+  brew install homebrew/php/php70-pdo-pgsql
+  add export PATH="$(brew --prefix homebrew/php/php70)/bin:$PATH" to ~/.zshrc
 
 postgres
   run/stop server
