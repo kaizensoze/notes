@@ -1,0 +1,5 @@
+install from source
+  ./script/build -o ~/dev/bin/hub
+
+run tests
+  make test-all
