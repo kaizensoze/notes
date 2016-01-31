@@ -2,7 +2,6 @@ https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 jquery/sizzle
 
 movies
   Lo and Behold, Reveries of the Connected World
-  The Godfather Epic
   Modern Romance
   Son of Saul
   Manchester by the Sea
@@ -14,7 +13,7 @@ movies
   Swiss Army Man
 
 tv
-  House MD S07E03
+  House MD S07E04
   Portlandia S06E02
   Girls S05E01
   House of Cards S04E01
