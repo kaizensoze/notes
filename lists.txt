@@ -1,20 +1,11 @@
 pay health insurance
-pay rent
-post to hacker news on Feb 1
 
 https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 jquery/sizzle
-
-contact people on swift meetups
-start looking for a next project
-look into getting into medical-related project
-
-generate new ssh key
 
 movies
   Lo and Behold, Reveries of the Connected World
   Drunk Stoned Brilliant Dead
   The Godfather Epic
-  Lost In America
   Modern Romance
   Son of Saul
   Manchester by the Sea
@@ -30,7 +21,7 @@ tv
   Portlandia S06E02
   Girls S05E01
   House of Cards S04E01
-  Archer
+  Archer S07E01
   Game of Thrones S06E01
 
 books

@@ -163,7 +163,6 @@ postgres
     psql nooklyn < ~/Downloads/nooklyn.sql
   select table_name from information_schema.columns where column_name like 'mate_post_id';
 
-
 rails
   bundle install && rake db:migrate && PORT=3000 foreman start
 
@@ -196,6 +195,15 @@ sort
 
 ssh
   ssh -fN -L 3307:127.0.0.1:3306 web@caribou.tastesavant.com
+
+ssh-agent
+  eval "$(ssh-agent -s)"
+  ssh-add -l
+  ssh-add -L
+  ssh-add <private_key>
+
+ssh-keygen
+  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 tcpdump
   sudo tcpdump -nS
