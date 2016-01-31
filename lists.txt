@@ -1,10 +1,7 @@
-pay health insurance
-
 https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 jquery/sizzle
 
 movies
   Lo and Behold, Reveries of the Connected World
-  Drunk Stoned Brilliant Dead
   The Godfather Epic
   Modern Romance
   Son of Saul

@@ -161,7 +161,6 @@ The Three-Body Problem, Liu Cixin
 The Wheel of Time, Robert Jordan
 The Wisdom of Crowds, James Surowiecki
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
-Thinking, Fast and Slow, Daniel Kahneman
 Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
 This Will Change Everything, John Brockman
@@ -175,7 +174,6 @@ War and Peace, Leo Tolstoy
 What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky
-Winning, Jack Welch
 Women, Charles Bukowski
 Yes Please, Amy Poehler
 *, Jonathan Franzen
