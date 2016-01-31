@@ -2,7 +2,7 @@ pay health insurance
 pay rent
 post to hacker news on Feb 1
 
-https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 tommoor/tinycon
+https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 jquery/sizzle
 
 contact people on swift meetups
 start looking for a next project
