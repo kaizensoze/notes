@@ -193,6 +193,9 @@ sort
   sort -u (unique)
   sort -f (ignore case)
 
+sqlite
+  PRAGMA table_info(table_name);
+
 ssh
   ssh -fN -L 3307:127.0.0.1:3306 web@caribou.tastesavant.com
 
@@ -226,3 +229,6 @@ wireshark
 
 xcode
   po thing.recursiveDescription
+
+xxd
+  echo '3be0' | xxd -r -p | xxd -b   # hex to binary

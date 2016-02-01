@@ -42,6 +42,7 @@ Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Ghost Fleet, P.W. Singer
 Ghost Rider: Travels on the Healing Road, Neil Peart
+Girl Walks into a Bar, Rachel Dratch
 Girl With Curious Hair, David Foster Wallace
 Gulp, Mary Roach
 Hacking: The Art of Exploitation, Jon Erickson
@@ -68,6 +69,7 @@ Missing Microbes, Martin Blaser
 Moby Dick, Herman Melville
 My Years With General Motors, Alfred P Sloan Jr
 Notes From Underground, Fyodor Dostoyevsky
+Not That Kind of Girl, Lena Dunham
 Odyssey, Homer
 Only the Paranoid Survive, Andy Grove
 Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
@@ -97,6 +99,7 @@ The Alienist, Caleb Carr
 The American Challenge, Jean-Jacques Servan-Schreiber
 The Autobiography of Malcolm X, Malcolm X with Alex Haley
 The Baroque Cycle, Neal Stephenson
+The Bedwetter, Sarah Silverman
 The Botany of Desire, Michael Pollan
 The Brothers Karamazov, Fyodor Dostoevsky
 The Corpse Reader, Antonio Garrido
