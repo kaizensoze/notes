@@ -10,39 +10,42 @@ test
 binaries
   ./build/darwin/osquery/
 
-showing cpu_temp, etc.
-  double fraction = whole - ((long)whole);
+issues
+  select all signatures returns no results (only shows result on exactly matching path
+    select * from signature; => no results
+    select * from signature where path = '/Applications/Safari.app'; => 1 result
 
-  select * from smc_keys where key = 'TC0P';
+  create table for temp/fan speed
+    #define SMC_KEY_CPU_TEMP      "TC0P"
+    #define SMC_KEY_FAN_SPEED     "F%dAc"
+    #define SMC_KEY_FAN_NUM       "FNum"
+    #define SMC_KEY_BATTERY_TEMP  "TB0T"
 
-  #define SMC_KEY_CPU_TEMP      "TC0P"
-  #define SMC_KEY_FAN_SPEED     "F%dAc"
-  #define SMC_KEY_FAN_NUM       "FNum"
-  #define SMC_KEY_BATTERY_TEMP  "TB0T"
+    select * from smc_keys where key in ('TC0P', 'FNum', 'TB0T') or key like 'F%Ac' order by key;
 
-  3be0
-  0011101111100000
-  SIIIIIIIFFFFFFFF
+    3be0
+    0011101111100000
+    SIIIIIIIFFFFFFFF
 
-  hex=3be0
-  echo $hex | xxd -r -p | xxd -b
+    hex=3be0
+    echo $hex | xxd -r -p | xxd -b
 
-  calculation demo
-    #include <stdio.h>
+    calculation demo
+      #include <stdio.h>
 
-    int main(int argc, char **argv)
-    {
-      const char hexstring[] = "3aa0", *pos = hexstring;
-      unsigned char val[12];
-      size_t count = 0;
+      int main(int argc, char **argv)
+      {
+        const char hexstring[] = "3aa0", *pos = hexstring;
+        unsigned char val[12];
+        size_t count = 0;
 
-      for(count = 0; count < sizeof(val) / sizeof(val[0]); count++) {
-          sscanf(pos, "%2hhx", &val[count]);
-          pos += 2;
+        for(count = 0; count < sizeof(val) / sizeof(val[0]); count++) {
+            sscanf(pos, "%2hhx", &val[count]);
+            pos += 2;
+        }
+
+        int intValue = (val[0] * 256 + val[1]) >> 2;
+        printf("%0.1f\n", intValue / 64.0);
+
+        return(0);
       }
-
-      int intValue = (val[0] * 256 + val[1]) >> 2;
-      printf("%0.1f\n", intValue / 64.0);
-
-      return(0);
-    }

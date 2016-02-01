@@ -1,4 +1,7 @@
+10:30 -
 
+test upgraded location images on device against pr url
+test upgrade listing images on device against pr url
 
 location
   xxlarge: "2500x2500#",
@@ -13,9 +16,6 @@ listing
   large: "750x750#",
   medium: "500x500#",    *
   thumb: "250x250#" },   *
-
-test upgraded location images on device against pr url
-test upgrade listing images on device against pr url
 
 API
   prod (agent_id: 15842)

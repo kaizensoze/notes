@@ -91,6 +91,7 @@ heroku
   heroku pg:psql
   heroku pg:backups
   heroku pg:backups public-url a399
+  heroku pg:backups capture
 
   heroku pg:info
   heroku pg:reset DATABASE_URL
@@ -105,9 +106,9 @@ heroku
   heroku config
 
   heroku releases
-  git push heroku master && heroku run rake db:migrate && heroku restart
 
-  heroku pg:backups capture
+  heroku run rake db:migrate -a nooklyn-dev-pr-1075
+  git push heroku master && heroku run rake db:migrate && heroku restart
 
 imagemagick
   identify -verbose [image]
