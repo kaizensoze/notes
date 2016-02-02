@@ -22,6 +22,7 @@ checks
 convenience methods
   find: (.+?)\s+:\s(.*)$
   replace: keyToName["$2"] = "$1";
+
 issues
   create table for temp/fan speed
     #define SMC_KEY_CPU_TEMP      "TC0P"
