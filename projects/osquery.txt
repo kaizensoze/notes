@@ -10,11 +10,19 @@ test
 binaries
   ./build/darwin/osquery/
 
-issues
-  select all signatures returns no results (only shows result on exactly matching path
-    select * from signature; => no results
-    select * from signature where path = '/Applications/Safari.app'; => 1 result
+run
+  ./build/darwin/osquery/osqueryi --verbose
 
+logging
+  LOG(INFO) << temp_key.c_str();
+
+checks
+  select * from smc_keys where type = 'sp78' order by key;
+
+convenience methods
+  find: (.+?)\s+:\s(.*)$
+  replace: keyToName["$2"] = "$1";
+issues
   create table for temp/fan speed
     #define SMC_KEY_CPU_TEMP      "TC0P"
     #define SMC_KEY_FAN_SPEED     "F%dAc"
@@ -35,7 +43,7 @@ issues
 
       int main(int argc, char **argv)
       {
-        const char hexstring[] = "3aa0", *pos = hexstring;
+        const char hexstring[] = "2033", *pos = hexstring;
         unsigned char val[12];
         size_t count = 0;
 
