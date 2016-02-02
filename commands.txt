@@ -47,6 +47,10 @@ aws
     aws --profile hbs-stage s3 rm s3://hbs-stage/uploads/background_image/image/2/background2.JPG
     aws s3 cp "7th Avenue Donuts and Diner" 's3://storage.tastesavant.com/restaurants/7th Avenue Donuts and Diner' --recursive
 
+bc
+  echo 'ibase=2;obase=A;10000001' | bc
+  echo 'ibase=16;obase=A;FF' | bc
+
 brew
   brew info elasticsearch
   brew switch elasticsearch 1.7.3
