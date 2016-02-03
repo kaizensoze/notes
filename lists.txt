@@ -1,3 +1,5 @@
+create page showing starred repos using github app and javascript browser api client
+github.com/search
 https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 https://github.com/samvermette/SVPullToRefresh
 
 movies

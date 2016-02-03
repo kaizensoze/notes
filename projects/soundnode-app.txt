@@ -4,6 +4,7 @@ setup
   npm install -g webpack
   download nwjs.app and place in /Applications
   cp assets/codecs-libs/ffmpegsumo.so "/Applications/nwjs.app/Contents/Frameworks/nwjs Framework.framework/Libraries/"
+  cp assets/codecs-libs/libffmpegsumo.so "/Applications/nwjs.app/Contents/Frameworks/nwjs Framework.framework/Libraries/"
   npm install
   grunt build
 
