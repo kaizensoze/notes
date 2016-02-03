@@ -1,5 +1,0 @@
-github/hub
-  GITHUB_HOST=gist.github.com git fork
-  being able to fork a gist repo
-  being able to browse a fork
-  doing a fork doesn't use https url despite protocol: https in config
