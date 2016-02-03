@@ -1,6 +1,21 @@
 
 
+late at night
+  check location image PR
+  check listing image PR
+  merge both and push to prod
+  test 1.4.2 app
+  test site
+  see if necessary for interim fix for api to return higher quality images for the thumbnails until 1.4.3 app released
 
+curl -i \
+	-X PUT \
+	-H "Content-Type: application/vnd.api+json" \
+	-H "API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222" \
+	-d "{\"data\":{\"type\":\"agents\",\"id\":\"15842\",\"attributes\":{\"first_name\":\"ABA\"}}}" \
+  "https://nooklyn.com/api/v1/agents/15842"
+
+curl -H "API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222" "https://nooklyn.com/api/v1/agents/15842" | jsonformat
 
 location
   xxlarge: "2500x2500#",
