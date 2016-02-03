@@ -1,5 +1,4 @@
-https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 jquery/sizzle
-c++ book
+https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 https://github.com/samvermette/SVPullToRefresh
 
 movies
   Lo and Behold, Reveries of the Connected World
