@@ -1,0 +1,16 @@
+setup
+  git clone https://github.com/Soundnode/soundnode-app.git && cd soundnode-app
+  npm install -g grunt-cli
+  npm install -g webpack
+  download nwjs.app and place in /Applications
+  cp assets/codecs-libs/ffmpegsumo.so "/Applications/nwjs.app/Contents/Frameworks/nwjs Framework.framework/Libraries/"
+  npm install
+  grunt build
+
+run
+  nw app
+
+issues
+  constantly showing this on fresh start
+    [12864:0202/231637:INFO:CONSOLE(29)] ""verification called"", source: file:///Users/joegallo/dev/soundnode-app/app/public/js/system/authentication.js (29)
+    [12864:0202/231638:INFO:CONSOLE(21)] "", source: file:///Users/joegallo/dev/soundnode-app/app/public/js/system/authentication.js (21)

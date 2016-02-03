@@ -1,11 +1,3 @@
-Hi,
-
-I'm compiling a list of remote contractor friendly companies over at https://github.com/kaizensoze/remote-freelance-jobs and was wondering if you're open to remote developers.
-
-Best,
-Joe
-
-
 awkwardly_nonchalant
 sexily_flatulent
 erotically_flatulent
@@ -374,3 +366,5 @@ throughout history of Afghanistan, tribal policy went from egalitarian to hierar
 main practitioners of sharia were mullahs
 to become a mullah you studied for up to 12 years in a madrassa
 in Pashto, these students were called taliban
+
+1 hex character = 0.5 byte
