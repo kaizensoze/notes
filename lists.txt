@@ -1,4 +1,4 @@
-pay rent
+osquery:fan-speeds
 create page showing starred repos using github app and javascript browser api client
 https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 samvermette/SVPullToRefresh
 

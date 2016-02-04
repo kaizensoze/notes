@@ -23,13 +23,11 @@ Cloud Atlas, David Mitchell
 Collapse, Jared Diamond
 Conscious Capitalism, John Mackey
 Contact, Carl Sagan
-Corporate Warriors, P.W. Singer
 Cosmos, Carl Sagan
 Dad Is Fat, Jim Gaffigan
 De humani corporis fabrica, Andreas Vesalius
 Dhalgren, Samuel R. Delany
 Discworld, Terry Pratchett
-Do No Harm, Henry Marsh
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
 Enemies: A History of the FBI, Tim Weiner
@@ -108,7 +106,6 @@ The Courage to Act: A Memoir of a Crisis and Its Aftermath, Ben Bernanke
 The Dark Tower, Stephen King
 The Death of Common Sense, Philip K. Howard
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
-The Department of Mad Scientists, Michael Belfiore
 The Devil in the White City, Erik Larson
 The Dispossessed, Ursula K. Le Guin
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
@@ -149,7 +146,6 @@ The Promise of a Pencil, Adam Braun
 The Psychopath Test: A Journey Through the Madness Industry, Jon Ronson
 The Puzzle Palace, James Bamford
 The Racketeer, John Grisham
-The Rational Optimist: How Prosperity Evolves, Matt Ridley
 The Rent Is Too Damn High, Matthew Yglesias
 The Restaurant at the End of the Universe, Douglas Adams
 The Rise and Fall of American Growth, Robert Gordon

@@ -1,14 +1,6 @@
-15:30 - 18:00
 
 
-curl -i \
-	-X PUT \
-	-H "Content-Type: application/vnd.api+json" \
-	-H "API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222" \
-	-d "{\"data\":{\"type\":\"agents\",\"id\":\"15842\",\"attributes\":{\"first_name\":\"ABA\"}}}" \
-  "http://localhost:3000/api/v1/agents/15842"
 
-curl -H "API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222" "http://localhost:3000/api/v1/agents/15842" | jsonformat
 
 location
   xxlarge: "2500x2500#",
@@ -62,6 +54,15 @@ API
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'http://localhost:3000/api/v1/hearts?listing-id=3456'
     curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'http://localhost:3000/api/v1/agents/15842/mate-posts'
     curl -X DELETE -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'http://localhost:3000/api/v1/hearts/3456'
+
+    curl -i \
+    	-X PUT \
+    	-H "Content-Type: application/vnd.api+json" \
+    	-H "API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222" \
+    	-d "{\"data\":{\"type\":\"agents\",\"id\":\"15842\",\"attributes\":{\"first-name\":\"ABA\"}}}" \
+      "http://localhost:3000/api/v1/agents/15842"
+
+    curl -H "API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222" "http://localhost:3000/api/v1/agents/15842" | jsonformat
 
 // TODO: remove
 let realm = try! Realm()
