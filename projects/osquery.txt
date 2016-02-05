@@ -16,11 +16,10 @@ run
 logging
   LOG(INFO) << temp_key.c_str();
 
-checks
-  select * from smc_keys where type = 'sp78' order by key;
-
 convenience methods
   find: (.+?)\s+:\s(.*)$
   replace: keyToName["$2"] = "$1";
 
-(Int(bytes.0) << 6) + (Int(bytes.1) >> 2)
+checks
+  select * from smc_keys where type = 'fpe2';
+  ./smc -l | grep 'fpe2'
