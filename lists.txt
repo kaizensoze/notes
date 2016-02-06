@@ -1,5 +1,9 @@
-github-explore: create page showing starred repos using github app and javascript browser api client
+house
+github-explore
+node-github
 https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 samvermette/SVPullToRefresh
+
+send updated tax info to accountant
 
 movies
   Lo and Behold, Reveries of the Connected World
@@ -16,6 +20,7 @@ movies
 tv
   House MD
   Parks and Recreation
+  Full Frontal S01E01
   Portlandia S06E02
   Love
   Girls S05E01
