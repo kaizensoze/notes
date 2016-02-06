@@ -1,2 +1,11 @@
+generate list of pop repo urls with star count
+generate list of pop repo urls with already starred removed
+add x button next to each repo list item
+add starred repos to starred table
+add popular repos to popular table
+create ignored table
+hit x button does post to add ignored
+filter ignored out of listed pop repos
+
 Client ID: 4c90f2571fe8c474c6d9
 Client Secret: c1bf71853f73c71d749ba35a3d5098844fa38583
