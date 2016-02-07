@@ -1,7 +1,5 @@
-github-explore
-node-github
+github starred
 house
-https://gist.github.com/kaizensoze/00ccfb395ec8410daec2 samvermette/SVPullToRefresh
 
 send updated tax info to accountant
 
@@ -46,14 +44,13 @@ books
   Voltaire's Bastards, John Ralston Saul
 
 projects
+  node-github
+  elixir
+  redox
+  nomad cli
+  bran scans
   knifereps
     https://www.youtube.com//v/XY2eW2cXcNg?start=150&end=153
-  vineseek
-  chip's challenge
-  to whom it may concern app
-  google street view driving simulator
-  metabolomics project
-  over the wire
 
 overthewire
   http://natas12.natas.labs.overthewire.org

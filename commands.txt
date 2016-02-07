@@ -92,6 +92,9 @@ git
       fetch = +refs/heads/*:refs/remotes/upstream/*
       fetch = +refs/pull/*/head:refs/remotes/upstream/pr/*   <--
 
+github
+  curl -u kaizensoze:e117f33cfccd8e127040d6e3675db3c64325233c https://api.github.com/rate_limit
+
 heroku
   heroku pg:psql
   heroku pg:backups
