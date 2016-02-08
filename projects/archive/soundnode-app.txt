@@ -15,3 +15,5 @@ issues
   constantly showing this on fresh start
     [12864:0202/231637:INFO:CONSOLE(29)] ""verification called"", source: file:///Users/joegallo/dev/soundnode-app/app/public/js/system/authentication.js (29)
     [12864:0202/231638:INFO:CONSOLE(21)] "", source: file:///Users/joegallo/dev/soundnode-app/app/public/js/system/authentication.js (21)
+
+repo: Soundnode/soundnode-app

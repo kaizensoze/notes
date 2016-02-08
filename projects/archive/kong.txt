@@ -1,0 +1,7 @@
+git clone https://github.com/Mashape/kong && kong
+git co next
+brew install lua
+make install
+
+
+repo: Mashape/kong

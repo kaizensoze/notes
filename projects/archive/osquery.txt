@@ -23,3 +23,5 @@ convenience methods
 checks
   select * from smc_keys where type = 'fpe2';
   ./smc -l | grep 'fpe2'
+
+repo: facebook/osquery

@@ -5,3 +5,5 @@ http://whatsinproducts.com/brands (brands)
 	.ltr_srch_hldr (brand pages)
 		.rslt_prd_hldr table tr (each item)  [GRAB ITEM NAME]
 			.rslt_prd_hldr table tr (each ingredient) [GRAB INGREDIENT NAME FOR ITEM]
+
+repo: kaizensoze/allergy-discover

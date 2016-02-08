@@ -1,0 +1,11 @@
+git clone https://github.com/phoenixframework/phoenix.git && phoenix
+[npm install]
+cd installer
+mix phoenix.new my_project --dev
+cd my_project
+atom .
+edit config/dev.exs (change database settings)
+mix ecto.create
+mix phoenix.server OR iex -S mix phoenix.server (interactive)
+
+repo: phoenixframework/phoenix

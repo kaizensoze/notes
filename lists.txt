@@ -1,7 +1,4 @@
-house
-look into elixir
-bookmark github repos
-
+tissues, paper towels
 send updated tax info to accountant
 
 movies
@@ -28,12 +25,14 @@ tv
   Game of Thrones S06E01
 
 projects
-  elixir
-  redox
-  bran scans
+  beetbox/beets
+  mailpile/Mailpile
+  aws/aws-cli
+  redox-os/redox
   nomad cli
-  knifereps
-    https://www.youtube.com//v/XY2eW2cXcNg?start=150&end=153
+  bran scans
+  ebook exchange
+  building intercom?
 
 books
   A Confederacy of Dunces, John Kennedy Toole

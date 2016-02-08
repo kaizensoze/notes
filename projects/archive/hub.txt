@@ -3,3 +3,5 @@ install from source
 
 run tests
   make test-all
+
+repo: github/hub

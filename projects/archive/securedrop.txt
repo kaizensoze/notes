@@ -12,3 +12,5 @@ vagrant ssh
 ./manage.py add_admin
 
 db file location: /var/lib/securedrop
+
+repo: freedomofpress/securedrop

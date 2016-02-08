@@ -89,3 +89,5 @@ sliding tile
 ??
 	thief
 	trap
+
+repo: kaizensoze/chip
