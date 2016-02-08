@@ -1,5 +1,6 @@
-bookmark github repos
 house
+look into elixir
+bookmark github repos
 
 send updated tax info to accountant
 
@@ -26,6 +27,14 @@ tv
   Archer S07E01
   Game of Thrones S06E01
 
+projects
+  elixir
+  redox
+  bran scans
+  nomad cli
+  knifereps
+    https://www.youtube.com//v/XY2eW2cXcNg?start=150&end=153
+
 books
   A Confederacy of Dunces, John Kennedy Toole
   All's Quiet on the Western Front, Erich Maria Remarque
@@ -42,15 +51,6 @@ books
   The Shadow Factory, James Bamford
   The Unwinding, George Packer
   Voltaire's Bastards, John Ralston Saul
-
-projects
-  node-github
-  elixir
-  redox
-  nomad cli
-  bran scans
-  knifereps
-    https://www.youtube.com//v/XY2eW2cXcNg?start=150&end=153
 
 overthewire
   http://natas12.natas.labs.overthewire.org
