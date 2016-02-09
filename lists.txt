@@ -1,4 +1,12 @@
 
+house
+carmack live coding session
+shower
+check config
+  https://github.com/stevemao/diff-so-fancy
+  https://github.com/paulirish/dotfiles
+  https://github.com/mathiasbynens/dotfiles
+find new project
 
 movies
   Lo and Behold, Reveries of the Connected World
@@ -16,7 +24,7 @@ tv
   House MD
   Parks and Recreation
   Full Frontal S01E01
-  Portlandia S06E02
+  Walking Dead S06E09
   Love
   Girls S05E01
   House of Cards S04E01
@@ -30,6 +38,7 @@ projects
   nomad cli
   bran scans
   ebook exchange
+  racket
   building intercom?
 
 books
