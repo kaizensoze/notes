@@ -8,3 +8,4 @@ nomad hotel <location> <check_in_date> <check_out_date>
 look into apis
 
 consider using nicolargo/glances
+also look into what nomad/Cupertino does

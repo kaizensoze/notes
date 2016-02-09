@@ -1,0 +1,30 @@
+git clone https://github.com/beetbox/beets.git && beets
+atom .
+python setup.py develop
+
+mkdir ~/dev/beets-stuff ~/dev/beets-stuff/music
+beet config -p
+beet config -e
+  directory: ~/dev/beets-stuff/music
+  library: ~/dev/beets-stuff/musiclibrary.blb
+  plugins: fetchart
+
+beet import /path/to/my/music     (fast)
+beet import -A /path/to/my/music  (slow)
+
+beet fetchart
+
+beet ls bird
+beet ls album:bird (beet ls -a bird)
+
+beet stats
+
+nosetests
+python setup.py test
+tox
+tox -e py27
+
+sources
+  https://beets.readthedocs.org/en/latest/faq.html#run-the-latest-source-version-of-beets
+  https://beets.readthedocs.org/en/v1.3.17/guides/advanced.html
+  https://beets.readthedocs.org/en/v1.3.17/plugins/index.html

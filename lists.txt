@@ -1,5 +1,4 @@
-tissues, paper towels
-send updated tax info to accountant
+
 
 movies
   Lo and Behold, Reveries of the Connected World
@@ -25,9 +24,8 @@ tv
   Game of Thrones S06E01
 
 projects
-  beetbox/beets
-  mailpile/Mailpile
   aws/aws-cli
+  mailpile/Mailpile
   redox-os/redox
   nomad cli
   bran scans
