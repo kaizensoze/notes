@@ -1,11 +1,6 @@
+play around with sift
 
-house
-carmack live coding session
-shower
-check config
-  https://github.com/stevemao/diff-so-fancy
-  https://github.com/paulirish/dotfiles
-  https://github.com/mathiasbynens/dotfiles
+aws-cli
 find new project
 
 movies
@@ -37,6 +32,7 @@ projects
   redox-os/redox
   nomad cli
   bran scans
+  implement the killer home ai ideas
   ebook exchange
   racket
   building intercom?
