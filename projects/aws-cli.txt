@@ -1,8 +1,6 @@
-git clone https://github.com/jmespath/jmespath.py.git && jmespath
-pip install -e . && cd ..
-
-git clone https://github.com/boto/botocore.git && botocore
-pip install -e . && cd ..
-
-git clone https://github.com/aws/aws-cli.git
+git clone https://github.com/aws/aws-cli.git && aws-cli
+pip install -r requirements.txt
 pip install -e .
+
+test nosetests
+test tox

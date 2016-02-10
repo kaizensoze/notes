@@ -172,6 +172,10 @@ postgres
     psql nooklyn < ~/Downloads/nooklyn.sql
   select table_name from information_schema.columns where column_name like 'mate_post_id';
 
+pyenv
+  pyenv install -l
+  pyenv install <version>
+
 rails
   bundle install && rake db:migrate && PORT=3000 foreman start
 

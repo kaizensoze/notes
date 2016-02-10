@@ -1,5 +1,3 @@
-play around with sift
-
 aws-cli
 find new project
 
