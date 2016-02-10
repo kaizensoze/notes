@@ -18,10 +18,16 @@ logging
 
 convenience methods
   find: (.+?)\s+:\s(.*)$
-  replace: keyToName["$2"] = "$1";
+  replace: {"$2", "$1"},
 
 checks
   select * from smc_keys where type = 'fpe2';
   ./smc -l | grep 'fpe2'
 
-repo: facebook/osquery
+TODO
+  create a function that returns converted value based on smc type, value
+  Power
+  Current
+
+sp78: ((SInt16)ntohs(*(UInt16*)bytes)) / 256.0)
+sp5a: (((SInt16)ntohs(*(UInt16*)bytes)) / 1024.0)

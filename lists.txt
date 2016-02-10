@@ -1,5 +1,5 @@
-aws-cli
-find new project
+nooklyn
+scan livia's remaining w2
 
 movies
   Lo and Behold, Reveries of the Connected World
@@ -30,7 +30,7 @@ projects
   redox-os/redox
   nomad cli
   bran scans
-  implement the killer home ai ideas
+  hal's abode
   ebook exchange
   racket
   building intercom?

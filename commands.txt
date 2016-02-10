@@ -153,7 +153,7 @@ php
   add export PATH="$(brew --prefix homebrew/php/php70)/bin:$PATH" to ~/.zshrc
 
 pip
-  pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U   (upgrades all installed)
+  pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs pip install -U   (upgrades all installed)
 
 postgres
   run/stop server

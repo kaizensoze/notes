@@ -1,6 +1,7 @@
-16:00 - 17:30
+15:45 - 
 
-
+might need to manually update admin table
+might need to move global admin table variable assignment to updateAdminRow
 
 location
   xxlarge: "2500x2500#",
