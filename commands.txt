@@ -152,6 +152,9 @@ php
   brew install homebrew/php/php70-pdo-pgsql
   add export PATH="$(brew --prefix homebrew/php/php70)/bin:$PATH" to ~/.zshrc
 
+pip
+  pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U   (upgrades all installed)
+
 postgres
   run/stop server
     pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
@@ -175,6 +178,7 @@ postgres
 pyenv
   pyenv install -l
   pyenv install <version>
+  pyenv global <version> <version> ...
 
 rails
   bundle install && rake db:migrate && PORT=3000 foreman start

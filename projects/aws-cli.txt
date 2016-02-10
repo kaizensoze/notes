@@ -1,6 +1,17 @@
-git clone https://github.com/aws/aws-cli.git && aws-cli
-pip install -r requirements.txt
-pip install -e .
+setup
+  git clone https://github.com/aws/aws-cli.git && aws-cli
+  pip install -r requirements.txt
+  pip install -e .
 
-test nosetests
-test tox
+test
+  brew install pyenv
+  add `if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi` to ~/.zshrc
+  pyenv install 2.6.9
+  pyenv install 2.7.11
+  pyenv install 3.3.6
+  pyenv install 3.4.4
+  pyenv local system 2.6.9 2.7.11 3.3.6 3.4.4
+  tox
+
+TODO
+  get py34 tox environment working
