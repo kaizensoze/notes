@@ -1,4 +1,4 @@
-nooklyn
+osquery
 scan livia's remaining w2
 
 movies
@@ -25,7 +25,6 @@ tv
   Game of Thrones S06E01
 
 projects
-  aws/aws-cli
   mailpile/Mailpile
   redox-os/redox
   nomad cli
