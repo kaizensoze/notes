@@ -1,7 +1,17 @@
-15:45 - 
+15:45 - 20:15
 
-might need to manually update admin table
-might need to move global admin table variable assignment to updateAdminRow
+test listing address
+  logged in
+    listing detail via listings view
+    listing detail via nearby listings
+    listing detail via listing favorites
+  not logged in
+    listing detail via listings view
+    listing detail via nearby listings
+    listing detail via listing favorites
+
+curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'http://localhost:3000/api/v1/listings/4507' | jsonformat
+curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'http://localhost:3000/listings.json' | jsonformat
 
 location
   xxlarge: "2500x2500#",
