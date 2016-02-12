@@ -1,5 +1,14 @@
+
+tv shows
+  full frontal
+  house
 osquery
-scan livia's remaining w2
+games
+  the room
+  the witness
+read
+
+github-explore retake: use meatier?
 
 movies
   Lo and Behold, Reveries of the Connected World
@@ -132,6 +141,7 @@ challenges
 videogames
   PC
     Fallout 4
+    Firewatch
     The Town Of Light
   iOS
     The Witness
