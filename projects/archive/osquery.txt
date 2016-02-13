@@ -14,6 +14,7 @@ run
   ./build/darwin/osquery/osqueryi --verbose
 
 logging
+  #include <osquery/logger.h>
   LOG(INFO) << temp_key.c_str();
 
 convenience methods
@@ -22,12 +23,35 @@ convenience methods
 
 checks
   select * from smc_keys where type = 'fpe2';
+  select * from smc_keys where type in ('sp5a', 'sp78', 'fpe2');
   ./smc -l | grep 'fpe2'
 
 TODO
-  create a function that returns converted value based on smc type, value
   Power
   Current
 
-sp78: ((SInt16)ntohs(*(UInt16*)bytes)) / 256.0)
-sp5a: (((SInt16)ntohs(*(UInt16*)bytes)) / 1024.0)
+sp78: (val[0] * 256 + val[1]) / 256.0
+fpe2: (int(val[0]) << 6) + (int(val[1]) >> 2)
+sp5a: (val[0] * 256 + val[1]) / 1024.0
+
+(celsiusValue * (9.0 / 5.0)) + 32;
+
+select sk.value, t.* from smc_keys sk join temperatures t on (sk.key = t.key and sk.key = 'TC0E');
++-------+------+-------+---------+------------+
+| value | key  | name  | celsius | fahrenheit |
++-------+------+-------+---------+------------+
+| 3dd0  | TC0E | CPU 1 | 60.8    | 141.5      |
++-------+------+-------+---------+------------+
+
++------+------+------+-------+--------+
+| key  | type | size | value | hidden |
++------+------+------+-------+--------+
+| TC0E | sp78 | 2    | 4378  | 0      |
++------+------+------+-------+--------+
+
+select sk.*, v.* from smc_keys sk join voltages v on (sk.key = v.key and sk.key = 'VC0C');
++------+------+------+-------+--------+------+------------+-------+
+| key  | type | size | value | hidden | key  | name       | value |
++------+------+------+-------+--------+------+------------+-------+
+| VC0C | sp5a | 2    | 0.84  | 0      | VC0C | CPU Core 1 | 0.84  |
++------+------+------+-------+--------+------+------------+-------+

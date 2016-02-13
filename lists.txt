@@ -1,14 +1,4 @@
 
-tv shows
-  full frontal
-  house
-osquery
-games
-  the room
-  the witness
-read
-
-github-explore retake: use meatier?
 
 movies
   Lo and Behold, Reveries of the Connected World
@@ -23,17 +13,19 @@ movies
   Swiss Army Man
 
 tv
-  House MD
-  Parks and Recreation
-  Full Frontal S01E01
+  Parks and Recreation S03E04
   Walking Dead S06E09
+  Full Frontal S01E02
   Love
   Girls S05E01
   House of Cards S04E01
   Archer S07E01
   Game of Thrones S06E01
+  Silicon Valley S03E01
 
 projects
+  osquery
+  github-explore
   mailpile/Mailpile
   redox-os/redox
   nomad cli
