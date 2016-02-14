@@ -1,3 +1,5 @@
+look into simple mean app
+
 movies
   Lo and Behold, Reveries of the Connected World
   Modern Romance
@@ -23,13 +25,11 @@ tv
 
 projects
   osquery
-  github-explore
   mailpile/Mailpile
   redox-os/redox
   nomad cli
   bran scans
   hal's abode
-  ebook exchange
   racket
   building intercom?
 

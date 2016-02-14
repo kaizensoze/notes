@@ -1,0 +1,2 @@
+have a torrent-like app where each person places their top 10 ebooks
+matches users against their top ten lists
