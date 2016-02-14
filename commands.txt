@@ -211,6 +211,9 @@ sort
   sort -f (ignore case)
 
 sqlite
+  .tables
+  .schema <table>
+  .quit
   PRAGMA table_info(table_name);
 
 ssh
