@@ -1,0 +1,6 @@
+setup
+  pip install https://github.com/mitsuhiko/flask/tarball/master
+  flask --app=app initdb
+  flask --app=app run
+
+9d5598b511d38c890e04a2040305e4e6535e2826

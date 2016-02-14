@@ -1,8 +1,0 @@
-add x button next to each li
-hitting x does a post with given repo id
-
-Client ID: 4c90f2571fe8c474c6d9
-Client Secret: c1bf71853f73c71d749ba35a3d5098844fa38583
-
-
-repo: kaizensoze/github-explore
