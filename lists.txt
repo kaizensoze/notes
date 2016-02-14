@@ -15,12 +15,13 @@ tv
   Parks and Recreation S04E14
   Walking Dead S06E09
   Full Frontal S01E02
-  Love
-  Girls S05E01
-  House of Cards S04E01
-  Archer S07E01
-  Game of Thrones S06E01
-  Silicon Valley S03E01
+  The West Wing
+  Love (02/19)
+  Girls S05E01 (02/21)
+  House of Cards S04E01 (03/04)
+  Archer S07E01 (03/31)
+  Game of Thrones S06E01 (04/24)
+  Silicon Valley S03E01 (04/24)
 
 projects
   osquery
