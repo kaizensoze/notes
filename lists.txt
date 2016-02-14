@@ -1,4 +1,3 @@
-look into simple mean app
 
 movies
   Lo and Behold, Reveries of the Connected World
@@ -25,13 +24,11 @@ tv
 
 projects
   osquery
-  mailpile/Mailpile
-  redox-os/redox
+  brain scans
   nomad cli
-  bran scans
   hal's abode
   racket
-  building intercom?
+  research projects?
 
 books
   A Confederacy of Dunces, John Kennedy Toole
