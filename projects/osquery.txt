@@ -39,3 +39,5 @@ select sk.value A, t.* from smc_keys sk join temperatures t on (sk.key = t.key a
 +-------+------+-------+---------+------------+
 | 3dd0  | TC0E | CPU 1 | 60.8    | 141.5      |
 +-------+------+-------+---------+------------+
+
+SENSDIR=/sys/class/hwmon

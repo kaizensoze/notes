@@ -1,10 +1,19 @@
 
+
+projects
+  osquery
+  physical anywhere
+  brain scans
+  nomad cli
+  hal's abode
+  racket
+  research projects?
+
 movies
-  Lo and Behold, Reveries of the Connected World
-  Modern Romance
   Son of Saul
   Manchester by the Sea
   Deadpool
+  Lo and Behold, Reveries of the Connected World
   Shut In
   The Witch
   The Brothers Grimsby
@@ -12,24 +21,17 @@ movies
   Swiss Army Man
 
 tv
-  Parks and Recreation S04E14
-  Walking Dead S06E09
-  Full Frontal S01E02
+  Parks and Recreation S05E11
   The West Wing
   Love (02/19)
   Girls S05E01 (02/21)
+  Walking Dead S06E10 (02/21)
+  Better Call Saul S02E02 (02/22)
+  Full Frontal S01E02 (02/22)
   House of Cards S04E01 (03/04)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
-
-projects
-  osquery
-  brain scans
-  nomad cli
-  hal's abode
-  racket
-  research projects?
 
 books
   A Confederacy of Dunces, John Kennedy Toole

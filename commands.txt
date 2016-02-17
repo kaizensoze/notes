@@ -146,6 +146,7 @@ npm
 
 osx
   sudo dscacheutil -flushcache
+  sysctl -a hw
 
 php
   brew install homebrew/php/php70
