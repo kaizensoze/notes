@@ -33,6 +33,14 @@ tv
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
 
+videogames
+  PC
+    Fallout 4
+    Firewatch
+    The Town Of Light
+  iOS
+    The Witness
+
 books
   A Confederacy of Dunces, John Kennedy Toole
   All's Quiet on the Western Front, Erich Maria Remarque
@@ -49,11 +57,6 @@ books
   The Shadow Factory, James Bamford
   The Unwinding, George Packer
   Voltaire's Bastards, John Ralston Saul
-
-overthewire
-  http://natas12.natas.labs.overthewire.org
-  EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
-  /etc/natas_webpass/natas13
 
 places
   bakery
@@ -81,11 +84,10 @@ places
     The West
     The Mill Coffee Company
 
-cars
-  ford fiesta
-  honda fit
-  nissan leaf
-  nissan versa [note]
+overthewire
+  http://natas12.natas.labs.overthewire.org
+  EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
+  /etc/natas_webpass/natas13
 
 conferences
   (01/16) shmoocon
@@ -100,16 +102,13 @@ conferences
   (08/13) ccc-camp
   (09/22) appsec
 
-estimated tax deadlines
-  Q1 April 15, 2014
-  Q2 June 16, 2014
-  Q3 September 15, 2014
-  Q4 January 15, 2015
-
-health insurance
-  chamber of commerce
-  Freelancers Union
-  Healthcare.gov
+challenges
+	Hack This Site (programming problems)
+	Project Euler
+	ITA Software's puzzle page
+	DropBox Challenge
+	Facebook Engineering Puzzles
+	Top Coder
 
 techorgs
 	hackNY
@@ -120,22 +119,6 @@ techorgs
 	alpha one labs
 	nycresistor
 
-challenges
-	Hack This Site (programming problems)
-	Project Euler
-	ITA Software's puzzle page
-	DropBox Challenge
-	Facebook Engineering Puzzles
-	Top Coder
-
-videogames
-  PC
-    Fallout 4
-    Firewatch
-    The Town Of Light
-  iOS
-    The Witness
-
 wine
   bordeaux
     Chateau Les-Charmes Godard 2012
@@ -144,5 +127,22 @@ wine
     Ch. D'Agassac 2011
     Clarendelle Rouge 2010
 
+cars
+  ford fiesta
+  honda fit
+  nissan leaf
+  nissan versa [note]
+
 comics
   Walking Dead: 150
+
+health insurance
+  chamber of commerce
+  Freelancers Union
+  Healthcare.gov
+
+estimated tax deadlines
+  Q1 April 15, 2014
+  Q2 June 16, 2014
+  Q3 September 15, 2014
+  Q4 January 15, 2015
