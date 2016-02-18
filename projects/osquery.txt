@@ -27,7 +27,9 @@ checks
   ./smc -l | grep 'fpe2'
 
 TODO
-  Power
+  add fan_speeds test
+  add fan id column
+  look into any missing columns to add for existing sensor tables
 
 sp78: (val[0] * 256 + val[1]) / 256.0
 fpe2: (int(val[0]) << 6) + (int(val[1]) >> 2)

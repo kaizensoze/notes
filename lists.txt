@@ -1,9 +1,11 @@
 
 
 projects
-  osquery
   physical anywhere
+  osquery
   brain scans
+  Leap Motion: Orion
+  oculus
   nomad cli
   hal's abode
   racket
@@ -21,7 +23,8 @@ movies
   Swiss Army Man
 
 tv
-  Parks and Recreation S05E11
+  Parks and Recreation S05E12
+  Bob's Burgers S04E01
   The West Wing
   Love (02/19)
   Girls S05E01 (02/21)
