@@ -1,0 +1,15 @@
+setup
+  edit src/Processing.js
+  grunt
+  npm start
+
+test
+  node server
+  (open new tab)
+  node test
+
+failed tests when running tests with fresh checkout
+Tests Completed - 33 failed, 41 known failures, 344 passed, 418 total.
+additional test fails after changes: mega-rect.pde
+
+// var curScale = curContext.mozCurrentTransform[0];
