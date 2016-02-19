@@ -1,12 +1,19 @@
 
 
 projects
-  physical anywhere
+  processingjs https://github.com/processing-js/processing-js/issues/228
+  physical-web
   osquery
+  atom/electron
+  homebrew
+  falcon
+  mailpile
+  nomad cli
+  kali linux
+  linux kernel
   brain scans
   Leap Motion: Orion
   oculus
-  nomad cli
   hal's abode
   racket
   research projects?
@@ -14,7 +21,6 @@ projects
 movies
   Son of Saul
   Manchester by the Sea
-  Deadpool
   Lo and Behold, Reveries of the Connected World
   Shut In
   The Witch
@@ -23,8 +29,8 @@ movies
   Swiss Army Man
 
 tv
-  Parks and Recreation S05E12
-  Bob's Burgers S04E01
+  Parks and Recreation S05E13
+  Bob's Burgers S04E02
   The West Wing
   Love (02/19)
   Girls S05E01 (02/21)

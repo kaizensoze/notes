@@ -1,3 +1,4 @@
+
 build from source
   git clone https://github.com/facebook/osquery.git
   cd osquery
@@ -41,5 +42,7 @@ select sk.value A, t.* from smc_keys sk join temperatures t on (sk.key = t.key a
 +-------+------+-------+---------+------------+
 | 3dd0  | TC0E | CPU 1 | 60.8    | 141.5      |
 +-------+------+-------+---------+------------+
+
+select distinct type, count(type) ct from smc_keys group by type order by ct desc;
 
 SENSDIR=/sys/class/hwmon
