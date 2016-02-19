@@ -1,19 +1,26 @@
 
 
 projects
-  mailpile
-  physical-web
-  atom/electron
-  falcon
-  kali linux
-  linux kernel
   brain scans
   nomad cli
+  oculus rift
   Leap Motion: Orion
-  oculus
   hal's abode
-  racket
-  research projects?
+  kali linux
+  linux kernel
+
+tv
+  Bob's Burgers S04E02
+  Parks and Recreation S05E13
+  The West Wing
+  Girls S05E01 (02/21)
+  Walking Dead S06E10 (02/21)
+  Better Call Saul S02E02 (02/22)
+  Full Frontal S01E02 (02/22)
+  House of Cards S04E01 (03/04)
+  Archer S07E01 (03/31)
+  Game of Thrones S06E01 (04/24)
+  Silicon Valley S03E01 (04/24)
 
 movies
   Son of Saul
@@ -25,20 +32,6 @@ movies
   Swiss Army Man
   Shut In
   Suicide Squad
-
-tv
-  Bob's Burgers S04E02
-  Parks and Recreation S05E13
-  The West Wing
-  Love (02/19)
-  Girls S05E01 (02/21)
-  Walking Dead S06E10 (02/21)
-  Better Call Saul S02E02 (02/22)
-  Full Frontal S01E02 (02/22)
-  House of Cards S04E01 (03/04)
-  Archer S07E01 (03/31)
-  Game of Thrones S06E01 (04/24)
-  Silicon Valley S03E01 (04/24)
 
 videogames
   PC
