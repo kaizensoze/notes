@@ -1,17 +1,14 @@
 
 
 projects
-  processingjs https://github.com/processing-js/processing-js/issues/228
-  physical-web
-  osquery
-  atom/electron
-  homebrew
-  falcon
   mailpile
-  nomad cli
+  physical-web
+  atom/electron
+  falcon
   kali linux
   linux kernel
   brain scans
+  nomad cli
   Leap Motion: Orion
   oculus
   hal's abode
@@ -21,16 +18,17 @@ projects
 movies
   Son of Saul
   Manchester by the Sea
-  Lo and Behold, Reveries of the Connected World
-  Shut In
   The Witch
   The Brothers Grimsby
   10 Cloverfield Lane
+  Lo and Behold, Reveries of the Connected World
   Swiss Army Man
+  Shut In
+  Suicide Squad
 
 tv
-  Parks and Recreation S05E13
   Bob's Burgers S04E02
+  Parks and Recreation S05E13
   The West Wing
   Love (02/19)
   Girls S05E01 (02/21)
