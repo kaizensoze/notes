@@ -10,8 +10,8 @@ projects
   linux kernel
 
 tv
+  Parks and Recreation S07E01
   Bob's Burgers S04E02
-  Parks and Recreation S05E13
   The West Wing
   Girls S05E01 (02/21)
   Walking Dead S06E10 (02/21)
@@ -57,6 +57,11 @@ books
   The Shadow Factory, James Bamford
   The Unwinding, George Packer
   Voltaire's Bastards, John Ralston Saul
+
+guitar pickups
+  single coil (active vs. passive)
+  P90 (wide single coil)
+  humbucker
 
 places
   bakery
