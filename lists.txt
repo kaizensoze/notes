@@ -1,4 +1,7 @@
-
+fogleman/ln
+pixi.js
+webtorrent
+falcon test
 
 projects
   brain scans
@@ -58,10 +61,21 @@ books
   The Unwinding, George Packer
   Voltaire's Bastards, John Ralston Saul
 
-guitar pickups
-  single coil (active vs. passive)
-  P90 (wide single coil)
-  humbucker
+guitar
+  tones
+    Eidolon - Hunt You Down
+    Paul Gilbert (Racer X)
+    Megadeth
+    Iron Maiden
+    Dream Theater - Pull me Under
+    Judas Priest - Painkiller
+    Dethklok
+
+  wishlist
+    TC Electronic Ditto Looper
+
+  wood
+    alder preferred?
 
 places
   bakery

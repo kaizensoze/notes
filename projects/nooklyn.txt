@@ -1,5 +1,6 @@
-18:45 - 21:15 = 2.5
 
+
+remove self from errors mailing list
 remove self from nooklyn about page
 update linkedin
 
