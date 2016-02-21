@@ -74,8 +74,9 @@ guitar
   wishlist
     TC Electronic Ditto Looper
 
-  wood
-    alder preferred?
+  wood (order of preference)
+    ash
+    alder
 
 places
   bakery
