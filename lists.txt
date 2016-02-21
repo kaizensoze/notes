@@ -1,3 +1,5 @@
+plugging guitar into computer
+
 fogleman/ln
 pixi.js
 webtorrent
@@ -62,21 +64,37 @@ books
   Voltaire's Bastards, John Ralston Saul
 
 guitar
-  tones
-    Eidolon - Hunt You Down
-    Paul Gilbert (Racer X)
-    Megadeth
-    Iron Maiden
-    Dream Theater - Pull me Under
-    Judas Priest - Painkiller
-    Dethklok
+  brand
+    fender
+    carvin
+    charvel
 
-  wishlist
+  practice amp
+    Blackstar ID:Core 20
+    Blackstar ID:Core 10
+    Roland Cube 10GX
+    Roland Micro Cube GX
+    Fender Mustang I V2
+    Line 6 Spider IV 15
+    Marshall MG15CFX
+    Peavey Vypyr VIP 1
+
+  pedals
     TC Electronic Ditto Looper
+    Boss DS-1
+    mi audio blues pro
+    fulltone ocd
+    klon centaur gold
+    skreddy screw driver
 
-  wood (order of preference)
-    ash
-    alder
+  wood: alder
+
+  tremolo
+    original floyd
+    edge pro
+    zr
+
+  go with floy rose locking nut over kahler
 
 places
   bakery
