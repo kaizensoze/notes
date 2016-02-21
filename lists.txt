@@ -1,5 +1,3 @@
-plugging guitar into computer
-
 fogleman/ln
 pixi.js
 webtorrent
@@ -70,14 +68,9 @@ guitar
     charvel
 
   practice amp
-    Blackstar ID:Core 20
     Blackstar ID:Core 10
     Roland Cube 10GX
-    Roland Micro Cube GX
     Fender Mustang I V2
-    Line 6 Spider IV 15
-    Marshall MG15CFX
-    Peavey Vypyr VIP 1
 
   pedals
     TC Electronic Ditto Looper
