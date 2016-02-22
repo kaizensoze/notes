@@ -1,7 +1,14 @@
-fogleman/ln
-pixi.js
-webtorrent
-falcon test
+shower
+read
+github
+  fogleman/ln
+  pixi.js
+  webtorrent
+  falcon test
+
+schedule haircut
+library
+laundry
 
 projects
   brain scans
@@ -13,7 +20,6 @@ projects
   linux kernel
 
 tv
-  Parks and Recreation S07E01
   Bob's Burgers S04E02
   The West Wing
   Girls S05E01 (02/21)
