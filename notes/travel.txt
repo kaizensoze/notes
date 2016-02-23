@@ -72,6 +72,19 @@ LEFTOVER
   Quebec City
   Ottawa
 
+long island tour
+  sayville
+  sag harbor
+  port jefferson
+  port washington
+  huntington
+  freeport
+  greenport
+  great neck
+  northport
+  babylon village
+  riverhead
+
 ABROAD
   Paris
   Berlin

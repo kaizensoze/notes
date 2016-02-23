@@ -1,14 +1,11 @@
-shower
 read
+nooklyn
+
 github
   fogleman/ln
   pixi.js
   webtorrent
   falcon test
-
-schedule haircut
-library
-laundry
 
 projects
   brain scans
@@ -18,18 +15,19 @@ projects
   hal's abode
   kali linux
   linux kernel
+  swift NSCoding util
 
 tv
-  Bob's Burgers S04E02
-  The West Wing
-  Girls S05E01 (02/21)
-  Walking Dead S06E10 (02/21)
   Better Call Saul S02E02 (02/22)
   Full Frontal S01E02 (02/22)
+  Walking Dead S06E11 (02/28)
+  Girls S05E02 (02/28)
   House of Cards S04E01 (03/04)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
+  Bob's Burgers S04E03
+  The West Wing
 
 movies
   Son of Saul
@@ -75,8 +73,8 @@ guitar
 
   practice amp
     Blackstar ID:Core 10
-    Roland Cube 10GX
     Fender Mustang I V2
+    Roland Cube 10GX
 
   pedals
     TC Electronic Ditto Looper
