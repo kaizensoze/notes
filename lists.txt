@@ -1,7 +1,6 @@
-nooklyn
-china book
-guitar
+paint strat
 x-files
+china book
 
 github
   fogleman/ln

@@ -1,7 +1,6 @@
 
 
 remove self from errors mailing list
-remove self from nooklyn about page
 
 curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'http://localhost:3000/api/v1/listings/4507' | jsonformat
 curl -H 'API-TOKEN: 3a197ffc2f9e4bdca6f9249fbe6af222' 'http://localhost:3000/listings.json' | jsonformat
