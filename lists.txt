@@ -1,6 +1,6 @@
-paint strat
-x-files
+either remove nail polish or finish paint job
 china book
+cookie dough
 
 github
   fogleman/ln
@@ -19,10 +19,10 @@ projects
   swift NSCoding util
 
 tv
-  Full Frontal S01E03 (02/23)
   Walking Dead S06E11 (02/28)
   Girls S05E02 (02/28)
-  Better Call Saul S02E03 (02/29)
+  Better Call Saul S02E04 (02/29)
+  Full Frontal S01E03 (03/01)
   House of Cards S04E01 (03/04)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
