@@ -1,16 +1,16 @@
-either remove nail polish or finish paint job
-china book
-cookie dough
 
-github
-  fogleman/ln
-  pixi.js
-  webtorrent
-  falcon test
+carrots, orange juice
+return diy guitar to ups store
+
+china book
+finish painting guitar
+
+send nooklyn invoice
+deposit check
 
 projects
-  brain scans
   nomad cli
+  brain scans
   oculus rift
   Leap Motion: Orion
   hal's abode
@@ -27,7 +27,7 @@ tv
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
-  Bob's Burgers S04E03
+  Bob's Burgers S04E10
   The West Wing
 
 movies
@@ -73,8 +73,8 @@ guitar
     charvel
 
   practice amp
+    Blackstar Fly 3
     Blackstar ID:Core 10
-    Fender Mustang I V2
     Roland Cube 10GX
 
   pedals
@@ -84,6 +84,8 @@ guitar
     fulltone ocd
     klon centaur gold
     skreddy screw driver
+
+  hard case
 
   wood: alder
 

@@ -1,66 +1,57 @@
-create most basic digitalocean
-  $10/mo
-  ubuntu 14.04 x64
-  no extra settings checked
+cpus
+  digitalocean: Intel(R) Xeon(R) CPU E5-2650L v3 @ 1.80GHz
+  linode (kvm): Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
+  aws (t2.micro): Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz
 
-basic setup
-  sudo adduser duckspeaker
-  sudo usermod -a -G sudo duckspeaker
-  su - duckspeaker
-
-  mkdir ~/.ssh && echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCmBTzBf3R+SYbfdoU9LATLQ/pSM2VEKgOXrPcm88R6HrftyviCEz5ilJzm4Ozhh7pSiIYPh5VSAVlS/5pJxsCmokHQpnZYZrP1U47d7fqn9kU1R/aJZS8jxwz4ZPk22TH4kvYwTBtnB5rMIZYhb3PUIhHnwfknQc0mVFTNOz66y2Y9+SjixrdDcwprtTr76SnFAPqRFhxpoH50VAU5zuiP/MNAK932hSYzh65Q2lzZG32fZ8CaHILKf0uG5CLWGk3zxA0Yz+eBy7rbkCXkIsceUekvvVmmx8dc14y9hWTkp7FOTQ/xtxx6UTHaPUk7/tzEXhN5rjYgt8UYAnPdFStH' > ~/.ssh/authorized_keys
-
-  sudo vim /etc/ssh/sshd_config
-  PermitRootLogin yes -> without-password
-  service ssh restart
-
-  sudo vim /etc/iptables.firewall.rules
-    *filter
-
-    #  Allow all loopback (lo0) traffic and drop all traffic to 127/8 that doesn't use lo0
-    -A INPUT -i lo -j ACCEPT
-    -A INPUT -d 127.0.0.0/8 -j REJECT
-
-    #  Accept all established inbound connections
-    -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
-
-    #  Allow all outbound traffic - you can modify this to only allow certain traffic
-    -A OUTPUT -j ACCEPT
-
-    #  Allow HTTP and HTTPS connections from anywhere (the normal ports for websites and SSL).
-    -A INPUT -p tcp --dport 80 -j ACCEPT
-    -A INPUT -p tcp --dport 443 -j ACCEPT
-    -A INPUT -p tcp --dport 3000 -j ACCEPT
-
-    #  Allow SSH connections
-    #
-    #  The -dport number should be the same port number you set in sshd_config
-    #
-    -A INPUT -p tcp -m state --state NEW --dport 22 -j ACCEPT
-
-    #  Allow ping
-    -A INPUT -p icmp -j ACCEPT
-
-    #  Log iptables denied calls
-    -A INPUT -m limit --limit 5/min -j LOG --log-prefix "iptables denied: " --log-level 7
-
-    #  Drop all other inbound - default deny unless explicitly allowed policy
-    -A INPUT -j DROP
-    -A FORWARD -j DROP
-
-    COMMIT
-  sudo iptables-restore < /etc/iptables.firewall.rules
-
-  sudo vim /etc/network/if-pre-up.d/firewall
-    #!/bin/sh
-    /sbin/iptables-restore < /etc/iptables.firewall.rules
-  sudo chmod +x /etc/network/if-pre-up.d/firewall
-
+server setup
+  ssh root@159.203.168.26
   sudo apt-get update
   sudo apt-get upgrade -y
-  sudo apt-get install -y fail2ban siege
+  sudo apt-get install -y siege
   echo -e "logging = true\nlogfile = $HOME/siege.log" >> ~/.siegerc
   sudo reboot
+
+flask
+  sudo apt-get install -y python python-dev python-pip gunicorn
+  pip install --upgrade --force-reinstall https://github.com/mitsuhiko/flask/tarball/master
+  mkdir flask-app && cd flask-app
+  sudo vim app.py
+    from flask import Flask, jsonify
+
+    app = Flask(__name__)
+
+    @app.route('/')
+    def index():
+        return jsonify({
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit.\n\nNunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean ligula dolor, gravida auctor, auctor et, suscipit in, erat. Sed malesuada, enim ut congue pharetra, massa elit convallis pede, ornare scelerisque libero neque ut neque. In at libero. Curabitur molestie. Sed vel neque. Proin et dolor ac ipsum elementum malesuada. Praesent id orci. Donec hendrerit. In hac habitasse platea dictumst. Aenean sit amet arcu a turpis posuere pretium.",
+            "imageURL": "http://i.imgur.com/RbQUkoe.jpg"
+        })
+
+    if __name__ == '__main__':
+        app.run()
+  gunicorn app:app -b localhost:8000
+  siege -c500 -t1M "http://localhost:8000"
+  cat ~/siege.log
+
+falcon
+  pip install --upgrade cython falcon
+  mkdir falcon-app && cd falcon-app
+  sudo vim app.py
+    import falcon
+
+    class ThingsResource:
+        def on_get(self, req, resp):
+            resp.status = falcon.HTTP_200
+            resp.body = '{"text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit.\n\nNunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean ligula dolor, gravida auctor, auctor et, suscipit in, erat. Sed malesuada, enim ut congue pharetra, massa elit convallis pede, ornare scelerisque libero neque ut neque. In at libero. Curabitur molestie. Sed vel neque. Proin et dolor ac ipsum elementum malesuada. Praesent id orci. Donec hendrerit. In hac habitasse platea dictumst. Aenean sit amet arcu a turpis posuere pretium.", "imageURL": "http://i.imgur.com/RbQUkoe.jpg"}'
+
+    app = falcon.API()
+
+    things = ThingsResource()
+
+    app.add_route('/', things)
+  gunicorn things:app -b localhost:8000
+  siege -c500 -t1M "http://localhost:8000"
+  cat ~/siege.log
 
 express
   sudo apt-get install -y curl git
@@ -87,27 +78,6 @@ express
     });
   pm2 start ~/node-app/app.js
   siege -c500 -t1M "http://localhost:3000"
-
-flask
-  mkdir flask-app && cd flask-app
-  sudo apt-get install -y python python-pip gunicorn
-  sudo pip install Flask==0.10.1
-  sudo vim app.py
-    from flask import Flask, jsonify
-
-    app = Flask(__name__)
-
-    @app.route('/')
-    def index():
-        return jsonify({
-            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit.\n\nNunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean ligula dolor, gravida auctor, auctor et, suscipit in, erat. Sed malesuada, enim ut congue pharetra, massa elit convallis pede, ornare scelerisque libero neque ut neque. In at libero. Curabitur molestie. Sed vel neque. Proin et dolor ac ipsum elementum malesuada. Praesent id orci. Donec hendrerit. In hac habitasse platea dictumst. Aenean sit amet arcu a turpis posuere pretium.",
-            "imageURL": "http://i.imgur.com/RbQUkoe.jpg"
-        })
-
-    if __name__ == '__main__':
-        app.run()
-  gunicorn app:app -b localhost:8000
-  siege -c500 -t1M "http://localhost:8000"
 
 golang
   sudo apt-get install -y git build-essential bison
@@ -136,46 +106,7 @@ golang
     }
   siege -c500 -t1M "http://localhost:3000"
 
-scala (play, scalatra)
-  sudo apt-get install -y unzip
-
-  sudo add-apt-repository ppa:webupd8team/java
-  sudo apt-get update
-  java -version
-  sudo apt-get install oracle-java8-set-default
-
-  wget http://www.scala-lang.org/files/archive/scala-2.11.7.deb
-  sudo dpkg -i scala-2.11.7.deb
-
-  echo "deb http://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
-  sudo apt-get update
-  sudo apt-get install sbt
-
-  wget https://downloads.typesafe.com/typesafe-activator/1.3.6/typesafe-activator-1.3.6.zip
-  unzip typesafe-activator-1.3.6.zip
-  cd activator*
-  export PATH=/home/duckspeaker/activator-dist-1.3.6:$PATH
-  ....
-  # There is insufficient memory for the Java Runtime Environment to continue.
-
-  // switching from play to scalatra
-
-  ...
-  # There is insufficient memory for the Java Runtime Environment to continue.
-  // the hell with java...
-
-php (phalcon, laravel)
-  sudo apt-add-repository ppa:phalcon/stable
-  sudo apt-get update
-  sudo apt-get install -y php5-phalcon
-  // yeah nevermind
-
-cpus
-  digitalocean: Intel(R) Xeon(R) CPU E5-2650L v3 @ 1.80GHz
-  linode (kvm): Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz
-  aws (t2.micro): Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz
-
-results (node-test)
+results
   node-test
     digitalocean
             Date & Time,  Trans,  Elap Time,  Data Trans,  Resp Time,  Trans Rate,  Throughput,  Concurrent,    OKAY,   Failed
@@ -203,3 +134,13 @@ results (node-test)
       2015-10-15 06:39:44, 286872,      59.23,         350,       0.10,     4843.36,        5.91,      493.39,  286872,       0
       2015-10-15 06:41:33, 292825,      59.13,         357,       0.10,     4952.22,        6.04,      493.97,  292825,       0
       2015-10-15 06:43:31, 296075,      59.79,         361,       0.10,     4951.92,        6.04,      493.45,  296075,       0
+
+python test ($10 digitalocean)
+    flask
+      2016-02-25 02:42:10,   5612,      59.37,           6,       1.07,       94.53,        0.10,      101.43,    5612,      97
+      2016-02-25 02:44:02,   7643,      59.09,           9,       1.12,      129.35,        0.15,      144.45,    7643,      84
+      2016-02-25 02:51:33,   9533,      59.22,          11,       0.88,      160.98,        0.19,      141.98,    9533,      41
+    falcon
+      2016-02-25 03:25:02,  14955,      59.09,          18,       0.57,      253.09,        0.30,      145.13,   14955,      58
+      2016-02-25 03:33:02,  12636,      60.25,          15,       0.52,      209.73,        0.25,      108.36,   12636,      68
+      2016-02-25 03:36:43,  12711,      59.61,          15,       0.64,      213.24,        0.25,      135.87,   12711,      88
