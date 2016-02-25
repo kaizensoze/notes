@@ -141,6 +141,10 @@ mongodb
   db.users.find({}, {username: 1, _id: 0})
   db.users.remove({})
 
+nginx
+  sudo nginx -t
+  sudo nginx -s reload
+
 npm
   npm ls [--global] --depth=0
 

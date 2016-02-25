@@ -1,20 +1,13 @@
-carrots, orange juice
+lena dunham book
+bob's burgers
 china book
 finish painting guitar
 
 send nooklyn invoice
 return diy guitar to ups store
-deposit check
 
-projects
-  nomad cli
-  brain scans
-  oculus rift
-  Leap Motion: Orion
-  hal's abode
-  kali linux
-  linux kernel
-  swift NSCoding util
+03/01: job hunt
+order/test jetpack
 
 tv
   Walking Dead S06E11 (02/28)
@@ -38,6 +31,16 @@ movies
   Swiss Army Man
   Shut In
   Suicide Squad
+
+projects
+  nomad cli
+  brain scans
+  oculus rift
+  Leap Motion: Orion
+  hal's abode
+  kali linux
+  linux kernel
+  swift NSCoding util
 
 videogames
   PC
