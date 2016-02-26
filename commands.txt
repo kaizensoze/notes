@@ -26,9 +26,13 @@ aws
 
     // creating ec2 instance
     A)
-    groupId=`aws ec2 describe-security-groups | jq -r '.SecurityGroups[] | select(.GroupName == "launch-wizard-1") | .GroupId'`
+    groupId=`aws ec2 describe-security-groups | jq -r '.SecurityGroups[] | select(.GroupName == "launch-wizard-1") .GroupId'`
     aws ec2 run-instances --image-id ami-fce3c696 --count 1 --instance-type t2.micro --key-name joegallo --security-group-ids $groupId --subnet-id subnet-65546d3c --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":20,\"VolumeType\":\"gp2\",\"DeleteOnTermination\":true}}]"
     unset groupId
+
+    ec2Id=`aws ec2 describe-instances | jq -r '.Reservations[] | select (.Instances[].State.Name == "running") .Instances[].PublicIpAddress'`
+    echo "ubuntu@$ec2Id"
+    unset ec2Id
 
     B)
     aws ec2 create-security-group --group-name launch-wizard-2 --description "test" --vpc-id vpc-175cfb73
@@ -250,6 +254,9 @@ tcpdump
   sudo tcpdump -nnvvXSs 0
   sudo tcpdump -nn -tttt -XX -s 0 -l -i any | tee output.txt
   sudo tcpdump -nn -tttt -XX -s 0 -l -i any src 192.168.0.100 | tee output.txt
+
+transmission
+  sudo apt-get update && sudo apt-get install -y transmission-cli && transmission-cli "magnet:?xt=urn:btih:e200a1ef09771c909a2455ed35f69ea98f8c24c1&dn=The.Walking.Dead.S06E09.HDTV.x264-FUM%5Bettv%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
 
 tugboat
   tugboat authorize
