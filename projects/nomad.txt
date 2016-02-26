@@ -1,11 +1,5 @@
 a command line tool for digital nomads
 
-nomad drive <location> <pickup_date:pickup_time> <dropoff_date:dropoff_time> <car_type>
-nomad fly <from> <to> <depart_date> <return_date>
-nomad hotel <location> <check_in_date> <check_out_date>
-//nomad place <location> <check_in_date> <check_out_date>
-
-look into apis
-
-consider using nicolargo/glances
-also look into what nomad/Cupertino does
+skiplagged (fly)
+kayak (stay)
+carrentals (drive)

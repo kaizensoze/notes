@@ -1,10 +1,10 @@
-bonk
-china book
 bob's burgers
-finish painting guitar
+paint guitar
+nomad
 
 send nooklyn invoice
 return diy guitar to ups store
+deposit check
 
 03/01: job hunt
 order/test jetpack
@@ -33,7 +33,7 @@ movies
   Suicide Squad
 
 projects
-  nomad cli
+  nomad
   brain scans
   oculus rift
   Leap Motion: Orion
