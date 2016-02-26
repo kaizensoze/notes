@@ -1,15 +1,11 @@
 
-potential places to live
-  Richmond, VA
-  Nashville, TN
-  San Antonio, TX
-  New Orleans, LA
-  Atlanta, GA
-
 road trip 3: north/midwest
 ---------------------
-Philadelphia, PA [2.5]
-Pittsburgh, PA [5]
+Bethlehem, PA [1.75]
+Philadelphia, PA [1.25]
+Hershey Park, PA [1.75]
+State College, PA [2]
+Pittsburgh, PA [2.5]
 Cleveland, OH [2]
 Detroit, MI [2.5]
 Ann Arbor, MI [1]
@@ -36,8 +32,6 @@ Vancouver, BC [10]
 Seattle, WA [2.5]
 Olympic National Forest, WA [3]
 Portland, OR [3.5]
-==============
-[80] (10 days)
 
 road trip 4: southwest
 ---------------------
@@ -64,6 +58,13 @@ Branson, MO [4.5]
 Little Rock, AR [3.5]
 ==============
 [71] (9 days)
+
+potential places to live
+  Richmond, VA
+  Nashville, TN
+  San Antonio, TX
+  New Orleans, LA
+  Atlanta, GA
 
 LEFTOVER
   Delaware
