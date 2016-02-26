@@ -25,8 +25,14 @@ aws
     aws ec2 terminate-instances
 
     // creating ec2 instance
+    A)
+    groupId=`aws ec2 describe-security-groups | jq -r '.SecurityGroups[] | select(.GroupName == "launch-wizard-1") | .GroupId'`
+    aws ec2 run-instances --image-id ami-fce3c696 --count 1 --instance-type t2.micro --key-name joegallo --security-group-ids $groupId --subnet-id subnet-65546d3c --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":20,\"VolumeType\":\"gp2\",\"DeleteOnTermination\":true}}]"
+    unset groupId
+
+    B)
     aws ec2 create-security-group --group-name launch-wizard-2 --description "test" --vpc-id vpc-175cfb73
-    aws ec2 run-instances --image-id ami-d05e75b8 --count 1 --instance-type t2.micro --key-name duckspeaker --security-group-ids sg-ae10c4c8 --subnet-id subnet-65546d3c --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":20,\"VolumeType\":\"gp2\",\"DeleteOnTermination\":true}}]"
+    aws ec2 run-instances --image-id ami-d05e75b8 --count 1 --instance-type t2.micro --key-name joegallo --security-group-ids sg-ae10c4c8 --subnet-id subnet-65546d3c --block-device-mappings "[{\"DeviceName\":\"/dev/sda1\",\"Ebs\":{\"VolumeSize\":20,\"VolumeType\":\"gp2\",\"DeleteOnTermination\":true}}]"
     aws ec2 create-tags --resources i-c110e862 --tags Key=Name,Value=php-test
 
     // in the event you fuck up ssh access
@@ -121,6 +127,9 @@ heroku
 imagemagick
   identify -verbose [image]
   exiftool -all= [image]
+
+jq
+  jq -r '.SecurityGroups[] | select(.Description == "default group") | .GroupId
 
 laravel
   php artisan init
