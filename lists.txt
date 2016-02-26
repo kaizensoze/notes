@@ -1,5 +1,6 @@
+shower
 bob's burgers
-paint guitar
+remove paint from guitar
 
 return diy guitar to ups store
 deposit check
