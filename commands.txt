@@ -242,6 +242,17 @@ tcpdump
   sudo tcpdump -nn -tttt -XX -s 0 -l -i any | tee output.txt
   sudo tcpdump -nn -tttt -XX -s 0 -l -i any src 192.168.0.100 | tee output.txt
 
+tugboat
+  tugboat authorize
+  tugboat keys
+  vim ~/.tugboat
+  tugboat droplets
+  tugboat create
+  tugboat info <droplet>
+  tugboat ssh <droplet>
+  tugboat restart <droplet>
+  tugboat destroy <droplet>
+
 vim
   :%s/\r/\r/g
 

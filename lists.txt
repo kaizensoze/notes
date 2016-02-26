@@ -1,4 +1,4 @@
-
+bob's burgers
 paint guitar
 
 return diy guitar to ups store
@@ -19,6 +19,15 @@ tv
   Bob's Burgers S04E16
   The West Wing
 
+projects
+  react native
+  brain scans
+  oculus rift
+  Leap Motion: Orion
+  hal's abode
+  kali linux
+  linux kernel
+
 movies
   Son of Saul
   Manchester by the Sea
@@ -29,14 +38,6 @@ movies
   Swiss Army Man
   Shut In
   Suicide Squad
-
-projects
-  brain scans
-  oculus rift
-  Leap Motion: Orion
-  hal's abode
-  kali linux
-  linux kernel
 
 videogames
   PC
