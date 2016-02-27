@@ -256,7 +256,7 @@ tcpdump
   sudo tcpdump -nn -tttt -XX -s 0 -l -i any src 192.168.0.100 | tee output.txt
 
 transmission
-  sudo apt-get update && sudo apt-get install -y transmission-cli && transmission-cli "magnet:?xt=urn:btih:e200a1ef09771c909a2455ed35f69ea98f8c24c1&dn=The.Walking.Dead.S06E09.HDTV.x264-FUM%5Bettv%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969"
+  sudo apt-get update && sudo apt-get install -y transmission-cli && transmission-cli <url>
 
 tugboat
   tugboat authorize
@@ -282,6 +282,9 @@ wireshark
 
 xcode
   po thing.recursiveDescription
+
+zsh
+  print -l ${(ok)functions}  # list functions
 
 xxd
   echo '3be0' | xxd -r -p | xxd -b   # hex to binary
