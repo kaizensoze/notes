@@ -1,10 +1,10 @@
 
 far side
 research guitar inputs
-github
-brain scan reading
 
 library
+github
+brain scan reading
 
 03/01: job hunt
 order/test jetpack
@@ -97,6 +97,11 @@ guitar
     zr
 
   go with floy rose locking nut over kahler
+
+bands
+  camel
+  liquid tension experiment
+  radiohead
 
 places
   bakery
