@@ -1,9 +1,11 @@
-shower
 bob's burgers
-remove paint from guitar
 
-return diy guitar to ups store
+ups dropoff
+library
 deposit check
+paper towels, tissues, toilet paper
+research guitar inputs
+brain scan reading
 
 03/01: job hunt
 order/test jetpack
@@ -17,17 +19,17 @@ tv
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
-  Bob's Burgers S04E16
+  Bob's Burgers S04E20
   The West Wing
 
 projects
-  react native
   brain scans
   oculus rift
   Leap Motion: Orion
   hal's abode
   kali linux
   linux kernel
+  react native
 
 movies
   Son of Saul
@@ -66,6 +68,9 @@ books
   Voltaire's Bastards, John Ralston Saul
 
 guitar
+  usb adapter
+    apogee jam
+
   brand
     fender
     carvin
