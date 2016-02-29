@@ -1,4 +1,6 @@
 
+read
+DAW comparison
 brain scan reading
 
 03/01: job hunt
@@ -39,7 +41,7 @@ videogames
   PC
     The Town Of Light
   PS4
-    Dishonored
+    Dishonored 2
     Fallout 4
   iOS
     The Witness
@@ -65,9 +67,6 @@ books
   Voltaire's Bastards, John Ralston Saul
 
 guitar
-  usb adapter
-    apogee jam
-
   brand
     fender
     carvin
@@ -85,6 +84,11 @@ guitar
     fulltone ocd
     klon centaur gold
     skreddy screw driver
+
+  audio interface
+    Focusrite Scarlett Soloist
+    Focusrite Scarlett 2i2
+    Focusrite Scarlett 2i4
 
   hard case
 
