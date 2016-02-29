@@ -1,19 +1,17 @@
 
 research guitar inputs
 brain scan reading
-test expressvpn
-
-library
 
 03/01: job hunt
 order/test jetpack
+library
 
 tv
-  Walking Dead S06E11 (02/28)
-  Girls S05E02 (02/28)
+  Vinyl S01E03 (02/28)
   Better Call Saul S02E04 (02/29)
-  Full Frontal S01E03 (03/01)
+  Full Frontal S01E04 (02/29)
   House of Cards S04E01 (03/04)
+  Walking Dead S06E12 (03/06)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
@@ -41,9 +39,10 @@ projects
 
 videogames
   PC
-    Fallout 4
-    Firewatch
     The Town Of Light
+  PS4
+    Dishonored
+    Fallout 4
   iOS
     The Witness
 
@@ -103,6 +102,7 @@ guitar
 bands
   camel
   joe satriani
+  metal church
   radiohead
   talking heads
 
