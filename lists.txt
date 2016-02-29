@@ -1,10 +1,9 @@
 
-far side
 research guitar inputs
+brain scan reading
+test expressvpn
 
 library
-github
-brain scan reading
 
 03/01: job hunt
 order/test jetpack
@@ -20,15 +19,6 @@ tv
   Silicon Valley S03E01 (04/24)
   Bob's Burgers S05E02
 
-projects
-  brain scans
-  oculus rift
-  Leap Motion: Orion
-  hal's abode
-  kali linux
-  linux kernel
-  react native
-
 movies
   Son of Saul
   Manchester by the Sea
@@ -40,6 +30,15 @@ movies
   Shut In
   Suicide Squad
 
+projects
+  brain scans
+  oculus rift
+  Leap Motion: Orion
+  hal's abode
+  kali linux
+  linux kernel
+  react native
+
 videogames
   PC
     Fallout 4
@@ -50,14 +49,17 @@ videogames
 
 books
   A Confederacy of Dunces, John Kennedy Toole
+  Age of Ambition, Evan Osnos
   All's Quiet on the Western Front, Erich Maria Remarque
   Confront and Conceal, David E. Sanger
   Countdown to Zero Day, Kim Zetter
   Dark Pools, Scott Patterson
+  Do No Harm, Henry Marsh
   Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
   Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
   End This Depression Now!, Paul Krugman
   Ghost in the Wires, Kevin Mitnick
+  Ham on Rye, Charles Bukowski
   Kitchen Confidential, Anthony Bourdain
   Siddhartha, Herman Hesse
   The Curious Incident Of the Dog In The Night Time, Mark Haddon
@@ -100,8 +102,9 @@ guitar
 
 bands
   camel
-  liquid tension experiment
+  joe satriani
   radiohead
+  talking heads
 
 places
   bakery

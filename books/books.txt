@@ -139,7 +139,6 @@ The Name of the Wind, Patrick Rothfuss
 The Nightingale, Kristin Hannah
 The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan Holiday
 The Once and Future King, T.H. White
-The Painted Bird, Jerzy Kosinski
 The Panda's Thumb, Stephen Jay Gould
 The Paper Trip, Barry Reid
 The Pentagon's Brain, Annie Jacobsen
@@ -177,3 +176,147 @@ When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky
 Women, Charles Bukowski
 *, Jonathan Franzen
+
+DONE
+This Is Water, David Foster Wallace
+Dear White People, Justin Simien
+David Foster Wallace: The Last Interview: and Other Conversations (The Last Interview Series)
+The Most Good You Can Do, Peter Singer
+Both Flesh and Not: Essays
+Catching the Big Fish, David Lynch
+No Easy Day, Mark Owen
+What I Learned Losing a Million Dollars, Jim Paul
+The Time Machine, H.G. Wells
+Common Sense, Thomas Paine
+The Martian, Andy Weir
+The Little Prince, Antoine de Saint Exupéry
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel, Rolf Potts
+Generation Kill, Evan Wright
+The Rise of Islamic State, Patrick Cockburn
+Siddhartha, Hermann Hesse
+Rise of the Warrior Cop: The Militarization of America’s Police Forces, Daniel Defoe
+The Meaning of Human Existence, Edward O. Wilson
+One Day in the Life of Ivan Denisovich, Aleksandr Solzhenitsyn
+The Emperor of all Maladies, Siddhartha Mukherjee
+Heart of Darkness, Joseph Conrad
+Candide, Voltaire
+The Unwinding, George Packer
+Godel Escher Bach, Douglas R. Hofstadter
+The Pillars of the Earth, Ken Follett
+The Grapes of Wrath, John Steinbeck
+Subliminal: How Your Unconscious Mind Rules Your Behavior, Leonard Mlodinow
+On Intelligence, Jeff Hawkins
+Without Feathers, Woody Allen
+The Dorito Effect, Mark Schatzker
+A Cook's Tour: In Search of the Perfect Meal, Anthony Bourdain
+Stuff White People Like, Christian Lander
+Generations, Neil Howe
+Medium Raw, Anthony Bourdain
+Tokyo Vice, Jake Adelstein
+The Wicked + The Divine, Kieron Gillen
+Oh Myyy!: There Goes The Internet, George Takei
+More, Now, Again, Elizabeth Wurtzel
+Wherever you go there you are, Jon Kabat-Zinn
+This Time is Different, Carmen M. Reinhart
+My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind, Scott Stossel
+Man's Search for Meaning, Viktor Frankl
+Things Fall Apart, Chinua Achebe
+The Lathe of Heaven, Ursula K. Le Guin
+The Curious Incident of the Dog in the Nightime, Mark Haddon
+America Again, Stephen Colbert
+Affluenza, Clive Hamilton
+Best of 2600, Emmanuel Goldstein
+Can't We Talk about Something More Pleasant?, Roz Chast
+The Great Unraveling, Paul R. Krugman
+Suburban Nation, Andres Duany
+Carsick, John Waters
+America, Jon Stewart
+End This Depression Now, Paul Krugman
+American Nations: A History of the Eleven Rival Regional Cultures of North America, Colin Woodard
+Essays of E. B. White
+Empire of Illusion, Chris Hedges
+Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
+We Are Anonymous, Parmy Olson
+We Are All Completely Beside Ourselves, Karen Joy Fowler
+The Unbearable Lightness of Being, Milan Kundera
+The Shallows: What the Internet Is Doing to Our Brains, Nicholas Carr
+The Man Who Mistook His Wife For A Hat, Oliver Sacks
+The Death and Life of Great American Cities, Jane Jacobs
+On the Origin of Species, Charles Darwin
+On the Move: A Life, Oliver Sacks
+Modern Romance, Aziz Ansari
+How Children Succeed, Paul Tough
+Hallucinations, Oliver Sacks
+Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
+Doing Good Better: How Effective Altruism Can Help You Make a Difference, William MacAskill
+Child of God, Cormac McCarthy
+Best of MAKE, Mark Frauenfelder
+Around the World in 50 Years: My Adventure to Every Country on Earth, Albert Podell
+Kitchen Confidential, Anthony Bourdain
+Neil Patrick Harris: Choose Your Own Autobiography, Neil Patrick Harris
+How To Get Into The Twin Palms, Karolina Waclawiak
+Cancer Ward, Aleksandr Solzhenitsyn
+Zero to One: Notes on Startups or How to Build the Future, Peter Thiel
+Wealth of Nations, Adam Smith
+Walden, Henry David Thoreau
+Ulysses, James Joyce
+The Universe in a Nutshell, Stephen Hawking
+The Singularity is Near, Ray Kurzweil
+The Grand Design, Stephen Hawking
+The Geography of Nowhere, James Howard Kunstler
+Macbeth, Shakespeare
+Life in the Woods, Henry David Thoreau
+Leaves of Grass, Walt Whitman
+Data and Goliath, Bruce Schneier
+Born Standing Up, Steve Martin
+Spam Nation, Brian Krebs
+The Everything Store: Jeff Bezos and the Age of Amazon, Joanna Russ
+By Night in Chile, Roberto Bolano
+Kingpin, Kevin Poulsen
+We Have Always Lived In The Castle, Shirley Jackson
+The Hard Thing About Hard Things, Ben Horowitz
+Principles of Compiler Design, Aho/Ullman
+Redeployment, Phil Klay
+Confront and Conceal, David E. Sanger
+Watership Down, Richard Adams
+Their Eyes Were Watching God, Zora Neale Hurston
+The Sound and the Fury, William Faulkner
+The Quiet American, Graham Green
+The Prince of Nothing, R. Scott Bakker
+The Great Divide: Unequal Societies and What We Can Do About Them, Joseph E. Stiglitz
+Stranger in a Strange Land, Robert A. Heinlein
+The Snowden Files, Luke Harding
+Average Is Over, Tyler Cowen
+The Unix-Haters Handbook, Simson L. Garfinkel
+The Circle, Dave Eggers
+Through the Woods, Emily Caroll
+Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
+Ham on Rye, Charles Bukowski
+Too Big to Fail, Andrew Ross Sorkin
+The Second Machine Age, Erik Brynjolfsson
+Cybersecurity and Cyberwar, P.W. Singer
+The Road to Character, David Brooks
+The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
+Sirens of Titan, Kurt Vonnegut
+Bartleby, the Scrivener: A Story of Wall Street, Herman Melville
+Sick In The Head, Judd Apatow
+The Power of Myth, Joseph Campbell
+Alone on the Wall, Alex Honnold
+How Google Works, Eric Schmidt
+World Order, Henry Kissinger
+How Markets Fail, John Cassidy
+No Good Men Among the Living, Anand Gopal
+Winning, Jack Welch
+Thinking, Fast and Slow, Daniel Kahneman
+Yes Please, Amy Poehler
+The Rational Optimist: How Prosperity Evolves, Matt Ridley
+The Department of Mad Scientists, Michael Belfiore
+Do No Harm, Henry Marsh
+Corporate Warriors, P.W. Singer
+Dad Is Fat, Jim Gaffigan
+Tibetan Peach Pie, Tom Robbins
+The Bedwetter, Sarah Silverman
+Not That Kind of Girl, Lena Dunham
+Tales of the Unexpected, Roald Dahl
+Age of Ambition, Evan Osnos
+Bonk, Mary Roach

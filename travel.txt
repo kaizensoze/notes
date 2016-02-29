@@ -1,8 +1,7 @@
 
-road trip 3: north/midwest
----------------------
-Bethlehem, PA [1.75]
-Philadelphia, PA [1.25]
+north/midwest
+--------------------
+Philadelphia, PA [2]
 Hershey, PA [1.75]
 State College, PA [2]
 Pittsburgh, PA [2.5]
@@ -33,7 +32,7 @@ Seattle, WA [2.5]
 Olympic National Forest, WA [3]
 Portland, OR [3.5]
 
-road trip 4: southwest
+southwest
 ---------------------
 Portland, OR (fly)
 Sacramento, CA [8.5]
