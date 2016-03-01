@@ -1,22 +1,21 @@
 
 library
 job hunt
-upgrade drop to http2
 DAW comparison
 brain scan reading
 
 order/test jetpack
 
 tv
-  Better Call Saul S02E04 (02/29)
   Full Frontal S01E04 (02/29)
   House of Cards S04E01 (03/04)
   Walking Dead S06E12 (03/06)
   Last Week Tonight S03E04 (03/06)
+  Better Call Saul S02E04 (03/07)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
-  Bob's Burgers S05E02
+  Bob's Burgers S05E04
 
 movies
   Son of Saul
