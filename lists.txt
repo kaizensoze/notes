@@ -1,6 +1,9 @@
 
 library
+pay rent
 job hunt
+schedule haircut
+sell rock climbing gear
 DAW comparison
 brain scan reading
 
