@@ -1,17 +1,18 @@
 
-read
+library
+job hunt
+upgrade drop to http2
 DAW comparison
 brain scan reading
 
-03/01: job hunt
 order/test jetpack
-library
 
 tv
   Better Call Saul S02E04 (02/29)
   Full Frontal S01E04 (02/29)
   House of Cards S04E01 (03/04)
   Walking Dead S06E12 (03/06)
+  Last Week Tonight S03E04 (03/06)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
@@ -102,7 +103,9 @@ guitar
   go with floy rose locking nut over kahler
 
 bands
+  billy joel
   camel
+  eminem
   joe satriani
   metal church
   radiohead

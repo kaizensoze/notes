@@ -1,7 +1,6 @@
 A Fire Upon the Deep, Vernor Vinge
 A Survival Guide for Living Under Total Surveillance, Laura Poitras
 A Wizard of Earthsea, Ursula K. Le Guin
-Angler: The Cheney Vice Presidency, Barton Gellman
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 As You Wish: Inconceivable Tales from the Making of The Princess Bride, Cary Elwes
@@ -322,3 +321,4 @@ Not That Kind of Girl, Lena Dunham
 Tales of the Unexpected, Roald Dahl
 Age of Ambition, Evan Osnos
 Bonk, Mary Roach
+Angler: The Cheney Vice Presidency, Barton Gellman
