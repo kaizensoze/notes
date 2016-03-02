@@ -33,6 +33,7 @@ Eradication: Ridding the World of Diseases Forever?, Nancy Leys Stepan
 Exponential Organizations, Salim Ismail
 Everything's Eventual, Stephen King
 Fermat's Enigma, Simon Singh
+Frank: The True Story That Inspired the Movie, Jon Ronson
 Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Ghost Fleet, P.W. Singer
@@ -47,6 +48,7 @@ His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
 How Will You Measure Your Life?, Clayton M. Christensen
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
+I Am a Strange Loop, Douglas Hofstadter
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
 Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
@@ -78,9 +80,11 @@ Rogue Lawyer, John Grisham
 Rtfm: Red Team Field Manual, Ben Clark
 Salt Sugar Fat: How the Food Giants Hooked Us, Michael Moss
 Sandman Slim, Richard Kadrey
+Sexus, Henry Miller
 Sheltering Sky, Paul Bowles
 So, Anyway..., John Cleese
 So Good They Can't Ignore You, Cal Newport
+So You've Been Publicly Shamed, Jon Ronson
 Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
 Sophie's World, Jostein Gaarder
@@ -145,25 +149,24 @@ The Promise of a Pencil, Adam Braun
 The Psychopath Test: A Journey Through the Madness Industry, Jon Ronson
 The Puzzle Palace, James Bamford
 The Racketeer, John Grisham
-The Rent Is Too Damn High, Matthew Yglesias
 The Restaurant at the End of the Universe, Douglas Adams
-The Rise and Fall of American Growth, Robert Gordon
 The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Savior Generals, Victor Davis Hanson
 The Scar, China Mieville
 The Scented Ape, David Michael Stoddart
 The Secret Sentry, Matthew M. Aid
+The Sociopath Next Door, Martha Stout
 The Sovereign Individual, James Dale Davidson
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
+Them: Adventures with Extremists, Jon Ronson
 The Wheel of Time, Robert Jordan
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
 This Will Change Everything, John Brockman
 Titus Groan, Mervyn Peake
-Tropic of Cancer, Henry Miller
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
 Walking the Amazon, Ed Stafford
@@ -321,3 +324,7 @@ Bonk, Mary Roach
 Angler: The Cheney Vice Presidency, Barton Gellman
 Let's Explore Diabetes with Owls, David Sedaris
 The Wisdom of Crowds, James Surowiecki
+The Lean Startup, Eric Ries
+The Rise and Fall of American Growth, Robert Gordon
+Tropic of Cancer, Henry Miller
+The Rent Is Too Damn High, Matthew Yglesias
