@@ -54,7 +54,6 @@ Islamic State: The Digital Caliphate, Abdel Bari Atwan
 Just Kids, Patti Smith
 Kill Chain, Andrew Cockburn
 Legacy of Ashes, Tim Weiner
-Let's Explore Diabetes with Owls, David Sedaris
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela, page: 24
 Made in the USA, Vaclav Smil
@@ -322,3 +321,4 @@ Tales of the Unexpected, Roald Dahl
 Age of Ambition, Evan Osnos
 Bonk, Mary Roach
 Angler: The Cheney Vice Presidency, Barton Gellman
+Let's Explore Diabetes with Owls, David Sedaris

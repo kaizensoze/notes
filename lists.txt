@@ -1,7 +1,8 @@
 
-library
-pay rent
+read
 job hunt
+
+pay rent
 schedule haircut
 sell rock climbing gear
 DAW comparison
@@ -44,6 +45,7 @@ videogames
   PC
     The Town Of Light
   PS4
+    Dark Souls III
     Dishonored 2
     Fallout 4
   iOS
