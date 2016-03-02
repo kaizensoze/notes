@@ -158,7 +158,6 @@ The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
 The Wheel of Time, Robert Jordan
-The Wisdom of Crowds, James Surowiecki
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
@@ -321,3 +320,4 @@ Age of Ambition, Evan Osnos
 Bonk, Mary Roach
 Angler: The Cheney Vice Presidency, Barton Gellman
 Let's Explore Diabetes with Owls, David Sedaris
+The Wisdom of Crowds, James Surowiecki
