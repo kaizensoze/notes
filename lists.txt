@@ -1,6 +1,11 @@
 
 read
+github
 qtips, lightbulb
+wait for amazon returns, then consider:
+  Blackstar ID:Core 10
+  digital loop pedal
+  guitar cable
 brain scan reading
 haircut
 dentist appt
@@ -8,7 +13,6 @@ dad's birthday
 buy list
   https://www.verizonwireless.com/internet-devices/verizon-jetpack-4g-lte-mobile-hotspot-ac791l/
   amazon wish list
-
 grandpa's birthday
 
 tv
@@ -79,9 +83,9 @@ guitar
     charvel
 
   practice amp
-    Blackstar Fly 3
     Blackstar ID:Core 10
     Roland Cube 10GX
+    Blackstar Fly 3
 
   pedals
     TC Electronic Ditto Looper
