@@ -1,18 +1,14 @@
 
 read
-schedule haircut
-DAW comparison
-pay rent
-green drinks
-  shamrock shake (mcdonalds)
-  mint oreo shake (burger king)
-dad's birthday
-sell rock climbing gear
+qtips, lightbulb
 brain scan reading
+haircut
+dentist appt
+dad's birthday
 buy list
   https://www.verizonwireless.com/internet-devices/verizon-jetpack-4g-lte-mobile-hotspot-ac791l/
   amazon wish list
-dentist appt
+
 grandpa's birthday
 
 tv
@@ -96,12 +92,31 @@ guitar
     skreddy screw driver
 
   audio interface
-    Focusrite Scarlett Soloist
+    Focusrite Scarlett Solo
     Focusrite Scarlett 2i2
     Focusrite Scarlett 2i4
 
   software
+    Cab Simulator
+      Recabinet
+      LeCab
+      Catharsis IR
 
+    Amp Simulator
+      Scuffham Amps S-Gear
+      Positive Grid Bias
+      Peavey Revalver
+      Brainworx BX Rockrack
+      Softube Vintage Amp Room
+      Waves GTR
+
+    DAW
+      Presonus Studio One
+      FL Studio
+      Propellerhead Reason
+      Steinberg Cubase
+      Cockos Reaper
+      Apple Logic Pro X
 
   hard case
 
