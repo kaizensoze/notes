@@ -33,7 +33,7 @@ File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
 
     # get book details
     if !list_item.nil?
-      list_item_url = "http://www.goodreads.com#{list_item.css('td')[0].css('a')[1]['href']}"
+      list_item_url = "http://www.goodreads.com#{list_item.css('td')[0].css('a')[0]['href']}"
 
       book_page = Nokogiri::HTML(open(list_item_url))
       title = book_page.css('h1.bookTitle').text.strip.gsub(/\s\s+/, ' ').tr(',', '')
