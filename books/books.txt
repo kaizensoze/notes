@@ -118,7 +118,6 @@ The Forever War, Joe Haldeman
 The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
 The Four Steps to the Epiphany, Steven Gary Blank
-The Fran Lebowitz Reader, Fran Lebowitz
 The Ghost Map, Steven Johnson
 The Girl Next Door, Jack Ketchum
 The Heretic's Guide to Global Finance, Brett Scott
@@ -326,3 +325,5 @@ The Lean Startup, Eric Ries
 The Rise and Fall of American Growth, Robert Gordon
 Tropic of Cancer, Henry Miller
 The Rent Is Too Damn High, Matthew Yglesias
+The Psychopath Test: A Journey Through the Madness Industry, Jon Ronson
+The Fran Lebowitz Reader, Fran Lebowitz
