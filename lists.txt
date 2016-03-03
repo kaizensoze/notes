@@ -1,6 +1,8 @@
 
-qtips, lightbulb
+osquery
 react tutorial
+doublecheck renewing ssl cert for joegallo.nyc
+replace bike tires
 brain scan reading
 haircut
 wait for amazon returns, then consider wish list
@@ -49,6 +51,7 @@ videogames
     Dark Souls III
     Dishonored 2
     Fallout 4
+    The Division
   iOS
     The Witness
 
