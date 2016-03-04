@@ -53,7 +53,6 @@ Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Pau
 Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
-Just Kids, Patti Smith
 Kill Chain, Andrew Cockburn
 Legacy of Ashes, Tim Weiner
 Lolita, Vladimir Nabokov
@@ -327,3 +326,4 @@ Tropic of Cancer, Henry Miller
 The Rent Is Too Damn High, Matthew Yglesias
 The Psychopath Test: A Journey Through the Madness Industry, Jon Ronson
 The Fran Lebowitz Reader, Fran Lebowitz
+Just Kids, Patti Smith
