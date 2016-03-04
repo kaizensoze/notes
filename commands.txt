@@ -223,7 +223,7 @@ siege
   siege -c200 -b -t3M -i -f urls.txt
 
 smc
-  ./smc -l | grep 'PCPC'
+  ./smc -l | grep 'F0ID'
 
 solr
   cd /usr/local/Cellar/solr/<version>/libexec/example/ && java -jar start.jar &

@@ -1,7 +1,5 @@
 
-osquery
 react tutorial
-doublecheck renewing ssl cert for joegallo.nyc
 replace bike tires
 brain scan reading
 haircut

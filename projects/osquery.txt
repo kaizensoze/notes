@@ -1,5 +1,4 @@
 TODO
-  add fan id column
   test hwmon on default digitalocean server
   test hwmon on dedicated digitalocean server [if necesssary]
 
@@ -43,3 +42,5 @@ select sk.value A, t.* from smc_keys sk join temperatures t on (sk.key = t.key a
 select distinct type, count(type) ct from smc_keys group by type order by ct desc;
 
 SENSDIR=/sys/class/hwmon
+
+F0ID | {fds | 16 | 00010a00457868617573742020000000

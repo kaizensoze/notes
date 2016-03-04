@@ -1,0 +1,8 @@
+setup
+  git clone https://github.com/processing/p5.js.git
+  cd p5.js
+  npm install
+  grunt (alternatively: grunt watch:quick)
+
+test
+  grunt test
