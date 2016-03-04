@@ -48,7 +48,6 @@ His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
 How Will You Measure Your Life?, Clayton M. Christensen
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
-I Am a Strange Loop, Douglas Hofstadter
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
 Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
@@ -198,7 +197,6 @@ The Emperor of all Maladies, Siddhartha Mukherjee
 Heart of Darkness, Joseph Conrad
 Candide, Voltaire
 The Unwinding, George Packer
-Godel Escher Bach, Douglas R. Hofstadter
 The Pillars of the Earth, Ken Follett
 The Grapes of Wrath, John Steinbeck
 Subliminal: How Your Unconscious Mind Rules Your Behavior, Leonard Mlodinow
