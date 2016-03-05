@@ -1,13 +1,8 @@
 
-http://www.yelp.com/biz/spoonbill-and-sugartown-booksellers-brooklyn
-http://www.yelp.com/biz/book-thug-nation-brooklyn
-http://www.yelp.com/biz/mcnally-jackson-new-york
-http://www.yelp.com/biz/the-mysterious-bookshop-new-york
-http://www.yelp.com/biz/bookbook-new-york-2
-
-react tutorial
+list of code bootcamps
+places like chelsea hotel?
 replace bike tires
-brain scan reading
+react tutorial
 haircut
 wait for amazon returns, then consider wish list
 https://www.verizonwireless.com/internet-devices/verizon-jetpack-4g-lte-mobile-hotspot-ac791l/
@@ -15,19 +10,31 @@ dentist appt
 dad's birthday
 grandpa's birthday
 
+http://www.yelp.com/biz/spoonbill-and-sugartown-booksellers-brooklyn
+http://www.yelp.com/biz/book-thug-nation-brooklyn
+http://www.yelp.com/biz/mcnally-jackson-new-york
+http://www.yelp.com/biz/the-mysterious-bookshop-new-york
+http://www.yelp.com/biz/bookbook-new-york-2
+
+research
+  most popular IoT devices
+  brain scan papers
+
 tv
-  Daredevil S02E01
-  House of Cards S04E01 (03/04)
+  Bates Motel S01E01
+  Cooked S01E01
   Walking Dead S06E12 (03/06)
   Last Week Tonight S03E04 (03/06)
   Better Call Saul S02E04 (03/07)
   Full Frontal S01E05 (03/07)
+  Daredevil S02E01 (03/18)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
   Bob's Burgers S05E04
 
 movies
+  Experimenter
   Amy
   Son of Saul
   Manchester by the Sea
@@ -49,6 +56,10 @@ projects
   react native
 
 videogames
+  quest for glory
+  king's quest
+  legend of kyrandia
+
   PC
     The Town Of Light
   PS4
