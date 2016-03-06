@@ -380,3 +380,64 @@ why zebras don't get ulcers
 Walter Cannon focused on adaptive aspect of stress-response in dealing with emergencies
 Hans Selye formalized the ill effects of stress with ulcerated rat experiment
 autonomic nervous system includes sympathetic and parasympathetic systems
+
+the innovators
+==============
+ada byron (=> lovelace) daughter of poet lord byron
+ada lovelace meets charles babbage
+charles babbage builds a Difference Engine, which can solve polynomial equations
+at Cambridge, Babbage along with John Herschel and George Peacock form a club called Analytical Society
+Analytical Society campaigned to get university to abandon Newton's dot notation calculus and replace with Leibniz' dx/dy notation
+in 1640s, Blaise Pascal created mechanical calculator for tax purposes
+Leibniz tries to improve it with multiplication/division (does not completely succeed due to not being an engineer)
+Babbage and hired engineer not quite skilled enough to get Difference Engine working
+Babbage dreams up something else: The Analytical Machine
+Analytical Machine is the product of what Ada Lovelace, in her essay on imagination, called "the Combining Faculty"
+Babbage applies the automated loom, invited in 1801 by Joseph-Marie Jacquard
+Babbage unable to get funding from British government
+Babbage meets future prime minister of Italy Menabrea who publishes description of Analytical Machine in French
+ada adds translation and "Notes by the Translator"; the notes become more famous than the article itself
+notes make ada destined to become iconic figure in history of computing
+in ada's notes she explores 4 concepts
+1) a general-purpose machine, one that could perform a preset task but could be programmed and reprogrammed to do limitless and changeable array of tasks
+2) the machine could store, manipulate, process, and act upon anything that could be expressed in symbols
+3) figure out in step-by-step detail the workings of a program/algorithm (used Bernoulli numbers as example)
+4) machines cannot think (later dubbed "Lady Lovelace's Objection" by Alan Turing)
+babbage wanted ada to push the govt for funding
+ada refuses, babbage then writes an attack against govt and cowardly asks ada to include it in her notes
+babbage sends appendage anyway and they reply telling him to man up and submit it separately with his name
+babbage asks ada not to send her notes; she refuses and he backs down and submits it separately
+ada offers babbage a business/political partnership; he declines
+herman hollerith, an employee of the us census bureau, annoyed it took almost 8 years to manually tabulate 1880 census
+hollerith gets idea of rail conductors punching holes on ticket
+using the punch cards, hollerith completes 1890 census in a year
+first major use of electrical circuits to process info
+hollerith founds company in 1924: -> (mergers, aquisitions) -> International Business Machines (IBM)
+machines by Hollerith and Babbage were digital: calculated using digits
+another approach is to model a physical phenomenon and make measurements on analogous model to calculate results: analog machine
+Lord Kelvin and James Thomson worked on creating an analog machine to solve diferential equations
+used to help create tide charts and artillery trajectory tables
+analog machine used a planimeter that can measure area of two-dimensional shape
+able to produce tide chart in four hours, but unable to link devices together to solve multivariable eqns
+multivariable eqn problem finally mastered in 1931 by Vanevar Bush with his Differential Analyzer
+Differential Analyzer very useful for artillery firing tables
+in mid 1930s Tommy Flowers pioneers use of vacuum tubes as on-off switch in electronic circuits
+Alan Turing wins scholarship to attend King's College to read mathematics
+one of three books he buys with prize money is John vom Neumann's The Mathematical Foundations of Quantum Mechanics
+at 1928 conference, Hilbert poses three fundamental questions about any formal system of mathematics
+1) was its set of rules complete so that any statement could be proved/disproved using only rules of system?
+2) was it consistent so that no statement could be proved true and also proved false?
+3) was there some procedure that could determine whether a particular statement was provable, rather than allowing some statement to be unprovable?
+within 3 years kurt godel answered first two questions with a no
+his incompleteness theorem used self-referential statements
+Turing's teacher Max Newman teaches Turing about Hilbert's questions
+Turing comes up with Logical Computing Machine as thought experiment
+Logical Computing Machine: infinite length of paper tape containing symbols within squares; machine reads symbols and performs actions based on instructions table
+Turing went on to show that noncomputable numbers existed, related to the halting problem
+halting problem: there can be no method to determine in advance whether any given instruction table combined with inputs will run indefinitely
+thus: no mechanical procedure can detrmine the provability of every mathematical statement
+Turing's paper "On Computable Numbers, with an Application to the Entscheidungsproblem" published in 1937
+Max Newman sends Turing off to Princeton to study under Alonzo Church
+Turing's paper doesn't get much attention
+Turing asks mother to send out reprints to Bertrand Russell and some other scholars
+only major review is done by Alonzo Church who introduces the term Turing Machine
