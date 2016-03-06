@@ -160,7 +160,6 @@ places
     Betty Bakery
     Court Street Pastry Shoppe
     Caprice's by Sophie
-    Robicelli Bakery [CLOSED]
     Napoli Bakery
     Mazzola Bakery
     Four & Twenty Blackbirds
