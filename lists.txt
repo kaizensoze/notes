@@ -1,37 +1,31 @@
 
+react tutorial
 list of code bootcamps
 replace bike tires
-react tutorial
 haircut
-wait for amazon returns, then consider wish list
-https://www.verizonwireless.com/internet-devices/verizon-jetpack-4g-lte-mobile-hotspot-ac791l/
 dentist appt
 dad's birthday
 grandpa's birthday
 
-http://www.yelp.com/biz/spoonbill-and-sugartown-booksellers-brooklyn
-http://www.yelp.com/biz/book-thug-nation-brooklyn
-http://www.yelp.com/biz/mcnally-jackson-new-york
-http://www.yelp.com/biz/the-mysterious-bookshop-new-york
-http://www.yelp.com/biz/bookbook-new-york-2
-
-research
-  most popular IoT devices
-  brain scan papers
+bookstores
+  http://www.yelp.com/biz/spoonbill-and-sugartown-booksellers-brooklyn
+  http://www.yelp.com/biz/book-thug-nation-brooklyn
+  http://www.yelp.com/biz/mcnally-jackson-new-york
+  http://www.yelp.com/biz/the-mysterious-bookshop-new-york
+  http://www.yelp.com/biz/bookbook-new-york-2
 
 tv
   Walking Dead S06E12 (03/06)
   Last Week Tonight S03E04 (03/06)
+  Bob's Burgers S06E09 (03/06)
   Better Call Saul S02E04 (03/07)
   Full Frontal S01E05 (03/07)
   Daredevil S02E01 (03/18)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
-  Bob's Burgers S05E04
 
 movies
-  Amy
   Son of Saul
   Manchester by the Sea
   The Witch
@@ -42,6 +36,10 @@ movies
   Shut In
   Suicide Squad
 
+research
+  most popular IoT devices
+  brain scan papers
+
 projects
   brain scans
   oculus rift
@@ -50,21 +48,6 @@ projects
   kali linux
   linux kernel
   react native
-
-videogames
-  quest for glory
-  king's quest
-  legend of kyrandia
-
-  PC
-    The Town Of Light
-  PS4
-    Dark Souls III
-    Dishonored 2
-    Fallout 4
-    The Division
-  iOS
-    The Witness
 
 books
   A Confederacy of Dunces, John Kennedy Toole
@@ -80,6 +63,7 @@ books
   End This Depression Now!, Paul Krugman
   Ghost in the Wires, Kevin Mitnick
   Ham on Rye, Charles Bukowski
+  Just Kids, Patti Smith
   Kitchen Confidential, Anthony Bourdain
   Siddhartha, Herman Hesse
   The Curious Incident Of the Dog In The Night Time, Mark Haddon
@@ -87,6 +71,15 @@ books
   The Shadow Factory, James Bamford
   The Unwinding, George Packer
   Voltaire's Bastards, John Ralston Saul
+
+bands
+  billy joel
+  camel
+  eminem
+  joe satriani
+  metal church
+  radiohead
+  talking heads
 
 guitar
   brand
@@ -145,14 +138,17 @@ guitar
 
   go with floy rose locking nut over kahler
 
-bands
-  billy joel
-  camel
-  eminem
-  joe satriani
-  metal church
-  radiohead
-  talking heads
+videogames
+  PC
+    The Town Of Light
+  PS4
+    Dark Souls III
+    Dishonored 2
+    Fallout 4
+    The Division
+  iOS
+    Alto's Adventure
+    The Witness
 
 places
   bakery
@@ -164,16 +160,14 @@ places
     Betty Bakery
     Court Street Pastry Shoppe
     Caprice's by Sophie
-    Robicelli Bakery
+    Robicelli Bakery [CLOSED]
     Napoli Bakery
     Mazzola Bakery
-    The Civil Service Cafe
     Four & Twenty Blackbirds
   sandwiches
     Court Street Grocers
     Defontes
     Original John's Deli
-    Jimmy's Diner
   coffee
     Toby's Estate
     Otha's
