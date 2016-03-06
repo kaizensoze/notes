@@ -1,6 +1,5 @@
 
 list of code bootcamps
-places like chelsea hotel?
 replace bike tires
 react tutorial
 haircut
@@ -21,8 +20,6 @@ research
   brain scan papers
 
 tv
-  Cooked S01E01
-  Bates Motel S01E01
   Walking Dead S06E12 (03/06)
   Last Week Tonight S03E04 (03/06)
   Better Call Saul S02E04 (03/07)
@@ -34,7 +31,6 @@ tv
   Bob's Burgers S05E04
 
 movies
-  Experimenter
   Amy
   Son of Saul
   Manchester by the Sea
