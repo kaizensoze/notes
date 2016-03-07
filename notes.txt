@@ -473,3 +473,24 @@ Bardeen and Brattain come up with transistor
 Shockley is jealous and pushes himself to one-up them with an improvement (layering of materials)
 Pat Haggerty of Texas Instruments has trouble licensing tech from Bell Labs
 Haggerty hires away Gordon Teal, they build the transistor radio; pocket radio is a huge hit
+Shockley looks to build a transistor company
+Shockley and Beckman look to start company in Palo Alto
+Palo Alto population increases due to work from defense industry
+film canisters dropped from U-2 spy planes were developed at NASA Ames Research Center in Sunnyvale; people flock to the area
+Dave Packard and Bill Hewlett start out in a garage in the area; by the 1950s, Hewlett-Packard becomes pace horse for region's tech startups
+Fred Ternan, student of Vannevar Bush at MIT, becomes Stanford dean of engineering and creates industrial park in 1953
+Ternan woos Shockley who moves Shockley Semiconductor Laboratory, a division of Beckman Instruments, to Stanford
+Shockley hires Robert Noyce, Gordon Moore, and the other "traitorous eight"
+Shockley becomes insufferable and the traitorous eight leave to form Fairchild Semiconductor
+Shockley Semiconductor never recovers, Shockley leaves for Stanford
+on October 4, 1957, Russians launch Sputnik, setting off a space race
+Jack Kilby joins Texas Instruments; builds the first microchip
+Jean Hoerni, a Fairchild physicist places a layer of silicon oxide to protect the transistor
+Noyce and Moore start looking into making multiple devices on single piece of silicon
+patent battle ensues between Texas Instruments and Fairchild
+even if texas instruments were to be awarded a patent for putting multiple components on a single chip, Fairchild hoped to be awarded a patent for making the connections through printed metal lines instead of wires
+in April 1961 Noyce was declared the inventor of the microchip
+some legal confusion later and Kilby granted patent
+Fairchild appeals and wins
+Fairchild and Texas Instruments come to a truce and agree to co-license to each other
+Kilby and Noyce seen as coinventors
