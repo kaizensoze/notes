@@ -65,25 +65,15 @@ potential places to live
   New Orleans, LA
   Atlanta, GA
 
+ITEMS
+  Louisiana: Drive-thru Daiquiri
+
 LEFTOVER
   Delaware
   Hawaii
   Montreal
   Quebec City
   Ottawa
-
-long island tour
-  sayville
-  sag harbor
-  port jefferson
-  port washington
-  huntington
-  freeport
-  greenport
-  great neck
-  northport
-  babylon village
-  riverhead
 
 ABROAD
   Paris
@@ -114,6 +104,19 @@ AVOID
   Bulgaria
   Philippines
   Indonesia
+
+LI
+  sayville
+  sag harbor
+  port jefferson
+  port washington
+  huntington
+  freeport
+  greenport
+  great neck
+  northport
+  babylon village
+  riverhead
 
 DONE
   road trip 1: New England
