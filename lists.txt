@@ -15,15 +15,16 @@ bookstores
   http://www.yelp.com/biz/bookbook-new-york-2
 
 tv
-  Walking Dead S06E12 (03/06)
-  Last Week Tonight S03E04 (03/06)
   Bob's Burgers S06E09 (03/06)
+  Last Week Tonight S03E04 (03/06)
   Better Call Saul S02E04 (03/07)
   Full Frontal S01E05 (03/07)
+  Walking Dead S06E13 (03/13)
   Daredevil S02E01 (03/18)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
+  The West Wing S01E02
 
 movies
   Son of Saul
