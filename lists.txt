@@ -2,6 +2,7 @@
 replace bike tires
 haircut
 job hunt!
+get birthday gift for dad
 list of code bootcamps
 ask alec about acoustic guitar
 dentist appt
@@ -40,6 +41,10 @@ research
   brain scan papers
 
 projects
+  blog
+    aws vs digitalocean vs linode perf test
+    flask vs node vs go perf test
+  karass
   brain scans
   oculus rift
   Leap Motion: Orion
@@ -66,6 +71,7 @@ books
   Kitchen Confidential, Anthony Bourdain
   Siddhartha, Herman Hesse
   The Curious Incident Of the Dog In The Night Time, Mark Haddon
+  The Innovators, Walter Isaacson
   The Psychopath Test: A Journey Through the Madness Industry, Jon Ronson
   The Shadow Factory, James Bamford
   The Unwinding, George Packer

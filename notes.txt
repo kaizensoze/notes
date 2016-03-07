@@ -441,3 +441,17 @@ Max Newman sends Turing off to Princeton to study under Alonzo Church
 Turing's paper doesn't get much attention
 Turing asks mother to send out reprints to Bertrand Russell and some other scholars
 only major review is done by Alonzo Church who introduces the term Turing Machine
+Claude Shannon applies Boole logic for electrical circuits
+relay: a switch that can be opened/shut electrically using an electromagnet
+ones that clack open/closed sometimes called electromechanical because they have moving parts
+vacuum tubes and transistors can be used as switches in electrical circuits; they're called electronic since they manipulate flow of electrons but do not require movement of physical parts
+logic gate: switch that can handle one or more inputs
+George Stibitz was working at Bell Labs around same time; uses relays and bulbs to show you could create a calculating machine with them
+Bell Labs needed to amplify a phone signal over long distance while filtering out static
+solution involved complex numbers
+Stibitz gets chance to build machine to help => The Complex Number Calculator completed in 1939
+Howard Aiken lobbies Harvard to build a more sophisticated computer to help with calculations
+Harvard Mark I built under Howard Aiken after project control transferred to Navy
+Mark I was slower but fully automatic
+in 1937 Konrad Zuse in Germany builds binary calculator that can read instructions from punched tape
+through various prototypes, with Z3 being the first fully working all-purpose programmable digital computer
