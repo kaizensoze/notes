@@ -455,3 +455,21 @@ Harvard Mark I built under Howard Aiken after project control transferred to Nav
 Mark I was slower but fully automatic
 in 1937 Konrad Zuse in Germany builds binary calculator that can read instructions from punched tape
 through various prototypes, with Z3 being the first fully working all-purpose programmable digital computer
+Zuse's prototypes destroyed in allied bombing of Berlin
+John Vincent Atanasoff in Iowa built a calculating device that used vacuum tubes (conceived first partly electronic digital computer)
+Atanasoff worked with Clifford Berry
+Atanasoff drafted into Navy and work stopped
+John Mauchly meets Atanasoff and later builds ENIAC with Eckert (legal dispute ensues)
+Turing works at Bletchley Park
+Grace Hopper, Jean Jennings, and other women program the ENIAC
+John von Neumann improves on ENIAC and essentially gets all credit for it
+Mauchly and Eckert leave to form Eckert-Mauchly Computer Corporation -> Rand -> Unisys; they built UNIVAC which is purchased by Census Bureau
+von Neumann returns to Princeton and works on a stored program computer
+Neumann leaves to join Atomic Energy Commission and group dissolves; this leads to shift of innovation to corporate realm beginning in 1950s
+William Shockley leads team at Bell Labs
+Bell Labs sets out to deelop vacuum tube replacement using semiconductors
+included in the group are John Bardeen and Walter Brattain
+Bardeen and Brattain come up with transistor
+Shockley is jealous and pushes himself to one-up them with an improvement (layering of materials)
+Pat Haggerty of Texas Instruments has trouble licensing tech from Bell Labs
+Haggerty hires away Gordon Teal, they build the transistor radio; pocket radio is a huge hit
