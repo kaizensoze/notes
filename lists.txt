@@ -3,6 +3,7 @@ zipcar
   visit grandma (300 Community Dr, Manhasset, NY 11030)
   goodwill
   bank deposit
+library
 pack some stuff into containers
 replace bike tires
 post climbing trainer
@@ -11,15 +12,15 @@ dentist appt
 research university research
 
 tv
-  Better Call Saul S02E04 (03/07)
+  The West Wing S01E02
   Full Frontal S01E05 (03/07)
   Walking Dead S06E13 (03/13)
   Bob's Burgers S06E10 (03/13)
+  Better Call Saul S02E05 (03/14)
   Daredevil S02E01 (03/18)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
-  The West Wing S01E02
 
 movies
   Son of Saul
