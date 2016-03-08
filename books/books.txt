@@ -6,6 +6,7 @@ Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford
 As You Wish: Inconceivable Tales from the Making of The Princess Bride, Cary Elwes
 Atlas Shrugged, Ayn Rand
 Basic Economics, Thomas Sowell, page: 38
+Benjamin Franklin: An American Life, Walter Isaacson
 Between the World and Me, Ta-Nehisi Coates
 Bleeding Edge, Thomas Pynchon
 Body of Secrets, James Bamford
@@ -27,6 +28,7 @@ Dhalgren, Samuel R. Delany
 Discworld, Terry Pratchett
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
+Einstein: His Life and Universe, Walter Isaacson
 Enemies: A History of the FBI, Tim Weiner
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
 Eradication: Ridding the World of Diseases Forever?, Nancy Leys Stepan
@@ -53,6 +55,7 @@ Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
 Kill Chain, Andrew Cockburn
+Kissinger: A Biography, Walter Isaacson
 Legacy of Ashes, Tim Weiner
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela, page: 24
@@ -157,6 +160,7 @@ The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
 The Wheel of Time, Robert Jordan
+The Wise Men, Walter Isaacson
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
@@ -173,6 +177,11 @@ Women, Charles Bukowski
 *, Jonathan Franzen
 
 DONE
+Flash Boys, Michael Lewis
+A Confederacy of Dunces, John Kennedy Toole
+All's Quiet on the Western Front, Erich Maria Remarque
+Dark Pools, Scott Patterson
+Journey to the End of the Night, Louis-Ferdinand Celine
 Salt: A World History, Mark Kurlansky
 What the Dormouse Said, John Markoff
 The Shadow Factory, James Bamford
