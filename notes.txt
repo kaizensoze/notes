@@ -402,7 +402,15 @@ steroid is used to describe general chemical structure of five classes of hormon
 secreted by the adrenal gland, often act similar to epinephrine
 epinephrine acts within seconds, glucocorticoids back this up over course of minutes or hours
 a putative hormone is referred to as a factor until its chemical structure is confirmed (ex: CRF -> CRH)
-
+CRH (corticotropin releasing hormone) triggers pituitary to release hormone ACTH (corticotropin)
+ACTH is released into bloodstream, reaches adrenal gland, and triggers glucocorticoid release
+in times of stress pancreas is stimulated to release hormone glucagon
+glucocorticoids, glucagon, and the sympathetic nervous system raise circulating levels of sugar glucose
+pituitary also secretes prolactin, which suppresses reproduction during stress
+pituitary and brain secrete class of endogenous morphine-like substances called endorphins and enkephalins which help blunt pain perception
+pituitary also secretes vasopressin, aka antidiuretic hormone, which plays role in cardiovascular stress-response
+sympathetic arousal is a relative marker of anxiety and vigilance
+heavy secretion of glucocorticoids is more a marker of depression
 
 the innovators
 ==============

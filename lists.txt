@@ -1,13 +1,14 @@
 
-research university research
-
-zipcar / goodwill donation
+zipcar
+  visit grandma (300 Community Dr, Manhasset, NY 11030)
+  goodwill
+  bank deposit
 pack some stuff into containers
 replace bike tires
-bank deposit
-sell climbing trainer
+post climbing trainer
 get birthday gift for dad
 dentist appt
+research university research
 
 tv
   Better Call Saul S02E04 (03/07)
@@ -35,11 +36,9 @@ projects
   blog
     aws vs digitalocean vs linode perf test
     flask vs node vs go perf test
-  karass
   brain scans
   oculus rift
   Leap Motion: Orion
-  hal's abode
   kali linux
   linux kernel
   react native
@@ -135,15 +134,12 @@ guitar
   go with floy rose locking nut over kahler
 
 videogames
-  PC
-    The Town Of Light
   PS4
     Dark Souls III
     Dishonored 2
     Fallout 4
     The Division
   iOS
-    Alto's Adventure
     The Witness
 
 places
