@@ -380,6 +380,29 @@ why zebras don't get ulcers
 Walter Cannon focused on adaptive aspect of stress-response in dealing with emergencies
 Hans Selye formalized the ill effects of stress with ulcerated rat experiment
 autonomic nervous system includes sympathetic and parasympathetic systems
+sympathetic: fight, flight, fright, sex
+parasympathetic: chill
+"safety features" exist so that parts of the brain that trigger sympathetic inhibit the parasympathetic and vice versa
+neural route represented by sympathetic system is first means to mobilize response to stressor
+another way is through secretion of hormones
+if a neuron secretes a chemical messenger that travels and causes next cell in line to do something different, that messenger is a neurotransmitter
+if a neuron secretes a messenger that instead percolates into the bloodstream, that messenger is a hormone
+used to be believed that testicles secrete less testosterone with age
+wealthy people would get injected with testicular extracts from other animals [and could even pick the animal]
+this led to organotherapy: grafting of little bits of testes
+in 1944 Geoffrey Harris proposes that brain is also a hormonal gland
+Roger Guillemin and Andrew Schally start looking for these brain hormones
+14 years later, the chemical structure of the first releasing hormone is published
+they get the Nobel Price in 1976
+the hypothalamus contains a huge array of releasing and inhibiting hormones
+two hormones vital to stress-response are epinephrine and norepinephrine released by sympathetic nervous system
+another important class of hormones in response to stress are glucocorticoids
+glucocorticoids are steroid hormones
+steroid is used to describe general chemical structure of five classes of hormones: androgens (anabolic), estrogens, progestins, mineralocorticoids, glucocorticoids
+secreted by the adrenal gland, often act similar to epinephrine
+epinephrine acts within seconds, glucocorticoids back this up over course of minutes or hours
+a putative hormone is referred to as a factor until its chemical structure is confirmed (ex: CRF -> CRH)
+
 
 the innovators
 ==============
