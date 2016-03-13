@@ -3,6 +3,11 @@ replace bike tires
 research university research
 online course
 
+cancel chewy autoship
+cancel time warner (1-888-892-2253)
+cancel coned
+cancel national grid
+
 tv
   The West Wing S01E05
   Walking Dead S06E13 (03/13)
@@ -22,6 +27,7 @@ movies
   The Witch
   The Brothers Grimsby
   10 Cloverfield Lane
+  Eye In The Sky
   Lo and Behold, Reveries of the Connected World
   Swiss Army Man
   Shut In
@@ -133,7 +139,6 @@ videogames
     Dark Souls III
     Dishonored 2
     Fallout 4
-    The Division
   iOS
     The Witness
 
