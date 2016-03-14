@@ -1,8 +1,5 @@
 
-look into raspberry pi voice recognition tutorial
-decide on raspberry pi 2 vs zero
 replace bike tires
-online course
 
 cancel time warner (1-888-892-2253)
 cancel coned
@@ -10,11 +7,11 @@ cancel national grid
 
 tv
   The West Wing S01E05
-  Walking Dead S06E13 (03/13)
-  Bob's Burgers S06E10 (03/13)
   Better Call Saul S02E05 (03/14)
   Full Frontal S01E06 (03/14)
   Daredevil S02E01 (03/18)
+  Walking Dead S06E14 (03/20)
+  Bob's Burgers S06E11 (03/20)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
@@ -34,6 +31,7 @@ movies
   Suicide Squad
 
 projects
+  speech to shock
   blog
     aws vs digitalocean vs linode perf test
     flask vs node vs go perf test
