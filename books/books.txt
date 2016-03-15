@@ -90,6 +90,7 @@ Sprint, Jake Knapp
 SpyCatcher, Peter Wright
 Spycraft, Robert Wallace
 Stiff, Mary Roach
+Stress Test, Timothy Geithner
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
@@ -127,6 +128,7 @@ The Illuminatus Trilogy, Robert Shea
 The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovators, Walter Isaacson
 The Innovator's Dilemma, Clayton M. Christensen
+The Intelligent Investor, Benjamin Graham
 The Laws of Medicine, Siddhartha Mukherjee
 The Life-Changing Magic of Tidying Up, Marie Kondo
 The Long Tomorrow, Leigh Brackett
@@ -139,6 +141,7 @@ The Name of the Wind, Patrick Rothfuss
 The Nightingale, Kristin Hannah
 The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan Holiday
 The Once and Future King, T.H. White
+The Outsiders, S. E. Hinton
 The Panda's Thumb, Stephen Jay Gould
 The Paper Trip, Barry Reid
 The Pentagon's Brain, Annie Jacobsen
