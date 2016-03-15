@@ -34,6 +34,7 @@ movies
   Suicide Squad
 
 projects
+  get all unique issue tags on github
   speech to shock
   blog
     aws vs digitalocean vs linode perf test
