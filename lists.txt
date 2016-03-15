@@ -1,9 +1,9 @@
 
-plastic bags
+laundry
+breaking bad
+read
+clean lcd tv
 post tv
-make sure all of livia's documents are scanned
-include livia's documents and send to accountant
-ask livia what else I can sell
 
 cancel time warner (1-888-892-2253)
 cancel coned
@@ -21,10 +21,10 @@ tv
   Vice Principals (07/01)
 
 movies
+  The Witch
   Zootopia
   Son of Saul
   Manchester by the Sea
-  The Witch
   The Brothers Grimsby
   10 Cloverfield Lane
   Eye In The Sky
@@ -34,7 +34,6 @@ movies
   Suicide Squad
 
 projects
-  get all unique issue tags on github
   speech to shock
   blog
     aws vs digitalocean vs linode perf test
