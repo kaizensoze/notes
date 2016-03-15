@@ -228,3 +228,19 @@ estimated tax deadlines
   Q2 June 16, 2014
   Q3 September 15, 2014
   Q4 January 15, 2015
+
+github issue labels to search for to contribute
+  help wanted
+  help-wanted
+  good first bug
+  Help Wanted
+  contribution welcome
+  ----------------------
+  HelpWanted
+  first time contributor
+  Contributor Friendly
+  Good First Task
+  beginner friendly
+  good first contribution
+  Good for New Contributors
+  pull request wanted
