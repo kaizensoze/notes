@@ -1,18 +1,11 @@
 
-sell
-  tv (500)
-  bar stools (free)
-  tv stand (100)
-  heater (free)
-  cold brew (free)
-  pur water filter (free)
+
 
 cancel time warner (1-888-892-2253)
 cancel coned
 cancel national grid
 
 tv
-  The West Wing S01E05
   Daredevil S02E01 (03/18)
   Bob's Burgers S06E11 (03/20)
   Better Call Saul S02E06 (03/21)
@@ -59,6 +52,7 @@ books
   Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
   End This Depression Now!, Paul Krugman
   Ghost in the Wires, Kevin Mitnick
+  Hackers, Steven Levy
   Ham on Rye, Charles Bukowski
   Just Kids, Patti Smith
   Kitchen Confidential, Anthony Bourdain

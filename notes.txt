@@ -457,7 +457,7 @@ Lord Kelvin and James Thomson worked on creating an analog machine to solve dife
 used to help create tide charts and artillery trajectory tables
 analog machine used a planimeter that can measure area of two-dimensional shape
 able to produce tide chart in four hours, but unable to link devices together to solve multivariable eqns
-multivariable eqn problem finally mastered in 1931 by Vanevar Bush with his Differential Analyzer
+multivariable eqn problem finally mastered in 1931 by Vanevar Bush with his Differential Analyzer; he will later found Raytheon
 Differential Analyzer very useful for artillery firing tables
 in mid 1930s Tommy Flowers pioneers use of vacuum tubes as on-off switch in electronic circuits
 Alan Turing wins scholarship to attend King's College to read mathematics
@@ -561,3 +561,14 @@ Nolan Bushnell gets into University of Utah, which has best computer graphics pr
 University of Utah one of four nodes on ARPANET
 other U of U students included Jim Clark (Netscape), John Warnock (Adobe), Ed Catmull (Pixar), and Alan Kay
 Atari incorporated June 27, 1972
+Congress established National Science Foundation based on Vanevar Bush's report titled "Science, the Endless Frontier"
+Defense Department and National Science Foundation become prime funders of much of America's basic research
+most notable hybrid research centers to pop up after Bush's push are:
+  RAND Corporation, originally formed to provide rsearch and development to Air Force
+  Stanford Research Insitute and its offshoot, the Augmentation Research Center
+  Xerox PARC
+  Lincoln Laboratory, military-funded research center affiliated with MIT
+  Bolt, Beranek and Newman, founded by MIT, Harvard engineers
+J. C. R. Licklider founding director of military office that funded ARPANET; essentially a father of the Internet
+Licklider worked with Prof Norbert Wiener, a theorist who coined the term cybernetics
+Licklider really good at finding talented people to work with one another
