@@ -546,4 +546,18 @@ Arthur Rock placed value on people rather than idea
 Noyce and Moore form Intel
 west coast work style starts with Hewlett-Packard (laid back, flexible hours, etc.)
 Andy Grove, who also worked at Fairchild, joins Intel as director of engineering
+in summer 1969 japanese company Busicom go to Intel to build powerful desktop calculator
 in sep 1969 Ted Hoff and Stan Mazor design a general purpose logic chip
+intel retains rights to new chip and is allowed to license its use to other companies
+new chip is basically a computer processor on a chip and is dubbed a microprocessor
+in nov 1971, intel releases new chip to public as the Intel 4004
+Don Hoefler, a columnist for the weekly trade paper Electronic News, starts series of columns titled "Silicon Valley USA"
+hacker subculture as well as video game Spacewar comes from MIT's Tech Model Railroad Club
+Minsky build a learning machine designed to model the brain (SNARC)
+DEC PDP-1 donated to MIT in Sept 1961
+best programmer in the group is Steve Russell who helped John McCarthy create LISP
+Nolan Bushnell huge Spacewar fan
+Nolan Bushnell gets into University of Utah, which has best computer graphics program in the country at the time
+University of Utah one of four nodes on ARPANET
+other U of U students included Jim Clark (Netscape), John Warnock (Adobe), Ed Catmull (Pixar), and Alan Kay
+Atari incorporated June 27, 1972
