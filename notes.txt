@@ -532,3 +532,18 @@ some legal confusion later and Kilby granted patent
 Fairchild appeals and wins
 Fairchild and Texas Instruments come to a truce and agree to co-license to each other
 Kilby and Noyce seen as coinventors
+first major market for microchips is military
+in 1962 Strategic Air Command designed land-based missile Minuteman II that required two thousands microchips just on onboard guidance system
+Navy also buying chips for submarine-launched missile Polaris
+first consumer devices to use microchips are hearing aids
+Texas Instruments starts working on pocket calculators
+fairchild camera and instrument buy fairchild semiconductor and stifle creativity
+many leave; Jean Hoerni and 3 others leave to start Teledyne funded by Arthur Rock
+Arthur Rock provided venture capital for Fairchild Semiconductor deal
+more VCs: Venrock Associates, American Research and Development Corporation (ARDC)
+ARDC founded by Georges Doriot, former dean of Harvard Business School
+Arthur Rock placed value on people rather than idea
+Noyce and Moore form Intel
+west coast work style starts with Hewlett-Packard (laid back, flexible hours, etc.)
+Andy Grove, who also worked at Fairchild, joins Intel as director of engineering
+in sep 1969 Ted Hoff and Stan Mazor design a general purpose logic chip
