@@ -74,7 +74,7 @@ Melkor ->
   Orcs (Corrupted Elves)
 
 temp range
-  ideal: 65 - 75
+  ideal: 65 - 70
   tolerable: 45 - 80
 
 Talk Shows
@@ -588,3 +588,5 @@ Leonard Kleinrock claims credit for packet stuff, other internet founders kinda 
 Larry Roberts sent out soliciation for bids to companies that might want to build the minicomputers that would be sent to each research center to build the minicomputers
 contract goes to BBN, team led by Frank Heart and Robert Kahn
 Roberts selects four research centers to be the first ARPANET nodes: UCLA, Stanford Research Lab, University of Utah, and UCSB
+UCLA grad student Stephen Crocker leads group of grad students on figuring out how their host computers will connect to the standardized ARPANET IMPs
+Crocker comes up with idea for 'Request for Comments' or RFC
