@@ -572,3 +572,19 @@ most notable hybrid research centers to pop up after Bush's push are:
 J. C. R. Licklider founding director of military office that funded ARPANET; essentially a father of the Internet
 Licklider worked with Prof Norbert Wiener, a theorist who coined the term cybernetics
 Licklider really good at finding talented people to work with one another
+in the 1950s MIT AI lab develop computer time-sharing
+DARPA has repeatedly lost the D: created in 1958 as ARPA, renamed DARPA in 1972, ARPA in 1993, back to DARPA in 1996
+Licklider comes up with idea for "Libraries of the Future"
+Licklider recruited to DC to head information processing at DARPA
+Bob Taylor and Larry Roberts worked at ARPA (not on friendly terms)
+work on ARPA networking project begins, which is eventually named ARPA Net -> ARPANET by Larry Roberts at a conference: Oct 1967
+Roger Scantlebury comes up with idea to break messages into small units called packets
+the packet idea had been developed independently by Paul Baran at RAND
+different methods for sending data through a network:
+  circuit switching: similar to a phone system, a set of switches creates a dedicated circuit for signals to go back and forth during conversation and connection remains open
+  message switching (aka store-and-forward switching): entire message given address header, sent into network, then passed along from node to node
+  packet switching: messages broken into packets, given address headers, then sent to their destinations
+Leonard Kleinrock claims credit for packet stuff, other internet founders kinda flip out at such a claim
+Larry Roberts sent out soliciation for bids to companies that might want to build the minicomputers that would be sent to each research center to build the minicomputers
+contract goes to BBN, team led by Frank Heart and Robert Kahn
+Roberts selects four research centers to be the first ARPANET nodes: UCLA, Stanford Research Lab, University of Utah, and UCSB
