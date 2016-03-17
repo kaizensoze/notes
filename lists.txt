@@ -6,7 +6,6 @@ metova interview
   what is the typical structure people-wise for a project?
   what is your onboarding process for a new project?
   what is the expected schedule?
-tv shows via aws
 
 schedule physical
 schedule dermatologist
@@ -21,8 +20,8 @@ cancel coned
 cancel national grid
 
 tv
-  Girls
   Daredevil S02E01 (03/18)
+  Girls S05E05 (03/20)
   Bob's Burgers S06E11 (03/20)
   Better Call Saul S02E06 (03/21)
   Archer S07E01 (03/31)
