@@ -572,3 +572,10 @@ contract goes to BBN, team led by Frank Heart and Robert Kahn
 Roberts selects four research centers to be the first ARPANET nodes: UCLA, Stanford Research Lab, University of Utah, and UCSB
 UCLA grad student Stephen Crocker leads group of grad students on figuring out how their host computers will connect to the standardized ARPANET IMPs
 Crocker comes up with idea for 'Request for Comments' or RFC
+
+limitless worker surveillance
+=============================
+in Feb 1855 Allan Pinkerton met with attorney Edward Rucker at Chicago Masonic Hall to discuss need for greater control over employees
+they decided to form Pinkerton National Detective Agency
+The Pinkertons served role of infiltrating/busting unions and monitoring workers
+Congress later passes Anti-Pinkerton Act of 1893 which limited federal government's ability to hire Pinkertons (private employers still could)
