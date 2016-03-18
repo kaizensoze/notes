@@ -299,16 +299,6 @@ taiwan
 kosovo
 vatican city
 
-film
-====
-car driving slowly in front in neighborhood, license: 422YAH, jokingly says outloud "422, yah?"
-at later point, getting onto highway, car on onramp going slowly, angrily mutters "get the fuck out of the way" then notices the license plate
-development of sleep disorder
-elevator opens up with group inside (closeup)
-walks into elevator
-shot from afar of group with main in front unaware of their presene; doors close
-cut to credits, start playing "Hideaway - Passion Pit" at 0:53; credits are in form of patriot act? (probably not)
-
 phonegap
 ========
 cordova create hello com.example.hello "HelloWorld"
