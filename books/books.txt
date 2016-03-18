@@ -113,6 +113,7 @@ The Devil in the White City, Erik Larson
 The Dispossessed, Ursula K. Le Guin
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 The Emperor's New Mind, Roger Penrose
+The End of Power, Moises Naim
 The Faith Healers, James Randi
 The Fifth Discipline, Peter M. Senge
 The Forever War, Dexter Filkins
@@ -179,7 +180,8 @@ Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
 What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
-Why Zebras Don't Get Ulcers, Robert Sapolsky
+Why Nations Fail, Daron Acemoglu
+Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 Women, Charles Bukowski
 *, Jonathan Franzen
 

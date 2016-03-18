@@ -1,10 +1,13 @@
 
 idiocracy
+the characters
+
+post maschine mikro
+post fender squier bullet
 
 buy suitcase
 trim down wardrobe
 
-give guitar, drum machine to alec
 volunteer to walk dogs
 email dentist about retainer
 pick up tax return
@@ -43,7 +46,7 @@ movies
   Shut In
   Suicide Squad
 
-books
+best books
   A Confederacy of Dunces, John Kennedy Toole
   Age of Ambition, Evan Osnos
   All's Quiet on the Western Front, Erich Maria Remarque
@@ -67,6 +70,11 @@ books
   The Shadow Factory, James Bamford
   The Unwinding, George Packer
   Voltaire's Bastards, John Ralston Saul
+
+best movies
+  This Is Spinal Tap
+  The Princess Bride
+  Idiocracy
 
 places
   fuddruckers
