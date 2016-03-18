@@ -1,16 +1,15 @@
 
-netflix
-bring up box of books
 idiocracy
 
+toothbrush head
 buy suitcase
 trim down wardrobe
 
 volunteer to walk dogs
 
 give guitar, drum machine to alec
-
 email dentist about retainer
+pick up tax return
 
 make the most out of wifi
   update apps
@@ -26,7 +25,6 @@ cancel coned
 cancel national grid
 
 tv
-  Daredevil S02E01 (03/18)
   Girls S05E05 (03/20)
   Bob's Burgers S06E11 (03/20)
   Better Call Saul S02E06 (03/21)
@@ -36,9 +34,7 @@ tv
   Vice Principals (07/01)
 
 movies
-  Pee-wee's Big Holiday (03/18)
   The Witch
-  Zootopia
   Son of Saul
   Manchester by the Sea
   The Brothers Grimsby
@@ -48,17 +44,6 @@ movies
   Swiss Army Man
   Shut In
   Suicide Squad
-
-projects
-  blog
-    aws vs digitalocean vs linode perf test
-    flask vs node vs go perf test
-  brain scans
-  oculus rift
-  Leap Motion: Orion
-  kali linux
-  linux kernel
-  react native
 
 books
   A Confederacy of Dunces, John Kennedy Toole
@@ -84,6 +69,32 @@ books
   The Shadow Factory, James Bamford
   The Unwinding, George Packer
   Voltaire's Bastards, John Ralston Saul
+
+places
+  fuddruckers
+
+  DONE
+  bakery
+    Bakeri
+    Buttermilk Bakery
+    Sugar Couture
+    Du Jour Bakery
+    Margaret Palca Bakes
+    Betty Bakery
+    Court Street Pastry Shoppe
+    Caprice's by Sophie
+    Napoli Bakery
+    Mazzola Bakery
+    Four & Twenty Blackbirds
+  sandwiches
+    Court Street Grocers
+    Defontes
+    Original John's Deli
+  coffee
+    Toby's Estate
+    Otha's
+    The West
+    The Mill Coffee Company
 
 bands
   billy joel
@@ -149,7 +160,7 @@ guitar
     edge pro
     zr
 
-  go with floy rose locking nut over kahler
+  go with floyd rose locking nut over kahler
 
 videogames
   PS4
@@ -157,29 +168,6 @@ videogames
     Dishonored 2
   iOS
     The Witness
-
-places
-  bakery
-    Bakeri
-    Buttermilk Bakery
-    Sugar Couture
-    Du Jour Bakery
-    Margaret Palca Bakes
-    Betty Bakery
-    Court Street Pastry Shoppe
-    Caprice's by Sophie
-    Napoli Bakery
-    Mazzola Bakery
-    Four & Twenty Blackbirds
-  sandwiches
-    Court Street Grocers
-    Defontes
-    Original John's Deli
-  coffee
-    Toby's Estate
-    Otha's
-    The West
-    The Mill Coffee Company
 
 overthewire
   http://natas12.natas.labs.overthewire.org
