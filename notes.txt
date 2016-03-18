@@ -299,15 +299,6 @@ taiwan
 kosovo
 vatican city
 
-phonegap
-========
-cordova create hello com.example.hello "HelloWorld"
-cd hello
-cordova platform add ios
-cordova build
-cordova plugin add plugin.google.maps --variable API_KEY_FOR_IOS="AIzaSyCSi7Zh5unqv-Vt83BOgvOdfvPHEGANi_g"
-cordova emulate
-
 breakup of yugoslavia
 =====================
 Slovenia
@@ -366,7 +357,6 @@ cell phone simulators
 Harris: Triggerfish -> StingRay -> Hailstorm
 countermeasures: Android:SnoopSnitch, ESD:CryptoPhone
 In theory IMSI catchers can pinpoint only the location of 3G/4G phones so the trick is to knock them down to 2G to access calls/texts/etc., which is what Hailstorm does.
-
 
 caduceus vs rod of asclepius
 ============================

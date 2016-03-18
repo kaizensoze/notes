@@ -69,6 +69,14 @@ brew
   brew info elasticsearch
   brew switch elasticsearch 1.7.3
 
+cordova
+  cordova create hello com.example.hello "HelloWorld"
+  cd hello
+  cordova platform add ios
+  cordova build
+  cordova plugin add plugin.google.maps --variable API_KEY_FOR_IOS="AIzaSyCSi7Zh5unqv-Vt83BOgvOdfvPHEGANi_g"
+  cordova emulate
+
 curl
   cat urls.txt | parallel -j30 --eta curl -I
   curl --user name:password http://www.example.com
