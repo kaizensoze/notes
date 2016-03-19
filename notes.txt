@@ -364,6 +364,13 @@ The two-snake caduceus design has ancient and consistent associations with trade
 Tangential association of the caduceus with medicine has occurred through the ages, where it was sometimes associated with alchemy and wisdom.
 The modern use of the caduceus as a symbol of medicine became established in the United States in the late 19th and early 20th century as a result of documented mistakes, misunderstandings and confusion.
 
+limitless worker surveillance
+=============================
+in Feb 1855 Allan Pinkerton met with attorney Edward Rucker at Chicago Masonic Hall to discuss need for greater control over employees
+they decided to form Pinkerton National Detective Agency
+The Pinkertons served role of infiltrating/busting unions and monitoring workers
+Congress later passes Anti-Pinkerton Act of 1893 which limited federal government's ability to hire Pinkertons (private employers still could)
+
 why zebras don't get ulcers
 ===========================
 Walter Cannon focused on adaptive aspect of stress-response in dealing with emergencies
@@ -572,10 +579,24 @@ contract goes to BBN, team led by Frank Heart and Robert Kahn
 Roberts selects four research centers to be the first ARPANET nodes: UCLA, Stanford Research Lab, University of Utah, and UCSB
 UCLA grad student Stephen Crocker leads group of grad students on figuring out how their host computers will connect to the standardized ARPANET IMPs
 Crocker comes up with idea for 'Request for Comments' or RFC
-
-limitless worker surveillance
-=============================
-in Feb 1855 Allan Pinkerton met with attorney Edward Rucker at Chicago Masonic Hall to discuss need for greater control over employees
-they decided to form Pinkerton National Detective Agency
-The Pinkertons served role of infiltrating/busting unions and monitoring workers
-Congress later passes Anti-Pinkerton Act of 1893 which limited federal government's ability to hire Pinkertons (private employers still could)
+Xerox's Palo Alto Research Center (PARC) wanted local-area network to connect office work stations
+recent Harvard PhD Bob Metcalfe created way to use coaxial cable to create high-bandwidth system that he named "Ethernet"
+it was modeled on wireless network developed in Hawaii called ALOHAnet which sent packet data through UHF and satellite signals
+there was a packet radio network in San Francisco called PRNET with a satellite version called SATNET
+these systems were not compatible so in 1973 Robert Kahn set out to fix that
+Kahn worked with Vint Cerf to work on system that was referred to as an "internetwork" later shortened to "internet"
+traffic between ARPANET and any other network had to be seamless; they came up with an Internet Protocol (IP) that specified how to put the packet's destination in its header and helped determine how it would travel through networks to get there
+layered above the IP was Transmission Control Protocol (TCP) that instructed how to put the packets back together in the right order, checked to see if any of them were missing and requested retransmission of any info that had been lost
+in July 1945 Vannevar Bush wrote essay for Atlantic titled "As We May Thing" foreseeing a personal machine he dubbed a memex
+ken kesey graduates from university of oregon, goes to bay area as gard student in stanford's creative writing program
+while there he worked overnight shift at mental hospital and volunted for projects like Project MKUltra
+he writes his first novel One Flow Over the Cuckoo's Nest
+forms Merry Pranksters commune and travels cross-country in an old school bus
+he starts hosting series of Acid Tests; Kesey hears Grateful Dead and enlists them
+stewart brand creates Whole Earth Catalog
+Doug Engelbart seeks to augment human intelligence
+with some funding, he creates his own Augmentation Research Center at Stanford Research Institute (SRI)
+Engelbart, along with Bill English, invent the mouse
+culminating in 1968, Engelbart devices augmentation system called oNLine System or NLS which included: on-screen graphics, multiple windows on a screen, digital publishing, blog-like journals, wiki-like collaborations, document sharing, email, instant messaging, hypertext linking, skype-like videoconferencing, and formatting of documents
+these ideas would later be advanced by Alan Kay at Xerox PARC
+Engelbart demos The Mother of All Demos on Dec 9, 1968
