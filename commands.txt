@@ -143,6 +143,7 @@ heroku
 imagemagick
   identify -verbose [image]
   exiftool -all= [image]
+  convert *.jpg deposit_and_receipt.pdf
 
 jq
   jq -r '.SecurityGroups[] | select(.Description == "default group") | .GroupId
