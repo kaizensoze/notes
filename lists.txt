@@ -4,7 +4,9 @@ visit grandma in hospital (room 912)
 return library books
 walk dogs
 
+doctor appointments
 trim down wardrobe
+pack clothes
 
 email dentist about retainer
 pick up tax return

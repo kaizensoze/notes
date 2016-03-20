@@ -6,24 +6,26 @@ agnotologists
 unicorpse
 scorched_bacon
 
-"It is the good fortune of many to live distant from the scene of sorrow.”
-Thomas Paine. “Common Sense.”
-
 “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
 Ursula K. Le Guin. “The Left Hand of Darkness.”
-
-"A date is an experience you have with another person that makes you appreciate being alone."
-Larry David
-
-"He who has a why to live for can bear with almost any how."
-Nietzsche
-
-"Most people shoot for happiness but feel formed through suffering."
-The Road to Character - David Brooks
 
 "This tasteless cover is a good indication of the lack of musical invention within. The musical growth rate of this band cannot even be charted. They are treading water in a sea of retarded sexuality and bad poetry." - This Is Spinal Tap
 
 "I know you gentlemen have been through a lot, but when you find the time, I'd rather not spend the rest of this winter tied to this fucking couch." - The Thing
+
+"He who has a why to live for can bear with almost any how."
+Nietzsche
+
+"It is the good fortune of many to live distant from the scene of sorrow.”
+Thomas Paine. “Common Sense.”
+
+"Don't you do it, Hitler. Don't you dare fall in love with me." - Parks and Recreation S05E08
+
+"Most people shoot for happiness but feel formed through suffering."
+The Road to Character - David Brooks
+
+"A date is an experience you have with another person that makes you appreciate being alone."
+Larry David
 
 LOTR
 ====
@@ -602,3 +604,16 @@ Engelbart, along with Bill English, invent the mouse
 culminating in 1968, Engelbart devices augmentation system called oNLine System or NLS which included: on-screen graphics, multiple windows on a screen, digital publishing, blog-like journals, wiki-like collaborations, document sharing, email, instant messaging, hypertext linking, skype-like videoconferencing, and formatting of documents
 these ideas would later be advanced by Alan Kay at Xerox PARC
 Engelbart demos The Mother of All Demos on Dec 9, 1968
+Alan Kay joins Stanford Artificial Intelligence Laboratory (SAIL) run by John McCarthy; isn't a good fit
+Kay joins Xerox PARC and eventually works on creating the laptop (initially called Dynabook); he creates Smalltalk for the OS software
+personal computer never takes of at PARC due to its conversative ways (management)
+Fred Moore and friends open a public-access computer center
+Lee Felsenstein works on applying tech for societal good (protests, wikipedia-like openness, etc.)
+Fred Moore and Gordon French start Homebrew Computer Club
+Les Solomon of Popular Electronics discovers MITS (Ed Roberts' company)
+Ed Roberts creates the Altair
+Steve Dompier plays Beatles song, and then Daisy Bell (first song ever played by a computer at Bell Labs on IBM 704 in 1961) on Altair
+Bill Gates and Paul Allen work on BASIC for Altair
+Microsoft later formed
+Gates writes letter to hobbyists after copies of BASIC are made
+Steve Wozniak and Steve Jobs get together, build blue box and then personal computer; form Apple
