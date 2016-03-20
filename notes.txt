@@ -617,3 +617,32 @@ Bill Gates and Paul Allen work on BASIC for Altair
 Microsoft later formed
 Gates writes letter to hobbyists after copies of BASIC are made
 Steve Wozniak and Steve Jobs get together, build blue box and then personal computer; form Apple
+Dan Bricklin creates VisiCalc
+during 1970s IBM dominated mainframe market with 360 series
+DEC and Wang dominated refrigerator-size minicomputer market
+IBM approaches Microsoft for OS
+Gary Kildall, owner of CP/M, misses opportunity so Microsoft says they'll take care of it, buys DOS from Tim Paterson of Seattle Computer Products
+Apple/Microsoft conflict
+Richard Stallman creates GNU
+Linus Torvalds creates Linux
+in 1981 Lawrence Landweber at University of Wisconsin brought together universities not connected to ARPANET and created another network called CSNET
+CSNET became forerunner of network funded by NSF: NSFNET
+email becomes popular use case on ARPANET
+program called SNDMSG allowed user of big central computer to send message to personal folder of another user sharing same computer
+in 1971 Ray Tomlinson, an MIT engineer working at BBN, allowed to send messages to folders on other mainframes
+he did it by combining SNDMSG with experimental file transfer program called CYPNET; using username@hostname address syntax
+in Feb 1978, two members of Chicago Area Computer Hobbyists' Exchange, Ward Christensen and Randy Suess, snowed in by blizzard, develop Bulletin Board System (BBS) for sharing
+in 1979 students at Duke and UNC develop system hosted on personal computers known as Usenet
+modems introduced for consumer use to connect computers to internet via phone line
+illegal to connect modem into phone system electronically but you could do so mechanically
+Pennywhistle, designed by Lee Felsenstein, could send/receive digital signals at 300 bps
+in 1981 the Hayes Smartmodem came on the market
+Stewart Brand helps create The WELL (Whole Earth 'Lectronic Link'), an online community to discuss whatever
+participants could not be totally anonymous
+William von Meister creates The Source, linking home computers into a networking offering bunch of services, one of first consumer-oriented online services
+competitor is CompuServe, a business-oriented time-sharing network
+in 1984 CBS, Sears, and IBM join forces to launch service Prodigy
+up until 1992 it was illegal to connect a commercial service like AOL to the Internet
+in September 1993 AOL opens portal allowing members access to newsgroups and bulletin boards of the Internet
+the tech savvy referred to this as the Eternal September
+Al Gore helped allow AOL to connect to the Internet with the High Performance Computing Act of 1991 and the Scientific and Advanced Technology Act of 1992
