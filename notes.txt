@@ -646,3 +646,13 @@ up until 1992 it was illegal to connect a commercial service like AOL to the Int
 in September 1993 AOL opens portal allowing members access to newsgroups and bulletin boards of the Internet
 the tech savvy referred to this as the Eternal September
 Al Gore helped allow AOL to connect to the Internet with the High Performance Computing Act of 1991 and the Scientific and Advanced Technology Act of 1992
+Tim Berners-Lee creates relational program Enquire at CERN
+using hypertext and RPCs he comes up with URLs, HTTP, HTML
+Berners-Lee teams up with Robert Cailliau to get funding for proposal they call "WorldWideWeb" Proposal for a HyperText Project"
+World Wide Web takes off in 1993
+first easy-to-install Web browser with graphic capabilities Mosaic developed at the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana-Champaign
+built by Marc Andreesen, undergrad, and NCSA staffer Eric Bina
+Berners-Lee meets up with Andreesen and they disagree on Mosaic's path
+Justin Hall, freshman at Swarthmore College, creates first blog in Jan 1994
+Yahoo, Lycos, Excite pop up later that year
+Justin Hall teams up with editors Howard Rheingold and Louis Rossetto at Wired
