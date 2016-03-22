@@ -97,6 +97,10 @@ ghostscript
  -dBATCH \
  records.pdf
 
+pdf
+  brew install poppler
+  pdfunite in1.pdf in2.pdf out.pdf
+
 git
   git grep 'addSection' $(git rev-list --all)
   git bisect start
