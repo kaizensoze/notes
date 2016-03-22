@@ -18,7 +18,6 @@ Business@The Speed of Thought, Bill Gates
 Chaos, James Gleick
 Chaos in Kabul, Gérard de Villiers
 Cloud Atlas, David Mitchell
-Collapse, Jared Diamond
 Conscious Capitalism, John Mackey
 Contact, Carl Sagan
 Cosmos, Carl Sagan
@@ -353,3 +352,4 @@ Girl Walks into a Bar, Rachel Dratch
 Dhalgren, Samuel R. Delany
 As You Wish: Inconceivable Tales from the Making of The Princess Bride, Cary Elwes
 The Innovators, Walter Isaacson
+Collapse, Jared Diamond
