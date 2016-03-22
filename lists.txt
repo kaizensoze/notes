@@ -1,20 +1,20 @@
 
 TUESDAY
-send remaining docs for application
-shower
+tv shows
 food
-dermatologist
-return library books
 pack clothes
+PR's
+return library books
+pick up wine
+look into dermatologist app
 
 WEDNESDAY
 maark.it interview
-physical
+donate clothes
 book rental car for move
-drop off oculus rift, clothes at home
 
 THURSDAY
-donate clothes
+drop off oculus rift, clothes at home
 
 FRIDAY
 email dentist about retainer
@@ -36,7 +36,7 @@ change mailing address
 
 tv
   Bob's Burgers S06E11 (03/20)
-  Better Call Saul S02E06 (03/21)
+  Better Call Saul S02E07 (03/28)
   Archer S07E01 (03/31)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
@@ -86,9 +86,10 @@ best movies
   The Thing
   This Is Spinal Tap
 
-places
-  fuddruckers
+projects
+  dermatologist app
 
+places
   DONE
   bakery
     Bakeri
