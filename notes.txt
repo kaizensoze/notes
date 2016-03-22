@@ -656,3 +656,10 @@ Berners-Lee meets up with Andreesen and they disagree on Mosaic's path
 Justin Hall, freshman at Swarthmore College, creates first blog in Jan 1994
 Yahoo, Lycos, Excite pop up later that year
 Justin Hall teams up with editors Howard Rheingold and Louis Rossetto at Wired
+Ev Williams and Meg Hourihan create Pyra Labs, a suite of web applications for collaboration
+Dave Winer creates XML syndication format for weblogs
+Ward Cunningham develops wiki
+Wikipedia
+Jerry Yang and David Filo build up Yahoo
+web crawlers come into existence: WWW Wanderer built by Matthew Gray, WebCrawler by Brian Pinkerton, AltaVista by Louis Monier, Lcos by Michael Mauldin, OpenText by team at Waterloo, Excite by six friends from Stanford
+all of the crawlers used link-hopping robots
