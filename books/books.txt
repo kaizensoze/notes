@@ -129,7 +129,6 @@ The Hot Zone, Richard Preston
 The Hyperion Cantos, Dan Simmons
 The Illuminatus Trilogy, Robert Shea
 The Illustrations from the Works of Andreas Vesalius of Brussels
-The Innovators, Walter Isaacson
 The Innovator's Dilemma, Clayton M. Christensen
 The Intelligent Investor, Benjamin Graham
 The Laws of Medicine, Siddhartha Mukherjee
@@ -353,3 +352,4 @@ How Will You Measure Your Life?, Clayton M. Christensen
 Girl Walks into a Bar, Rachel Dratch
 Dhalgren, Samuel R. Delany
 As You Wish: Inconceivable Tales from the Making of The Princess Bride, Cary Elwes
+The Innovators, Walter Isaacson
