@@ -1,4 +1,3 @@
-A Fire Upon the Deep, Vernor Vinge
 A Survival Guide for Living Under Total Surveillance, Laura Poitras
 A Wizard of Earthsea, Ursula K. Le Guin
 Anna Karenina, Leo Tolstoy
@@ -354,3 +353,4 @@ Dhalgren, Samuel R. Delany
 As You Wish: Inconceivable Tales from the Making of The Princess Bride, Cary Elwes
 The Innovators, Walter Isaacson
 Collapse, Jared Diamond
+A Fire Upon the Deep, Vernor Vinge
