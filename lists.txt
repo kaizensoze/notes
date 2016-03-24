@@ -110,63 +110,6 @@ bands
   radiohead
   talking heads
 
-guitar
-  brand
-    fender
-    carvin
-    charvel
-
-  practice amp
-    Blackstar ID:Core 10
-    Roland Cube 10GX
-    Blackstar Fly 3
-
-  pedals
-    TC Electronic Ditto Looper
-    Boss DS-1
-    mi audio blues pro
-    fulltone ocd
-    klon centaur gold
-    skreddy screw driver
-
-  audio interface
-    Focusrite Scarlett Solo
-    Focusrite Scarlett 2i2
-    Focusrite Scarlett 2i4
-
-  software
-    Cab Simulator
-      Recabinet
-      LeCab
-      Catharsis IR
-
-    Amp Simulator
-      Scuffham Amps S-Gear
-      Positive Grid Bias
-      Peavey Revalver
-      Brainworx BX Rockrack
-      Softube Vintage Amp Room
-      Waves GTR
-
-    DAW
-      Presonus Studio One
-      FL Studio
-      Propellerhead Reason
-      Steinberg Cubase
-      Cockos Reaper
-      Apple Logic Pro X
-
-  hard case
-
-  wood: alder
-
-  tremolo
-    original floyd
-    edge pro
-    zr
-
-  go with floyd rose locking nut over kahler
-
 videogames
   PS4
     Dark Souls III
