@@ -661,5 +661,49 @@ Dave Winer creates XML syndication format for weblogs
 Ward Cunningham develops wiki
 Wikipedia
 Jerry Yang and David Filo build up Yahoo
-web crawlers come into existence: WWW Wanderer built by Matthew Gray, WebCrawler by Brian Pinkerton, AltaVista by Louis Monier, Lcos by Michael Mauldin, OpenText by team at Waterloo, Excite by six friends from Stanford
+web crawlers come into existence: WWW Wanderer built by Matthew Gray, WebCrawler by Brian Pinkerton, AltaVista by Louis Monier, Lycos by Michael Mauldin, OpenText by team at Waterloo, Excite by six friends from Stanford
 all of the crawlers used link-hopping robots
+
+The Faith Healers
+=================
+3 types of faith:
+  intransigent: faith will not be affected by any sort of contrary evidence, no matter how strong
+  the will to believe: willful belief where there is insufficient or no evidence either way to make a rational choice
+  hypothesis based upon evidence: evidence but not enough evidence or evidence of good enough quality to support total belief
+Paracelsus sought medicine in magic
+Lourdes healing fountain
+laying on of hands originated with nineteenth-century American/European evangelists
+Reverend William Branham of Indiana brought modern evangelist/fundamentalist healing movement into existence in the 1940s
+doctors and nurses in US have revitalized the International Order of St. Luke the Physician, and Episcopal group stressing a spiritual approach to the practice of medicine
+order grew as result of evangelist Oral Roberts's success in the 1950s
+evangelist Rex Humbard who began broadcasting in 1952 in Ohio is largely responsible for television format used by faith-healers
+Johannes Weyer, sixteenth century physician, also known as Piscinarius, was early skeptic of belief
+seed-faith system
+
+The Devil In The White City
+===========================
+Chicago World Fair of 1893 only lasted 7 months but attracted huge crowd of 27.5 million visits, averaging 700,000 a day
+Jack the Ripper's 5-murder spree in 1888
+in 1889, Paris on the Champ de Mars opened the Exposition Universelle
+Chicago rebuilt after Great Fire of 1871
+Montauk in Chicago termed first skyscraper
+William Jenney of firm Loring & Jenney designs first building to have load-bearing metal frame
+in 1885 fouled water ignites outbreak of cholera and typhoid that kills 10% of Chicago population
+Olmstead, of Central Park fame (among others), brought on to assist with Chicago fair construction/design
+
+The Hot Zone
+============
+Charles Monet, Frenchman who lived on private lands of Nzoia Sugar Factory, a plantation in western Kenya, patient zero of virus
+Marburg virus is an African organism named for place first discovered (Behring Works factory in Marburg that produced vaccines using kidney cells from African green monkeys)
+first person known to be infected by Marburg virus was employee named Klaus F.
+Marburg kills 1 in 4
+Yellow fever kills 1 in 20
+Marburg is one of family of viruses known as filoviruses (thread virus)
+most viruses are ball-shaped particles resembing peppercorns
+Marburg is the only ring-shaped virus known (resemble Cheerios or a tub of spaghetti when spilled out)
+effects of Marburg on brain resemble that of rabies
+filoviruses comprises Marburg and two types of Ebola: Ebola Zaire and Ebola Sudan
+Ebola Zaire kill rate is 9 in 10
+Marburg has special affinity for eyes and testicles (can linger there for months even after death)
+Kasensero one of the first places AIDS appeared
+strain that killed Charles Monet is known today as the Musoke strain after the doctor who died from contact with Monet

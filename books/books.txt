@@ -108,12 +108,10 @@ The Courage to Act: A Memoir of a Crisis and Its Aftermath, Ben Bernanke
 The Dark Tower, Stephen King
 The Death of Common Sense, Philip K. Howard
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
-The Devil in the White City, Erik Larson
 The Dispossessed, Ursula K. Le Guin
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 The Emperor's New Mind, Roger Penrose
 The End of Power, Moises Naim
-The Faith Healers, James Randi
 The Fifth Discipline, Peter M. Senge
 The Forever War, Dexter Filkins
 The Forever War, Joe Haldeman
@@ -354,3 +352,5 @@ As You Wish: Inconceivable Tales from the Making of The Princess Bride, Cary Elw
 The Innovators, Walter Isaacson
 Collapse, Jared Diamond
 A Fire Upon the Deep, Vernor Vinge
+The Faith Healers, James Randi
+The Devil in the White City, Erik Larson
