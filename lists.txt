@@ -209,14 +209,6 @@ techorgs
 	alpha one labs
 	nycresistor
 
-wine
-  bordeaux
-    Chateau Les-Charmes Godard 2012
-    Chateau Villars 2012
-    Chateau La Dauphine 2012
-    Ch. D'Agassac 2011
-    Clarendelle Rouge 2010
-
 cars
   ford fiesta
   honda fit
@@ -225,11 +217,6 @@ cars
 
 comics
   Walking Dead: 150
-
-health insurance
-  chamber of commerce
-  Freelancers Union
-  Healthcare.gov
 
 estimated tax deadlines
   Q1 April 15, 2014
