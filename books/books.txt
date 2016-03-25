@@ -108,7 +108,6 @@ The Courage to Act: A Memoir of a Crisis and Its Aftermath, Ben Bernanke
 The Dark Tower, Stephen King
 The Death of Common Sense, Philip K. Howard
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
-The Dispossessed, Ursula K. Le Guin
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 The Emperor's New Mind, Roger Penrose
 The End of Power, Moises Naim
@@ -354,3 +353,4 @@ A Fire Upon the Deep, Vernor Vinge
 The Faith Healers, James Randi
 The Devil in the White City, Erik Larson
 The Hot Zone, Richard Preston
+The Dispossessed, Ursula K. Le Guin
