@@ -412,7 +412,7 @@ pituitary also secretes vasopressin, aka antidiuretic hormone, which plays role 
 sympathetic arousal is a relative marker of anxiety and vigilance
 heavy secretion of glucocorticoids is more a marker of depression
 
-the innovators
+The Innovators
 ==============
 ada byron (=> lovelace) daughter of poet lord byron
 ada lovelace meets charles babbage
@@ -706,9 +706,17 @@ filoviruses comprises Marburg and two types of Ebola: Ebola Zaire and Ebola Suda
 Ebola Zaire kill rate is 9 in 10
 Marburg has special affinity for eyes and testicles (can linger there for months even after death)
 Kasensero one of the first places AIDS appeared
-strain that killed Charles Monet is known today as the Musoke strain after the doctor who died from contact with Monet
+strain that killed Charles Monet is known today as the Musoke strain after the doctor who contracted it from Monet
 Ebola virus named for Ebola River
 Ebola distantly related to measles, mumps, and rabies
 triggers rash all over body
 Ebola virus particle contains only seven different proteins
+ultraviolet door between Level 1 and Level 2
 ultraviolet light smashes virus' genetic material and makes them unable to replicate
+negative air pressure designed to keep hot agents from drifting outward
+first line of defense against a hot agent is sticky tape because it seals cracks
+July 6 1976: Mr. Yu G. first identified case in outbreak of unknown virus (later known as Ebola Sudan)
+Ebola Sudan lethality comparable to Black Plague
+to this day first human case of Ebola Zaire has never been identified
+overlap between victims is in Kitum Cave
+Racal suit is portable, positive-pressure space suit with battery-powered air supply
