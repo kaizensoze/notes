@@ -122,7 +122,6 @@ The Ghost Map, Steven Johnson
 The Girl Next Door, Jack Ketchum
 The Heretic's Guide to Global Finance, Brett Scott
 The Hidden Wealth of Nations, Gabriel Zucman
-The Hot Zone, Richard Preston
 The Hyperion Cantos, Dan Simmons
 The Illuminatus Trilogy, Robert Shea
 The Illustrations from the Works of Andreas Vesalius of Brussels
@@ -354,3 +353,4 @@ Collapse, Jared Diamond
 A Fire Upon the Deep, Vernor Vinge
 The Faith Healers, James Randi
 The Devil in the White City, Erik Larson
+The Hot Zone, Richard Preston
