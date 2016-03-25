@@ -27,7 +27,6 @@ ipad only app prep
 
 job search
   maark?
-  mirror?
   kworq?
   mobomo
   hnhiring
@@ -35,7 +34,6 @@ job search
   teamed.io
 
 tv
-  Veep S01E01
   Better Call Saul S02E07 (03/28)
   Archer S07E01 (03/31)
   Bob's Burgers S06E11 (04/03)
