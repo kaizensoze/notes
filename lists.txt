@@ -111,6 +111,10 @@ places
     The West
     The Mill Coffee Company
 
+torrents
+  what.cd
+  waffles.fm 
+
 bands
   billy joel
   camel
