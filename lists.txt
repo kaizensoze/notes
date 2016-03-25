@@ -13,8 +13,7 @@ pick up retainer
 apply to jobs
 repair chewed doors
 laundry
-pack closet, toilletries, upper body strength thing
-get bike from storage
+pack: closet, toiletries, pillow, standing desk, bike
 
 TUESDAY
 clean apartment
@@ -113,7 +112,7 @@ places
 
 torrents
   what.cd
-  waffles.fm 
+  waffles.fm
 
 bands
   billy joel
