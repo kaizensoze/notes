@@ -130,7 +130,6 @@ The Life-Changing Magic of Tidying Up, Marie Kondo
 The Long Tomorrow, Leigh Brackett
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
-The Malazan Book of the Fallen, Steven Erikson
 The Master Switch: The Rise and Fall of Information Empires, Tim Wu
 The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
 The Name of the Wind, Patrick Rothfuss
@@ -354,3 +353,4 @@ The Devil in the White City, Erik Larson
 The Hot Zone, Richard Preston
 The Dispossessed, Ursula K. Le Guin
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
+The Malazan Book of the Fallen, Steven Erikson
