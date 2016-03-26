@@ -138,7 +138,6 @@ The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan H
 The Once and Future King, T.H. White
 The Outsiders, S. E. Hinton
 The Panda's Thumb, Stephen Jay Gould
-The Paper Trip, Barry Reid
 The Pentagon's Brain, Annie Jacobsen
 The Power Broker, Robert A. Caro, page: 25
 The Promise of a Pencil, Adam Braun
@@ -158,14 +157,12 @@ The Stand, Stephen King
 The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
 The Trouble With Testosterone, Robert Sapolsky
-The Wheel of Time, Robert Jordan
 The Wise Men, Walter Isaacson
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
 This Will Change Everything, John Brockman
 Titus Groan, Mervyn Peake
-Travels with Charley in Search of America, John Steinbeck
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
 Undeniable, Bill Nye
@@ -354,3 +351,6 @@ The Hot Zone, Richard Preston
 The Dispossessed, Ursula K. Le Guin
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 The Malazan Book of the Fallen, Steven Erikson
+Travels with Charley in Search of America, John Steinbeck
+The Wheel of Time, Robert Jordan
+The Paper Trip, Barry Reid
