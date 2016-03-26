@@ -742,3 +742,29 @@ two most studied strains of bacteria are Bifidobacterium and Lactobacillus
 Escherichia coli produces vitamin K but can cause severe illness
 Heliobacter pylori causes peptic ulcers but regulates appetite
 we're born with Clostridium dificile but it can grow unchecked based on diet
+cytokines are small proteins released by cells that affect the behavior of other cells and are often important participants in inflammatory process
+C-reactive protein, interleukin six (IL-6), and tumor necrosis factor apha (TNF-a) are all cytokines
+TNF-a elevated in inflammatory conditions such as Alzheimer's, psoriasis, rheumatoid arthritis, cardiovascular disease, Crohn's disease, and asthma
+elevated blood sugar causes inflammation in the bloodstream and triggers reaction called glycation
+glycation: biological process by which sugar binds to proteins and certain fats, resulting in deformed molecules
+these sugar proteins are called advanced glycation end products (AGEs)
+good gut bacteria are capable of producing important brain chemicals like BDNF, gamma-amino butyric acid (GABA), and glutamate
+BDNF is involved in neurogenesis, the process by which new neurons are created
+BDNF also protects existing neurons
+Cyrex Array 2: gut permeability test that measures antibodies produced by immune system when confronted by molecule lipopolysaccharide (LPS)
+byproduct of mitochondria is production of reactive oxygen species (ROS) aka free radicals
+free radicals, known for negative effects of aging, also take part in apoptosis (process by which cells undergo self-destruction)
+our fingers formed through apoptosis
+apoptosis also allows our bodies to rid themselves of cancer cells
+cells lacking a nucleus can still commit apoptosis; mitochondria determine whether a cell shall live or die
+all of the mitochondrial DNA is inherited solely from the female lineage
+lower levels of BDNF have been associated with human anxiety and depression
+serotonin synthesized from tryptophan
+when tryptophan is degraded in body by certain enzymes, it becomes unavailable for production of serotonin
+one of byproducts of degraded tryptophan is kynurenine so high levels of kynurenine are good indicator of low tryptophan levels
+Bifidobacterium infantis associated with lower levels of kynurenine
+people with autism tend to have higher levels of clostridial specials; people with autism tend to crave carbs, especially refined sugars
+three main fatty acids produced by gut microbes are acetic, propionic, and butyric acid
+clostridial species produce propionic acid (PPA) in abundance
+PPA increases gut permeability
+individuals with autism are typically deficient in glutathione

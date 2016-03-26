@@ -10,7 +10,6 @@ Bleeding Edge, Thomas Pynchon
 Body of Secrets, James Bamford
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
-Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 Broken Markets, Sal L. Arnuk
 Built to Last, Jim Collins
 Business@The Speed of Thought, Bill Gates
@@ -354,3 +353,4 @@ The Faith Healers, James Randi
 The Devil in the White City, Erik Larson
 The Hot Zone, Richard Preston
 The Dispossessed, Ursula K. Le Guin
+Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
