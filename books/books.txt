@@ -162,7 +162,6 @@ Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
 This Will Change Everything, John Brockman
-Titus Groan, Mervyn Peake
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
 Undeniable, Bill Nye
@@ -354,3 +353,4 @@ The Malazan Book of the Fallen, Steven Erikson
 Travels with Charley in Search of America, John Steinbeck
 The Wheel of Time, Robert Jordan
 The Paper Trip, Barry Reid
+Titus Groan, Mervyn Peake
