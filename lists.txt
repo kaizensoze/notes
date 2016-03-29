@@ -1,7 +1,7 @@
 
-sign lease
 finish book
-
+sign lease
+pick up rental car
 drive to philly
 myanonamouse
 change mailing address
