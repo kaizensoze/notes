@@ -834,3 +834,43 @@ flail chest is a condition in which all your ribs break and your rib cage can't 
 electric cauterizing wand looks like cheap bank pen on cord, functions like a scalpel, cutting and burning (any vessels that are severed are melted shut)
 ancient Egyptians believed the ka, the esssence of a person, resided in the heart; the heart was the only organ left inside a mummified corpse
 Babylonians believed it resided in the liver
+mellified man: dead human remains steeped in honey
+macerate: soften in liquid
+Jews would sell fake mummies in Alexandria
+medical use of feces around since Pliny
+dropsy aka edema
+human blood used to treat leprosy
+scrofula aka King's evil aka Mycobacterial cervical lymphadenitis: disease with glandular swellings
+for six to eight hours, the blood in a dead body remains sterile and red blood cells retain oxygen-carrying capabilities
+Soviets were big on using blood from cadavers
+only person outside of USSR to try it was Dr. Kevorkian
+some people cook and eat placenta to stave off postpartum depression
+
+Sprint, Jake Knapp
+==================
+1 week sprint
+  mon
+    start at the end
+    map
+    ask the expert
+    target
+  tue
+    remix & improve
+    sketch
+  wed
+    decide
+    rumble
+    storyboard
+  thu
+    prototype
+  fri
+    test
+    learn
+choose one or two Deciders
+ideal size for a sprint is seven people
+bring in any extra experts on Monday
+team will include Deciders, Facilitator, ...
+use a Time Timer
+chat from game Glitch became Slack
+Keynote good for prototyping
+85 percent of problems are observed after just five people (usability tests)

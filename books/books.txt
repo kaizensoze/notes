@@ -86,10 +86,8 @@ So You've Been Publicly Shamed, Jon Ronson
 Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
 Sophie's World, Jostein Gaarder
-Sprint, Jake Knapp
 SpyCatcher, Peter Wright
 Spycraft, Robert Wallace
-Stiff, Mary Roach
 Stress Test, Timothy Geithner
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
@@ -355,3 +353,5 @@ Travels with Charley in Search of America, John Steinbeck
 The Wheel of Time, Robert Jordan
 The Paper Trip, Barry Reid
 Titus Groan, Mervyn Peake
+Stiff, Mary Roach
+Sprint, Jake Knapp
