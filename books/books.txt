@@ -55,7 +55,6 @@ Kissinger: A Biography, Walter Isaacson
 Legacy of Ashes, Tim Weiner
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela, page: 24
-Lost Girls, Robert Kolker
 Made in the USA, Vaclav Smil
 Man Called Intrepid, William Stevenson
 Mating in Captivity, Esther Perel
@@ -88,6 +87,7 @@ Something Wicked This Way Comes, Ray Bradbury
 Sophie's World, Jostein Gaarder
 SpyCatcher, Peter Wright
 Spycraft, Robert Wallace
+Spy the Lie, Philip Houston
 Stress Test, Timothy Geithner
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
@@ -167,6 +167,7 @@ Undeniable, Bill Nye
 Unstoppable, Bill Nye
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
+What Every BODY is Saying, Joe Navarro
 What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
 Why Nations Fail, Daron Acemoglu
@@ -355,3 +356,4 @@ The Paper Trip, Barry Reid
 Titus Groan, Mervyn Peake
 Stiff, Mary Roach
 Sprint, Jake Knapp
+Lost Girls, Robert Kolker
