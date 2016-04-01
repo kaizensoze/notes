@@ -1,6 +1,12 @@
 
 documentary now on netflix
 
+job hunt
+  angel list
+  upwork
+  in-person
+  remote full-time
+
 tv
   Bob's Burgers S06E11 (04/03)
   Last Week Tonight S03E07 (04/03)
@@ -12,6 +18,7 @@ tv
   Vice Principals (07/01)
 
 movies
+  Everybody Wants Some
   Hello, My Name Is Doris
   Nightmares in Red, White and Blue
   Son of Saul
@@ -55,7 +62,9 @@ best movies
   This Is Spinal Tap
 
 projects
-  .
+  github explore (host on server, change to oauth)
+  tor-related stuff
+  linux
 
 places
   DONE
