@@ -1,10 +1,8 @@
 
 north/midwest
 --------------------
-Philadelphia, PA [2]
-Hershey, PA [1.75]
-State College, PA [2]
-Pittsburgh, PA [2.5]
+Hershey, PA [2]
+Pittsburgh, PA [3.5]
 Cleveland, OH [2]
 Detroit, MI [2.5]
 Ann Arbor, MI [1]
@@ -34,7 +32,7 @@ Portland, OR [3.5]
 
 southwest
 ---------------------
-Portland, OR (fly)
+Portland, OR
 Sacramento, CA [8.5]
 Lake Tahoe, CA [2]
 Yosemite National Park, CA [2.5]
@@ -65,15 +63,16 @@ potential places to live
   New Orleans, LA
   Atlanta, GA
 
+================================================================================
+
 ITEMS
   Louisiana: Drive-thru Daiquiri
 
 LEFTOVER
-  Delaware
-  Hawaii
   Montreal
   Quebec City
   Ottawa
+  Hawaii
 
 ABROAD
   Paris
@@ -104,19 +103,6 @@ AVOID
   Bulgaria
   Philippines
   Indonesia
-
-LI
-  sayville
-  sag harbor
-  port jefferson
-  port washington
-  huntington
-  freeport
-  greenport
-  great neck
-  northport
-  babylon village
-  riverhead
 
 DONE
   road trip 1: New England
@@ -170,3 +156,7 @@ DONE
   Austin, TX [1.5]
   Dallas, TX [3]
   [42.5] (5 days)
+
+road trip 3: Midwest
+---------------------
+Philadelphia, PA [2]
