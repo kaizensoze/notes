@@ -1,14 +1,15 @@
 
-movie
-book
-
-extend reservation
+get hotel room
+food, piss
+toss standing desk
+order duffel bags => replace containers with bags
+order blender
+order dental pick
 cut nails
-
 fix seed ratio
-replace containers with bags
-blender
-dental pick
+figure out best cost-effective option for traveling
+download audio book
+research better sleeping bag
 
 job hunt
   angel list
