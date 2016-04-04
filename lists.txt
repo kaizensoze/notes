@@ -1,11 +1,9 @@
 
+food
 game of thrones
 toss standing desk
+swap containers with bags
 figure out best cost-effective option for traveling
-email accountant
-
-1170 Thorn Run Road Rm 217
-Coraopolis, PA 15108
 
 job hunt
   angel list
@@ -68,6 +66,7 @@ best movies
 
 projects
   github explore (host on server, change to oauth)
+  city tours
   tor-related stuff
   linux
   programming language emphasizing maps and sets

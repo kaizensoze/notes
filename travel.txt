@@ -1,6 +1,4 @@
 
-north/midwest
---------------------
 Cuyahoga Valley National Park
 Cleveland, OH [2]
 Detroit, MI [2.5]
@@ -27,10 +25,6 @@ Boise, ID [4.5]
 Vancouver, BC [10]
 Seattle, WA [2.5]
 Olympic National Forest, WA [3]
-Portland, OR [3.5]
-
-southwest
----------------------
 Portland, OR
 Sacramento, CA [8.5]
 Lake Tahoe, CA [2]
@@ -52,10 +46,14 @@ Wichita, KS [7]
 Oklahoma City, OK [2.5]
 Branson, MO [4.5]
 Little Rock, AR [3.5]
-==============
-[71] (9 days)
 
-potential places to live
+Charleston, SC
+Montreal
+Quebec City
+Ottawa
+Hawaii
+
+RETURN TO
   Pittsburgh, PA
   Richmond, VA
   Nashville, TN
@@ -66,12 +64,6 @@ potential places to live
 
 ITEMS
   Louisiana: Drive-thru Daiquiri
-
-LEFTOVER
-  Montreal
-  Quebec City
-  Ottawa
-  Hawaii
 
 ABROAD
   Paris

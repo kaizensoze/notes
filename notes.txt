@@ -79,6 +79,16 @@ Melkor ->
   Trolls
   Orcs (Corrupted Elves)
 
+Game of Thrones
+===============
+Prince Rhaegar Targaryen abducts Lyanna Stark
+King Aerys II (Mad King) has Eddard Stark's father (Rickard Stark) and brother (Brandon Stark) killed for protesting abduction, leading to Robert's Rebellion
+Robert's Rebellion
+  Jon Arryn of House Arryn
+Houses
+  Tyrell
+    Redwyne
+
 temp range
   ideal: 65 - 70
   tolerable: 45 - 80
