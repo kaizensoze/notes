@@ -1,6 +1,7 @@
 
 north/midwest
 --------------------
+Cuyahoga Valley National Park
 Cleveland, OH [2]
 Detroit, MI [2.5]
 Ann Arbor, MI [1]

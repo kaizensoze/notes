@@ -126,7 +126,6 @@ The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovator's Dilemma, Clayton M. Christensen
 The Intelligent Investor, Benjamin Graham
 The Laws of Medicine, Siddhartha Mukherjee
-The Life-Changing Magic of Tidying Up, Marie Kondo
 The Long Tomorrow, Leigh Brackett
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
@@ -358,3 +357,4 @@ Titus Groan, Mervyn Peake
 Stiff, Mary Roach
 Sprint, Jake Knapp
 Lost Girls, Robert Kolker
+The Life-Changing Magic of Tidying Up, Marie Kondo

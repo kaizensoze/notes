@@ -1,14 +1,14 @@
 
-food, piss
-order duffel bags => replace containers with bags
-order blender
-order dental pick
-cut nails
-fix seed ratio
-figure out best cost-effective option for traveling
-download audio book
-research better sleeping bag
+pick a blender
+game of thrones
+
 toss standing desk
+fix seed ratio
+download audio book
+figure out best cost-effective option for traveling
+
+1170 Thorn Run Road Rm 217
+Coraopolis, PA 15108
 
 job hunt
   angel list
@@ -73,6 +73,7 @@ projects
   github explore (host on server, change to oauth)
   tor-related stuff
   linux
+  programming language emphasizing maps and sets
 
 places
   DONE
