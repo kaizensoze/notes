@@ -1,8 +1,6 @@
 
 north/midwest
 --------------------
-Hershey, PA [2]
-Pittsburgh, PA [3.5]
 Cleveland, OH [2]
 Detroit, MI [2.5]
 Ann Arbor, MI [1]
@@ -57,11 +55,11 @@ Little Rock, AR [3.5]
 [71] (9 days)
 
 potential places to live
+  Pittsburgh, PA
   Richmond, VA
   Nashville, TN
-  San Antonio, TX
-  New Orleans, LA
   Atlanta, GA
+  New Orleans, LA
 
 ================================================================================
 
@@ -159,4 +157,10 @@ DONE
 
 road trip 3: Midwest
 ---------------------
-Philadelphia, PA [2]
+Philadelphia, PA
+Valley Forge, PA
+Palmyra, PA
+Hershey, PA
+  Isaac's Deli
+State College, PA
+Pittsburgh, PA
