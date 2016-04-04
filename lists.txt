@@ -1,10 +1,11 @@
 
+clean books
+download audio book
+
 pick a blender
 game of thrones
 
 toss standing desk
-fix seed ratio
-download audio book
 figure out best cost-effective option for traveling
 
 1170 Thorn Run Road Rm 217
