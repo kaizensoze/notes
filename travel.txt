@@ -54,11 +54,11 @@ Ottawa
 Hawaii
 
 RETURN TO
-  Pittsburgh, PA
-  Richmond, VA
+  Brooklyn, NY
   Nashville, TN
-  Atlanta, GA
+  Richmond, VA
   New Orleans, LA
+  Atlanta, GA
 
 ================================================================================
 
@@ -148,12 +148,12 @@ DONE
   Dallas, TX [3]
   [42.5] (5 days)
 
-road trip 3: Midwest
----------------------
-Philadelphia, PA
-Valley Forge, PA
-Palmyra, PA
-Hershey, PA
-  Isaac's Deli
-State College, PA
-Pittsburgh, PA
+  road trip 3: Midwest
+  ---------------------
+  Philadelphia, PA
+  Valley Forge, PA
+  Palmyra, PA
+  Hershey, PA
+    Isaac's Deli
+  State College, PA
+  Pittsburgh, PA
