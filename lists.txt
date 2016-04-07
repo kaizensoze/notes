@@ -1,6 +1,9 @@
 
-job hunt
-  angel list
+hotel
+reply to ryan
+mammoth cave
+order warmer sleeping bag
+mail louie's papers
 
 tv
   Archer S07E02 (04/07)
@@ -62,6 +65,7 @@ projects
   tor-related stuff
   linux
   programming language emphasizing maps and sets
+  wiki dictation
 
 places
   DONE

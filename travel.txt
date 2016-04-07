@@ -1,10 +1,3 @@
-
-Cuyahoga Valley National Park
-Cleveland, OH [2]
-Detroit, MI [2.5]
-Ann Arbor, MI [1]
-Columbus, OH [3]
-Cincinnati, OH [1.5]
 Louisville, KY [1.5]
 Indianapolis, IN [2]
 Chicago, IL [3]
@@ -59,6 +52,7 @@ RETURN TO
   Richmond, VA
   New Orleans, LA
   Atlanta, GA
+  Ann Arbor, MI
 
 ================================================================================
 
@@ -148,7 +142,7 @@ DONE
   Dallas, TX [3]
   [42.5] (5 days)
 
-  road trip 3: Midwest
+  road trip 3: Midwest/Southwest
   ---------------------
   Philadelphia, PA
   Valley Forge, PA
@@ -157,3 +151,9 @@ DONE
     Isaac's Deli
   State College, PA
   Pittsburgh, PA
+  Cuyahoga Valley National Park
+  Cleveland, OH
+  Detroit, MI
+  Ann Arbor, MI
+  Columbus, OH
+  Cincinnati, OH
