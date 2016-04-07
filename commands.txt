@@ -232,6 +232,9 @@ rails
 
   y MatePost.find(2409)  (in rails console)
 
+rsync
+  rsync -avzhe ssh --progress ubuntu@54.175.82.101:~/son ~/Downloads/son
+
 screen
   rename window:  C-a A
   reorder window: C-a :number n

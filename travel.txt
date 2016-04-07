@@ -1,4 +1,3 @@
-Louisville, KY [1.5]
 Indianapolis, IN [2]
 Chicago, IL [3]
 Milwaukee, WI [1.5]
@@ -46,11 +45,12 @@ Quebec City
 Ottawa
 Hawaii
 
-RETURN TO
+LIVE
   Brooklyn, NY
   Nashville, TN
   Richmond, VA
   New Orleans, LA
+  ===============
   Atlanta, GA
   Ann Arbor, MI
 
@@ -157,3 +157,4 @@ DONE
   Ann Arbor, MI
   Columbus, OH
   Cincinnati, OH
+  Louisville, KY
