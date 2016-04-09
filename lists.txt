@@ -2,6 +2,9 @@
 order sleeping bag
 mail louie's papers
 
+bucktown
+wicker park
+
 Milwaukee
   frozen custard
 Minnesota
@@ -11,11 +14,11 @@ Kansas
   zwiebach
 
 tv
-  Archer S07E02 (04/07)
   Bob's Burgers S06E12 (04/10)
   Last Week Tonight S03E08 (04/10)
   Better Call Saul S02E09 (04/11)
   Full Frontal with Samantha Bee S01E08 (04/11)
+  Archer S07E03 (04/14)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
   Vice Principals (07/01)
@@ -24,7 +27,6 @@ movies
   Everybody Wants Some
   Hello, My Name Is Doris
   Nightmares in Red, White and Blue
-  Son of Saul
   Manchester by the Sea
   The Brothers Grimsby
   Eye In The Sky
