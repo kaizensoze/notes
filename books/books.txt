@@ -39,7 +39,6 @@ Ghost Rider: Travels on the Healing Road, Neil Peart
 Green River Killer, Jeff Jensen
 Gulp, Mary Roach
 Hacking: The Art of Exploitation, Jon Erickson
-Have A Nice Day: A Tale of Blood and Sweatsocks, Mick Foley
 High Output Management, Andy Grove
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
@@ -73,7 +72,6 @@ Revenge of the Kremlin, Gérard de Villiers
 Rise of the Robots, Martin Ford
 Rogue Lawyer, John Grisham
 Rtfm: Red Team Field Manual, Ben Clark
-Salt Sugar Fat: How the Food Giants Hooked Us, Michael Moss
 Sandman Slim, Richard Kadrey
 Sexus, Henry Miller
 Sheltering Sky, Paul Bowles
@@ -153,6 +151,7 @@ The Three-Body Problem, Liu Cixin
 The Trouble With Testosterone, Robert Sapolsky
 The Wise Men, Walter Isaacson
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
+Thinking, Fast and Slow, Daniel Kahneman
 Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
 This Will Change Everything, John Brockman
@@ -309,7 +308,6 @@ World Order, Henry Kissinger
 How Markets Fail, John Cassidy
 No Good Men Among the Living, Anand Gopal
 Winning, Jack Welch
-Thinking, Fast and Slow, Daniel Kahneman
 Yes Please, Amy Poehler
 The Rational Optimist: How Prosperity Evolves, Matt Ridley
 The Department of Mad Scientists, Michael Belfiore
