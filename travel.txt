@@ -1,5 +1,5 @@
-Sioux Falls, SD [3]
-Badlands National Park, SD [4]
+Wall Drug (510 Main Street, Wall, SD)
+Badlands National Park, SD
 Rapid City, SD [1]
 Devils Tower, WY [1.5]
 Billings, MT [4]
@@ -155,3 +155,4 @@ DONE
   Minneapolis, MN
   Des Moines, IA
   Omaha, NE
+  Sioux Falls, SD
