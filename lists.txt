@@ -1,4 +1,6 @@
 
+catch up on node github
+
 Kansas
   zwiebach
 
@@ -21,7 +23,6 @@ movies
   Eye In The Sky
   Lo and Behold, Reveries of the Connected World
   Swiss Army Man
-  Shut In
   Suicide Squad
 
 best books
