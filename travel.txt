@@ -2,6 +2,7 @@ Yellowstone National Park, WY [2.5]
 Jackson, WY [1.5]
 Salt Lake City, UT [4.5]
 Boise, ID [4.5]
+Vancouver, BC [10.5]
 Seattle, WA [??]
 Olympic National Forest, WA [3]
 Portland, OR
@@ -31,8 +32,9 @@ EXTRAS
   Montreal
   Quebec City
   Ottawa
-  Vancouver
   Hawaii
+  Everglades, FL
+  Mammoth Cave, KY
 
 LIVE
   Brooklyn, NY
