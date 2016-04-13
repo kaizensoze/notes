@@ -1,8 +1,3 @@
-Wall Drug (510 Main Street, Wall, SD)
-Badlands National Park, SD
-Rapid City, SD [1]
-Devils Tower, WY [1.5]
-Billings, MT [4]
 Yellowstone National Park, WY [2.5]
 Jackson, WY [1.5]
 Salt Lake City, UT [4.5]
@@ -156,3 +151,8 @@ DONE
   Des Moines, IA
   Omaha, NE
   Sioux Falls, SD
+  Badlands National Park, SD
+  Rapid City, SD
+  Mount Rushmore, SD
+  Devils Tower, WY
+  Billings, MT
