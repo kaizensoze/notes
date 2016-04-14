@@ -1,9 +1,5 @@
-Yellowstone National Park, WY [2.5]
-Jackson, WY [1.5]
-Salt Lake City, UT [4.5]
-Boise, ID [4.5]
 Vancouver, BC [10.5]
-Seattle, WA [??]
+Seattle, WA [2.5]
 Olympic National Forest, WA [3]
 Portland, OR
 Sacramento, CA [8.5]
@@ -37,6 +33,10 @@ EXTRAS
   Hawaii
   Everglades, FL
   Mammoth Cave, KY
+  Jackson, WY
+  Grand Tetons National Park, WY
+  Yellowstone National Park, WY
+
 
 LIVE
   Brooklyn, NY
@@ -160,3 +160,5 @@ DONE
   Mount Rushmore, SD
   Devils Tower, WY
   Billings, MT
+  Salt Lake City, UT
+  Boise, ID
