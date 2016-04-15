@@ -23,7 +23,6 @@ Discworld, Terry Pratchett
 Disrupted: My Misadventure in the Start-Up Bubble, Dan Lyons
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
-East of Eden, John Steinbeck
 Einstein: His Life and Universe, Walter Isaacson
 Enemies: A History of the FBI, Tim Weiner
 Enzyme Systems that Metabolise Drugs and Other Xenobiotics, Costas Ioannides
@@ -63,7 +62,6 @@ My Friend Dahmer, Derf Backderf
 My Years With General Motors, Alfred P Sloan Jr
 Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
-Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
 Perdido Street Station, China Mieville
 Pour Your Heart Into It, Howard Schultz
 Producing Open Source Software: How to Run a Successful Free Software Project, Karl Fogel
@@ -84,7 +82,6 @@ Sophie's World, Jostein Gaarder
 SpyCatcher, Peter Wright
 Spycraft, Robert Wallace
 Spy the Lie, Philip Houston
-Stress Test, Timothy Geithner
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
@@ -136,7 +133,6 @@ The Promise of a Pencil, Adam Braun
 The Puzzle Palace, James Bamford
 The Racketeer, John Grisham
 The Restaurant at the End of the Universe, Douglas Adams
-The Road Taken, Henry Petroski
 The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Savior Generals, Victor Davis Hanson
 The Scar, China Mieville
@@ -152,7 +148,6 @@ The Trouble With Testosterone, Robert Sapolsky
 The Wise Men, Walter Isaacson
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Thinking, Fast and Slow, Daniel Kahneman
-Third Chimpanzee, Jared Diamond
 This Machine Kills Secrets, Andy Greenberg
 This Will Change Everything, John Brockman
 Twenty Thousand Leagues Under the Sea, Jules Verne
@@ -351,3 +346,4 @@ Stiff, Mary Roach
 Sprint, Jake Knapp
 Lost Girls, Robert Kolker
 The Life-Changing Magic of Tidying Up, Marie Kondo
+Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
