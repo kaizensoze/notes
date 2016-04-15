@@ -1,5 +1,10 @@
 
 complete tax form online
+download archer
+add bill nye audiobook to phone
+
+laundry
+
 mail louie's papers to livia
 check traffic ticket
 call 518-473-2492 to contact NY state about any registered agent change for LLC
@@ -29,6 +34,16 @@ movies
   Lo and Behold, Reveries of the Connected World
   Swiss Army Man
   Suicide Squad
+
+projects/ideas
+  create blog
+  github explore (host on server, change to oauth)
+  city tours
+  tor-related stuff
+  linux
+  programming language emphasizing maps and sets
+  wiki dictation
+  shower bath mat that can't retain athlete's foot fungus
 
 best books
   A Confederacy of Dunces, John Kennedy Toole
@@ -60,15 +75,6 @@ best movies
   The Princess Bride
   The Thing
   This Is Spinal Tap
-
-projects/ideas
-  github explore (host on server, change to oauth)
-  city tours
-  tor-related stuff
-  linux
-  programming language emphasizing maps and sets
-  wiki dictation
-  shower bath mat that can't retain athlete's foot fungus
 
 places
   DONE
