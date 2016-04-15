@@ -1,9 +1,9 @@
 
-143 Bleecker St APT 2R
+143 BLEECKER ST APT 2R
 Brooklyn, NY 11221
 
 knut hamsun
 
-taxable income (37): 62,002
-requested refund amount (78): 0
-amount owed (80): 685
+taxable income: 62,002
+requested refund amount: 0
+amount owed: 685
