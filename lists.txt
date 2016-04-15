@@ -1,7 +1,7 @@
 
 complete tax form online
-update hired profile
 mail louie's papers to livia
+check traffic ticket
 call 518-473-2492 to contact NY state about any registered agent change for LLC
 call 1-800-773-0888 to cancel legalzoom Registered Agent subscription
 
@@ -9,14 +9,15 @@ Kansas
   zwiebach
 
 tv
-  Full Frontal with Samantha Bee S01E08 (04/11)
   Archer S07E03 (04/14)
   Bob's Burgers S06E13 (04/17)
   Last Week Tonight S03E09 (04/17)
   Better Call Saul S02E10 (04/18)
+  Full Frontal with Samantha Bee S01E09 (04/18)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
   Vice Principals (07/01)
+  South Park
 
 movies
   Everybody Wants Some
@@ -60,13 +61,14 @@ best movies
   The Thing
   This Is Spinal Tap
 
-projects
+projects/ideas
   github explore (host on server, change to oauth)
   city tours
   tor-related stuff
   linux
   programming language emphasizing maps and sets
   wiki dictation
+  shower bath mat that can't retain athlete's foot fungus
 
 places
   DONE
@@ -109,6 +111,7 @@ videogames
   PS4
     Dark Souls III
     Dishonored 2
+    Rocket League
   iOS
     The Witness
 
