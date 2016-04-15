@@ -1,39 +1,3 @@
-awkwardly_nonchalant
-erotically_flatulent
-kafka trap
-compassion porn
-agnotologists
-unicorpse
-scorched_bacon
-
-Manly Forest City
-Anita Corning
-Chief Dull Knife College
-
-“It is good to have an end to journey towards; but it is the journey that matters, in the end.”
-Ursula K. Le Guin. “The Left Hand of Darkness.”
-
-"This tasteless cover is a good indication of the lack of musical invention within. The musical growth rate of this band cannot even be charted. They are treading water in a sea of retarded sexuality and bad poetry." - This Is Spinal Tap
-
-"I know you gentlemen have been through a lot, but when you find the time, I'd rather not spend the rest of this winter tied to this fucking couch." - The Thing
-
-"He who has a why to live for can bear with almost any how."
-Nietzsche
-
-"It is the good fortune of many to live distant from the scene of sorrow.”
-Thomas Paine. “Common Sense.”
-
-"Don't you do it, Hitler. Don't you dare fall in love with me." - Parks and Recreation S05E08
-
-"Most people shoot for happiness but feel formed through suffering."
-The Road to Character - David Brooks
-
-"A date is an experience you have with another person that makes you appreciate being alone."
-Larry David
-
-“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”
-
-Excerpt From: Charles Bukowski. “Women.” iBooks.
 
 LOTR
 ====
@@ -88,7 +52,7 @@ Melkor ->
   Orcs (Corrupted Elves)
 
 Game of Thrones
-===============
+====
 Prince Rhaegar Targaryen abducts Lyanna Stark
 King Aerys II (Mad King) has Eddard Stark's father (Rickard Stark) and brother (Brandon Stark) killed for protesting abduction, leading to Robert's Rebellion
 Robert's Rebellion
@@ -102,7 +66,7 @@ temp range
   tolerable: 45 - 80
 
 Talk Shows
-==========
+====
 tonight show (NBC) [11:35pm-12:35am]
   jimmy fallon (2014-present)
   jay leno (2010-2014)
@@ -123,7 +87,7 @@ late late show (CBS) [12:35am-1:35am]
   craig kilborn (1999-2004)
 
 CPR
-=========
+====
 if (spinal injury suspected)
   do not shake
 else
@@ -137,15 +101,15 @@ perform breathing every 30 compressions
 pinch nose, 2 deep breaths (don't over-inflate to prevent vomiting), listen for breathing
 
 First-Aid
-==========
+====
 
 the signal and the noise
-========================
+====
 risk is something you can put a price on (e.g. knowing your odds in poker)
 uncertainty is risk that is hard to measure
 
 legacy of ashes
-========================
+====
 Office of Strategic Services (OSS) (1942-1945)
   formed during FDR
   under William Donovan ("Wild Bill")
@@ -244,7 +208,7 @@ Egypt goes to war with Israel (1973)
 [stopped reading, stopped caring]
 
 presidents + major events
-====================
+====
 teddy roosevelt 1901-1909
 taft 1909-1913
 wilson 1913-1921
@@ -273,7 +237,7 @@ w bush 2001-2009
 obama 2009-present
 
 parts of government
-===================
+====
 Dept of Defense
   Secretary of Defense
     Office of Inspector General of DoD
@@ -315,14 +279,14 @@ Dept of Treasury
 NOTE: In May 2009, Obama merged Homeland Security Council (HSC) and National Security Council (NSC) into National Security Staff (NSS)
 
 countries (196)
-=========
+====
 members of UN (193)
 taiwan
 kosovo
 vatican city
 
 breakup of yugoslavia
-=====================
+====
 Slovenia
 Croatia
 Bosnia-Herzegovina
@@ -332,7 +296,7 @@ Kosovo
 Macedonia
 
 nsa program transition
-======================
+====
 echelon
 trailblazer (thinthread loses)
 turbulence
@@ -340,12 +304,12 @@ turbulence
 butte < mesa < plateau
 
 rise of the warrior cop
-=======================
+====
 Whitman shootings mark the birth of the SWAT
 1969: Jerry Wilson heads DC's Metro Police in 1969; does it right
 
 no good men among the living
-============================
+====
 before the soviet union invaded afghanistan, it was a pretty progressive hippie friendly place (communists) [1950s]
 April 1978: Communists rally against government [under dictator Daud Khan] for killing leader Mir Akbar Khyber
 Communists stage coup, kill Khan
@@ -375,26 +339,26 @@ in Pashto, these students were called taliban
 2 hex characters = 1 byte
 
 cell phone simulators
-=====================
+====
 Harris: Triggerfish -> StingRay -> Hailstorm
 countermeasures: Android:SnoopSnitch, ESD:CryptoPhone
 In theory IMSI catchers can pinpoint only the location of 3G/4G phones so the trick is to knock them down to 2G to access calls/texts/etc., which is what Hailstorm does.
 
 caduceus vs rod of asclepius
-============================
+====
 The two-snake caduceus design has ancient and consistent associations with trade, eloquence, trickery, and negotiation.
 Tangential association of the caduceus with medicine has occurred through the ages, where it was sometimes associated with alchemy and wisdom.
 The modern use of the caduceus as a symbol of medicine became established in the United States in the late 19th and early 20th century as a result of documented mistakes, misunderstandings and confusion.
 
 limitless worker surveillance
-=============================
+====
 in Feb 1855 Allan Pinkerton met with attorney Edward Rucker at Chicago Masonic Hall to discuss need for greater control over employees
 they decided to form Pinkerton National Detective Agency
 The Pinkertons served role of infiltrating/busting unions and monitoring workers
 Congress later passes Anti-Pinkerton Act of 1893 which limited federal government's ability to hire Pinkertons (private employers still could)
 
 why zebras don't get ulcers
-===========================
+====
 Walter Cannon focused on adaptive aspect of stress-response in dealing with emergencies
 Hans Selye formalized the ill effects of stress with ulcerated rat experiment
 autonomic nervous system includes sympathetic and parasympathetic systems
@@ -431,7 +395,7 @@ sympathetic arousal is a relative marker of anxiety and vigilance
 heavy secretion of glucocorticoids is more a marker of depression
 
 The Innovators
-==============
+====
 ada byron (=> lovelace) daughter of poet lord byron
 ada lovelace meets charles babbage
 charles babbage builds a Difference Engine, which can solve polynomial equations
@@ -683,7 +647,7 @@ web crawlers come into existence: WWW Wanderer built by Matthew Gray, WebCrawler
 all of the crawlers used link-hopping robots
 
 The Faith Healers
-=================
+====
 3 types of faith:
   intransigent: faith will not be affected by any sort of contrary evidence, no matter how strong
   the will to believe: willful belief where there is insufficient or no evidence either way to make a rational choice
@@ -699,7 +663,7 @@ Johannes Weyer, sixteenth century physician, also known as Piscinarius, was earl
 seed-faith system
 
 The Devil In The White City
-===========================
+====
 Chicago World Fair of 1893 only lasted 7 months but attracted huge crowd of 27.5 million visits, averaging 700,000 a day
 Jack the Ripper's 5-murder spree in 1888
 in 1889, Paris on the Champ de Mars opened the Exposition Universelle
@@ -710,7 +674,7 @@ in 1885 fouled water ignites outbreak of cholera and typhoid that kills 10% of C
 Olmstead, of Central Park fame (among others), brought on to assist with Chicago fair construction/design
 
 The Hot Zone
-============
+====
 Charles Monet, Frenchman who lived on private lands of Nzoia Sugar Factory, a plantation in western Kenya, patient zero of virus
 Marburg virus is an African organism named for place first discovered (Behring Works factory in Marburg that produced vaccines using kidney cells from African green monkeys)
 first person known to be infected by Marburg virus was employee named Klaus F.
@@ -751,7 +715,7 @@ kwisha = finished
 Swahili word askari used to mean spear bearer; now it means an armed guard who carries an assault rifle and walks in your shadow
 
 Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life
-==============================================================================
+====
 in nineteenth century Russian-born biologist Elie Mechnikov made link between longevity and healthy balance of bacteria in body
 two most common groups of organisms in the gut, forming 90% of bacteria in colon, are Firmicutes and Bacteroidetes
 firmicutes are fat-loving bacteria, equipped with more enzymes to digest complex carbs (more efficient at extracting energy); they increase fat absorption
@@ -788,7 +752,7 @@ PPA increases gut permeability
 individuals with autism are typically deficient in glutathione
 
 Travels with Charley in Search of America
-=========================================
+====
 (published in 1962, after Jack Kerouac's On the Road (1957)); jfk shot in 1963; johnson elected 1964
 Rocinante is Don Quixote's horse
 
@@ -865,7 +829,7 @@ only person outside of USSR to try it was Dr. Kevorkian
 some people cook and eat placenta to stave off postpartum depression
 
 Sprint, Jake Knapp
-==================
+====
 1 week sprint
   mon
     start at the end
@@ -892,3 +856,30 @@ use a Time Timer
 chat from game Glitch became Slack
 Keynote good for prototyping
 85 percent of problems are observed after just five people (usability tests)
+
+Quotes
+====
+“It is good to have an end to journey towards; but it is the journey that matters, in the end.”
+Ursula K. Le Guin. “The Left Hand of Darkness.”
+
+"This tasteless cover is a good indication of the lack of musical invention within. The musical growth rate of this band cannot even be charted. They are treading water in a sea of retarded sexuality and bad poetry." - This Is Spinal Tap
+
+"I know you gentlemen have been through a lot, but when you find the time, I'd rather not spend the rest of this winter tied to this fucking couch." - The Thing
+
+"He who has a why to live for can bear with almost any how."
+Nietzsche
+
+"It is the good fortune of many to live distant from the scene of sorrow.”
+Thomas Paine. “Common Sense.”
+
+"Don't you do it, Hitler. Don't you dare fall in love with me." - Parks and Recreation S05E08
+
+"Most people shoot for happiness but feel formed through suffering."
+The Road to Character - David Brooks
+
+"A date is an experience you have with another person that makes you appreciate being alone."
+Larry David
+
+“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”
+
+Excerpt From: Charles Bukowski. “Women.” iBooks.
