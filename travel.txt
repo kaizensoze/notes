@@ -1,10 +1,10 @@
-Vancouver, BC [10.5]
-Seattle, WA [2.5]
-Olympic National Forest, WA [3]
+Olympic National Forest, WA
+Astoria, OR
 Portland, OR
 Sacramento, CA [8.5]
 Lake Tahoe, CA [2]
 Yosemite National Park, CA [2.5]
+Los Angeles, CA
 San Diego, CA [7]
 Palm Springs, CA [2]
 Joshua Tree National Park, CA [1]
@@ -161,3 +161,7 @@ DONE
   Billings, MT
   Salt Lake City, UT
   Boise, ID
+  Vancouver, BC
+  Redmond, WA (microsoft)
+  Bellevue, WA (valve)
+  Seattle, WA
