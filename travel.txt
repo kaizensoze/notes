@@ -40,8 +40,8 @@ LIVE
   Portland, OR
   Richmond, VA
   Nashville, TN
-  New Orleans, LA
   Atlanta, GA
+  New Orleans, LA
 
 NOTEWORTHY
   Pittsburgh, PA
