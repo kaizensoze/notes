@@ -1,6 +1,3 @@
-Olympic National Forest, WA
-Astoria, OR
-Portland, OR
 Sacramento, CA [8.5]
 Lake Tahoe, CA [2]
 Yosemite National Park, CA [2.5]
@@ -26,12 +23,13 @@ Branson, MO [4.5]
 Little Rock, AR [3.5]
 
 EXTRAS
-  Charleston, SC
   Montreal
   Quebec City
   Ottawa
   Hawaii
   Everglades, FL
+  Miami, FL
+  Charleston, SC
   Mammoth Cave, KY
   Jackson, WY
   Grand Tetons National Park, WY
@@ -39,10 +37,15 @@ EXTRAS
 
 LIVE
   Brooklyn, NY
+  Portland, OR
   Richmond, VA
   Nashville, TN
   New Orleans, LA
   Atlanta, GA
+
+NOTEWORTHY
+  Pittsburgh, PA
+  Milwaukie, WI
 
 ITEMS
   Louisiana: Drive-thru Daiquiri
@@ -165,3 +168,6 @@ DONE
   Redmond, WA (microsoft)
   Bellevue, WA (valve)
   Seattle, WA
+  Olympic National Forest, WA
+  Astoria, OR
+  Portland, OR
