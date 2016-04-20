@@ -1,12 +1,7 @@
-Sacramento, CA [8.5]
-Lake Tahoe, CA [2]
-Yosemite National Park, CA [2.5]
-Los Angeles, CA
-San Diego, CA [7]
+San Diego, CA
 Palm Springs, CA [2]
 Joshua Tree National Park, CA [1]
 Mojave National Preserve, CA [2.5]
-Zion National Park, UT [4]
 Grand Canyon, AZ [2]
 Flagstaff, AZ [1.5]
 Sedona, AZ [1]
@@ -36,14 +31,15 @@ EXTRAS
   Yellowstone National Park, WY
 
 LIVE
-  Brooklyn, NY
+  Los Angeles, CA
   Portland, OR
   Richmond, VA
+  Brooklyn, NY
+
+NOTEWORTHY
   Nashville, TN
   Atlanta, GA
   New Orleans, LA
-
-NOTEWORTHY
   Pittsburgh, PA
   Milwaukie, WI
 
@@ -133,7 +129,7 @@ DONE
   Dallas, TX [3]
   [42.5] (5 days)
 
-  road trip 3: Midwest/Southwest
+  road trip 3: Midwest/Southwest (remainder)
   ---------------------
   Philadelphia, PA
   Valley Forge, PA
@@ -171,3 +167,7 @@ DONE
   Olympic National Forest, WA
   Astoria, OR
   Portland, OR
+  Sacramento, CA
+  Lake Tahoe, CA
+  Yosemite National Park, CA
+  Los Angeles, CA

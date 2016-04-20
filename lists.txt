@@ -1,9 +1,10 @@
 
-hired phone interview
-mail washington citation
-mail louie's folder to livia
+order food
+shower
+gas, soap, padded envelope
+mail WA ticket, louie's folder
+message kristian, goutham
 call about utah speeding ticket mandatory court appearance
-
 gitpop
 
 LATER
@@ -14,13 +15,13 @@ LATER
   diy fluoride treatment
 
 tv
-  Better Call Saul S02E10 (04/18)
   Full Frontal with Samantha Bee S01E09 (04/18)
   Archer S07E04 (04/21)
   Game of Thrones S06E01 (04/24)
   Silicon Valley S03E01 (04/24)
   Last Week Tonight S03E10 (04/24)
   Bob's Burgers S06E14 (04/24)
+  Better Call Saul S02E11 (04/25)
   Vice Principals (07/01)
   South Park
 
@@ -39,6 +40,8 @@ movies
 
 projects/ideas
   create blog
+  unmanned "fast" food
+  hourly hotel? (soundproofing)
   github explore (host on server, change to oauth)
   city tours
   tor-related stuff
@@ -77,6 +80,10 @@ best movies
   The Princess Bride
   The Thing
   This Is Spinal Tap
+
+hmm
+  nightshift.co
+  cityvibe.com
 
 places
   DONE

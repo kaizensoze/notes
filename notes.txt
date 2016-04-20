@@ -857,6 +857,16 @@ chat from game Glitch became Slack
 Keynote good for prototyping
 85 percent of problems are observed after just five people (usability tests)
 
+donuts
+====
+Portland, OR
+  Voodoo Donuts
+  Blue Star Donuts
+Boise, ID
+  Guru Donuts
+Des Moines, IA
+  Donut Hut
+
 Quotes
 ====
 “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
