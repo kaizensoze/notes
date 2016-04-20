@@ -1,18 +1,16 @@
 
-order food
-shower
-gas, soap, padded envelope
-mail WA ticket, louie's folder
-message kristian, goutham
-call about utah speeding ticket mandatory court appearance
 gitpop
+bill nye
+message kristian, goutham
 
-LATER
-  start divorce process
-  phineas text
-  call 518-473-2492 to contact NY state about any registered agent change for LLC
-  call 1-800-773-0888 to cancel legalzoom Registered Agent subscription
-  diy fluoride treatment
+mail WA ticket, louie's folder
+call about utah speeding ticket mandatory court appearance
+phineas text
+return to ny
+start divorce process
+soundproofing materials
+how nsa blocks emf
+diy fluoride treatment
 
 tv
   Full Frontal with Samantha Bee S01E09 (04/18)
@@ -21,7 +19,6 @@ tv
   Silicon Valley S03E01 (04/24)
   Last Week Tonight S03E10 (04/24)
   Bob's Burgers S06E14 (04/24)
-  Better Call Saul S02E11 (04/25)
   Vice Principals (07/01)
   South Park
 
@@ -39,11 +36,9 @@ movies
   Suicide Squad
 
 projects/ideas
-  create blog
+  github explore (host on server, change to oauth)
   unmanned "fast" food
   hourly hotel? (soundproofing)
-  github explore (host on server, change to oauth)
-  city tours
   tor-related stuff
   linux
   programming language emphasizing maps and sets
@@ -80,10 +75,6 @@ best movies
   The Princess Bride
   The Thing
   This Is Spinal Tap
-
-hmm
-  nightshift.co
-  cityvibe.com
 
 places
   DONE
