@@ -281,6 +281,12 @@ tcpdump
 transmission
   sudo apt-get update && sudo apt-get install -y transmission-cli && transmission-cli <url>
 
+tshark
+  sudo ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport /usr/local/bin/airport
+  airport sniff
+  tshark -I -i en0 -Y 'http and not udp'
+  tshark -I -i en0 -Y http.request -T fields -e http.host
+
 tugboat
   tugboat authorize
   tugboat keys
@@ -301,6 +307,8 @@ virtualenv
   rmvirtualenv blah
 
 wireshark
+  DON'T FORGET: https://ask.wireshark.org/questions/42897/how-do-i-turn-on-monitor-mode-in-mac-os-x-with-wireshark-v199
+  http
   ip.src == 192.168.1.109 || ip.dst == 192.168.1.109
 
 xcode

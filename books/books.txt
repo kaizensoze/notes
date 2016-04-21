@@ -161,7 +161,6 @@ What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
 Why Nations Fail, Daron Acemoglu
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
-Women, Charles Bukowski
 *, Jonathan Franzen
 
 DONE
@@ -347,3 +346,4 @@ Sprint, Jake Knapp
 Lost Girls, Robert Kolker
 The Life-Changing Magic of Tidying Up, Marie Kondo
 Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
+Women, Charles Bukowski
