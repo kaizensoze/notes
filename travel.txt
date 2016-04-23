@@ -1,21 +1,3 @@
-San Diego, CA
-Palm Springs, CA [2]
-Joshua Tree National Park, CA [1]
-Mojave National Preserve, CA [2.5]
-Grand Canyon, AZ [2]
-Flagstaff, AZ [1.5]
-Sedona, AZ [1]
-Phoenix, AZ [2]
-Scottsdale, AZ [0.5]
-Tucson, AZ [2]
-Albequerque, NM [6.5]
-Chaco National Park, NM [2.75]
-Rocky Mountain National Park, CO [8.5]
-Denver, CO [2]
-Wichita, KS [7]
-Oklahoma City, OK [2.5]
-Branson, MO [4.5]
-Little Rock, AR [3.5]
 
 EXTRAS
   Montreal
@@ -29,6 +11,14 @@ EXTRAS
   Jackson, WY
   Grand Tetons National Park, WY
   Yellowstone National Park, WY
+  Albequerque, NM
+  Chaco National Park, NM
+  Rocky Mountain National Park, CO
+  Denver, CO
+  Wichita, KS
+  Oklahoma City, OK
+  Branson, MO
+  Little Rock, AR
 
 LIVE
   Los Angeles, CA
@@ -171,3 +161,13 @@ DONE
   Lake Tahoe, CA
   Yosemite National Park, CA
   Los Angeles, CA
+  San Diego, CA
+  Palm Springs, CA
+  Joshua Tree National Park, CA
+  Mojave National Preserve, CA
+  Grand Canyon, AZ
+  Flagstaff, AZ
+  Sedona, AZ
+  Phoenix, AZ
+  Scottsdale, AZ
+  Tucson, AZ

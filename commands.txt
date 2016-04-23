@@ -283,7 +283,7 @@ transmission
 
 tshark
   sudo ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport /usr/local/bin/airport
-  airport sniff
+  tshark -I -i en0 -Y http -T fields -e http.host -e ip.src
   tshark -I -i en0 -Y 'http and not udp'
   tshark -I -i en0 -Y http.request -T fields -e http.host
 
