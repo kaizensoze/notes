@@ -11,21 +11,18 @@ EXTRAS
   Jackson, WY
   Grand Tetons National Park, WY
   Yellowstone National Park, WY
-  Albequerque, NM
   Chaco National Park, NM
   Rocky Mountain National Park, CO
   Denver, CO
   Wichita, KS
-  Oklahoma City, OK
   Branson, MO
   Little Rock, AR
 
 LIVE
-  Los Angeles, CA
-  Portland, OR
   Richmond, VA
+  Portland, OR
+  Los Angeles, CA
 
-NOTEWORTHY
   Brooklyn, NY
   Nashville, TN
   Atlanta, GA
@@ -171,3 +168,5 @@ DONE
   Phoenix, AZ
   Scottsdale, AZ
   Tucson, AZ
+  Albequerque, NM
+  Oklahoma City, OK

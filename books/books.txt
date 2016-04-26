@@ -148,11 +148,9 @@ The Trouble With Testosterone, Robert Sapolsky
 The Wise Men, Walter Isaacson
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Thinking, Fast and Slow, Daniel Kahneman
-This Machine Kills Secrets, Andy Greenberg
 This Will Change Everything, John Brockman
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
-Undeniable, Bill Nye
 Unstoppable, Bill Nye
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
@@ -347,3 +345,5 @@ Lost Girls, Robert Kolker
 The Life-Changing Magic of Tidying Up, Marie Kondo
 Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
 Women, Charles Bukowski
+Undeniable, Bill Nye
+This Machine Kills Secrets, Andy Greenberg
