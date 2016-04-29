@@ -1,27 +1,19 @@
 
-workout
-shower
-lunch
+cancel contract with Guidepoint
 hospital
+gitpop
 peter pan donuts
 new rental car
 find apartment in richmond, va
-
-node-github tests
-gitpop
-phineas text
-
-order ps4/dark souls 3?
-
-soundproofing materials
+soundproofing
 how nsa blocks emf
 diy fluoride treatment
 
 tv
-  Archer S07E05 (04/28)
   Game of Thrones S06E01 (05/01)
   Silicon Valley S03E02 (05/01)
   Last Week Tonight S03E11 (05/01)
+  Archer S07E06 (05/05)
   Vice Principals (07/01)
 
 movies
@@ -40,7 +32,6 @@ movies
 projects/ideas
   github explore (host on server, change to oauth)
   unmanned "fast" food
-  hourly hotel? (soundproofing)
   tor-related stuff
   linux
   programming language emphasizing maps and sets
