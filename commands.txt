@@ -162,6 +162,9 @@ laravel
   php artisan migrate:refresh && php artisan init
   php artisan serve
 
+letsencrypt
+  ./letsencrypt-auto certonly -d brassafrax.com -d www.brassafrax.com -d alpha.brassafrax.com
+
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
 
