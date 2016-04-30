@@ -1,7 +1,7 @@
 
-cancel contract with Guidepoint
-hospital
 gitpop
+hospital
+card
 peter pan donuts
 new rental car
 find apartment in richmond, va
@@ -30,7 +30,7 @@ movies
   Suicide Squad
 
 projects/ideas
-  github explore (host on server, change to oauth)
+  github explore -> gitpop (host on server, change to oauth)
   unmanned "fast" food
   tor-related stuff
   linux

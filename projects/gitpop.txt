@@ -1,3 +1,6 @@
+add ssl to gitpop.io
+get authentication working
+
 setup
   pip install https://github.com/mitsuhiko/flask/tarball/master
   flask --app=app initdb
