@@ -1,5 +1,5 @@
-add ssl to gitpop.io
-get authentication working
+get flask working with nginx
+github login
 
 setup
   pip install https://github.com/mitsuhiko/flask/tarball/master

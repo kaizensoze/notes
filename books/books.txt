@@ -38,7 +38,6 @@ Ghost Rider: Travels on the Healing Road, Neil Peart
 Green River Killer, Jeff Jensen
 Gulp, Mary Roach
 Hacking: The Art of Exploitation, Jon Erickson
-High Output Management, Andy Grove
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
@@ -52,6 +51,7 @@ Kissinger: A Biography, Walter Isaacson
 Legacy of Ashes, Tim Weiner
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela, page: 24
+Lords of Secrecy, Scott Horton
 Made in the USA, Vaclav Smil
 Man Called Intrepid, William Stevenson
 Mating in Captivity, Esther Perel
@@ -63,8 +63,6 @@ My Years With General Motors, Alfred P Sloan Jr
 Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
 Perdido Street Station, China Mieville
-Pour Your Heart Into It, Howard Schultz
-Producing Open Source Software: How to Run a Successful Free Software Project, Karl Fogel
 Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
 Rise of the Robots, Martin Ford
@@ -157,7 +155,6 @@ War and Peace, Leo Tolstoy
 What Every BODY is Saying, Joe Navarro
 What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
-Why Nations Fail, Daron Acemoglu
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 *, Jonathan Franzen
 
