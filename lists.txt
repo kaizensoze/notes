@@ -1,9 +1,14 @@
 
-gitpop
-find job
-card
 the pit stop
+job search
+  http://innolitics.com/join/python-developer-april-2016/
+  https://angel.co/jobs
+  https://www.bountysource.com/
+gitpop
+
+card
 peter pan donuts
+stop by livia's
 new rental car
 find apartment in richmond, va
 
@@ -12,13 +17,15 @@ how nsa blocks emf
 diy fluoride treatment
 
 tv
-  Game of Thrones S06E01 (05/01)
-  Silicon Valley S03E02 (05/01)
-  Last Week Tonight S03E11 (05/01)
   Archer S07E06 (05/05)
+  Game of Thrones S06E03 (05/08)
+  Silicon Valley S03E03 (05/08)
+  Last Week Tonight S03E11 (05/08)
   Vice Principals (07/01)
 
 movies
+  Plague Dogs
+  Watership Down
   Everybody Wants Some
   Hello, My Name Is Doris
   Nightmares in Red, White and Blue
@@ -32,7 +39,7 @@ movies
   Suicide Squad
 
 projects/ideas
-  github explore -> gitpop (host on server, change to oauth)
+  gitpop
   unmanned "fast" food
   tor-related stuff
   linux
