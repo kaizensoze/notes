@@ -2,8 +2,16 @@ get flask working with nginx
 github login
 
 setup
-  pip install https://github.com/mitsuhiko/flask/tarball/master
+  sudo apt-get install python-pip python-dev nginx
+  sudo pip install virtualenv
+  cd ~/gitpop
+  virtualenv gitpop
+  source gitpop/bin/activate
+  pip install uwsgi https://github.com/mitsuhiko/flask/tarball/master PyGithub
   flask --app=app initdb
-  flask --app=app run
+  flask --app=app --host=0.0.0.0 run
 
-9d5598b511d38c890e04a2040305e4e6535e2826
+check version
+  python
+  import flask
+  flask.__version__   => (0.11.dev0)

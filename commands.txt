@@ -152,6 +152,14 @@ imagemagick
   exiftool -all= [image]
   convert *.jpg deposit_and_receipt.pdf
 
+iptables
+  sudo vim /etc/iptables.firewall.rules
+  sudo iptables-restore < /etc/iptables.firewall.rules
+  sudo vim /etc/network/if-pre-up.d/firewall
+  #!/bin/sh
+  /sbin/iptables-restore < /etc/iptables.firewall.rules
+  sudo chmod +x /etc/network/if-pre-up.d/firewall
+
 jq
   jq -r '.SecurityGroups[] | select(.Description == "default group") | .GroupId
 
@@ -176,6 +184,9 @@ mongodb
   db.users.find({})
   db.users.find({}, {username: 1, _id: 0})
   db.users.remove({})
+
+netstat
+  netstat -ano | grep 443
 
 nginx
   sudo nginx -t
