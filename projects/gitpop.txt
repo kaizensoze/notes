@@ -1,15 +1,19 @@
-get flask working with nginx
+get flask working with uwsgi on port 80
+re-enable ssl
 github login
 
 setup
-  sudo apt-get install python-pip python-dev nginx
+  sudo apt-get install python-pip python-dev nginx libpcre3 libpcre3-dev
   sudo pip install virtualenv
   cd ~/gitpop
   virtualenv gitpop
   source gitpop/bin/activate
   pip install uwsgi https://github.com/mitsuhiko/flask/tarball/master PyGithub
   flask --app=app initdb
-  flask --app=app --host=0.0.0.0 run
+  flask --app=app run --host=0.0.0.0
+  uwsgi --socket 0.0.0.0:8000 --protocol=http -w wsgi --mount /=app:app
+  uwsgi --master --socket 0.0.0.0:8000 --protocol=http -w wsgi --manage-script-name --mount /=app:app
+  sudo start gitpop
 
 check version
   python
