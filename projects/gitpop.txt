@@ -1,4 +1,11 @@
 github auth
+reduce results per call
+flask config
+  set DEBUG to false
+  change SECRET_KEY
+  change USERNAME, PASSWORD
+move to separate server
+bump up workers
 
 setup
   sudo apt-get install python-pip python-dev nginx libpcre3 libpcre3-dev sqlite3 libsqlite3-dev
@@ -16,3 +23,8 @@ check version
   python
   import flask
   flask.__version__   => (0.11.dev0)
+
+Client ID
+    2973af60f76f7d68aac9
+Client Secret
+    2c79aed334ef4f5dd5b3e7c61eea6179e05fd9e5
