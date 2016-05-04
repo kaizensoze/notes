@@ -24,7 +24,6 @@ Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
 Einstein: His Life and Universe, Walter Isaacson
 Enemies: A History of the FBI, Tim Weiner
-Eradication: Ridding the World of Diseases Forever?, Nancy Leys Stepan
 Exponential Organizations, Salim Ismail
 Everything's Eventual, Stephen King
 Fermat's Enigma, Simon Singh
@@ -56,12 +55,14 @@ My Friend Dahmer, Derf Backderf
 Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
 Perdido Street Station, China Mieville
+Reamde, Neal Stephenson
 Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
 Rise of the Robots, Martin Ford
 Rogue Lawyer, John Grisham
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
+Seveneves, Neal Stephenson
 Sexus, Henry Miller
 Sheltering Sky, Paul Bowles
 So, Anyway..., John Cleese (p82)
@@ -77,15 +78,11 @@ Swan song, Robert McCammon
 Sycamore Row, John Grisham
 Tesla: Inventor of the Electrical Age, W. Bernard Carlson
 The Alienist, Caleb Carr
-The American Challenge, Jean-Jacques Servan-Schreiber
-The Baroque Cycle, Neal Stephenson
 The Botany of Desire, Michael Pollan
 The Brothers Karamazov, Fyodor Dostoevsky
 The Corpse Reader, Antonio Garrido
 The Count of Monte Cristo, Alexandre Dumas
-The Courage to Act: A Memoir of a Crisis and Its Aftermath, Ben Bernanke
 The Dark Tower, Stephen King
-The Death of Common Sense, Philip K. Howard
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 The Emperor's New Mind, Roger Penrose
@@ -96,15 +93,10 @@ The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
 The Ghost Map, Steven Johnson
 The Girl Next Door, Jack Ketchum
-The Heretic's Guide to Global Finance, Brett Scott
-The Hidden Wealth of Nations, Gabriel Zucman
-The Hyperion Cantos, Dan Simmons
-The Illuminatus Trilogy, Robert Shea
 The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovator's Dilemma, Clayton M. Christensen
 The Intelligent Investor, Benjamin Graham
 The Laws of Medicine, Siddhartha Mukherjee
-The Long Tomorrow, Leigh Brackett
 The Madmen of Benghazi, Gérard de Villiers
 The Making of a Radical, Scott Nearing
 The Master Switch: The Rise and Fall of Information Empires, Tim Wu
