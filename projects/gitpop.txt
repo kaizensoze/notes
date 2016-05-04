@@ -1,4 +1,4 @@
-github auth
+encrypt access token
 reduce results per call
 flask config
   set DEBUG to false
@@ -9,14 +9,16 @@ bump up workers
 
 setup
   sudo apt-get install python-pip python-dev nginx libpcre3 libpcre3-dev sqlite3 libsqlite3-dev
-  sudo pip install virtualenv uwsgi https://github.com/mitsuhiko/flask/tarball/master PyGithub GitHub-Flask
+  sudo pip install virtualenv uwsgi https://github.com/mitsuhiko/flask/tarball/master
+  sudo pip install pyopenssl ndg-httpsclient pyasn1
+  sudo pip install PyGithub GitHub-Flask SQLAlchemy
   cd ~/gitpop
   virtualenv gitpop
   source gitpop/bin/activate
   flask --app=app initdb
   flask --app=app run --host=0.0.0.0
-  uwsgi --socket 0.0.0.0:8000 --protocol=http -w wsgi --mount /=app:app
   uwsgi --master --socket 0.0.0.0:8000 --protocol=http -w wsgi --manage-script-name --mount /=app:app
+  uwsgi --ini gitpop.ini
   sudo start gitpop
 
 check version
