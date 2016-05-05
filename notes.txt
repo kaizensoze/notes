@@ -867,6 +867,11 @@ Boise, ID
 Des Moines, IA
   Donut Hut
 
+patents
+====
+for reading patents, just read the independent claims
+http://www.danshapiro.com/blog/2010/09/how-to-read-a-patent-in-60-second/
+
 Quotes
 ====
 “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
