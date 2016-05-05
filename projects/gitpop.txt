@@ -1,9 +1,3 @@
-encrypt access token
-reduce results per call
-flask config
-  set DEBUG to false
-  change SECRET_KEY
-  change USERNAME, PASSWORD
 move to separate server
 bump up workers
 
@@ -16,7 +10,9 @@ setup
   virtualenv gitpop
   source gitpop/bin/activate
   flask --app=app initdb
+  flask --app=app cleardb
   flask --app=app run --host=0.0.0.0
+  flask --app=app shell
   uwsgi --master --socket 0.0.0.0:8000 --protocol=http -w wsgi --manage-script-name --mount /=app:app
   uwsgi --ini gitpop.ini
   sudo start gitpop
@@ -25,6 +21,10 @@ check version
   python
   import flask
   flask.__version__   => (0.11.dev0)
+
+import
+  attach database '/home/duckspeaker/gitpop/backup.db' as backup;
+  insert into main.ignores (user_id, id) select 1, id from backup.ignores;
 
 Client ID
     2973af60f76f7d68aac9

@@ -274,6 +274,8 @@ sqlite
   .schema <table>
   .quit
   PRAGMA table_info(table_name);
+  attach database '/home/duckspeaker/gitpop/backup.db' as backup;
+  insert into main.ignores (user_id, id) select 1, id from backup.ignores;
 
 ssh
   ssh -fN -L 3307:127.0.0.1:3306 web@caribou.tastesavant.com
