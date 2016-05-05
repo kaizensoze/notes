@@ -181,6 +181,8 @@ letsencrypt
 
 lsof
   lsof -i :443
+  lsof -i tcp:443
+  sudo lsof -n -P -i +c 13
 
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com

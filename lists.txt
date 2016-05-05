@@ -1,3 +1,5 @@
+get dnscrypt working
+get onionshare working
 
 hospital
 onionshare
@@ -29,14 +31,9 @@ movies
   Swiss Army Man
   Suicide Squad
 
-projects/ideas
-  gitpop
-  unmanned "fast" food
-  tor-related stuff
-  linux
-  programming language emphasizing maps and sets
-  wiki dictation
-  shower bath mat that can't retain athlete's foot fungus
+projects
+  launch[daemon|agent] util
+  programming language (emphasizing maps and sets)
 
 noteworthy books
   A Confederacy of Dunces, John Kennedy Toole
