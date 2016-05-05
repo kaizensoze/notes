@@ -1,14 +1,14 @@
 move to separate server
-bump up workers
 
 setup
-  sudo apt-get install python-pip python-dev nginx libpcre3 libpcre3-dev sqlite3 libsqlite3-dev
-  sudo pip install virtualenv uwsgi https://github.com/mitsuhiko/flask/tarball/master
-  sudo pip install pyopenssl ndg-httpsclient pyasn1
-  sudo pip install PyGithub GitHub-Flask SQLAlchemy
   cd ~/gitpop
+  sudo apt-get install python-pip python-dev nginx libpcre3 libpcre3-dev sqlite3 libsqlite3-dev
+  sudo pip install virtualenv
   virtualenv gitpop
   source gitpop/bin/activate
+  pip install virtualenv uwsgi https://github.com/mitsuhiko/flask/tarball/master
+  pip install pyopenssl ndg-httpsclient pyasn1
+  pip install PyGithub GitHub-Flask SQLAlchemy
   flask --app=app initdb
   flask --app=app cleardb
   flask --app=app run --host=0.0.0.0
