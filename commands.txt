@@ -69,8 +69,17 @@ bc
   echo 'ibase=16;obase=A;FF' | bc
 
 brew
+  brew list
+  brew search elasticsearch
   brew info elasticsearch
   brew switch elasticsearch 1.7.3
+  brew services list
+  brew cleanup
+  brew update && brew upgrade && brew cleanup
+
+brew cask
+  brew cask list
+  brew cask cleanup
 
 cat
   cat /etc/resolv.conf
@@ -129,6 +138,16 @@ git
 
 github
   curl -u kaizensoze:e117f33cfccd8e127040d6e3675db3c64325233c https://api.github.com/rate_limit
+
+gpg
+  gpg --gen-key
+  gpg --list-keys
+  gpg --list-secret-keys
+  gpg --delete-secret-key <id>
+  gpg --delete-key <id>
+  gpg --import pgp.asc
+  gpg --fingerprint <id>
+  gpg --verify OnionShare.pkg.asc OnionShare.pkg
 
 heroku
   heroku pg:psql
@@ -245,6 +264,10 @@ postgres
     pg_restore -d newdb db.dump
     psql nooklyn < ~/Downloads/nooklyn.sql
   select table_name from information_schema.columns where column_name like 'mate_post_id';
+
+ps
+  ps aux
+  ps -p <pid>
 
 pyenv
   pyenv install -l    # available versions

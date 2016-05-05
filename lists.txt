@@ -1,4 +1,3 @@
-get dnscrypt working
 get onionshare working
 
 hospital
