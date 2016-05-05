@@ -72,6 +72,9 @@ brew
   brew info elasticsearch
   brew switch elasticsearch 1.7.3
 
+cat
+  cat /etc/resolv.conf
+
 cordova
   cordova create hello com.example.hello "HelloWorld"
   cd hello
@@ -201,6 +204,7 @@ netcat
 
 netstat
   netstat -ano | grep 443
+  netstat -atp tcp | grep -i "listen"
 
 nginx
   sudo nginx -t

@@ -32,7 +32,6 @@ movies
   Suicide Squad
 
 projects
-  launch[daemon|agent] util
   programming language (emphasizing maps and sets)
 
 noteworthy books
