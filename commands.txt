@@ -1,4 +1,7 @@
 
+ack
+  ack -i <pattern>
+
 awk
   sudo tail /var/log/nginx/access.log -n 200 | awk '/postVote/ {print $1}' | sort | uniq
   sudo tail /var/log/nginx/access.log -n 1000 | awk '/s~stellar-envoy-781/ {print $1}' | sort | uniq
@@ -170,8 +173,14 @@ laravel
   php artisan migrate:refresh && php artisan init
   php artisan serve
 
+launchctl
+
+
 letsencrypt
   ./letsencrypt-auto certonly -d brassafrax.com -d www.brassafrax.com -d alpha.brassafrax.com
+
+lsof
+  lsof -i :443
 
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
@@ -184,6 +193,9 @@ mongodb
   db.users.find({})
   db.users.find({}, {username: 1, _id: 0})
   db.users.remove({})
+
+netcat
+  nc -vz <ip> <port>
 
 netstat
   netstat -ano | grep 443
