@@ -1,4 +1,3 @@
-move to separate server
 
 setup
   cd ~/gitpop
@@ -6,16 +5,17 @@ setup
   sudo pip install virtualenv
   virtualenv gitpop
   source gitpop/bin/activate
-  pip install virtualenv uwsgi https://github.com/mitsuhiko/flask/tarball/master
+  pip install uwsgi https://github.com/mitsuhiko/flask/tarball/master
   pip install pyopenssl ndg-httpsclient pyasn1
   pip install PyGithub GitHub-Flask SQLAlchemy
   flask --app=app initdb
   flask --app=app cleardb
-  flask --app=app run --host=0.0.0.0
-  flask --app=app shell
-  uwsgi --master --socket 0.0.0.0:8000 --protocol=http -w wsgi --manage-script-name --mount /=app:app
-  uwsgi --ini gitpop.ini
-  sudo start gitpop
+  run options
+    flask --app=app run --host=0.0.0.0
+    flask --app=app shell
+    uwsgi --master --socket 0.0.0.0:8000 --protocol=http -w wsgi --manage-script-name --mount /=app:app
+    uwsgi --ini gitpop.ini
+    sudo start gitpop
 
 check version
   python

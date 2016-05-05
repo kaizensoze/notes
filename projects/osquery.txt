@@ -1,6 +1,4 @@
-TODO
-  test hwmon on default digitalocean server
-  test hwmon on dedicated digitalocean server [if necesssary]
+
 
 build
   git clone https://github.com/facebook/osquery.git
