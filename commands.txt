@@ -143,6 +143,7 @@ gpg
   gpg --gen-key
   gpg --list-keys
   gpg --list-secret-keys
+  gpg --list-sigs
   gpg --delete-secret-key <id>
   gpg --delete-key <id>
   gpg --import pgp.asc
