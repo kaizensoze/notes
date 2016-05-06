@@ -1,7 +1,4 @@
-get onionshare working
 
-hospital
-onionshare
 card
 rent car
 stop by livia's

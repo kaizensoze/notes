@@ -222,7 +222,7 @@ netcat
   nc -vz <ip> <port>
 
 netstat
-  netstat -ano | grep 443
+  netstat -an | grep 443
   netstat -atp tcp | grep -i "listen"
 
 nginx
