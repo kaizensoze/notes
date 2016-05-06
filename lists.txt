@@ -1,5 +1,8 @@
 
-card
+check out vms
+  kali linux
+  tails
+
 rent car
 stop by livia's
 peter pan donuts
@@ -28,6 +31,7 @@ movies
   Suicide Squad
 
 projects
+  linux
   programming language (emphasizing maps and sets)
 
 noteworthy books
