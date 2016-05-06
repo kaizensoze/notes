@@ -270,9 +270,9 @@ ps
   ps -p <pid>
 
 pyenv
-  pyenv install -l    # available versions
+  pyenv install -l  # available versions
   pyenv install <version>
-  env PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.5.1     # for pyinstaller requiring the library (.dylib)
+  env PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.5.1  # for pyinstaller requiring the library (.dylib)
   pyenv global <version> <version> ...
   pyenv local <version>
 
