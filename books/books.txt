@@ -54,6 +54,7 @@ Moby Dick, Herman Melville
 My Friend Dahmer, Derf Backderf
 Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
+On Killing, Dave Grossman
 Perdido Street Station, China Mieville
 Reamde, Neal Stephenson
 Rendezvous with Rama, Arthur C Clarke
@@ -136,6 +137,7 @@ War and Peace, Leo Tolstoy
 What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
+World Order, Henry Kissinger
 *, Jonathan Franzen
 
 DONE
@@ -273,7 +275,6 @@ Sick In The Head, Judd Apatow
 The Power of Myth, Joseph Campbell
 Alone on the Wall, Alex Honnold
 How Google Works, Eric Schmidt
-World Order, Henry Kissinger
 How Markets Fail, John Cassidy
 No Good Men Among the Living, Anand Gopal
 Winning, Jack Welch
