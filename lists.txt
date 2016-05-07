@@ -3,6 +3,9 @@ stop by livia's
 peter pan donuts
 rent car
 
+dual boot debian
+go through linux books
+
 tv
   Archer S07E06 (05/05)
   Game of Thrones S06E03 (05/08)
@@ -27,7 +30,9 @@ movies
   Suicide Squad
 
 projects
+  securedrop
   linux
+  tor
   programming language (emphasizing maps and sets)
 
 noteworthy books

@@ -96,10 +96,10 @@ curl
   cat urls.txt | parallel -j30 --eta curl -I
   curl --user name:password http://www.example.com
   curl --data "param1=value1&param2=value2" http://example.com/resource.cgi
-  curl -X GET -H 'Authorization: Token token="427ecba7da11b68675405bd69d19b756"' http://0.0.0.0:3000/api/v1/help-now > blah.html && chrome blah.html
-  curl -X GET -H "Authorization: token 416c1be9734dd620345b998d1e93e62e3d019988" "https://api.github.com/user/emails"
-  curl -X POST -H "Authorization: token 416c1be9734dd620345b998d1e93e62e3d019988" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
-  curl -X DELETE -H "Authorization: token 416c1be9734dd620345b998d1e93e62e3d019988" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
+  curl -X GET -H 'Authorization: Token token="<token>"' http://0.0.0.0:3000/api/v1/help-now > blah.html && chrome blah.html
+  curl -X GET -H "Authorization: token <token>" "https://api.github.com/user/emails"
+  curl -X POST -H "Authorization: token <token>" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
+  curl -X DELETE -H "Authorization: token <token>" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
 
 ffmpeg
   for x (*.flac); do ffmpeg -i $x -ab 196k -ac 2 -ar 48000 "${x:r}.mp3"; done
@@ -137,7 +137,7 @@ git
       fetch = +refs/pull/*/head:refs/remotes/upstream/pr/*   <--
 
 github
-  curl -u kaizensoze:e117f33cfccd8e127040d6e3675db3c64325233c https://api.github.com/rate_limit
+  curl -u kaizensoze:<token> https://api.github.com/rate_limit
 
 gpg
   gpg --gen-key
