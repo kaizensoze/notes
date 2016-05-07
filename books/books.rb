@@ -9,13 +9,14 @@ output_file.puts ['title', 'author', 'genre', '# pages', 'rating', '# ratings', 
 
 File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
   file.each_line do |line|
-    search_term = line
-    continue if search_term.empty?
+    search_term = line.strip
+    next if search_term.empty?
+    break if search_term == "DONE"
+
+    puts search_term
 
     url = "http://www.goodreads.com/search?utf8=%E2%9C%93&query=#{search_term}"
     escaped_url = URI.escape(url)
-
-    puts search_term
 
     # get first result with an image
     results_page = Nokogiri::HTML(open(escaped_url))
