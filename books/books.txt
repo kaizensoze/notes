@@ -51,7 +51,6 @@ Man Called Intrepid, William Stevenson
 Men are from mars, women are from venus, Joe Peacock
 Missing Microbes, Martin Blaser
 Moby Dick, Herman Melville
-My Friend Dahmer, Derf Backderf
 Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
 On Killing, Dave Grossman
@@ -328,3 +327,4 @@ Undeniable, Bill Nye
 This Machine Kills Secrets, Andy Greenberg
 Frank: The True Story That Inspired the Movie, Jon Ronson
 What Every BODY is Saying, Joe Navarro
+My Friend Dahmer, Derf Backderf
