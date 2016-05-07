@@ -5,7 +5,7 @@ require 'open-uri'
 require 'uri'
 
 output_file = File.open("#{Dir.home}/Dropbox/documents/txt/books/books.csv", "w")
-output_file.puts ['title', 'author', 'genre', '# pages', 'rating', '# ratings', 'progress'].join(', ')
+output_file.puts ['title', 'author', '# pages'].join(', ')
 
 File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
   file.each_line do |line|
@@ -39,14 +39,10 @@ File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
       book_page = Nokogiri::HTML(open(list_item_url))
       title = book_page.css('h1.bookTitle').text.strip.gsub(/\s\s+/, ' ').tr(',', '')
       author = book_page.css('a.authorName')[0].css('span').text.strip
-      genre = book_page.css('a[href^="/genres/"]')[0].text if book_page.css('a[href^="/genres/"]').length > 0
       num_pages = book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)[1].tr(',', '') if book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)
-      rating = book_page.css('span.average')[0].text
-      num_ratings = book_page.css('span[itemprop="ratingCount"]').text.match(/(.+) Rating[s]/)[1].tr(',', '')
-      progress = ''
 
-      # title, author, genre, # pages, rating, # ratings, progress
-      output_file.puts [title, author, genre, num_pages, rating, num_ratings, progress].join(', ')
+      # title, author, # pages
+      output_file.puts [title, author, num_pages].join(', ')
     end
   end
 end
