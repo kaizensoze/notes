@@ -1,16 +1,24 @@
+mute farley payday page hit huron astm
+
+ansible deprecation warnings
+
+setup
+  pip install -U ansible
+  git clone https://github.com/freedomofpress/securedrop.git
+  cd securedrop
+  vagrant up
+  vagrant ssh
+  cd /vagrant/securedrop
+  ./manage.py run
+  ./manage.py test
+  ./manage.py add_admin
+
+./manage.py reset
+
 Source Interface
 127.0.0.1:8080
 
 Document Interface
 127.0.0.1:8081
 
-vagrant up
-vagrant ssh
-./manage.py run
-./manage.py test
-./manage.py reset
-./manage.py add_admin
-
 db file location: /var/lib/securedrop
-
-repo: freedomofpress/securedrop
