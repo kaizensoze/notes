@@ -106,8 +106,9 @@ ffmpeg
 
 gem
   gem list
-  gem search blah
-  gem install blah
+  gem search cocoapods
+  gem install cocoapods [-v 0.25.0]   # optionally specify version
+  gem list cocoapods --remote --all   # show all available versions
 
 ghostscript
   gs \

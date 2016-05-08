@@ -1,6 +1,5 @@
 
 apply installed rubygems to ruby 2.3.1
-set default ruby to 2.3.1
 
 linux book
 neovim+plugins

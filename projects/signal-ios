@@ -1,0 +1,4 @@
+
+setup
+  gem install cocoapods --pre
+  
