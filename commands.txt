@@ -104,6 +104,11 @@ curl
 ffmpeg
   for x (*.flac); do ffmpeg -i $x -ab 196k -ac 2 -ar 48000 "${x:r}.mp3"; done
 
+gem
+  gem list
+  gem search blah
+  gem install blah
+
 ghostscript
   gs \
  -sOutputFile=output.pdf \
@@ -295,6 +300,9 @@ rails
 
 rsync
   rsync -avzhe ssh --progress ubuntu@54.175.82.101:~/son ~/Downloads/son
+
+ruby-install
+  ruby-install --latest
 
 screen
   rename window:  C-a A
