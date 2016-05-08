@@ -115,10 +115,6 @@ ghostscript
  -dBATCH \
  records.pdf
 
-pdf
-  brew install poppler
-  pdfunite in1.pdf in2.pdf out.pdf
-
 git
   git grep 'addSection' $(git rev-list --all)
   git bisect start
@@ -236,6 +232,10 @@ npm
 osx
   sudo dscacheutil -flushcache
   sysctl -a hw
+
+pdf
+  brew install poppler
+  pdfunite in1.pdf in2.pdf out.pdf
 
 php
   brew install homebrew/php/php70

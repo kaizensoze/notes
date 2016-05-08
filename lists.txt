@@ -1,14 +1,9 @@
 
-shower
-
 linux book
-securedrop
 neovim+plugins
 debian via vagrant
 linux book (linux kernel development 3rd edition)
-
 stop by livia's
-peter pan donuts
 
 tv
   Game of Thrones S06E03 (05/08)
@@ -35,6 +30,7 @@ movies
 
 projects
   securedrop
+  signal-ios
   linux
   tor
   tails
