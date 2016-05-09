@@ -1,4 +1,5 @@
 
+retry building signal app
 linux book
 neovim+plugins
 debian via vagrant
@@ -6,10 +7,10 @@ linux book (linux kernel development 3rd edition)
 stop by livia's
 
 tv
-  Game of Thrones S06E03 (05/08)
-  Silicon Valley S03E03 (05/08)
-  Last Week Tonight S03E11 (05/08)
   Archer S07E07 (05/12)
+  Game of Thrones S06E04 (05/15)
+  Silicon Valley S03E04 (05/15)
+  Last Week Tonight S03E12 (05/15)
   Vice Principals (07/01)
   Person of Interest
 
@@ -29,10 +30,9 @@ movies
   Suicide Squad
 
 projects
-  signal-ios
+  linux
   securedrop
   redox
-  linux
   tor
   tails
   programming language (emphasizing maps and sets)

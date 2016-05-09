@@ -2,6 +2,9 @@
 ack
   ack -i <pattern>
 
+avconv
+  avconv -i input.mkv -codec copy output.mp4
+
 awk
   sudo tail /var/log/nginx/access.log -n 200 | awk '/postVote/ {print $1}' | sort | uniq
   sudo tail /var/log/nginx/access.log -n 1000 | awk '/s~stellar-envoy-781/ {print $1}' | sort | uniq

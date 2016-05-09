@@ -1,6 +1,5 @@
-get a test number from twilio
-use test number to create test signal account
-add joe gallo account as contact
+
+create signal account with 516-200-3392
 
 https://github.com/WhisperSystems/Signal-iOS/issues/1158 (japanese, chinese, korean)
 https://github.com/WhisperSystems/Signal-iOS/issues/754
