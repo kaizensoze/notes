@@ -1,4 +1,11 @@
+get a test number from twilio
+use test number to create test signal account
+add joe gallo account as contact
+
+https://github.com/WhisperSystems/Signal-iOS/issues/1158 (japanese, chinese, korean)
+https://github.com/WhisperSystems/Signal-iOS/issues/754
 
 setup
-  gem install cocoapods --pre
-  
+  (make sure ruby is set to 2.2.x)
+  gem install cocoapods
+  pod install

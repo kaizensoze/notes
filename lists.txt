@@ -1,6 +1,4 @@
 
-apply installed rubygems to ruby 2.3.1
-
 linux book
 neovim+plugins
 debian via vagrant
@@ -31,8 +29,9 @@ movies
   Suicide Squad
 
 projects
-  securedrop
   signal-ios
+  securedrop
+  redox
   linux
   tor
   tails
