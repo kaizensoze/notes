@@ -1,4 +1,5 @@
 
+read
 linux book
 retry building signal app
 neovim+plugins
