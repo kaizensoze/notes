@@ -1,4 +1,3 @@
-mute farley payday page hit huron astm
 
 ansible deprecation warnings
 
@@ -12,13 +11,9 @@ setup
   ./manage.py run
   ./manage.py test
   ./manage.py add_admin
+  ./manage.py reset
 
-./manage.py reset
+Source Interface:   127.0.0.1:8080
+Document Interface: 127.0.0.1:8081
 
-Source Interface
-127.0.0.1:8080
-
-Document Interface
-127.0.0.1:8081
-
-db file location: /var/lib/securedrop
+db file location: /var/lib/securedrop/db.sqlite
