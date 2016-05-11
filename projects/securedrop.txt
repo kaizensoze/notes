@@ -1,10 +1,14 @@
 
+https://github.com/freedomofpress/securedrop/issues/1233
 ansible deprecation warnings
+fix test errors
 
 setup
   pip install -U ansible
   git clone https://github.com/freedomofpress/securedrop.git
   cd securedrop
+
+run
   vagrant up
   vagrant ssh
   cd /vagrant/securedrop
@@ -17,3 +21,10 @@ Source Interface:   127.0.0.1:8080
 Document Interface: 127.0.0.1:8081
 
 db file location: /var/lib/securedrop/db.sqlite
+
+to disable static caching:
+  class FlaskConfig(object):   # config.py
+    DEBUG = False
+    TESTING = False
+    WTF_CSRF_ENABLED = True
+    ASSETS_DEBUG = True        <---
