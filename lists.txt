@@ -1,16 +1,15 @@
 
-linux book
-
 pick up rental car
 peter pan donuts
 stop by livia's
   mail
   toolbag
 
+linux book
 neovim+plugins
 debian via vagrant
 linux book (linux kernel development 3rd edition)
-
+nyc visit
 find place in richmond
 
 tv
