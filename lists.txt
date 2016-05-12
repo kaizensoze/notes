@@ -42,6 +42,9 @@ projects
   tor
   tails
   programming language (emphasizing maps and sets)
+  
+  map uni funding
+  list sec company offerings
 
 noteworthy books
   A Confederacy of Dunces, John Kennedy Toole
