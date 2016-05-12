@@ -10,7 +10,7 @@ neovim+plugins
 debian via vagrant
 linux book (linux kernel development 3rd edition)
 nyc visit
-find place in richmond
+drive to portland
 
 tv
   Archer S07E07 (05/12)
@@ -36,6 +36,7 @@ movies
   Suicide Squad
 
 projects
+  signal
   securedrop
   linux
   redox

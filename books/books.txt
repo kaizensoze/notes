@@ -118,7 +118,6 @@ The Scar, China Mieville
 The Scented Ape, David Michael Stoddart
 The Secret Sentry, Matthew M. Aid
 The Society of Mind, Marvin Minsky
-The Sociopath Next Door, Martha Stout
 The Sovereign Individual, James Dale Davidson
 The Stand, Stephen King
 The Stars My Destination, Alfred Bester
@@ -327,3 +326,4 @@ This Machine Kills Secrets, Andy Greenberg
 Frank: The True Story That Inspired the Movie, Jon Ronson
 What Every BODY is Saying, Joe Navarro
 My Friend Dahmer, Derf Backderf
+Disrupted: My Misadventure in the Start-Up Bubble, Dan Lyons
