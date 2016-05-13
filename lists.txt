@@ -1,10 +1,6 @@
 
-pick up rental car
-peter pan donuts
-stop by livia's
-  mail
-  toolbag
-
+email accountant
+switch rental car
 linux book
 neovim+plugins
 debian via vagrant
