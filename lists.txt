@@ -1,12 +1,12 @@
 
-email accountant
-switch rental car
-linux book
+redox
+
 neovim+plugins
-debian via vagrant
+linux book
 linux book (linux kernel development 3rd edition)
-nyc visit
-drive to portland
+debian via vagrant
+
+switch rental car
 
 tv
   Archer S07E07 (05/12)
@@ -14,6 +14,7 @@ tv
   Silicon Valley S03E04 (05/15)
   Last Week Tonight S03E12 (05/15)
   Vice Principals (07/01)
+  Mr Robot S02E01 (07/13)
   Person of Interest
 
 movies
