@@ -1,30 +1,8 @@
 
-get build working
-PR: specify nashenas88/gcc_cross_compilers/... brew formulae
-PR: remove extra endMessage in bootstrap.sh
-PR: make gcc_cross_compilers changes anywhere else it applies
 PR: remove redundant setup code?
-
-joegallo@xor ~/dev/redox curl -sf https://raw.githubusercontent.com/redox-os/redox/master/bootstrap.sh -o bootstrap.sh && bash -e bootstrap.sh
-|------------------------------------------|
-|----- Welcome to the redox bootstrap -----|
-|------------------------------------------|
-Detected OSX!
-Homebrew detected! Now updating...
-Already up-to-date.
-QEMU already installed!
-Running Redox setup script...
-Warning: homebrew/versions/gcc49-4.9.3 already installed
-Error: Formulae found in multiple taps:
- * altkatz/gcc_cross_compilers/i386-elf-binutils
- * nashenas88/gcc_cross_compilers/i386-elf-binutils
-
-Please use the fully-qualified name e.g. altkatz/gcc_cross_compilers/i386-elf-binutils to refer the formula.
 
 setup
   curl -sf https://raw.githubusercontent.com/redox-os/redox/master/bootstrap.sh -o bootstrap.sh && bash -e bootstrap.sh
   cd redox
   make all
   make virtualbox
-  
-  

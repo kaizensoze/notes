@@ -1,10 +1,9 @@
 
-redox: fix build script
-
-neovim+plugins
+brew PR
 linux book
 linux book (linux kernel development 3rd edition)
 debian via vagrant
+neovim+plugins
 
 switch rental car
 
@@ -31,6 +30,7 @@ movies
   Lo and Behold, Reveries of the Connected World
   Swiss Army Man
   Suicide Squad
+  Louis Theroux: My Scientology Movie
 
 projects
   signal
