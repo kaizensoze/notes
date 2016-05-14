@@ -1,7 +1,9 @@
 
-fix build script
-
-brew install nashenas88/gcc_cross_compilers/i386-elf-binutils nashenas88/gcc_cross_compilers/i386-elf-gcc nasm pkg-config
+get build working
+PR: specify nashenas88/gcc_cross_compilers/... brew formulae
+PR: remove extra endMessage in bootstrap.sh
+PR: make gcc_cross_compilers changes anywhere else it applies
+PR: remove redundant setup code?
 
 joegallo@xor ~/dev/redox curl -sf https://raw.githubusercontent.com/redox-os/redox/master/bootstrap.sh -o bootstrap.sh && bash -e bootstrap.sh
 |------------------------------------------|
@@ -20,7 +22,9 @@ Error: Formulae found in multiple taps:
 Please use the fully-qualified name e.g. altkatz/gcc_cross_compilers/i386-elf-binutils to refer the formula.
 
 setup
-  git clone https://github.com/redox-os/redox.git
-  cd redox
   curl -sf https://raw.githubusercontent.com/redox-os/redox/master/bootstrap.sh -o bootstrap.sh && bash -e bootstrap.sh
+  cd redox
+  make all
+  make virtualbox
+  
   
