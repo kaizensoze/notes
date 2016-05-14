@@ -1,4 +1,8 @@
 
+fix build script
+
 setup
   git clone https://github.com/redox-os/redox.git
   cd redox
+  curl -sf https://raw.githubusercontent.com/redox-os/redox/master/bootstrap.sh -o bootstrap.sh && bash -e bootstrap.sh
+  

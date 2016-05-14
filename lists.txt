@@ -1,5 +1,8 @@
 
-redox
+go through brew commands
+understand how brew tap works
+remove gcc_cross_compilers redundancy?
+redox: fix build script
 
 neovim+plugins
 linux book

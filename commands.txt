@@ -77,6 +77,9 @@ brew
   brew info elasticsearch
   brew switch elasticsearch 1.7.3
   brew services list
+  brew deps --tree --installed
+  brew which
+  brew tap
   brew cleanup
   brew update && brew upgrade && brew cleanup
 
