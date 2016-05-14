@@ -1,6 +1,24 @@
 
 fix build script
 
+brew install nashenas88/gcc_cross_compilers/i386-elf-binutils nashenas88/gcc_cross_compilers/i386-elf-gcc nasm pkg-config
+
+joegallo@xor ~/dev/redox curl -sf https://raw.githubusercontent.com/redox-os/redox/master/bootstrap.sh -o bootstrap.sh && bash -e bootstrap.sh
+|------------------------------------------|
+|----- Welcome to the redox bootstrap -----|
+|------------------------------------------|
+Detected OSX!
+Homebrew detected! Now updating...
+Already up-to-date.
+QEMU already installed!
+Running Redox setup script...
+Warning: homebrew/versions/gcc49-4.9.3 already installed
+Error: Formulae found in multiple taps:
+ * altkatz/gcc_cross_compilers/i386-elf-binutils
+ * nashenas88/gcc_cross_compilers/i386-elf-binutils
+
+Please use the fully-qualified name e.g. altkatz/gcc_cross_compilers/i386-elf-binutils to refer the formula.
+
 setup
   git clone https://github.com/redox-os/redox.git
   cd redox

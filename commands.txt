@@ -81,7 +81,7 @@ brew
   brew which
   brew tap
   brew cleanup
-  brew update && brew upgrade && brew cleanup
+  brew update && brew upgrade && brew cleanup && brew prune
 
 brew cask
   brew cask list
