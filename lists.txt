@@ -5,8 +5,6 @@ linux book (linux kernel development 3rd edition)
 debian via vagrant
 neovim+plugins
 
-switch rental car
-
 tv
   Archer S07E07 (05/12)
   Game of Thrones S06E04 (05/15)
@@ -31,6 +29,8 @@ movies
   Swiss Army Man
   Suicide Squad
   Louis Theroux: My Scientology Movie
+  The Red Turtle
+  The Lobster
 
 projects
   signal

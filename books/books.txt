@@ -29,7 +29,6 @@ Fermat's Enigma, Simon Singh
 Future Crimes, Marc Goodman
 Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
-Ghost Fleet, P.W. Singer
 Ghost Rider: Travels on the Healing Road, Neil Peart
 Green River Killer, Jeff Jensen
 Hacking: The Art of Exploitation, Jon Erickson
@@ -81,7 +80,6 @@ The Brothers Karamazov, Fyodor Dostoevsky
 The Corpse Reader, Antonio Garrido
 The Count of Monte Cristo, Alexandre Dumas
 The Dark Tower, Stephen King
-The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 The Emperor's New Mind, Roger Penrose
 The End of Power, Moises Naim
@@ -127,7 +125,6 @@ Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 This Will Change Everything, John Brockman
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
-Unstoppable, Bill Nye
 Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
 What If?, Randall Munroe
@@ -327,3 +324,6 @@ What Every BODY is Saying, Joe Navarro
 My Friend Dahmer, Derf Backderf
 Disrupted: My Misadventure in the Start-Up Bubble, Dan Lyons
 Lords of Secrecy, Scott Horton
+Unstoppable, Bill Nye
+Ghost Fleet, P.W. Singer
+The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan

@@ -18,15 +18,10 @@ EXTRAS
   Branson, MO
   Little Rock, AR
 
-LIVE
-  Richmond, VA
-  Portland, OR
-  Los Angeles, CA
-
-  Brooklyn, NY
-  Nashville, TN
-  Atlanta, GA
+REVISIT
   New Orleans, LA
+  Atlanta, GA
+  Nashville, TN
   Pittsburgh, PA
   Milwaukie, WI
 
