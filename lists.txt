@@ -1,9 +1,7 @@
 
-food
-finish sycamore row
-shampoo
-shower
-voodoo donuts
+tv shows
+order food
+apt search
 
 brew PR
 linux book
@@ -12,10 +10,10 @@ debian via vagrant
 neovim+plugins
 
 tv
-  Archer S07E07 (05/12)
-  Game of Thrones S06E04 (05/15)
-  Silicon Valley S03E04 (05/15)
-  Last Week Tonight S03E12 (05/15)
+  Archer S07E08 (05/19)
+  Game of Thrones S06E05 (05/22)
+  Silicon Valley S03E05 (05/22)
+  Last Week Tonight S03E13 (05/22)
   Vice Principals (07/01)
   Mr Robot S02E01 (07/13)
   Person of Interest
