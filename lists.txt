@@ -1,7 +1,6 @@
 
-tv shows
-order food
-apt search
+apartment viewings
+donuts
 
 brew PR
 linux book
@@ -17,8 +16,11 @@ tv
   Vice Principals (07/01)
   Mr Robot S02E01 (07/13)
   Person of Interest
+  Horace & Pete
+  The Path
 
 movies
+  Prisoners
   Plague Dogs
   Watership Down
   Everybody Wants Some
