@@ -1,6 +1,10 @@
 
-apartment viewings
+go through guidepoint api doc
+food
+shower
+apartment hunt
 donuts
+switch hotels
 
 brew PR
 linux book
@@ -18,6 +22,9 @@ tv
   Person of Interest
   Horace & Pete
   The Path
+  Billions
+  Utopia
+  Vikings
 
 movies
   Prisoners

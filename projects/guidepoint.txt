@@ -1,0 +1,29 @@
+
+test: https://apit.guidepoint.io
+prod: https://api.guidepoint.io
+
+headers
+  "Authorization: Bearer <token>"
+  "Accept: application/vnd.Guidepoint.app+json" // no version field needed for now
+  "X-On-Behalf-Of: Bearer <token>" // POST/PUT
+  
+auth:
+  /auth
+  JWT token good for 12 hours
+  
+endpoints
+  /auth
+  /ping
+  
+
+questions
+  Is the X-On-Behalf-Of header being used?
+  JWT token is good for 12 hours so should user be logged out every 12 hours?
+  
+  
+05/18/16
+10:30 - 
+  setup, hangout attempt
+  go through api doc/code
+
+05/19/16
