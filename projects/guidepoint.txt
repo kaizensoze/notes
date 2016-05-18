@@ -5,7 +5,7 @@ prod: https://api.guidepoint.io
 headers
   "Authorization: Bearer <token>"
   "Accept: application/vnd.Guidepoint.app+json" // no version field needed for now
-  "X-On-Behalf-Of: Bearer <token>" // POST/PUT
+  "X-On-Behalf-Of: <email>" // POST/PUT
   
 auth:
   /auth
@@ -14,12 +14,19 @@ auth:
 endpoints
   /auth
   /ping
+  /casecode/{id}/request                         // client request ID -> collection of guidepoint request ID(s)
+  /request/{id}                                  // get details for given [guidepoint] request
+  /request/{id}/advisor                          // get advisers/consultants for given request
+  /request/{id}/meeting                          // get meetings for given request
+  /meeting/{id}, /request/{rid}/meeting/{id}     // get calls for given request
+  
   
 
 questions
-  Is the X-On-Behalf-Of header being used?
+  Is the X-On-Behalf-Of header being used?                                      // not for now, maybe later down the road
+  If so, where does the email come from for "X-On-Behalf-Of: <email>"?          // not used for now
   JWT token is good for 12 hours so should user be logged out every 12 hours?
-  
+  How do I get rid?
   
 05/18/16
 10:30 - 

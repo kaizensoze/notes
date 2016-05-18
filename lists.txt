@@ -1,12 +1,12 @@
 
 go through guidepoint api doc
 food
+brew PR
 shower
 apartment hunt
 donuts
 switch hotels
 
-brew PR
 linux book
 linux book (linux kernel development 3rd edition)
 debian via vagrant
