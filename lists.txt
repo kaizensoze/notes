@@ -1,10 +1,9 @@
 
-articles
 apartment search
 shower
+check out Beaverton, Vancouver, Gresham
+shave
 brew PR
-donuts
-switch hotels
 
 linux book
 linux book (linux kernel development 3rd edition)

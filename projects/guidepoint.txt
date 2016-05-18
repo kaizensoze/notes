@@ -40,16 +40,13 @@ questions
   Is the X-On-Behalf-Of header being used?                                      // not for now, maybe later down the road
   If so, where does the email come from for "X-On-Behalf-Of: <email>"?          // not used for now
   JWT token is good for 12 hours so should user be logged out every 12 hours?
-  /meeting/{id} => meeting id?
-  What's the difference between /request/{id} and /casecode/{id}/request?
-  Is the summary correct for SubmitComplianceAction, GetComplianceNotes,
-  GetComplianceOfficers?
-  What's the difference between /request/{id}/advisor/{id}/compliance_action
-  and /request/{id}/advisor/{id}/compliance_notes?
-  
+  Just to clarify, id for /meeting/{id} is request id?
+
 05/18/16
 10:30 - 
   setup, hangout attempt
   go through api doc/code
+  update GuidepointAPIv1.0.7.docx and upload to https://guidepointglobal.atlassian.net/wiki/pages/viewpageattachments.action?pageId=55902253
+  
 
 05/19/16
