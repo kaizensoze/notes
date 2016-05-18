@@ -45,8 +45,8 @@ questions
   JWT token is good for 12 hours so should user be logged out every 12 hours?
   /meeting/{id} => meeting id?
   What's the difference between /request/{id} and /casecode/{id}/request?
-  Is the summary correct for SubmitComplianceAction? (same for 
-  GetComplianceNotes, GetComplianceOfficers)
+  Is the summary correct for SubmitComplianceAction, GetComplianceNotes,
+  GetComplianceOfficers?
   What's the difference between /request/{id}/advisor/{id}/compliance_action
   and /request/{id}/advisor/{id}/compliance_notes?
   
