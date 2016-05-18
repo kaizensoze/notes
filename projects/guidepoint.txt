@@ -19,24 +19,21 @@ endpoints
   /request/{id}                                       // get details for given [guidepoint] request
   /request/{id}/advisor                               // get advisers/consultants for given request
   /request/{id}/meeting                               // get meetings for given request
-  /request/{id}/meeting/{id}                          // get calls for given request
-  
+  /request/{id}/meeting/{id}, /meeting/{id}           // get calls for given request
   /request (POST)                                     // submit new request for Expert Network Consultants from guidepoint
+  /request/{id}/meeting (POST)                        // schedule meeting, create conference bridge line, send everyone an email
   /request/{id} (PUT)                                 // update new request for Expert Network Consultants from guidepoint
   /casecode/{id}/request (PUT)                        // update new request for Expert Network Consultants from guidepoint
   
   /request/{id}/advisor/{id}/availability             // get advisor availability
   /request/{id}/advisor/{id}/consent,                 // get consent info for advisor
-  /request/{id}/advisor/{id}/consent/{id}        
+    /request/{id}/advisor/{id}/consent/{id}        
   /request/{id}/advisor/{id}/consent/{id}/download    // get consent binary file for advisor (typically pdf or word doc)
   
-  /request/{id}/meeting                               // schedule meeting, create conference bridge line, send everyone an email
-  /meeting/{id}                                       // get info for given meeting aka get calls for given request
-  
   /request/{id}/advisor/{id}/compliance_action        // get compliance [pre/post] approval info for advisor
-  /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
   /request/{id}/advisor/{id}/compliance_notes         // get compliance notes for advisor
   /compliance_officers                                // get compliance officers
+  /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
   What's the typical API workflow?
