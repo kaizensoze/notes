@@ -1,9 +1,8 @@
 
-go through guidepoint api doc
-food
-brew PR
+articles
+apartment search
 shower
-apartment hunt
+brew PR
 donuts
 switch hotels
 
