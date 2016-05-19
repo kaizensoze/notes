@@ -1,9 +1,14 @@
 
-apartment search
+curl -i
+  http://forbes.com
+  https://forbes.com
+
 shower
+pinocchio
 check out Beaverton, Vancouver, Gresham
 shave
 brew PR
+check out tor dns, disconnect.me
 
 linux book
 linux book (linux kernel development 3rd edition)

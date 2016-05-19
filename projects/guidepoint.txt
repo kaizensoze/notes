@@ -43,10 +43,10 @@ questions
   Just to clarify, id for /meeting/{id} is request id?
 
 05/18/16
-10:30 - 
+10:30 - 16:30
   setup, hangout attempt
-  go through api doc/code
+  go through api doc
   update GuidepointAPIv1.0.7.docx and upload to https://guidepointglobal.atlassian.net/wiki/pages/viewpageattachments.action?pageId=55902253
-  
+  go through api code
 
 05/19/16
