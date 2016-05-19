@@ -6,6 +6,7 @@ headers
   "Authorization: Bearer <token>"
   "Accept: application/vnd.Guidepoint.app+json" // no version field needed for now
   "X-On-Behalf-Of: <email>" // POST/PUT
+  TODO: look into MOCK header
   
 auth:
   /auth
@@ -36,17 +37,16 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
-  What's the typical API workflow?
+  JWT token is good for 12 hours so should user be logged out every 12 hours?
   Is the X-On-Behalf-Of header being used?                                      // not for now, maybe later down the road
   If so, where does the email come from for "X-On-Behalf-Of: <email>"?          // not used for now
-  JWT token is good for 12 hours so should user be logged out every 12 hours?
-  Just to clarify, id for /meeting/{id} is request id?
 
 05/18/16
-10:30 - 16:30
+10:30 - 18:30
   setup, hangout attempt
   go through api doc
   update GuidepointAPIv1.0.7.docx and upload to https://guidepointglobal.atlassian.net/wiki/pages/viewpageattachments.action?pageId=55902253
   go through api code
 
 05/19/16
+10:30 - 

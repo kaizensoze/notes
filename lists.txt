@@ -1,14 +1,10 @@
 
-curl -i
-  http://forbes.com
-  https://forbes.com
+find a goddamn apartment
+find new motel for fri night on
 
-shower
-pinocchio
-check out Beaverton, Vancouver, Gresham
-shave
-brew PR
-check out tor dns, disconnect.me
+PR
+  brew
+  bountysource
 
 linux book
 linux book (linux kernel development 3rd edition)
