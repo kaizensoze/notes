@@ -1,6 +1,4 @@
 
-return key interaction between textfields on login page
-
 test: https://apit.guidepoint.io
 prod: https://api.guidepoint.io
 
