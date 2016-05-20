@@ -242,7 +242,7 @@ npm
   npm ls [--global] --depth=0
 
 osx
-  sudo dscacheutil -flushcache
+  sudo killall -HUP mDNSResponder
   sysctl -a hw
 
 pdf
