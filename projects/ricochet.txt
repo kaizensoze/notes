@@ -1,0 +1,10 @@
+
+setup
+  git clone https://github.com/ricochet-im/ricochet.git
+  cd ricochet
+  brew install protobuf
+  brew install qt5
+  /usr/local/opt/qt5/bin/qmake CONFIG+=debug
+  (edit Makefile.Debug to add -I/usr/local/opt/openssl/include to INCPATH)
+  make
+  ./ricochet.app/Contents/MacOS/ricochet
