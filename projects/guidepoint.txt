@@ -46,20 +46,16 @@ questions
   If so, where does the email come from for "X-On-Behalf-Of: <email>"?          // not used for now
 
 05/18/16
-10:30 - 18:30
   setup, hangout attempt
   go through api doc
   update GuidepointAPIv1.0.7.docx and upload to https://guidepointglobal.atlassian.net/wiki/pages/viewpageattachments.action?pageId=55902253
   go through api code
 
 05/19/16
-10:30 - 18:30 = 8
   meeting going over crm and ios layouts
   progress on login page
   
 05/20/16
-10:30 - 12:00 = 1.5
-16:00 - 22:30 = 6.5 ) = 8
   login page
   welcome page
   
