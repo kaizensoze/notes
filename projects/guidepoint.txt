@@ -53,10 +53,13 @@ questions
   go through api code
 
 05/19/16
-10:30 - 18:30
+10:30 - 18:30 = 8
   meeting going over crm and ios layouts
   progress on login page
   
 05/20/16
-10:30 - 12:00
-16:00 - 21:30
+10:30 - 12:00 = 1.5
+16:00 - 22:30 = 6.5 ) = 8
+  login page
+  welcome page
+  
