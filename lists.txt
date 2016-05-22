@@ -1,10 +1,10 @@
 
-voodoo donuts (Eugene, OR)
 drive down to huntington beach
 
 PR
   brew
   bountysource
+  ricochet
 
 linux book
 linux book (linux kernel development 3rd edition)

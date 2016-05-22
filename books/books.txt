@@ -72,7 +72,6 @@ Spy the Lie, Philip Houston
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
-Sycamore Row, John Grisham
 Tesla: Inventor of the Electrical Age, W. Bernard Carlson
 The Alienist, Caleb Carr
 The Botany of Desire, Michael Pollan
@@ -327,3 +326,4 @@ Lords of Secrecy, Scott Horton
 Unstoppable, Bill Nye
 Ghost Fleet, P.W. Singer
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
+Sycamore Row, John Grisham
