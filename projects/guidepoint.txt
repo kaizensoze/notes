@@ -1,6 +1,7 @@
 
-add background image to welcome screen
+add 3x images
 launch screen
+tabbar
 
 test: https://apit.guidepoint.io
 prod: https://api.guidepoint.io
@@ -57,4 +58,7 @@ questions
 05/20/16
   login page
   welcome page
+
+05/23/16
+  10:30 - 
   

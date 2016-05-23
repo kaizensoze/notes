@@ -1,4 +1,8 @@
 
+apartments
+guidepoint
+shower
+
 PR
   ricochet
 
@@ -31,6 +35,8 @@ movies
   Nightmares in Red, White and Blue
   Manchester by the Sea
   The Brothers Grimsby
+  The Nice Guys
+  Captain America
   Eye In The Sky
   Green Room
   Sing Street
