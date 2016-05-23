@@ -1,6 +1,5 @@
 
 add background image to welcome screen
-throw welcome screen in a scrollview so it fits on 4s screen
 launch screen
 
 test: https://apit.guidepoint.io

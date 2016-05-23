@@ -1,9 +1,5 @@
 
-drive down to huntington beach
-
 PR
-  brew
-  bountysource
   ricochet
 
 linux book
@@ -16,6 +12,7 @@ tv
   Game of Thrones S06E05 (05/22)
   Silicon Valley S03E05 (05/22)
   Last Week Tonight S03E13 (05/22)
+  Lady Dynamite
   Vice Principals (07/01)
   Mr Robot S02E01 (07/13)
   Person of Interest
@@ -45,8 +42,6 @@ movies
   The Lobster
 
 projects
-  signal
-  securedrop
   linux
   redox
   tor
