@@ -1,7 +1,11 @@
 
-apartments
-guidepoint
-shower
+return rental car
+pick up new rental car
+stop by kristian's
+look for a place
+if I don't find anything good
+  live in car
+  put stuff in storage
 
 PR
   ricochet
