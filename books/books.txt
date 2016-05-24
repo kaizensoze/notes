@@ -86,7 +86,6 @@ The Forever War, Dexter Filkins
 The Forever War, Joe Haldeman
 The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
-The Ghost Map, Steven Johnson
 The Girl Next Door, Jack Ketchum
 The Illustrations from the Works of Andreas Vesalius of Brussels
 The Innovator's Dilemma, Clayton M. Christensen
@@ -327,3 +326,4 @@ Unstoppable, Bill Nye
 Ghost Fleet, P.W. Singer
 The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
 Sycamore Row, John Grisham
+The Ghost Map, Steven Johnson
