@@ -1,0 +1,6 @@
+setup
+  git clone https://github.com/Homebrew/brew.git
+  alias brew=<local path>
+  brew man
+  man share/man/man1/brew.1
+  brew tests
