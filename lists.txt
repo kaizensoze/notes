@@ -1,11 +1,16 @@
 
+ask about submitting a PR adding a CONTRIBUTING.md
+
 return rental car
+  9020 Aviation Blvd, Inglewood, CA 90301
 pick up new rental car
 stop by kristian's
 look for a place
 if I don't find anything good
   live in car
   put stuff in storage
+
+wipes
 
 PR
   ricochet
@@ -23,7 +28,6 @@ tv
   Lady Dynamite
   Vice Principals (07/01)
   Mr Robot S02E01 (07/13)
-  Person of Interest
   Horace & Pete
   The Path
   Billions

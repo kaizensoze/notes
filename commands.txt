@@ -158,6 +158,10 @@ gpg
   gpg --fingerprint <id>
   gpg --verify OnionShare.pkg.asc OnionShare.pkg
 
+hash
+  hash      # list bindings
+  hash -r   # reset bindings
+
 heroku
   heroku pg:psql
   heroku pg:backups
