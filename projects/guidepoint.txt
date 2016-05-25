@@ -1,7 +1,7 @@
 
-add 3x images
 launch screen
-tabbar
+
+158x146 => 237x219
 
 test: https://apit.guidepoint.io
 prod: https://api.guidepoint.io
@@ -60,5 +60,10 @@ questions
   welcome page
 
 05/24/16
-  7:00 - 
+  add 3x images
+  tab bar controller
+  
+05/25/16
+  10:00 - 11:00
+  12:30 - 
   

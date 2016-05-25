@@ -1,16 +1,6 @@
 
-
-
-return rental car
-  9020 Aviation Blvd, Inglewood, CA 90301
-pick up new rental car
-stop by kristian's
-look for a place
-if I don't find anything good
-  live in car
-  put stuff in storage
-
-wipes
+guidepoint
+padmapper
 
 PR
   ricochet
@@ -21,10 +11,10 @@ debian via vagrant
 neovim+plugins
 
 tv
-  Archer S07E08 (05/19)
-  Game of Thrones S06E05 (05/22)
-  Silicon Valley S03E05 (05/22)
-  Last Week Tonight S03E13 (05/22)
+  Archer S07E09 (05/26)
+  Game of Thrones S06E06 (05/29)
+  Silicon Valley S03E06 (05/29)
+  Last Week Tonight S03E14 (05/29)
   Lady Dynamite
   Vice Principals (07/01)
   Mr Robot S02E01 (07/13)
