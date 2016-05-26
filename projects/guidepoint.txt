@@ -1,7 +1,5 @@
 
-launch screen
-
-158x146 => 237x219
+create test project data and complete projects view
 
 test: https://apit.guidepoint.io
 prod: https://api.guidepoint.io
@@ -64,6 +62,10 @@ questions
   tab bar controller
   
 05/25/16
-  10:00 - 11:00
-  12:30 - 
+  working with kurian on getting vpn working
+  launch screen
+  progress on projects view
+  
+05/26/16
+  
   
