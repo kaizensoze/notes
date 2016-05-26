@@ -1,7 +1,7 @@
 
 anthony bourdain-obama video
-PR
-  ricochet
+PR: ricochet
+estimated tax prep
 
 linux book
 linux book (linux kernel development 3rd edition)
