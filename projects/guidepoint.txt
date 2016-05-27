@@ -1,5 +1,6 @@
 
-create test project data and complete projects view
+search
+project advisors view
 
 test: https://apit.guidepoint.io
 prod: https://api.guidepoint.io
@@ -39,6 +40,10 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
+  Verify that tapping on a project does a push segue to project advisers view.
+  Ask about which actions design to go with.
+  Is it possible to skip an action? Can you schedule call for someone who hasn't been selected?
+  
   JWT token is good for 12 hours so should user be logged out every 12 hours?
   Is the X-On-Behalf-Of header being used?                                      // not for now, maybe later down the road
   If so, where does the email come from for "X-On-Behalf-Of: <email>"?          // not used for now
@@ -57,15 +62,22 @@ questions
   login page
   welcome page
 
+05/23/16 [MISSING] 
+
 05/24/16
   add 3x images
   tab bar controller
-  
+
 05/25/16
   working with kurian on getting vpn working
   launch screen
   progress on projects view
-  
+
 05/26/16
-  
+  vpn access working
+  user, project models
+  add test data
+  projects view
+
+TODO: Make up day on Sat or Sun
   
