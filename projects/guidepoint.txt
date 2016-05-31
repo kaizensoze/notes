@@ -1,8 +1,10 @@
 
-clear selected on select filter status [but not search?]
+create advisorsCheckedMap
+check that in rendering cell
+clear it on selecting a filter status
 
-toggleCheckbox()
-  allow at most one thing checked if selected action is scheduled
+allow at most one thing checked if selected action is scheduled
+
 showAvailableActions()
   show available action buttons based on selected action
 
@@ -86,7 +88,19 @@ advisor logic
   add test data
   projects view
   
-05/27/16
+05/27/16 
+  progress on advisors view
+  add advisor model
+
+05/29/16 [MAKES UP FOR 05/23/16]
+  advisor status icon
+  allow to set status of test data instead of hardcoded
+  add advisor status filter segmentedcontrol
+  project advisor filter
+  add search to project advisors view
+  check/uncheck advisor
+
+05/30/16 [MISSING]
+
+05/31/16
   
-  
-TODO: work full+half day this weekend
