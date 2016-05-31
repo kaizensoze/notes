@@ -60,7 +60,6 @@ Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
 Seveneves, Neal Stephenson
 Sexus, Henry Miller
-Sheltering Sky, Paul Bowles
 So, Anyway..., John Cleese (p82)
 Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
@@ -85,7 +84,6 @@ The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
 The Girl Next Door, Jack Ketchum
 The Illustrations from the Works of Andreas Vesalius of Brussels
-The Innovator's Dilemma, Clayton M. Christensen
 The Intelligent Investor, Benjamin Graham
 The Laws of Medicine, Siddhartha Mukherjee
 The Madmen of Benghazi, Gérard de Villiers
@@ -101,7 +99,6 @@ The Pentagon's Brain, Annie Jacobsen
 The Power Broker, Robert A. Caro, page: 25
 The Promise of a Pencil, Adam Braun
 The Puzzle Palace, James Bamford
-The Racketeer, John Grisham
 The Restaurant at the End of the Universe, Douglas Adams
 The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Savior Generals, Victor Davis Hanson
@@ -326,3 +323,5 @@ Sycamore Row, John Grisham
 The Ghost Map, Steven Johnson
 The Forever War, Dexter Filkins
 Rogue Lawyer, John Grisham
+The Racketeer, John Grisham
+The Innovator's Dilemma, Clayton M. Christensen

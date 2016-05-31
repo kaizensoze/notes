@@ -1,14 +1,15 @@
 
-github stuff
-ask questions in guidepoint slack
-work on guidepoint
-drive
+node-github
+guidepoint
 
-find apartment
 buy car
+find apartment
+schedule dermatologist on long island
+schedule annual physical on long island
+schedule sleep specialist
 
-anthony bourdain-obama video
 PR: ricochet
+fix gitpop auth
 estimated tax prep
 
 linux book
@@ -16,19 +17,18 @@ linux book (linux kernel development 3rd edition)
 debian via vagrant
 neovim+plugins
 
+buy car
+wired router
+
 tv
-  Archer S07E09 (05/26)
+  Horace and Pete S01E02
+  Billions S01E02
   Game of Thrones S06E06 (05/29)
   Silicon Valley S03E06 (05/29)
   Last Week Tonight S03E14 (05/29)
-  Lady Dynamite
+  Archer S07E10 (06/02)
   Vice Principals (07/01)
   Mr Robot S02E01 (07/13)
-  Horace & Pete
-  The Path
-  Billions
-  Utopia
-  Vikings
 
 movies
   Prisoners

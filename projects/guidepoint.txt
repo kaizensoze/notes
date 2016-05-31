@@ -1,6 +1,13 @@
 
-search
-project advisors view
+clear selected on select filter status [but not search?]
+
+toggleCheckbox()
+  allow at most one thing checked if selected action is scheduled
+showAvailableActions()
+  show available action buttons based on selected action
+
+advisor cell checkbox
+advisor action view
 
 test: https://apit.guidepoint.io
 prod: https://api.guidepoint.io
@@ -40,13 +47,13 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
-  Verify that tapping on a project does a push segue to project advisers view.
-  Ask about which actions design to go with.
-  Is it possible to skip an action? Can you schedule call for someone who hasn't been selected?
-  
+  What is the number in parentheses for Last sent on?
   JWT token is good for 12 hours so should user be logged out every 12 hours?
   Is the X-On-Behalf-Of header being used?                                      // not for now, maybe later down the road
   If so, where does the email come from for "X-On-Behalf-Of: <email>"?          // not used for now
+
+advisor logic
+  can't schedule more than one advisor at once
 
 05/18/16
   setup, hangout attempt
@@ -78,6 +85,8 @@ questions
   user, project models
   add test data
   projects view
-
-TODO: Make up day on Sat or Sun
   
+05/27/16
+  
+  
+TODO: work full+half day this weekend
