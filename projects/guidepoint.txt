@@ -1,15 +1,9 @@
 
-create advisorsCheckedMap
-check that in rendering cell
-clear it on selecting a filter status
-
-allow at most one thing checked if selected action is scheduled
-
-showAvailableActions()
-  show available action buttons based on selected action
-
-advisor cell checkbox
-advisor action view
+for selected filter status, schedule call button redirects to advisor detail view
+change advisor.status to an array
+info cell
+scheduled info cell
+expand/collapse subsection cell
 
 test: https://apit.guidepoint.io
 prod: https://api.guidepoint.io
@@ -50,6 +44,8 @@ endpoints
 
 questions
   What is the number in parentheses for Last sent on?
+  Is the last line in the first section of the advisor detail view always the last sent on date?
+  What's the difference between SEND CONFIRMATION and EMAIL buttons?
   JWT token is good for 12 hours so should user be logged out every 12 hours?
   Is the X-On-Behalf-Of header being used?                                      // not for now, maybe later down the road
   If so, where does the email come from for "X-On-Behalf-Of: <email>"?          // not used for now
@@ -91,7 +87,7 @@ advisor logic
 05/27/16 
   progress on advisors view
   add advisor model
-
+  
 05/29/16 [MAKES UP FOR 05/23/16]
   advisor status icon
   allow to set status of test data instead of hardcoded
@@ -99,8 +95,32 @@ advisor logic
   project advisor filter
   add search to project advisors view
   check/uncheck advisor
-
+  
 05/30/16 [MISSING]
-
+  
 05/31/16
+  update logic for checking/unchecking advisors
+  allow advisors to be checked across status filters
+  clear checked advisors on status filter
+  Only allow scheduling one advisor at a time
+  fix for checking advisor logic
+  progress on advisor actions view
+  on check/uncheck, only hide actions view if none checked
+  action buttons
+  update send button text to send reminder for sent status filter
+  progress on advisor action ibactions
+  
+06/01/16
+  change status button interaction working
+  project advisors view
+  dismiss search on projects view willDisappear
+  add location field to project advisor model
+  restrict test project advisor data to first project
+  hide search bar on project advisor view viewWillDisappear
+  tapping advisor cell navigates to advisor detail view
+  progress on project advisor detail view
+  
+06/02/16
+  
+  
   

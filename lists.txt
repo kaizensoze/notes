@@ -1,34 +1,36 @@
 
-node-github
 guidepoint
+schedule
+  physical
+  dermatologist
+  sleep specialist
+move into apartment
+stop by nooklyn office: 218 Randolph Street
+look into planet fitness charge
 
-buy car
-find apartment
-schedule dermatologist on long island
-schedule annual physical on long island
-schedule sleep specialist
-
-PR: ricochet
 fix gitpop auth
 estimated tax prep
+fix myanonamouse seed ratio
+wired router
+air quality sensor
+PR: ricochet
 
+emacs
 linux book
 linux book (linux kernel development 3rd edition)
 debian via vagrant
 neovim+plugins
 
-buy car
-wired router
-
 tv
   Horace and Pete S01E02
   Billions S01E02
-  Game of Thrones S06E06 (05/29)
-  Silicon Valley S03E06 (05/29)
-  Last Week Tonight S03E14 (05/29)
+  Game of Thrones S06E07 (06/05)
+  Silicon Valley S03E07 (06/05)
+  Last Week Tonight S03E14 (06/05)
   Archer S07E10 (06/02)
   Vice Principals (07/01)
   Mr Robot S02E01 (07/13)
+  Avatar
 
 movies
   Prisoners

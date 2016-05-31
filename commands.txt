@@ -189,6 +189,7 @@ imagemagick
   identify -verbose [image]
   exiftool -all= [image]
   convert *.jpg deposit_and_receipt.pdf
+  convert -strip -quality 85% -colorspace gray -resize 1224x1632 a.jpg b.jpg '2015 personal return.pdf'
 
 iptables
   sudo vim /etc/iptables.firewall.rules
