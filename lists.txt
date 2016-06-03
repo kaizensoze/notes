@@ -1,78 +1,42 @@
 
-move
-  go through apartment setup sheet
+guidepoint
+drop off amazon items
+  250 KNICKERBOCKER AVE or 334B CENTRAL AVE
 
-  shower curtain
-  shower curtain rings
-  
-  curtains
-  curtain rod
-  
-  upper body workout bar
-  standing desk
-  air quality sensor
-  wired router
+visit animal shelter
+tetris display
+scaredorpooping
+osquery
 
-schedule
-  physical
-  dermatologist
-  sleep specialist
-move into apartment
-stop by nooklyn office: 218 Randolph Street
-look into planet fitness charge
+livia owes ipad, 400
 
-fix gitpop auth
-estimated tax prep
-fix myanonamouse seed ratio
-
-PR: ricochet
 emacs
-linux book
-linux book (linux kernel development 3rd edition)
-debian via vagrant
 neovim+plugins
 
+linux
+  linux book
+  linux book (linux kernel development 3rd edition)
+  debian via vagrant
+
 tv
-  Horace and Pete S01E02
-  Billions S01E02
-  Game of Thrones S06E07 (06/05)
-  Silicon Valley S03E07 (06/05)
-  Last Week Tonight S03E14 (06/05)
-  Archer S07E10 (06/02)
+  Anthony Bourdain: Parts Unknown S06E01
+  Game of Thrones S06E10 (06/26)
+  Silicon Valley S03E10 (06/26)
+  Last Week Tonight S03E17 (06/26)
+  Archer S07E11 (06/09)
+  Avatar
   Vice Principals (07/01)
   Mr Robot S02E01 (07/13)
-  Avatar
+  Narcos (09/02)
+  South Park (09/14)
 
 movies
-  Prisoners
-  Plague Dogs
-  Watership Down
-  Everybody Wants Some
-  Hello, My Name Is Doris
-  Nightmares in Red, White and Blue
-  Manchester by the Sea
-  The Brothers Grimsby
-  The Nice Guys
-  Captain America
-  Eye In The Sky
+  Swiss Army Man (06/24)
   Green Room
   Sing Street
   Lo and Behold, Reveries of the Connected World
-  Swiss Army Man
-  Suicide Squad
   Louis Theroux: My Scientology Movie
-  The Red Turtle
-  The Lobster
-
-projects
-  linux
-  redox
-  tor
-  tails
-  programming language (emphasizing maps and sets)
-  
-  map uni funding
-  list sec company offerings
+  Suicide Squad (08/05)
 
 noteworthy books
   A Confederacy of Dunces, John Kennedy Toole
@@ -140,17 +104,8 @@ bands
   camel
   eminem
   joe satriani
-  metal church
-  radiohead
-  talking heads
 
 videogames
-  PS4
-    Dark Souls III
-    Dishonored 2
-    Rocket League
-  iOS
-    The Witness
 
 overthewire
   http://natas12.natas.labs.overthewire.org
@@ -164,11 +119,30 @@ conferences
   (05/05) thotcon
   (06/08) dotscale
   (06/12) circlecitycon
+  (06/13) wwdc
+  (06/xx) summercon
   (07/09) toorcamp
+  (07/22) H.O.P.E
   (08/01) blackhat
   (08/06) defcon
-  (08/13) ccc-camp
+  (08/13) chaos communication camp (every 4 years)
   (09/22) appsec
+  (09/26) .conf
+  (10/21) toorcon
+  (12/27) chaos communication congress (C3)
+
+interesting defcon talks
+  Toxic Proxies - Bypassing HTTPS and VPNs to Pwn Your Online Identity
+  Machine Duping 101: Pwning Deep Learning Systems
+  Feds and 0Days: From Before Heartbleed to After FBI-Apple
+  Discovering and Triangulating Rogue Cell Towers
+  Honey Onions: Exposing Snooping Tor HSDir Relays
+  How to Overthrow a Government
+  I've got 99 Problems, but LittleSnitch ain't one
+  Attacking Network Infrastructure to Generate a 4 Tb/s DDoS for $5
+  Abusing Bleeding Edge Web Standards for AppSec Glory
+  Project CITL
+  Realtime Bluetooth Device Detection with Blue Hydra  
 
 challenges
 	Hack This Site (programming problems)
@@ -194,11 +168,11 @@ cars
   nissan versa [note]
 
 comics
-  Walking Dead: 150
+  Walking Dead: 155
 
 estimated tax deadlines
   Q1 April 15, 2014
-  Q2 June 16, 2014
+  Q2 June 15, 2014
   Q3 September 15, 2014
   Q4 January 15, 2015
 

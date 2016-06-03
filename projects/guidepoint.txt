@@ -1,28 +1,20 @@
 
-scheduled call format phone number
-scheduled call format date
-
-change advisor.status to an array
-might need to pair status with status date as an object?
-
-info cell
-expand/collapse subsection cell
-availability subsection cell
-for selected filter status, schedule call button redirects to advisor detail view
+https://apit.guidepoint.io/app_test.php/auth
+  jbarker@guidepointglobal.com
+  welcome
 
 test: https://apit.guidepoint.io
 prod: https://api.guidepoint.io
 
 headers
+  "Accept: application/vnd.Guidepoint.app+json"
   "Authorization: Bearer <token>"
-  "Accept: application/vnd.Guidepoint.app+json" // no version field needed for now
-  "X-On-Behalf-Of: <email>" // POST/PUT
-  TODO: look into MOCK header
-  
+  "X-Payload-Template: mobile_v1"
+
 auth:
   /auth
   JWT token good for 12 hours
-  
+
 endpoints
   /auth
   /ping
@@ -48,84 +40,111 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
-  What is the number in parentheses for Last sent on?
-  Is the last line in the first section of the advisor detail view always the last sent on date?
+  If advisor is accepted but not sent, if you select them are they now also sent?
   What's the difference between SEND CONFIRMATION and EMAIL buttons?
   JWT token is good for 12 hours so should user be logged out every 12 hours?
-  Is the X-On-Behalf-Of header being used?                                      // not for now, maybe later down the road
-  If so, where does the email come from for "X-On-Behalf-Of: <email>"?          // not used for now
 
-advisor logic
-  can't schedule more than one advisor at once
-
-05/18/16
-  setup, hangout attempt
-  go through api doc
-  update GuidepointAPIv1.0.7.docx and upload to https://guidepointglobal.atlassian.net/wiki/pages/viewpageattachments.action?pageId=55902253
-  go through api code
-
-05/19/16
-  meeting going over crm and ios layouts
-  progress on login page
+hours
+  06/01/16
+    change status button interaction working
+    project advisors view
+    dismiss search on projects view willDisappear
+    add location field to project advisor model
+    restrict test project advisor data to first project
+    hide search bar on project advisor view viewWillDisappear
+    tapping advisor cell navigates to advisor detail view
+    progress on project advisor detail view
+    
+  06/02/16
+    dismiss search on projects view willDisappear
+    add location field to project advisor model
+    restrict test project advisor data to first project
+    hide search bar on project advisor view viewWillDisappear
+    tapping advisor cell navigates to advisor detail view
+    progress on project advisor detail view
+    add NSMutableAttributedString extension and refactor
+    orgName text changes
+    progress on advisor detail info section
+    don't have uicolor custom inits return conditional
+    add active status icons
+    add scheduled call model
+    scheduled info cell
+    change app bundle id and associate with guidepoint account
   
-05/20/16
-  login page
-  welcome page
-
-05/23/16 [MISSING] 
-
-05/24/16
-  add 3x images
-  tab bar controller
-
-05/25/16
-  working with kurian on getting vpn working
-  launch screen
-  progress on projects view
-
-05/26/16
-  vpn access working
-  user, project models
-  add test data
-  projects view
+  06/03/16
+    change app bundle id and associate with guidepoint account
+    use dark keyboard for search
+    fix some images so build archive succeeds
+    distribute build to test on device
   
-05/27/16 
-  progress on advisors view
-  add advisor model
+  06/06/16
+    refactor available action button logic
+    explicitly set date formatter locale
+    scheduled call formatted date/phone number
   
-05/29/16 [MAKES UP FOR 05/23/16]
-  advisor status icon
-  allow to set status of test data instead of hardcoded
-  add advisor status filter segmentedcontrol
-  project advisor filter
-  add search to project advisors view
-  check/uncheck advisor
+  06/07/16
+    downsize tabbar icons
+    bump up fonts and adjust layout
+    give filter segmentedcontrol some breathing room
+    show scheduled status icon or scheduled advisor cell
+    increase checkbox area
+    change advisor.status to array of val-date pairs
+    backfill status data for test advisor data
+    fix active status icons
+    advisor detail status icons
+    
+  06/08/16
+    dynamically insert latest status date label
+    increase font size of subsection label
+    remember me interaction
+    forgot password view
+    persist being logged in
+    
+  06/09/16 [MADE UP BY 06/18/16]
   
-05/30/16 [MISSING]
+  06/10/16
+    progress on expand/collapse detail subsection cell
+    rotate disclosure icon on expand/collapse
+    remove disclosure expanded icon
+    fix layout constraint error on expand/collapse
   
-05/31/16
-  update logic for checking/unchecking advisors
-  allow advisors to be checked across status filters
-  clear checked advisors on status filter
-  Only allow scheduling one advisor at a time
-  fix for checking advisor logic
-  progress on advisor actions view
-  on check/uncheck, only hide actions view if none checked
-  action buttons
-  update send button text to send reminder for sent status filter
-  progress on advisor action ibactions
+  06/13/16
+    save progress on day grid row
+    day grid row done (minus A,C icons)
+    tap to select grid view
   
-06/01/16
-  change status button interaction working
-  project advisors view
-  dismiss search on projects view willDisappear
-  add location field to project advisor model
-  restrict test project advisor data to first project
-  hide search bar on project advisor view viewWillDisappear
-  tapping advisor cell navigates to advisor detail view
-  progress on project advisor detail view
+  06/14/16
+    start/end time + schedule day/time label
+    shorten parts of dayTime label, calc diff in mins
   
-06/02/16
+  06/15/16
+    globally adjust navigation bar text (font/color)
+    be able to unselect selected day/time view
+    have time of day segmented control scroll to start time view
+    scroll to soonest 15min from now on selecting today
+    selecting start time scrolls end time to match
+    schedule button from advisors view shortcut
   
+  06/16/16 [0]
   
+  06/17/16 [0]
   
+  06/18/16 [MAKES UP FOR 06/09/16]
+    scheduling logic adjustments
+    notifications tab
+    set locale for date formatters for scheduling ui
+  
+  06/20/16
+    change project advisor status attribute to plural
+    decrease spacing of notification cell title label
+    use project title instead of client name for notifications
+    calls tab
+    add more bottom spacing to project table cell
+    add bottom spacing to advisor list table cell
+    start looking into hooking in api calls
+    
+  06/21/16 [0]
+  
+  06/22/16
+    
+    

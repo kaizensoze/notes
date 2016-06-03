@@ -1,0 +1,7 @@
+
+tetris game grid: 10x20
+window dimensions: 22.875" x 61.875"
+(0.875 = 7/8)
+grid cell: (22.875/10)=2.2875" x (61.875/20)=3.09375"
+
+dr mario game grid: 8x16

@@ -1,5 +1,4 @@
 Astro Noise, Laura Poitras
-A Wizard of Earthsea, Ursula K. Le Guin
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
@@ -17,6 +16,7 @@ Cloud Atlas, David Mitchell
 Conscious Capitalism, John Mackey
 Contact, Carl Sagan
 Cosmos, Carl Sagan
+Dark Territory: The Secret History of Cyber War
 De humani corporis fabrica, Andreas Vesalius
 Discworld, Terry Pratchett
 Don Quixote, Miguel de Cervantes
@@ -52,6 +52,7 @@ Notes From Underground, Fyodor Dostoyevsky
 Odyssey, Homer
 On Killing, Dave Grossman
 Perdido Street Station, China Mieville
+Plague Dogs, Richard Adams
 Reamde, Neal Stephenson
 Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
@@ -72,11 +73,13 @@ Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
 Tesla: Inventor of the Electrical Age, W. Bernard Carlson
 The Alienist, Caleb Carr
+The Bonfire of the Vanities, Tom Wolfe
 The Brothers Karamazov, Fyodor Dostoevsky
 The Corpse Reader, Antonio Garrido
 The Count of Monte Cristo, Alexandre Dumas
 The Dark Tower, Stephen King
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
+The Electric Kool-Aid Acid Test, Tom Wolfe
 The Emperor's New Mind, Roger Penrose
 The End of Power, Moises Naim
 The Forever War, Joe Haldeman
@@ -92,7 +95,6 @@ The Master Switch: The Rise and Fall of Information Empires, Tim Wu
 The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
 The Name of the Wind, Patrick Rothfuss
 The Nightingale, Kristin Hannah
-The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan Holiday
 The Once and Future King, T.H. White
 The Panda's Thumb, Stephen Jay Gould
 The Pentagon's Brain, Annie Jacobsen
@@ -108,22 +110,23 @@ The Secret Sentry, Matthew M. Aid
 The Society of Mind, Marvin Minsky
 The Sovereign Individual, James Dale Davidson
 The Stand, Stephen King
-The Stars My Destination, Alfred Bester
 The Three-Body Problem, Liu Cixin
 The Trouble With Testosterone, Robert Sapolsky
 The Vital Question, Nick Lane
 The Wise Men, Walter Isaacson
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 This Will Change Everything, John Brockman
+Tribe: On Homecoming and Belonging
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
-Walking the Amazon, Ed Stafford
 War and Peace, Leo Tolstoy
+Watership Down, Richard Adams
 What If?, Randall Munroe
 When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 World Order, Henry Kissinger
 *, Jonathan Franzen
+*, Joe Hill
 
 DONE
 What the Doormouse Said, John Markoff
@@ -152,7 +155,7 @@ Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel, Rolf Potts
 Generation Kill, Evan Wright
 The Rise of Islamic State, Patrick Cockburn
 Siddhartha, Hermann Hesse
-Rise of the Warrior Cop: The Militarization of America’s Police Forces, Daniel Defoe
+Rise of the Warrior Cop: The Militarization of America’s Police Forces, Radley Balko
 The Meaning of Human Existence, Edward O. Wilson
 One Day in the Life of Ivan Denisovich, Aleksandr Solzhenitsyn
 The Emperor of all Maladies, Siddhartha Mukherjee
@@ -325,3 +328,7 @@ The Forever War, Dexter Filkins
 Rogue Lawyer, John Grisham
 The Racketeer, John Grisham
 The Innovator's Dilemma, Clayton M. Christensen
+Walking the Amazon, Ed Stafford
+The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan Holiday
+A Wizard of Earthsea, Ursula K. Le Guin
+The Stars My Destination, Alfred Bester

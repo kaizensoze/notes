@@ -16,7 +16,6 @@ EXTRAS
   Yellowstone National Park, WY
   Chaco National Park, NM
   Rocky Mountain National Park, CO
-  Denver, CO
   Wichita, KS
   Branson, MO
   Little Rock, AR
@@ -167,4 +166,6 @@ DONE
   Scottsdale, AZ
   Tucson, AZ
   Albequerque, NM
+  Denver, CO
   Oklahoma City, OK
+  

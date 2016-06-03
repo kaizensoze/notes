@@ -107,6 +107,9 @@ curl
   curl -X POST -H "Authorization: token <token>" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
   curl -X DELETE -H "Authorization: token <token>" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
 
+diskutil
+  diskutil secureErase freespace 0 /Volumes/sparta
+
 ffmpeg
   for x (*.flac); do ffmpeg -i $x -ab 196k -ac 2 -ar 48000 "${x:r}.mp3"; done
 
@@ -142,7 +145,8 @@ git
     [remote "upstream"]
       url = https://github.com/mikedeboer/node-github.git
       fetch = +refs/heads/*:refs/remotes/upstream/*
-      fetch = +refs/pull/*/head:refs/remotes/upstream/pr/*   <--
+      fetch = +refs/pull/*/head:refs/remotes/upstream/pr/*
+  git merge and then git checkout --ours or --theirs before adding file(s) in conflict
 
 github
   curl -u kaizensoze:<token> https://api.github.com/rate_limit
@@ -223,6 +227,10 @@ lsof
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
 
+microsoft word
+  alt+F9: show formulas
+  F9: update formulas
+
 mongodb
   sudo service mongod start
   sudo service mongod status
@@ -249,6 +257,7 @@ npm
 osx
   sudo killall -HUP mDNSResponder
   sysctl -a hw
+  cmd+alt+i to get size of selected files
 
 pdf
   brew install poppler

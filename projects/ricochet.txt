@@ -1,9 +1,10 @@
+link passed to showContextMenu(link) is undefined
+=> hoveredLink passed to MenuItem.onTriggered is undefined
 
 setup
   git clone https://github.com/ricochet-im/ricochet.git
   cd ricochet
-  brew install protobuf
-  brew install qt5
+  brew install protobuf qt5
   /usr/local/opt/qt5/bin/qmake OPENSSLDIR=/usr/local/opt/openssl/ CONFIG+=debug
   make
   ./ricochet.app/Contents/MacOS/ricochet
