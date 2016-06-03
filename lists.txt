@@ -1,5 +1,18 @@
 
-guidepoint
+move
+  go through apartment setup sheet
+
+  shower curtain
+  shower curtain rings
+  
+  curtains
+  curtain rod
+  
+  upper body workout bar
+  standing desk
+  air quality sensor
+  wired router
+
 schedule
   physical
   dermatologist
@@ -11,10 +24,8 @@ look into planet fitness charge
 fix gitpop auth
 estimated tax prep
 fix myanonamouse seed ratio
-wired router
-air quality sensor
-PR: ricochet
 
+PR: ricochet
 emacs
 linux book
 linux book (linux kernel development 3rd edition)

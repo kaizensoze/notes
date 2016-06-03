@@ -1,9 +1,14 @@
 
-for selected filter status, schedule call button redirects to advisor detail view
+scheduled call format phone number
+scheduled call format date
+
 change advisor.status to an array
+might need to pair status with status date as an object?
+
 info cell
-scheduled info cell
 expand/collapse subsection cell
+availability subsection cell
+for selected filter status, schedule call button redirects to advisor detail view
 
 test: https://apit.guidepoint.io
 prod: https://api.guidepoint.io
