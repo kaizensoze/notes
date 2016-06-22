@@ -1,7 +1,8 @@
 
+parts unknown
+read
+
 guidepoint
-drop off amazon items
-  250 KNICKERBOCKER AVE or 334B CENTRAL AVE
 
 visit animal shelter
 tetris display
@@ -10,20 +11,16 @@ osquery
 
 livia owes ipad, 400
 
-emacs
-neovim+plugins
-
 linux
   linux book
   linux book (linux kernel development 3rd edition)
   debian via vagrant
 
 tv
-  Anthony Bourdain: Parts Unknown S06E01
+  Anthony Bourdain: Parts Unknown S06E02
   Game of Thrones S06E10 (06/26)
   Silicon Valley S03E10 (06/26)
   Last Week Tonight S03E17 (06/26)
-  Archer S07E11 (06/09)
   Avatar
   Vice Principals (07/01)
   Mr Robot S02E01 (07/13)
@@ -31,11 +28,12 @@ tv
   South Park (09/14)
 
 movies
-  Swiss Army Man (06/24)
+  The Shallows
   Green Room
   Sing Street
   Lo and Behold, Reveries of the Connected World
   Louis Theroux: My Scientology Movie
+  Swiss Army Man (06/24)
   Suicide Squad (08/05)
 
 noteworthy books

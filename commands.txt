@@ -392,6 +392,8 @@ tugboat
 
 vim
   :%s/\r/\r/g
+  Ctrl-]      # follow link
+  Ctrl-T      # go to previous topic
 
 virtualenv
   mkvirtualenv blah
