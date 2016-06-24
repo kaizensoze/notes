@@ -2,18 +2,17 @@
 parts unknown
 
 whitney museum
-guidepoint
 visit animal shelter
-tetris display
-scaredorpooping
-osquery
 
 livia owes ipad, 400
 
-linux
-  linux book
-  linux book (linux kernel development 3rd edition)
-  debian via vagrant
+projects
+  linux
+    linux book
+    linux book (linux kernel development 3rd edition)
+    debian via vagrant
+  tetris display
+  scaredorpooping
 
 tv
   Anthony Bourdain: Parts Unknown S06E02
