@@ -1,5 +1,4 @@
 
-update custom disclosure button to match default
 project cell expand on project advisors view
 call detail view
 
@@ -198,5 +197,10 @@ hours
   06/23/16 [0]
     
   06/24/16
-    
+    normalize tableviewcell disclosure indicator
+    Use custom image throughout.
+    add left padding to custom disclosure indicator
+    iphone 6 plus constraint fixes
+    fix position of disclosure in expandablecell on 6 plus
+    fix weird iphone6P-specific convertPoint bug
   
