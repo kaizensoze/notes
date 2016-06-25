@@ -78,7 +78,6 @@ The Brothers Karamazov, Fyodor Dostoevsky
 The Corpse Reader, Antonio Garrido
 The Count of Monte Cristo, Alexandre Dumas
 The Dark Tower, Stephen King
-The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 The Electric Kool-Aid Acid Test, Tom Wolfe
 The Emperor's New Mind, Roger Penrose
 The End of Power, Moises Naim
@@ -333,3 +332,4 @@ Walking the Amazon, Ed Stafford
 The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan Holiday
 A Wizard of Earthsea, Ursula K. Le Guin
 The Stars My Destination, Alfred Bester
+The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
