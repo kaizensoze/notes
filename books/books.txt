@@ -29,7 +29,6 @@ Fermat's Enigma, Simon Singh
 Future Crimes, Marc Goodman
 Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
-Ghost Rider: Travels on the Healing Road, Neil Peart
 Green River Killer, Jeff Jensen
 Hacking: The Art of Exploitation, Jon Erickson
 His Dark Materials Trilogy, Philip Pullman
@@ -333,3 +332,4 @@ The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan H
 A Wizard of Earthsea, Ursula K. Le Guin
 The Stars My Destination, Alfred Bester
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
+Ghost Rider: Travels on the Healing Road, Neil Peart
