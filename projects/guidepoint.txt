@@ -1,5 +1,4 @@
 
-project cell expand on project advisors view
 call detail view
 
 {
@@ -165,7 +164,7 @@ hours
     selecting start time scrolls end time to match
     schedule button from advisors view shortcut
   
-  06/16/16 [0]
+  06/16/16 [MADE UP BY 06/25/16]
   
   06/17/16 [0]
   
@@ -204,4 +203,12 @@ hours
     fix position of disclosure in expandablecell on 6 plus
     fix weird iphone6P-specific convertPoint bug
     prep for new test api url
+  
+  06/25/16 [MAKES UP FOR 06/16/06]
+    encapsulate the expandabletableviewcell stuff
+    make project cell on advisor list view expandable
+    make project cell expandable
+    add description label to project cell on advisor list view
+    speed up toggleExpanded animation
+    test expandabletableviewcell changes on iphone 6 plus
   

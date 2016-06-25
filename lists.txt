@@ -1,6 +1,5 @@
 
 parts unknown
-
 whitney museum
 visit animal shelter: 2336 Linden Blvd
 
@@ -26,12 +25,12 @@ tv
   South Park (09/14)
 
 movies
+  Swiss Army Man
   The Shallows
   Green Room
   Sing Street
   Lo and Behold, Reveries of the Connected World
   Louis Theroux: My Scientology Movie
-  Swiss Army Man (06/24)
   Suicide Squad (08/05)
 
 noteworthy books
