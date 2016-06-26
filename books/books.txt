@@ -42,7 +42,6 @@ Kill Chain, Andrew Cockburn
 Kissinger: A Biography, Walter Isaacson
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela, page: 24
-Made in the USA, Vaclav Smil
 Man Called Intrepid, William Stevenson
 Men are from mars, women are from venus, Joe Peacock
 Missing Microbes, Martin Blaser
@@ -333,3 +332,4 @@ A Wizard of Earthsea, Ursula K. Le Guin
 The Stars My Destination, Alfred Bester
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 Ghost Rider: Travels on the Healing Road, Neil Peart
+Made in the USA, Vaclav Smil
