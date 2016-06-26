@@ -2,6 +2,7 @@
 definitions
 ====
 denouement (daNOOman): conclusion
+cachet (cashAY): the state of being respected/admired
 
 
 Gully Foyle is my name
@@ -490,7 +491,7 @@ Mauchly and Eckert leave to form Eckert-Mauchly Computer Corporation -> Rand -> 
 von Neumann returns to Princeton and works on a stored program computer
 Neumann leaves to join Atomic Energy Commission and group dissolves; this leads to shift of innovation to corporate realm beginning in 1950s
 William Shockley leads team at Bell Labs
-Bell Labs sets out to deelop vacuum tube replacement using semiconductors
+Bell Labs sets out to develop vacuum tube replacement using semiconductors
 included in the group are John Bardeen and Walter Brattain
 Bardeen and Brattain come up with transistor
 Shockley is jealous and pushes himself to one-up them with an improvement (layering of materials)
@@ -867,20 +868,11 @@ chat from game Glitch became Slack
 Keynote good for prototyping
 85 percent of problems are observed after just five people (usability tests)
 
-donuts
+Made in the USA: The Rise and Retreat of American Manufacturing, Vaclav Smil
 ====
-Portland, OR
-  Voodoo Donuts
-  Blue Star Donuts
-Boise, ID
-  Guru Donuts
-Des Moines, IA
-  Donut Hut
-
-patents
-====
-for reading patents, just read the independent claims
-http://www.danshapiro.com/blog/2010/09/how-to-read-a-patent-in-60-second/
+George C. Devol and Joseph F. Engelberger set up Unimation, the world's first robot company
+first prototype machine ready in 1958
+American Machine and Foundry creates first commercially available robot Versatran in 1960
 
 Quotes
 ====
@@ -908,5 +900,20 @@ Larry David
 “That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”
 
 Excerpt From: Charles Bukowski. “Women.” iBooks.
+
+donuts
+====
+Portland, OR
+  Voodoo Donuts
+  Blue Star Donuts
+Boise, ID
+  Guru Donuts
+Des Moines, IA
+  Donut Hut
+  
+patents
+====
+for reading patents, just read the independent claims
+http://www.danshapiro.com/blog/2010/09/how-to-read-a-patent-in-60-second/
 
 Hydroxynorketamine: ketamine metabolite that fights depression
