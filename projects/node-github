@@ -1,4 +1,4 @@
-"/repos/:user/:repo/collaborators/:collabuser"
+
 
 curl "https://api.github.com/repos/kaizensoze/test2/issues/3/lock" \
   -X PUT \

@@ -1,20 +1,16 @@
 
-parts unknown
-whitney museum
+livia owes ipad, 400
 visit animal shelter: 2336 Linden Blvd
 
-livia owes ipad, 400
-
 projects
+  tetris display
+  scaredorpooping
   linux
     linux book
     linux book (linux kernel development 3rd edition)
     debian via vagrant
-  tetris display
-  scaredorpooping
 
 tv
-  Anthony Bourdain: Parts Unknown S06E04
   Game of Thrones S06E10 (06/26)
   Silicon Valley S03E10 (06/26)
   Last Week Tonight S03E17 (06/26)
