@@ -1,5 +1,8 @@
 
-fruit market: 272 Knickerbocker Ave
+grocery run
+  Mally's Deli & Grocery: 199 Knickerbocker Ave
+  The Angel's Fruit Stand: 272 Knickerbocker Ave
+  Bushwick Food Cooperative: 2 Porter Ave
 visit animal shelter: 2336 Linden Blvd
 livia owes ipad, 400
 
@@ -12,11 +15,9 @@ projects
     debian via vagrant
 
 tv
-  Game of Thrones S06E10 (06/26)
-  Silicon Valley S03E10 (06/26)
-  Last Week Tonight S03E17 (06/26)
   Avatar
   Vice Principals (07/01)
+  Last Week Tonight S03E18 (07/03)
   Mr Robot S02E01 (07/13)
   Narcos (09/02)
   South Park (09/14)
