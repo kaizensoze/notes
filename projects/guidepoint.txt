@@ -59,35 +59,6 @@ curl:
 	-H "Accept-Language: en;q=1.0" \
 	"http://apit03.guidepoint.io/app_test.php/request/335279?assistant_project_manager=789&project_manager_id=241115&status=open"
 
-SUCCESS: {
-    data =     {
-        token = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjcxNTUzMDQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTYiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjcxMTIxMDQifQ.HGWUoZhK2Dubc9EIhxtBo1elefrh2Nnu6n3gLY7mGhLfjrZlPGJ7ipES5Q87PWuhqHHZVx6RzxTEUD44ftCGZv3pelFYybMWWMED25KIcaCoclFCH68hRog4PEI4lbMN458b35QRzwadOMp28ejeKwHPuMd17a12HY7oqG9HQTvPfNydf5EWgUUEKaGZPBCqvivaBN16NEuZwqRP4KyBtNZNjiupRgn4AVGMGSCQrDfjF0V2cuoTkRGd3fDpd45MUuIeLn_KVUWGMoFsYA09V0oCLQLzAYN3rhE1xtyM7RJ5XQ4GZe3vw9NxzKSuqQGKw50vPk3D0ncLtRWKpYxsYGRnB1Yb0BvTW6rrJKiwrSdgRESaHU04Ng3gPnU5fdOG8PPQ1Djo2oWxtbUboMUYszo7PAu_U_iduJgIAXcKFYGXjV8uQzLnVR3v7doLMfSDEv-tncPnYqirQ9km2GpyWehEZBFHOS08xgzdh7PxTa0fNjK3_QlBg-3dwShvsa840EHpgKy85Hlmiek8zTSyw-yE1M4KewcrlapShLA7aAugUD1JOQzO2FxvdHJPsmlETIi03sLybibIR9lzQAFCLMslyGpEuyGaxqmK2v3TUwf1uheJ04sMu3W81aT9psVemv6_Jxy-h3Jdi0CYSJivA4IW3bF1bm6C78lHjcGmOJM";
-        user =         {
-            firstName = James;
-            id = 241115;
-            lastName = Barker;
-            links =             (
-                                {
-                    link = "/person/241115";
-                    rel = person;
-                },
-                                {
-                    link = "/projectmanager/789";
-                    rel = projectmanager;
-                }
-            );
-            roleId = 789;
-            roles =             (
-                "ROLE_PROJECTMANAGER"
-            );
-            title = "Research Project Manager";
-            username = "jbarker@guidepointglobal.com";
-        };
-    };
-    error = 0;
-    message = Authenticated;
-}
-
 headers
   "Accept: application/vnd.Guidepoint.app+json"
   "X-Payload-Template: mobile_v1"
@@ -262,5 +233,17 @@ hours
     allow dynamically adjusting expandablecell bottom constraint
     
   06/28/16
-    
+    clear user defaults on start for testing purposes
+		replace any FIXME with TODO: <description>
+		implement NSCoding, NSCopying for ProjectAdvisorStatus
+		update api headers
+		add fields to User object
+		store logged in user object in NSUserDefaults
+		add roleId to User object
+		add loggedout handler for logged in methods
+		fix logged in check
+		don't clear user defaults on app start
+		projects view using data from api
+		update Project model attributes
+		clean up advisor count pluralization
   
