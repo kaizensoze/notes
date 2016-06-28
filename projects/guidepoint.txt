@@ -1,10 +1,67 @@
 
-projects view api endpoint
+change initial advisor status to Attached
+store advisor urls in Project object
 call detail view
 
-{
+https://apit.guidepoint.io/app_test.php/auth
+jbarker@guidepointglobal.com
+welcome
+
+curl:
+  curl \
+	-X POST \
+	-H "X-Payload-Template: mobile_v1_00" \
+	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
+	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
+	-H "Accept: application/vnd.guidepoint.app+json;version=1.0" \
+	-H "Accept-Language: en;q=1.0" \
+	-H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" \
+	-d "_password=welcome&_username=jbarker%40guidepointglobal.com" \
+	"http://apit03.guidepoint.io/app_test.php/auth"
+  
+  curl \
+	-X GET \
+	-H "X-Payload-Template: mobile_v1_00" \
+	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
+	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
+	-H "Accept: application/vnd.guidepoint.app+json;version=1.0" \
+	-H "Accept-Language: en;q=1.0" \
+  -H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjcxNTUzMDQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTYiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjcxMTIxMDQifQ.HGWUoZhK2Dubc9EIhxtBo1elefrh2Nnu6n3gLY7mGhLfjrZlPGJ7ipES5Q87PWuhqHHZVx6RzxTEUD44ftCGZv3pelFYybMWWMED25KIcaCoclFCH68hRog4PEI4lbMN458b35QRzwadOMp28ejeKwHPuMd17a12HY7oqG9HQTvPfNydf5EWgUUEKaGZPBCqvivaBN16NEuZwqRP4KyBtNZNjiupRgn4AVGMGSCQrDfjF0V2cuoTkRGd3fDpd45MUuIeLn_KVUWGMoFsYA09V0oCLQLzAYN3rhE1xtyM7RJ5XQ4GZe3vw9NxzKSuqQGKw50vPk3D0ncLtRWKpYxsYGRnB1Yb0BvTW6rrJKiwrSdgRESaHU04Ng3gPnU5fdOG8PPQ1Djo2oWxtbUboMUYszo7PAu_U_iduJgIAXcKFYGXjV8uQzLnVR3v7doLMfSDEv-tncPnYqirQ9km2GpyWehEZBFHOS08xgzdh7PxTa0fNjK3_QlBg-3dwShvsa840EHpgKy85Hlmiek8zTSyw-yE1M4KewcrlapShLA7aAugUD1JOQzO2FxvdHJPsmlETIi03sLybibIR9lzQAFCLMslyGpEuyGaxqmK2v3TUwf1uheJ04sMu3W81aT9psVemv6_Jxy-h3Jdi0CYSJivA4IW3bF1bm6C78lHjcGmOJM" \
+	"http://apit03.guidepoint.io/app_test.php/person/241115"
+  
+  curl \
+	-X GET \
+	-H "X-Payload-Template: mobile_v1_00" \
+	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
+	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
+	-H "Accept: application/vnd.guidepoint.app+json;version=1.0" \
+	-H "Accept-Language: en;q=1.0" \
+  -H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjcxNTUzMDQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTYiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjcxMTIxMDQifQ.HGWUoZhK2Dubc9EIhxtBo1elefrh2Nnu6n3gLY7mGhLfjrZlPGJ7ipES5Q87PWuhqHHZVx6RzxTEUD44ftCGZv3pelFYybMWWMED25KIcaCoclFCH68hRog4PEI4lbMN458b35QRzwadOMp28ejeKwHPuMd17a12HY7oqG9HQTvPfNydf5EWgUUEKaGZPBCqvivaBN16NEuZwqRP4KyBtNZNjiupRgn4AVGMGSCQrDfjF0V2cuoTkRGd3fDpd45MUuIeLn_KVUWGMoFsYA09V0oCLQLzAYN3rhE1xtyM7RJ5XQ4GZe3vw9NxzKSuqQGKw50vPk3D0ncLtRWKpYxsYGRnB1Yb0BvTW6rrJKiwrSdgRESaHU04Ng3gPnU5fdOG8PPQ1Djo2oWxtbUboMUYszo7PAu_U_iduJgIAXcKFYGXjV8uQzLnVR3v7doLMfSDEv-tncPnYqirQ9km2GpyWehEZBFHOS08xgzdh7PxTa0fNjK3_QlBg-3dwShvsa840EHpgKy85Hlmiek8zTSyw-yE1M4KewcrlapShLA7aAugUD1JOQzO2FxvdHJPsmlETIi03sLybibIR9lzQAFCLMslyGpEuyGaxqmK2v3TUwf1uheJ04sMu3W81aT9psVemv6_Jxy-h3Jdi0CYSJivA4IW3bF1bm6C78lHjcGmOJM" \
+	"http://apit03.guidepoint.io/app_test.php/projectmanager/789" (Access Denied)
+
+  curl \
+	-b "PHPSESSID=19g8i8dab4u925507keq860mi2" \
+	-H "Accept: application/vnd.guidepoint.app+json;version=1.0" \
+	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
+	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
+	-H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjcxNTUzMDQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTYiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjcxMTIxMDQifQ.HGWUoZhK2Dubc9EIhxtBo1elefrh2Nnu6n3gLY7mGhLfjrZlPGJ7ipES5Q87PWuhqHHZVx6RzxTEUD44ftCGZv3pelFYybMWWMED25KIcaCoclFCH68hRog4PEI4lbMN458b35QRzwadOMp28ejeKwHPuMd17a12HY7oqG9HQTvPfNydf5EWgUUEKaGZPBCqvivaBN16NEuZwqRP4KyBtNZNjiupRgn4AVGMGSCQrDfjF0V2cuoTkRGd3fDpd45MUuIeLn_KVUWGMoFsYA09V0oCLQLzAYN3rhE1xtyM7RJ5XQ4GZe3vw9NxzKSuqQGKw50vPk3D0ncLtRWKpYxsYGRnB1Yb0BvTW6rrJKiwrSdgRESaHU04Ng3gPnU5fdOG8PPQ1Djo2oWxtbUboMUYszo7PAu_U_iduJgIAXcKFYGXjV8uQzLnVR3v7doLMfSDEv-tncPnYqirQ9km2GpyWehEZBFHOS08xgzdh7PxTa0fNjK3_QlBg-3dwShvsa840EHpgKy85Hlmiek8zTSyw-yE1M4KewcrlapShLA7aAugUD1JOQzO2FxvdHJPsmlETIi03sLybibIR9lzQAFCLMslyGpEuyGaxqmK2v3TUwf1uheJ04sMu3W81aT9psVemv6_Jxy-h3Jdi0CYSJivA4IW3bF1bm6C78lHjcGmOJM" \
+	-H "X-Payload-Template: mobile_v1_00" \
+	-H "Accept-Language: en;q=1.0" \
+	"http://apit03.guidepoint.io/app_test.php/request?assistant_project_manager=789&project_manager_id=241115&status=open"
+
+  curl \
+	-b "PHPSESSID=19g8i8dab4u925507keq860mi2" \
+	-H "Accept: application/vnd.guidepoint.app+json;version=1.0" \
+	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
+	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
+	-H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjcxNTUzMDQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTYiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjcxMTIxMDQifQ.HGWUoZhK2Dubc9EIhxtBo1elefrh2Nnu6n3gLY7mGhLfjrZlPGJ7ipES5Q87PWuhqHHZVx6RzxTEUD44ftCGZv3pelFYybMWWMED25KIcaCoclFCH68hRog4PEI4lbMN458b35QRzwadOMp28ejeKwHPuMd17a12HY7oqG9HQTvPfNydf5EWgUUEKaGZPBCqvivaBN16NEuZwqRP4KyBtNZNjiupRgn4AVGMGSCQrDfjF0V2cuoTkRGd3fDpd45MUuIeLn_KVUWGMoFsYA09V0oCLQLzAYN3rhE1xtyM7RJ5XQ4GZe3vw9NxzKSuqQGKw50vPk3D0ncLtRWKpYxsYGRnB1Yb0BvTW6rrJKiwrSdgRESaHU04Ng3gPnU5fdOG8PPQ1Djo2oWxtbUboMUYszo7PAu_U_iduJgIAXcKFYGXjV8uQzLnVR3v7doLMfSDEv-tncPnYqirQ9km2GpyWehEZBFHOS08xgzdh7PxTa0fNjK3_QlBg-3dwShvsa840EHpgKy85Hlmiek8zTSyw-yE1M4KewcrlapShLA7aAugUD1JOQzO2FxvdHJPsmlETIi03sLybibIR9lzQAFCLMslyGpEuyGaxqmK2v3TUwf1uheJ04sMu3W81aT9psVemv6_Jxy-h3Jdi0CYSJivA4IW3bF1bm6C78lHjcGmOJM" \
+	-H "X-Payload-Template: mobile_v1_00" \
+	-H "Accept-Language: en;q=1.0" \
+	"http://apit03.guidepoint.io/app_test.php/request/335279?assistant_project_manager=789&project_manager_id=241115&status=open"
+
+SUCCESS: {
     data =     {
-        token = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjY2NjIzMTQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTc0LjQ0LjIwNC42MiIsInNyYyI6ImFwaV9hdXRoIiwiaWF0IjoiMTQ2NjYxOTExNCJ9.U2K1diRxjhL6FCFbYBa-9VXp2xxxQI2u3Hgdt9QQBk7-86Q2irgbVa5rY-LM-X1GyHRNXBoBXQX4fQbZkTubfujUeUYWbTdNV2YNq6Uy6nGASo41Q1A1xxeavZJ1FU9dGJJkd-q8EP6Aym0X7ga9clOKSLOguhjNEGJnIwF7OvDi0JppZ8JBq-zi_LOEjEoHrPS6tI2kqz7Tm8VbDDtPH-GRR40_pPhcP9kc_8yOB8ztDLChaypIDat3OolK0dGeMpYmwP2vG_xdHI5GQ5YbXUk6syF7wI-iH_NMPQMKLHBZmwNZieD5fYjdSBwDgKgF8Vn2eozs4L-EsFTrJprcujqI1zh5eDzExovRhPMXOtPoDFs6t8-xXVac02It0ln_uI_oNNvkx10741ixNkda-obNXTls0qjpHmqZ0Sha439S5XXTRzn6kk_5b9kRzaP0aK8G4NPz3Ql3s1WGox4H1FTOtzgPj7VlU6GZ6ynMgdWw4neOeLeMmXk-C0zPLsY51kTmPNKjgM7ZAFvanLa9ihCBIO7hJ7KrxYQgJtrmRsmOt-XncWkF0grT1sqe3xfFLKPkuAEAnbNlmqPmqtAI0LpiZIMb9vpn_OvTW1oM5pP4fvl2-Nv9AGVn95sVINzREcsc1NagSyGJq-9PQXwkc0vQYuD76dCqxJA9lR6nHuA";
+        token = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjcxNTUzMDQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTYiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjcxMTIxMDQifQ.HGWUoZhK2Dubc9EIhxtBo1elefrh2Nnu6n3gLY7mGhLfjrZlPGJ7ipES5Q87PWuhqHHZVx6RzxTEUD44ftCGZv3pelFYybMWWMED25KIcaCoclFCH68hRog4PEI4lbMN458b35QRzwadOMp28ejeKwHPuMd17a12HY7oqG9HQTvPfNydf5EWgUUEKaGZPBCqvivaBN16NEuZwqRP4KyBtNZNjiupRgn4AVGMGSCQrDfjF0V2cuoTkRGd3fDpd45MUuIeLn_KVUWGMoFsYA09V0oCLQLzAYN3rhE1xtyM7RJ5XQ4GZe3vw9NxzKSuqQGKw50vPk3D0ncLtRWKpYxsYGRnB1Yb0BvTW6rrJKiwrSdgRESaHU04Ng3gPnU5fdOG8PPQ1Djo2oWxtbUboMUYszo7PAu_U_iduJgIAXcKFYGXjV8uQzLnVR3v7doLMfSDEv-tncPnYqirQ9km2GpyWehEZBFHOS08xgzdh7PxTa0fNjK3_QlBg-3dwShvsa840EHpgKy85Hlmiek8zTSyw-yE1M4KewcrlapShLA7aAugUD1JOQzO2FxvdHJPsmlETIi03sLybibIR9lzQAFCLMslyGpEuyGaxqmK2v3TUwf1uheJ04sMu3W81aT9psVemv6_Jxy-h3Jdi0CYSJivA4IW3bF1bm6C78lHjcGmOJM";
         user =         {
             firstName = James;
             id = 241115;
@@ -31,24 +88,10 @@ call detail view
     message = Authenticated;
 }
 
-https://apit.guidepoint.io/app_test.php/auth
-jbarker@guidepointglobal.com
-welcome
-
-test: https://apit.guidepoint.io
-prod: https://api.guidepoint.io
-
 headers
   "Accept: application/vnd.Guidepoint.app+json"
   "X-Payload-Template: mobile_v1"
   "Authorization: Bearer <token>"
-
-curl:
-  curl -X POST -H "Accept: application/vnd.Guidepoint.app+json" -d "_password=welcome&_username=jbarker%40guidepointglobal.com" "https://apit.guidepoint.io/app_test.php/auth"
-  
-  curl -X GET -H "Accept: application/vnd.Guidepoint.app+json" -H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjY2NjIzMTQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTc0LjQ0LjIwNC42MiIsInNyYyI6ImFwaV9hdXRoIiwiaWF0IjoiMTQ2NjYxOTExNCJ9.U2K1diRxjhL6FCFbYBa-9VXp2xxxQI2u3Hgdt9QQBk7-86Q2irgbVa5rY-LM-X1GyHRNXBoBXQX4fQbZkTubfujUeUYWbTdNV2YNq6Uy6nGASo41Q1A1xxeavZJ1FU9dGJJkd-q8EP6Aym0X7ga9clOKSLOguhjNEGJnIwF7OvDi0JppZ8JBq-zi_LOEjEoHrPS6tI2kqz7Tm8VbDDtPH-GRR40_pPhcP9kc_8yOB8ztDLChaypIDat3OolK0dGeMpYmwP2vG_xdHI5GQ5YbXUk6syF7wI-iH_NMPQMKLHBZmwNZieD5fYjdSBwDgKgF8Vn2eozs4L-EsFTrJprcujqI1zh5eDzExovRhPMXOtPoDFs6t8-xXVac02It0ln_uI_oNNvkx10741ixNkda-obNXTls0qjpHmqZ0Sha439S5XXTRzn6kk_5b9kRzaP0aK8G4NPz3Ql3s1WGox4H1FTOtzgPj7VlU6GZ6ynMgdWw4neOeLeMmXk-C0zPLsY51kTmPNKjgM7ZAFvanLa9ihCBIO7hJ7KrxYQgJtrmRsmOt-XncWkF0grT1sqe3xfFLKPkuAEAnbNlmqPmqtAI0LpiZIMb9vpn_OvTW1oM5pP4fvl2-Nv9AGVn95sVINzREcsc1NagSyGJq-9PQXwkc0vQYuD76dCqxJA9lR6nHuA" "https://apit.guidepoint.io/app_test.php/person/241115"
-  
-  curl -X GET -H "Accept: application/vnd.Guidepoint.app+json" -H "X-Payload-Template: mobile_v1" -H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjY2NjIzMTQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTc0LjQ0LjIwNC42MiIsInNyYyI6ImFwaV9hdXRoIiwiaWF0IjoiMTQ2NjYxOTExNCJ9.U2K1diRxjhL6FCFbYBa-9VXp2xxxQI2u3Hgdt9QQBk7-86Q2irgbVa5rY-LM-X1GyHRNXBoBXQX4fQbZkTubfujUeUYWbTdNV2YNq6Uy6nGASo41Q1A1xxeavZJ1FU9dGJJkd-q8EP6Aym0X7ga9clOKSLOguhjNEGJnIwF7OvDi0JppZ8JBq-zi_LOEjEoHrPS6tI2kqz7Tm8VbDDtPH-GRR40_pPhcP9kc_8yOB8ztDLChaypIDat3OolK0dGeMpYmwP2vG_xdHI5GQ5YbXUk6syF7wI-iH_NMPQMKLHBZmwNZieD5fYjdSBwDgKgF8Vn2eozs4L-EsFTrJprcujqI1zh5eDzExovRhPMXOtPoDFs6t8-xXVac02It0ln_uI_oNNvkx10741ixNkda-obNXTls0qjpHmqZ0Sha439S5XXTRzn6kk_5b9kRzaP0aK8G4NPz3Ql3s1WGox4H1FTOtzgPj7VlU6GZ6ynMgdWw4neOeLeMmXk-C0zPLsY51kTmPNKjgM7ZAFvanLa9ihCBIO7hJ7KrxYQgJtrmRsmOt-XncWkF0grT1sqe3xfFLKPkuAEAnbNlmqPmqtAI0LpiZIMb9vpn_OvTW1oM5pP4fvl2-Nv9AGVn95sVINzREcsc1NagSyGJq-9PQXwkc0vQYuD76dCqxJA9lR6nHuA" "https://apit.guidepoint.io/app_test.php/request"
 
 auth:
   /auth
