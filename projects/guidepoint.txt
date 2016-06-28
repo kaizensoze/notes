@@ -1,6 +1,9 @@
 
-store advisor urls in Project object
+ask about project description
+test if .Attached == .All
+if so, get rid of the .All status hack
 call detail view
+add loading views
 
 https://apit.guidepoint.io/app_test.php/auth
 jbarker@guidepointglobal.com
@@ -53,10 +56,10 @@ curl:
 	-H "Accept: application/vnd.guidepoint.app+json;version=1.0" \
 	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
 	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
-	-H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjcxNTUzMDQsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTYiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjcxMTIxMDQifQ.HGWUoZhK2Dubc9EIhxtBo1elefrh2Nnu6n3gLY7mGhLfjrZlPGJ7ipES5Q87PWuhqHHZVx6RzxTEUD44ftCGZv3pelFYybMWWMED25KIcaCoclFCH68hRog4PEI4lbMN458b35QRzwadOMp28ejeKwHPuMd17a12HY7oqG9HQTvPfNydf5EWgUUEKaGZPBCqvivaBN16NEuZwqRP4KyBtNZNjiupRgn4AVGMGSCQrDfjF0V2cuoTkRGd3fDpd45MUuIeLn_KVUWGMoFsYA09V0oCLQLzAYN3rhE1xtyM7RJ5XQ4GZe3vw9NxzKSuqQGKw50vPk3D0ncLtRWKpYxsYGRnB1Yb0BvTW6rrJKiwrSdgRESaHU04Ng3gPnU5fdOG8PPQ1Djo2oWxtbUboMUYszo7PAu_U_iduJgIAXcKFYGXjV8uQzLnVR3v7doLMfSDEv-tncPnYqirQ9km2GpyWehEZBFHOS08xgzdh7PxTa0fNjK3_QlBg-3dwShvsa840EHpgKy85Hlmiek8zTSyw-yE1M4KewcrlapShLA7aAugUD1JOQzO2FxvdHJPsmlETIi03sLybibIR9lzQAFCLMslyGpEuyGaxqmK2v3TUwf1uheJ04sMu3W81aT9psVemv6_Jxy-h3Jdi0CYSJivA4IW3bF1bm6C78lHjcGmOJM" \
+	-H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjcxNzYwMTgsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTgiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjcxMzI4MTgifQ.jlmvNfhpViZ58-FrDssNNkoJhNsYokKD1JFAeK3Cae-nhigO1kTLX-mOCFSYrqmxxh7WfKX9AHUMiormMEk-iFgCKodXltvjhp0dePqiIWTPiL1bWQ3XAQVBdiM1lJ-V5gUcngBDqSsmtW9-L1lhtG59X4FAnYNq3KNyDt8xgi4STtZnnY8L3zB-PFgFX4EuCxw2Nok02PSRS_gQjOwFlEBzEPIkKSoFVQPVlXtM9skIkBw3a0XErk4dkF_1TmJn2fK31Q_3FxNGQlAMDCfYYVxCwE6Z18MRpDCMmE_2OHP7wimLYgeVT61Sz-q47KNac21Bbo9a57hm9tOOSlux2zgoqdH-9G3Q3vnIgn5b-UcTGywP4FsfL0aC9XQs-fWXUlYPa7jlWaIKEDb30PEbs3bTKuzzgPWhzWVe2TSO5w5nvBYPzmBjoKtJaboxAcTt_GoQfHb5k-bNqUazvDIAgHkhO0B66V4jWgD3Df7feo6SZq6-D_90zsZudVHPwzeiCoA56eeBVq6R_Ll59_NRZN1Z1mzr8qVHtCfiPL30Y3Yzq5cmL0ncy0Gkh2Zj31ZlAa4N5GFgXHC3PnaXS6ue87VJXpKSHmfQVYMrsn01jdgMLeOZFWp9d2llNQZX226RYnhA8pMxWWpVQjTUBA3YsaC0afoaI3Z3PNbGPep4ZbM" \
 	-H "X-Payload-Template: mobile_v1_00" \
 	-H "Accept-Language: en;q=1.0" \
-	"http://apit03.guidepoint.io/app_test.php/request/335279?assistant_project_manager=789&project_manager_id=241115&status=open"
+	"http://apit03.guidepoint.io/app_test.php/request/335279"
 
 headers
   "Accept: application/vnd.Guidepoint.app+json"
@@ -246,5 +249,7 @@ hours
 		update Project model attributes
 		clean up advisor count pluralization
 		make clear that Attached/Declined come before Accepted
-		
+		fix NSCoding init for ProjectAdvisorStatus.val
+		store advisor url paths in project model
+		setup for getting project advisors
   
