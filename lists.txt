@@ -1,14 +1,11 @@
 
-shower
-laundry
-read
 grocery run
-  Mally's Deli & Grocery: 199 Knickerbocker Ave
   The Angel's Fruit Stand: 272 Knickerbocker Ave
   Bushwick Food Cooperative: 2 Porter Ave
+pack/ups dropoff: door blocker
 go through HOPE schedule
-visit animal shelter: 2336 Linden Blvd
 livia owes ipad, 400
+visit animal shelter: 2336 Linden Blvd
 
 projects
   tetris display
@@ -27,6 +24,7 @@ tv
   South Park (09/14)
 
 movies
+  Traceroute
   Swiss Army Man
   The Shallows
   Green Room

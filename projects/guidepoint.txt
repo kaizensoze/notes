@@ -1,28 +1,5 @@
 
-DOESN'T WORK
-curl -i \
-	-X POST \
-	-H "X-Payload-Template: mobile_v1" \
-	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
-	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
-	-H "Accept: application/vnd.Guidepoint.app+json" \
-	-H "Accept-Language: en;q=1.0" \
-	-H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" \
-	-d "_password=welcome&_username=jbarker%40guidepointglobal.com" \
-	"http://apit03.guidepoint.io/app_test.php/auth"
-
-WORKS
-curl -i \
-	-X POST \
-	-H "X-Payload-Template: mobile_v1" \
-	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
-	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
-	-H "Accept: application/vnd.Guidepoint.app+json" \
-	-H "Accept-Language: en;q=1.0" \
-	-H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" \
-	-d "_password=welcome&_username=jbarker%40guidepointglobal.com" \
-	"https://apit.guidepoint.io/app_test.php/auth"
-
+projects view api endpoint
 call detail view
 
 {
@@ -239,5 +216,8 @@ hours
   06/27/16
     look into not being able to authorize with new domain http://apit03.guidepoint.io
     go over api doc for ios app (https://guidepointglobal.atlassian.net/wiki/display/APPS/View+Projects+Endpoint+-+Change+log)
+    allow dynamically adjusting expandablecell bottom constraint
+    
+  06/28/16
     
   
