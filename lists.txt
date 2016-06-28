@@ -4,10 +4,11 @@ grocery run
   Bushwick Food Cooperative: 2 Porter Ave
 pack/ups dropoff: door blocker
 livia owes ipad, 400
+send card to Nicole
 
 projects
-  tetris display
   scaredorpooping
+  tetris display
   linux
     linux book
     linux book (linux kernel development 3rd edition)

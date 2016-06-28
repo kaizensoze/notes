@@ -1,5 +1,4 @@
 
-change initial advisor status to Attached
 store advisor urls in Project object
 call detail view
 
@@ -246,4 +245,6 @@ hours
 		projects view using data from api
 		update Project model attributes
 		clean up advisor count pluralization
+		make clear that Attached/Declined come before Accepted
+		
   
