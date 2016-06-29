@@ -1,9 +1,5 @@
 
-ask about project description
-test if .Attached == .All
-if so, get rid of the .All status hack
-call detail view
-add loading views
+
 
 https://apit.guidepoint.io/app_test.php/auth
 jbarker@guidepointglobal.com
@@ -60,6 +56,16 @@ curl:
 	-H "X-Payload-Template: mobile_v1_00" \
 	-H "Accept-Language: en;q=1.0" \
 	"http://apit03.guidepoint.io/app_test.php/request/335279"
+	
+	curl \
+	-b "PHPSESSID=19g8i8dab4u925507keq860mi2" \
+	-H "Accept: application/vnd.guidepoint.app+json;version=1.0" \
+	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
+	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
+	-H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjcyNTY1MzgsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNjAiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjcyMTMzMzgifQ.kKcIMauBDFvCFMJQm6QJ5aUoJ4hgnj2_ZTp1ebNaanmBk4ibIEHeOZfSdsXtEqWDbCWv8FqcKYG9rzfka-44O7jzeq3pBsG9xriw_JQim0xo4ZPqxJcvX5asZRvLSMC-9H9n7YJZ2VOO3_HYd6UGySsTW3kAo_ch0mx25jiOFO_NHOhpHlrRhEVTB3asUxWe233xsmTgpTPD433cwrm9w5hwPq-yWpXVKV8T0uQTP_SWpCiXbK7NIrUzsdssu2PSsK1PDfQ6U3EngIg8L3AtHht0-nzUuVncziF40WfpQSQTcT7AxWgmbfpaTPubQYEIHg38gxSkYMKBYH93T8vSrW_UBmCpS1PR8FGA_1uxaej00m6i3vL9AOz7yDbrWUz4Io5Qr14UM35HrsxtP0t86MGyrmoidSaGO8WRy4FbmzClAETExb881UUoID3U2HLDSD4jmCx4rNVDf2RPNSlURxDhSml1tgPUNswKshH5JEtQ71M7wcwWO-2or08po0H4GcgOOgVnKsTlodzksyzXpxXPkGo-4s7uJ6u8ITl5_bQEBvAZKFWvOf2Qe8CgYU6XSGaB14nR2zGXyPLZ7gS7NNX3OpaE3ZFOkgGjxHxwusasO6KFfqUL_4Bjxvj7G3DzpmSIOO8j0ANWOUyTPa50cNYU7L5XWcj02xTbQABj5cs" \
+	-H "X-Payload-Template: mobile_v1_00" \
+	-H "Accept-Language: en;q=1.0" \
+	"http://apit03.guidepoint.io/app_test.php/request/335279/advisor"
 
 headers
   "Accept: application/vnd.Guidepoint.app+json"
@@ -95,6 +101,7 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
+	There seems to be a mismatch between the status url and an advisor's responseType value. Is this just an issue with the test data?
   What should the Availability subsection look like for an already scheduled advisor?
   If advisor is accepted but not sent, if you select them are they now also sent?
   What's the difference between SEND CONFIRMATION and EMAIL buttons?

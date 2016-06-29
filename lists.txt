@@ -1,10 +1,12 @@
 
-pack/ups dropoff: door blocker
-livia owes ipad, 400
+guidepoint
+print label
+ups dropoff: door blocker
+Walgreens: 755 Broadway
 send card to Nicole
+livia owes ipad, 400
 
 grocery run
-  The Angel's Fruit Stand: 272 Knickerbocker Ave
   Bushwick Food Cooperative: 2 Porter Ave
 bookstore run
   Better Read Than Dead: 867 Broadway
