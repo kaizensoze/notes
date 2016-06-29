@@ -101,9 +101,12 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
-	There seems to be a mismatch between the status url and an advisor's responseType value. Is this just an issue with the test data?
+	If an advisor is Attached, Accepted, Sent, should they appear in All, Accepted, Sent tabs or just All and Sent tab?
+		related: If advisor is accepted but not sent, if you select them are they now also sent?
+	Getting SUCCESS: <null> for a projects Selected URL.
+	Verify that Declined means the advisor declined instead of accepting
+	There seems to be a mismatch between the status url and an advisor's responseType value. Relatedly how to get the date for past statuses for an advisor?
   What should the Availability subsection look like for an already scheduled advisor?
-  If advisor is accepted but not sent, if you select them are they now also sent?
   What's the difference between SEND CONFIRMATION and EMAIL buttons?
   JWT token is good for 12 hours so should user be logged out every 12 hours?
 

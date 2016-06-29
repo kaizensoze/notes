@@ -1,9 +1,12 @@
 
 guidepoint
-print label
-ups dropoff: door blocker
+
 Walgreens: 755 Broadway
 send card to Nicole
+print label
+ups dropoff: door blocker
+
+check out kayo dot
 livia owes ipad, 400
 
 grocery run
