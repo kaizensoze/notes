@@ -1,34 +1,32 @@
 
-SETTLE DOWN
-  Southern California
-
 EXTRAS
   Montreal
   Quebec City
   Ottawa
+  
   Hawaii
-  Everglades, FL
-  Miami, FL
-  Charleston, SC
-  Mammoth Cave, KY
+  
+  Zion National Park, UT
   Jackson, WY
   Grand Tetons National Park, WY
   Yellowstone National Park, WY
-  Chaco National Park, NM
   Rocky Mountain National Park, CO
-  Wichita, KS
-  Branson, MO
-  Little Rock, AR
-
+  
+  Charleston, SC
+  Atlanta, GA (REVISIT)
+  Miami, FL
+  Everglades, FL
+  
+  Mammoth Cave, KY
+  
 REVISIT
   New Orleans, LA
-  Atlanta, GA
   Nashville, TN
   Pittsburgh, PA
   Milwaukie, WI
 
 ITEMS
-  Louisiana: Drive-thru Daiquiri
+  New Orleans: Drive-thru Daiquiri
 
 ABROAD
   Paris
@@ -168,4 +166,3 @@ DONE
   Albequerque, NM
   Denver, CO
   Oklahoma City, OK
-  

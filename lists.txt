@@ -1,4 +1,7 @@
 
+no reservations
+podcasts
+
 look into Alfred
 grocery run
   The Angel's Fruit Stand: 272 Knickerbocker Ave
@@ -28,7 +31,6 @@ tv
   South Park (09/14)
 
 movies
-  netflix: witness
   Traceroute
   Swiss Army Man
   The Shallows
