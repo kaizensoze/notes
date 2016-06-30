@@ -1,6 +1,7 @@
 
-print label; ups dropoff: door blocker
 Walgreens: 755 Broadway; send card to Nicole
+
+print label; ups dropoff: door blocker
 livia owes ipad, 400
 
 grocery run

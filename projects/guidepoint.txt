@@ -1,10 +1,12 @@
 
-adjust action button bar
-ensure inability to skip steps in status progression
 
-https://apit.guidepoint.io/app_test.php/auth
+
 jbarker@guidepointglobal.com
 welcome
+https://apit.guidepoint.io/app_test.php/auth
+
+Mark Shehata [12:26 PM] (06/30/16)
+no they can't get selected until they sent to the client
 
 curl:
   curl \
@@ -239,12 +241,12 @@ hours
     add description label to project cell on advisor list view
     speed up toggleExpanded animation
     test expandabletableviewcell changes on iphone 6 plus
-    
+  
   06/27/16
     look into not being able to authorize with new domain http://apit03.guidepoint.io
     go over api doc for ios app (https://guidepointglobal.atlassian.net/wiki/display/APPS/View+Projects+Endpoint+-+Change+log)
     allow dynamically adjusting expandablecell bottom constraint
-    
+  
   06/28/16
     clear user defaults on start for testing purposes
 		replace any FIXME with TODO: <description>
@@ -271,5 +273,8 @@ hours
 		persist search controller state on advisors view
 	
 	06/30/16
-		
+		adjust action button bar
+		restrict allowed action buttons for advisor
+		prevent duplicate non-sent status
+		some setup for getting advisor details from api
   
