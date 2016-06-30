@@ -1,5 +1,6 @@
 
-
+adjust action button bar
+ensure inability to skip steps in status progression
 
 https://apit.guidepoint.io/app_test.php/auth
 jbarker@guidepointglobal.com
@@ -101,14 +102,14 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
-	If an advisor is Attached, Accepted, Sent, should they appear in All, Accepted, Sent tabs or just All and Sent tab?
-		related: If advisor is accepted but not sent, if you select them are they now also sent?
-	Getting SUCCESS: <null> for a projects Selected URL.
-	Verify that Declined means the advisor declined instead of accepting
-	There seems to be a mismatch between the status url and an advisor's responseType value. Relatedly how to get the date for past statuses for an advisor?
   What should the Availability subsection look like for an already scheduled advisor?
   What's the difference between SEND CONFIRMATION and EMAIL buttons?
   JWT token is good for 12 hours so should user be logged out every 12 hours?
+	answered:
+		advisors are moved from one action to the next (not cumulative)
+		advisors can only go from one action to the next (disallow skipping steps)
+		Declined means the advisor declined instead of accepting
+		the status progression is in 2 directions
 
 hours
   06/01/16

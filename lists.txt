@@ -1,10 +1,6 @@
 
-Walgreens: 755 Broadway
-send card to Nicole
-print label
-ups dropoff: door blocker
-
-check out kayo dot
+print label; ups dropoff: door blocker
+Walgreens: 755 Broadway; send card to Nicole
 livia owes ipad, 400
 
 grocery run
