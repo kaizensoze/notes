@@ -262,4 +262,13 @@ hours
 		fix NSCoding init for ProjectAdvisorStatus.val
 		store advisor url paths in project model
 		setup for getting project advisors
+	
+	06/29/16
+		add description to project object
+		persist search controller state on going back
+		populate project advisor data via api endpoint
+		persist search controller state on advisors view
+	
+	06/30/16
+		
   

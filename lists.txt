@@ -1,6 +1,4 @@
 
-guidepoint
-
 Walgreens: 755 Broadway
 send card to Nicole
 print label
