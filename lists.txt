@@ -1,7 +1,6 @@
 
-Walgreens: 755 Broadway; send card to Nicole
-
 print label; ups dropoff: door blocker
+get stamps; send card to Nicole
 livia owes ipad, 400
 
 grocery run
@@ -35,7 +34,6 @@ movies
   Traceroute
   Swiss Army Man
   The Shallows
-  Green Room
   Sing Street
   Lo and Behold, Reveries of the Connected World
   Louis Theroux: My Scientology Movie
