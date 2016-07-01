@@ -56,7 +56,6 @@ Player Piano, Kurt Vonnegut
 Reamde, Neal Stephenson
 Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
-Rise of the Robots, Martin Ford
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
 Seveneves, Neal Stephenson
@@ -337,3 +336,4 @@ The Stars My Destination, Alfred Bester
 The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 Ghost Rider: Travels on the Healing Road, Neil Peart
 Made in the USA, Vaclav Smil
+Rise of the Robots, Martin Ford
