@@ -1,6 +1,5 @@
 
 print label; ups dropoff: door blocker
-get stamps; send card to Nicole
 livia owes ipad, 400
 
 grocery run
