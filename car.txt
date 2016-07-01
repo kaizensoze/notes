@@ -1,2 +1,9 @@
 Certified Pre-Owned dealer
 TODO: check Autotrader
+
+honda, cr-v, 23745, 33
+toyota, rav4, 24350, 30
+ford, escape, 23600, 29
+ford, edge, 28700, 30
+nissan, rogue, 23290, 33
+chevy, trax, 20300, 34
