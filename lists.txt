@@ -116,6 +116,7 @@ overthewire
 
 conferences
   (01/16) shmoocon
+  (01/25) usenix enigma
   (03/18) cansecwest
   (03/18) pwn2own
   (05/05) thotcon
