@@ -273,24 +273,22 @@ pip
   pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs pip install -U   (upgrades all installed)
 
 postgres
-  run/stop server
-    pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
-    pg_ctl -D /usr/local/var/postgres stop -s -m fast
-  psql
-    \connect nooklyn
-    \l (list databases)
-    \d (list tables)
-    \d[+] [table] (describe table)
-    \q (quit)
-  create database
-    create database nooklyn_test with template nooklyn owner joegallo;
-  dump/restore (import)
-    import dump into existing database
-      pg_restore --verbose --clean --no-acl --no-owner -h localhost -U joegallo -d nooklyn ~/Downloads/latest.dump
-    pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
-    pg_restore -d newdb db.dump
-    psql nooklyn < ~/Downloads/nooklyn.sql
+  \l # list databases
+  \c <db> # connect to database
+  \d # list tables
+  \d <table> # describe table
+  \q # quit
+
+  create database nooklyn_test with template nooklyn owner joegallo;
   select table_name from information_schema.columns where column_name like 'mate_post_id';
+  
+  pg_restore --verbose --clean --no-acl --no-owner -h localhost -U joegallo -d nooklyn ~/Downloads/latest.dump  # import dump into existing database
+  pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
+  pg_restore -d newdb db.dump
+  psql nooklyn < ~/Downloads/nooklyn.sql
+
+  pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start  # start
+  pg_ctl -D /usr/local/var/postgres stop -s -m fast  # stop
 
 ps
   ps aux
