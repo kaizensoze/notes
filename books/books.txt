@@ -1,4 +1,3 @@
-Astro Noise, Laura Poitras
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
@@ -114,7 +113,6 @@ The Three-Body Problem, Liu Cixin
 The Trouble With Testosterone, Robert Sapolsky
 The Vital Question, Nick Lane
 The Wise Men, Walter Isaacson
-Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 This Will Change Everything, John Brockman
 Tribe: On Homecoming and Belonging
 Twenty Thousand Leagues Under the Sea, Jules Verne
@@ -337,3 +335,4 @@ The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
 Ghost Rider: Travels on the Healing Road, Neil Peart
 Made in the USA, Vaclav Smil
 Rise of the Robots, Martin Ford
+Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
