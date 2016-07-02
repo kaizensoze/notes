@@ -37,8 +37,10 @@ movies
   Sing Street
   Lo and Behold, Reveries of the Connected World
   Louis Theroux: My Scientology Movie
+  Zero Days (07/08)
   Suicide Squad (08/05)
   Sausage Party (08/11)
+  *, Werner Herzog
 
 noteworthy books
   A Confederacy of Dunces, John Kennedy Toole
