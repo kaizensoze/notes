@@ -1,5 +1,6 @@
 
 postgres exercises
+borrow printer from livia; print label; ups dropoff
 project euler
 deep learning
 mr robot
@@ -7,16 +8,12 @@ scaredorpooping
 future crimes
 chip's challenge
 hacking challenge
-print label; ups dropoff: door blocker
-livia owes ipad, 400
 linux
   linux book
   linux book (linux kernel development 3rd edition)
   debian via vagrant
+livia owes ipad, 400
 
-bookstore run
-  Better Read Than Dead: 867 Broadway
-  Human Relations: 1067 Flushing Ave
 doctor
   get moles checked
   see someone about sleep disorder
