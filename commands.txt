@@ -289,6 +289,9 @@ postgres
 
   pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start  # start
   pg_ctl -D /usr/local/var/postgres stop -s -m fast  # stop
+  
+  use case statement for switch for column
+  use <datetime>::text like ''
 
 ps
   ps aux
