@@ -1,21 +1,19 @@
 
 postgres exercises
-deep learning
 project euler
+deep learning
 mr robot
 scaredorpooping
 future crimes
 chip's challenge
-
 hacking challenge
-
 print label; ups dropoff: door blocker
 livia owes ipad, 400
-install pullup bar
+linux
+  linux book
+  linux book (linux kernel development 3rd edition)
+  debian via vagrant
 
-grocery run
-  Bushwick Food Cooperative: 2 Porter Ave
-  BK Bagels: 1120 Broadway (lox)
 bookstore run
   Better Read Than Dead: 867 Broadway
   Human Relations: 1067 Flushing Ave
@@ -23,14 +21,6 @@ doctor
   get moles checked
   see someone about sleep disorder
   see someone about internal trembling/internal tremor
-
-projects
-  scaredorpooping
-  tetris display
-  linux
-    linux book
-    linux book (linux kernel development 3rd edition)
-    debian via vagrant
 
 tv
   Avatar
