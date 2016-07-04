@@ -295,6 +295,12 @@ postgres
   
   use case statement for switch for column
   use <datetime>::text like ''
+  select generate_series('2012-10-01', '2012-10-31', '1 day'::interval) as ts  # get every day in a given month
+  select extract(month from b.starttime)
+  select extract(epoch from (timestamp_B - timestamp_A))
+  trunc(63.4567, 2) -> 63.45
+  row_number() over(order by m.joindate) as row_number
+  rank() over(order by sum(b.slots) desc) as rank
 
 ps
   ps aux
