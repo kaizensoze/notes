@@ -1,4 +1,8 @@
 
+add Availability object [and make it work with NSCoding]
+parse advisor availability
+
+look into token expiring [every 30 mins?]
 projects view: newCount
 project advisors view: project.newCount, advisor.status, selected endpoint
 
@@ -118,4 +122,12 @@ hours
 	07-01-16
 		* clarify whether or not an advisor can skip actions
 		* unrestrict available action buttons to allow skipping statuses
+		* normalize view controller names
+		* fixes for calls, notifications views
+	
+	07-05-16
+		* allow unnamed val param for for ProjectAdvisorStatus
+		* change legacy CGPoint/CGRect stuff to swift struct
+		* consolidating some cleanup
+		* 
   

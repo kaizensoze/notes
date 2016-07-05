@@ -933,3 +933,41 @@ I didn't want to be a dick and knock on your door at like 1AM in case you were s
 And yes my handrwiting is godawful.
 
 Joe
+
+struct to dict
+====
+import UIKit
+
+struct Point {
+    let x: Double
+    let y: Double
+    let z: Double
+    
+    init(_ x: Double, _ y: Double, _ z: Double) {
+        self.x = x
+        self.y = y
+        self.z = z
+    }
+    
+    func toDict() -> NSDictionary {
+        let dict = [
+            "x": x,
+            "y": y,
+            "z": z
+        ]
+        return dict
+    }
+    
+    static func fromDict(dict: NSDictionary) -> Point? {
+        guard let x = dict["x"] as? Double, y = dict["y"] as? Double, z = dict["z"] as? Double else {
+            return nil
+        }
+        return Point(x, y, z)
+    }
+}
+
+let p = Point(1, 2, 3)
+let dict = p.toDict()
+
+let dict2 = ["x": 4, "y": 5, "z": 6]
+let p2 = Point.fromDict(dict2)

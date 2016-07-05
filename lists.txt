@@ -1,6 +1,7 @@
 
 guidepoint
 hackthissite.org
+setup pgp with email
 future crimes
 pack stuff for amazon return -> ups dropoff
 chip's challenge
