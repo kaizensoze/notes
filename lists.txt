@@ -1,12 +1,11 @@
 
 guidepoint
-hackthissite.org
-setup pgp with email
+overthewire
 future crimes
+setup pgp with email
 pack stuff for amazon return -> ups dropoff
 chip's challenge
 scaredorpooping
-overthewire
 cryptopals
 hacker academy
 deep learning
@@ -15,7 +14,6 @@ linux
   linux book (linux kernel development 3rd edition)
   debian via vagrant
 livia owes ipad, 400
-LI house viewing tuesday after 7pm?
 
 doctor
   dermatologist: get moles checked

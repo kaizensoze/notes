@@ -107,6 +107,9 @@ curl
   curl -X POST -H "Authorization: token <token>" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
   curl -X DELETE -H "Authorization: token <token>" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
 
+dd
+  dd if=/dev/disk2 | strings > recover.txt
+
 diskutil
   diskutil secureErase freespace 0 /Volumes/sparta
 
@@ -165,6 +168,9 @@ gpg
 hash
   hash      # list bindings
   hash -r   # reset bindings
+
+hdiutil
+  hdiutil attach -imagekey diskimage-class=CRawDiskImage image-file-name
 
 heroku
   heroku pg:psql
