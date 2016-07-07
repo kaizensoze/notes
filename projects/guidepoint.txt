@@ -1,13 +1,9 @@
 
-guidepoint dial-in: 1-800-459-1584, code: 2694 510#
-
-consolidate addAvailIconIfAny for day/time views
-change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?
-look into token expiring [every 30 mins?]
 projects view: newCount
 project advisors view: project.newCount, advisor.status, selected endpoint
+change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?
 add view for empty states (no projects, no advisors, etc.)
-sort advisors by name?
+look into token expiring [every 30 mins?]
 
 jbarker@guidepointglobal.com
 welcome
@@ -121,6 +117,8 @@ questions
 		Declined means the advisor declined instead of accepting
 		the status progression is in 2 directions
 
+dial-in: 1-800-459-1584, code: 2694 510#
+
 hours
 	07-01-16
 		* clarify whether or not an advisor can skip actions
@@ -146,5 +144,7 @@ hours
 		* fix scroll to nearest 15min from now for curr day
 	
 	07-07-16
+		* don't show advisor avail icon on every day/time view
+		* fix for availability.containsDate
 		* 
   
