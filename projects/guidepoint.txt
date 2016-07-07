@@ -1,5 +1,5 @@
 
-http://natas11.natas.labs.overthewire.org/
+guidepoint dial-in: 1-800-459-1584, code: 2694 510#
 
 consolidate addAvailIconIfAny for day/time views
 change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?
