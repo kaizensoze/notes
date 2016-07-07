@@ -1,7 +1,7 @@
 
-overthewire
-
 guidepoint
+ups dropoff
+overthewire
 future crimes
 setup pgp with email
 pack stuff for amazon return -> ups dropoff
@@ -111,9 +111,9 @@ bands
 videogames
 
 overthewire
-  http://natas12.natas.labs.overthewire.org
-  EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
-  /etc/natas_webpass/natas13
+  http://natas11.natas.labs.overthewire.org/
+  U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
+  /etc/natas_webpass/natas11
 
 conferences
   (01/16) shmoocon

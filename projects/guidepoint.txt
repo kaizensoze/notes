@@ -1,4 +1,6 @@
 
+http://natas11.natas.labs.overthewire.org/
+
 consolidate addAvailIconIfAny for day/time views
 change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?
 look into token expiring [every 30 mins?]
@@ -142,4 +144,7 @@ hours
 		* make time views relative to selected day view
 		* fix time of day segmented control
 		* fix scroll to nearest 15min from now for curr day
+	
+	07-07-16
+		* 
   
