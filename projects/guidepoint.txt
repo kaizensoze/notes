@@ -1,10 +1,5 @@
 
-test on device
-replace unnecessary NSDateFormatter() with dateFromString(formatter)
-
-need to adjust time avail markings on selecting day view
-show which times advisor is available
-
+consolidate addAvailIconIfAny for day/time views
 change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?
 look into token expiring [every 30 mins?]
 projects view: newCount
@@ -140,5 +135,11 @@ hours
 		* progress on showing advisor available time
 	
 	07-06-16
-		* 
+		* consolidate nsdateformatter stuff
+		* consolidate rendering day/time views
+		* separate force vars for day and time views
+		* clear day/time scroll views on re-render
+		* make time views relative to selected day view
+		* fix time of day segmented control
+		* fix scroll to nearest 15min from now for curr day
   
