@@ -1,4 +1,5 @@
 
+look for project client availability info via api
 projects view: newCount
 project advisors view: project.newCount, advisor.status, selected endpoint
 change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?

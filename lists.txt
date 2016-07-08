@@ -1,6 +1,8 @@
 
-guidepoint
+check airbnb listings
+
 ups dropoff
+guidepoint
 overthewire
 future crimes
 setup pgp with email
@@ -166,10 +168,8 @@ techorgs
 	nycresistor
 
 cars
-  ford fiesta
-  honda fit
-  nissan leaf
-  nissan versa [note]
+  kia forte, 15990, 31
+  
 
 comics
   Walking Dead: 155
