@@ -1,7 +1,10 @@
 
-look for project client availability info via api
+get client availability for project
 projects view: newCount
-project advisors view: project.newCount, advisor.status, selected endpoint
+project advisors view
+	project.newCount
+	advisor.status
+	selected url (currently empty)
 change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?
 add view for empty states (no projects, no advisors, etc.)
 look into token expiring [every 30 mins?]
@@ -34,8 +37,6 @@ curl:
 	-H "X-Payload-Template: mobile_v1_00" \
 	-H "Accept-Language: en;q=1.0" \
 	"http://apit03.guidepoint.io/app_test.php/request?assistant_project_manager=789&project_manager_id=241115&status=open"
-	
-	
 
 headers
   "Accept: application/vnd.Guidepoint.app+json"
@@ -109,5 +110,9 @@ hours
 	07-07-16
 		* don't show advisor avail icon on every day/time view
 		* fix for availability.containsDate
-		* 
-  
+		* debug existing api endpoints to see if anything's been changed or added
+		* look into getting client availability for project via api
+	
+	07-08-16
+  	
+		
