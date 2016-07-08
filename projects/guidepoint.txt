@@ -114,5 +114,7 @@ hours
 		* look into getting client availability for project via api
 	
 	07-08-16
-  	
+  	* some more api debugging
+		* ask about getting client availability (api endpoint not done yet but soon)
+		* create build for testing
 		
