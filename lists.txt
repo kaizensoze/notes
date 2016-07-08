@@ -1,6 +1,4 @@
 
-food
-look into preventing sleeptalking (if no otc solution, schedule doctor appt)
 guidepoint
   get guidepoint wifi app setup working
 look into kristian's script
@@ -197,3 +195,9 @@ github issue labels to search for to contribute
   good first contribution
   Good for New Contributors
   pull request wanted
+  
+disorders
+  RBD
+  TMAU?
+  aversion to wifi (perhaps bacteria-caused and related to the TMAU-like bullshit?)
+  livin la vida loca (a result of the RBD and TMAU shit)
