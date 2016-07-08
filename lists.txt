@@ -1,8 +1,6 @@
 
 guidepoint
   get guidepoint wifi app setup working
-look into kristian's script
-
 future crimes
 overthewire
 
@@ -21,7 +19,6 @@ livia owes ipad, 400
 
 doctor
   dermatologist: get moles checked
-  sleep doctor: get something for sleeptalking
 
 tv
   Avatar
@@ -36,7 +33,6 @@ movies
   Our Kind of Traitor
   Traceroute
   Swiss Army Man
-  Sing Street
   Lo and Behold, Reveries of the Connected World
   Louis Theroux: My Scientology Movie
   Zero Days (07/08)
@@ -105,12 +101,6 @@ torrents
   what.cd
   waffles.fm
 
-bands
-  billy joel
-  camel
-  eminem
-  joe satriani
-
 videogames
 
 overthewire
@@ -150,14 +140,6 @@ interesting defcon talks
   Abusing Bleeding Edge Web Standards for AppSec Glory
   Project CITL
   Realtime Bluetooth Device Detection with Blue Hydra  
-
-challenges
-	Hack This Site (programming problems)
-	Project Euler
-	ITA Software's puzzle page
-	DropBox Challenge
-	Facebook Engineering Puzzles
-	Top Coder
 
 techorgs
 	hackNY
