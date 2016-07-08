@@ -1,8 +1,14 @@
 
+food
+look into preventing sleeptalking (if no otc solution, schedule doctor appt)
 guidepoint
+  get guidepoint wifi app setup working
+look into kristian's script
+
 future crimes
-stop by animal shelter
 overthewire
+
+stop by animal shelter
 setup pgp with email
 chip's challenge
 scaredorpooping
@@ -17,7 +23,7 @@ livia owes ipad, 400
 
 doctor
   dermatologist: get moles checked
-  see someone about internal trembling/internal tremor
+  sleep doctor: get something for sleeptalking
 
 tv
   Avatar
@@ -166,7 +172,6 @@ techorgs
 
 cars
   kia forte, 15990, 31
-  
 
 comics
   Walking Dead: 155
