@@ -1,12 +1,9 @@
 
-check airbnb listings
-
-ups dropoff
+stop by animal shelter
+future crimes
 guidepoint
 overthewire
-future crimes
 setup pgp with email
-pack stuff for amazon return -> ups dropoff
 chip's challenge
 scaredorpooping
 cryptopals
