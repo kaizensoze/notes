@@ -1,13 +1,9 @@
 
-guidepoint
-  get guidepoint wifi app setup working
 future crimes
-overthewire
 stop by animal shelter
 setup pgp with email
 chip's challenge
 scaredorpooping
-cryptopals
 hacker academy
 deep learning
 linux
@@ -21,9 +17,8 @@ doctor
 
 tv
   Avatar
-  Vice Principals (07/01)
-  Last Week Tonight S03E18
   Mr Robot S02E01 (07/13)
+  Last Week Tonight S03E18 (07/24)
   Narcos (09/02)
   South Park (09/14)
 
