@@ -3,7 +3,6 @@ guidepoint
   get guidepoint wifi app setup working
 future crimes
 overthewire
-
 stop by animal shelter
 setup pgp with email
 chip's challenge
@@ -29,6 +28,7 @@ tv
   South Park (09/14)
 
 movies
+  Eat That Question: Frank Zappa in His Own Words
   Microbe and Gasoline (Microbe et Gasoil)
   Our Kind of Traitor
   Traceroute
