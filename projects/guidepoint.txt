@@ -1,5 +1,7 @@
 
+only render day/time views once if possible
 look into selected day view getting cleared on tableview reload (advisor detail view)
+
 get client availability for project
 projects view: newCount
 project advisors view
