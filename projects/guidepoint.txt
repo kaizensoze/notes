@@ -124,4 +124,7 @@ hours
 		* prevent text from getting cut off on detail view
 		* remove extra ) for some status date labels
 		* prevent duplicate drawing to status view on detail view
+	
+	07-11-16
+		* 
 		
