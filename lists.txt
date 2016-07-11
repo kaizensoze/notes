@@ -1,4 +1,6 @@
 
+call about sleep study
+
 setup pgp with email
 tent
 future crimes
