@@ -1,6 +1,4 @@
 
-sleep doctor
-
 setup pgp with email
 tent
 future crimes
@@ -15,9 +13,11 @@ linux
   linux book (linux kernel development 3rd edition)
   debian via vagrant
 
+sleep center
+165 community drive
+
 doctor
   dermatologist: get moles checked
-  sleep doctor: RBD
 
 tv
   Netflix: Marcella
@@ -33,6 +33,8 @@ movies
   *, Werner Herzog
   *, Errol Morris
   Zero Days
+  You've Got Mail
+  Particle Fever
   Eat That Question: Frank Zappa in His Own Words
   Microbe and Gasoline (Microbe et Gasoil)
   Our Kind of Traitor

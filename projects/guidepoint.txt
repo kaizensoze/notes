@@ -1,6 +1,5 @@
 
-only render day/time views once if possible
-look into selected day view getting cleared on tableview reload (advisor detail view)
+conference call with shiny after standup
 
 get client availability for project
 projects view: newCount
@@ -32,14 +31,14 @@ curl:
 	"http://apit03.guidepoint.io/app_test.php/auth"
 
   curl \
-	-b "PHPSESSID=19g8i8dab4u925507keq860mi2" \
-	-H "Accept: application/vnd.guidepoint.app+json;version=1.0" \
 	-H "User-Agent: Expert/com.guidepoint.app (1; iOS 9.3.0)" \
 	-H "Accept-Encoding: gzip;q=1.0, compress;q=0.5" \
-	-H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjgwMjc1NTMsInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTYiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0Njc5ODQzNTMifQ.pMcvntquyJJW4NdDp9qSS_tHT2i8QOZ3KsrmptscW9TRJQC_smiGIRVkfYtStvE5ZddDO4pNIoi0WZTt6Oyg8THBq9frGzsX6coshgQFWxZdnhhIpNMd_JbHjbW1AheZOBpufFxMFnznlGviCchy5BPILrlaZFr970feLDcKDzdSl5cunTsC0CLnY8GOZQcDLv6WXRopVmDQH78xv4oUKAi4E3-G5xnGbYrF5Bt_DnXVnkM0_Di1LDPi80hzt6hPwM92-s8IdOOtWYj0BguD7HEaadirgoOudPR9L8mSbUEvXpDPsZVAhTdFXpD9UGPnOTAiSBQ8ZvUVSHb2o3lO3JqiTSBEgoLngdW_7XRUSSvmZ40hCsqVtcwEckppyNyx3cSMEA0XsFvJWFrtMuY6kMNy8Nm-bmJX_ZX07DDNJvRhRbk8N2u3vfTpOznzf_Gl3FzFSg2N3O8-I59_jwR8PuDUMb-m253eopJJs2VbDTif_rafTIQa59lraCllRod6dubhNIhkIt4pUJQyaa6yWqyutdF0tXVE-VLMyCryh8BTEfkpSYCvKTazwnD9MjTbLEIUfIzyg3rh7nxyDWslCTJpFeuIWonBq9BR96bkSePCpLVTUVDI7nzR6v9jrwlIW9ggv4OCfLVU5gSQpffRODqX8VZkRQWlWKONGAaku3g" \
+	-H "X-API-Keys-Naming-Strategy: camelCase" \
 	-H "X-Payload-Template: mobile_v1_00" \
-	-H "Accept-Language: en;q=1.0" \
-	"http://apit03.guidepoint.io/app_test.php/request?assistant_project_manager=789&project_manager_id=241115&status=open"
+	-H "Accept: application/vnd.guidepoint.app+json;version=1.0" \
+	-H "Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXUyJ9.eyJleHAiOjE0NjgyOTQxMjksInVzZXJuYW1lIjoiamJhcmtlckBndWlkZXBvaW50Z2xvYmFsLmNvbSIsImlwIjoiMTkyLjE2OC4xMTEuNTMiLCJzcmMiOiJhcGlfYXV0aCIsImlhdCI6IjE0NjgyNTA5MjkifQ.nImheFUvKa2ZpJ6cQjfhiQiawSyirEbWnGZygNVESPDPNiomROI1m7_5OZpcE0OmDRYZIxt5_Gw5X0VkYsxd2jJlgByZXORXMIGu30wnXc-DeEzYkisaXxAdofcS43SXXY9LchEC_5dECnYl8XMXeWWhgVqcraHTTbGK1BLYmR51X4X9bHVA_3W1TdkuMTMqBdcHQaZUIIdgNureN0qLwzbJB3LynPvgBhOP_4bUuJ0P7pO438uDXiKfLQegSB8hhPNHDBxAEXTD9RDmyrvxIKAuoin2LQ3_t5-aYuQu4FcGESs2L3TC5T8ew-7BCE8i0weHmy2PanZLD87aLhXdYw5qOwlGgZxeCeq-zjCbXZZyLPojElQ61Ghfo7KXFVzDtezUTCTGucnS303mBGBKjl0XclsAdSF3NwhL_Q0yW_-YWwB3kWUO0JbjF5J2bJlRI3V0yYu8CvBCOcNxwxnU1fLyL_fULGmhZfbIlO-VOwXoWRlIntoUHTY7xZhdkjLQFkS6SyQ5Bn-V-1JfQHNDPHp3hS5a1WWzAurWp_k_6s_4opdwGNOI-TPIP98AeDdh9CJ7tAqQw2WFCMCV5OEIT5ih2uBNEFSeAhj5C6YjChzGHX9yqQZKaYqzxp1dCbrOMZ3ycFWejtpDNE8gtpDqWRFbzB3aXMCgTZiBKcUsWCc" \
+	-H "Accept-Language: en-US;q=1.0" \
+	"http://172.16.100.133/app_test.php/request?assistant_project_manager=789&project_manager_id=241115&status=open"
 
 headers
   "Accept: application/vnd.Guidepoint.app+json"
@@ -126,5 +125,12 @@ hours
 		* prevent duplicate drawing to status view on detail view
 	
 	07-11-16
+		* use ip address for test domain
+		* create build with hardcoded ip address to eliminate need for charles proxy if on internal network
+		* look into any rendering issues on advisor detail view
+		* debug print api endpoints based on api debug flag
+		* discuss with rich next steps while blocked on remaining api stuff as well as future coordination with shiny on ios stuff
+		
+	07-12-16
 		* 
 		
