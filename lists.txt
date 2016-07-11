@@ -1,9 +1,5 @@
 
-grocery
-  iceberg lettuce
-  breaded chicken
-  mozzarella
-  red bull (lime)
+sleep doctor
 
 setup pgp with email
 tent
@@ -35,6 +31,7 @@ tv
 movies
   *, Alex Gibney
   *, Werner Herzog
+  *, Errol Morris
   Zero Days
   Eat That Question: Frank Zappa in His Own Words
   Microbe and Gasoline (Microbe et Gasoil)
