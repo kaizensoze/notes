@@ -1,12 +1,15 @@
 
-14:00 - 472 Marcus Garvey
-14:30 - 811 Classon Avenue
-15:00 - 67 Hawthorne
+grocery
+  iceberg lettuce
+  breaded chicken
+  mozzarella
+  red bull (lime)
 
-tent
 setup pgp with email
+tent
 future crimes
 look into Roth
+bumper pool table?
 chip's challenge
 scaredorpooping
 hacker academy
@@ -32,7 +35,6 @@ tv
 movies
   *, Alex Gibney
   *, Werner Herzog
-  Mea Maxima Culpa: Silence In The House Of God
   Zero Days
   Eat That Question: Frank Zappa in His Own Words
   Microbe and Gasoline (Microbe et Gasoil)
