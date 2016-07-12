@@ -87,6 +87,10 @@ brew cask
   brew cask list
   brew cask cleanup
 
+carthage
+  carthage update
+  carthage bootstrap
+
 cat
   cat /etc/resolv.conf
 
