@@ -1,6 +1,4 @@
 
-conference call with shiny after standup
-
 get client availability for project
 projects view: newCount
 project advisors view
@@ -13,7 +11,6 @@ look into token expiring [every 30 mins?]
 
 jbarker@guidepointglobal.com
 welcome
-https://apit.guidepoint.io/app_test.php/auth
 
 Mark Shehata [12:26 PM] (06/30/16)
 no they can't get selected until they sent to the client
@@ -132,6 +129,9 @@ hours
 		* discuss with rich next steps while blocked on remaining api stuff as well as future coordination with shiny on ios stuff
 		
 	07-12-16
-		* help Shiny get project to build on her machine
+		* help Shiny get project up and running on her machine
 		* update gitignore
+		* add shell script build phase
+		* update readme with description, setup, and contact info
+		
 		

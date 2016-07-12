@@ -1,10 +1,6 @@
 
-call about sleep study
-
 setup pgp with email
-tent
 future crimes
-look into Roth
 bumper pool table?
 chip's challenge
 scaredorpooping
@@ -14,9 +10,8 @@ linux
   linux book
   linux book (linux kernel development 3rd edition)
   debian via vagrant
-
-sleep center
-165 community drive
+look into Roth
+tent
 
 doctor
   dermatologist: get moles checked
