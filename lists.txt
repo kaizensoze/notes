@@ -1,4 +1,10 @@
 
+car rental
+	take picture of damage to vehicle
+  request demand letter
+  notarized statement saying I don't have personal automobile insurance on the date of the incident
+	finalize claim: https://www.eclaimsline.com/
+	filed claim via 1-800-847-2911 [DONE]
 setup pgp with email
 future crimes
 bumper pool table?
@@ -151,9 +157,6 @@ techorgs
 	braindump
 	alpha one labs
 	nycresistor
-
-cars
-  kia forte, 15990, 31
 
 comics
   Walking Dead: 155

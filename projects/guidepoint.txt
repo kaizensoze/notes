@@ -1,4 +1,5 @@
 
+call detail view
 get client availability for project
 projects view: newCount
 project advisors view
