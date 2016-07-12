@@ -32,10 +32,11 @@ tv
   South Park (09/14)
 
 movies
+  Zero Days
+  Dumb and Dumber To
   *, Alex Gibney
   *, Werner Herzog
   *, Errol Morris
-  Zero Days
   You've Got Mail
   Particle Fever
   Eat That Question: Frank Zappa in His Own Words
