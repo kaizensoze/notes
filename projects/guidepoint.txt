@@ -134,5 +134,9 @@ hours
 		* update gitignore
 		* add shell script build phase
 		* update readme with description, setup, and contact info
-		
+	
+	07-13-16
+		* clean up old git branches
+		* add app icons
+		* 
 		

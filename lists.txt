@@ -1,23 +1,25 @@
 
+shower
+guidepoint
+bike
+padmapper
+apt viewing
+
+take picture of damage to vehicle
+return rental car
+
 car rental
-	take picture of damage to vehicle
   request demand letter
   notarized statement saying I don't have personal automobile insurance on the date of the incident
 	finalize claim: https://www.eclaimsline.com/
 	filed claim via 1-800-847-2911 [DONE]
-setup pgp with email
-future crimes
-bumper pool table?
-chip's challenge
 scaredorpooping
-hacker academy
-deep learning
 linux
   linux book
   linux book (linux kernel development 3rd edition)
   debian via vagrant
 look into Roth
-tent
+faraday tent
 
 doctor
   dermatologist: get moles checked
@@ -32,12 +34,10 @@ tv
   South Park (09/14)
 
 movies
-  Zero Days
-  Dumb and Dumber To
   *, Alex Gibney
   *, Werner Herzog
   *, Errol Morris
-  You've Got Mail
+  Dave Chappelle's Block Party
   Particle Fever
   Eat That Question: Frank Zappa in His Own Words
   Microbe and Gasoline (Microbe et Gasoil)
