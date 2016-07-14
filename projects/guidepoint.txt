@@ -1,5 +1,7 @@
 
-call detail view
+go through tickets
+work on calls pull request and merge
+
 get client availability for project
 projects view: newCount
 project advisors view

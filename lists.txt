@@ -1,8 +1,9 @@
 
-take picture of damage to vehicle
-guidepoint
 view house
+padmapper
+guidepoint
 pick up alec at 9:30 at VS
+take picture of damage to vehicle
 
 start divorce process
 car rental
