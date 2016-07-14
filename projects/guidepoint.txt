@@ -138,5 +138,9 @@ hours
 	07-13-16
 		* clean up old git branches
 		* add app icons
+		* look into php api code for adding stuff to test api
+		* go through APPS-14-client-iphone-app-scheduled-call pull request
+		
+	07-14-16
 		* 
 		

@@ -1,12 +1,9 @@
 
-shower
-guidepoint
-bike
-padmapper
-apt viewing
-
 take picture of damage to vehicle
 return rental car
+apt viewing
+guidepoint
+start divorce process
 
 car rental
   request demand letter
@@ -26,17 +23,14 @@ doctor
 
 tv
   Netflix: Marcella
+  Mr Robot S02E01
   The Shield
   Avatar
-  Mr Robot S02E01 (07/13)
   Last Week Tonight S03E18 (07/24)
   Narcos (09/02)
   South Park (09/14)
 
 movies
-  *, Alex Gibney
-  *, Werner Herzog
-  *, Errol Morris
   Dave Chappelle's Block Party
   Particle Fever
   Eat That Question: Frank Zappa in His Own Words
@@ -46,8 +40,15 @@ movies
   Swiss Army Man
   Lo and Behold, Reveries of the Connected World
   Louis Theroux: My Scientology Movie
+  Vernon, Florida
+  The Look of Silence
+  Gates of Heaven
+  A Brief History of Time (1992)
+  Tabloid (2011)
   Suicide Squad (08/05)
   Sausage Party (08/11)
+  *, Alex Gibney
+  *, Werner Herzog
 
 noteworthy books
   A Confederacy of Dunces, John Kennedy Toole
