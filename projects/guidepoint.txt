@@ -1,5 +1,8 @@
 
-go through tickets
+notification search
+calls search
+expand search capability on other existing views
+
 work on calls pull request and merge
 
 get client availability for project
@@ -143,6 +146,10 @@ hours
 		* look into php api code for adding stuff to test api
 		* go through APPS-14-client-iphone-app-scheduled-call pull request
 		
-	07-14-16
+	07-14-16 [0.5]
+		* help Shiny with some things on APPS-14-client-iphone-app-scheduled-call PR
+		* look into PR changes
+	
+	07-15-16
 		* 
 		
