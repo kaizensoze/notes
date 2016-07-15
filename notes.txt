@@ -971,3 +971,7 @@ let dict = p.toDict()
 
 let dict2 = ["x": 4, "y": 5, "z": 6]
 let p2 = Point.fromDict(dict2)
+
+ios
+====
+if you want to persist search session when going back to view, need to enable "Defines Context" in view controller
