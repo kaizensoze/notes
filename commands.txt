@@ -110,6 +110,7 @@ curl
   curl -X GET -H "Authorization: token <token>" "https://api.github.com/user/emails"
   curl -X POST -H "Authorization: token <token>" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
   curl -X DELETE -H "Authorization: token <token>" -d '["test1@test.com", "test2@test.com"]' https://api.github.com/user/emails
+  curl -v <url>
 
 dd
   dd if=/dev/disk2 | strings > recover.txt

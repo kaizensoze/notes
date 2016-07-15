@@ -1,4 +1,7 @@
 
+notification search viewDidAppear fix
+adjust search on existing views (autocorrection = false, autocapitalization = false)
+rename project.topic to project.name?
 notification search
 calls search
 expand search capability on other existing views
