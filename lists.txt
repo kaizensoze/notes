@@ -1,8 +1,5 @@
 
-guidepoint
-plug in wireless router before leaving house
 take picture of damage to vehicle
-
 start divorce process
 car rental claim (07/11)
   request demand letter
@@ -10,15 +7,8 @@ car rental claim (07/11)
 	finalize claim: https://www.eclaimsline.com/
 	filed claim via 1-800-847-2911 [DONE]
 scaredorpooping
-linux
-  linux book
-  linux book (linux kernel development 3rd edition)
-  debian via vagrant
 look into Roth
 faraday tent
-
-doctor
-  dermatologist: get moles checked
 
 tv
   Netflix: Marcella
@@ -159,9 +149,6 @@ techorgs
 	alpha one labs
 	nycresistor
 
-comics
-  Walking Dead: 155
-
 estimated tax deadlines
   Q1 April 15, 2014
   Q2 June 15, 2014
@@ -183,9 +170,3 @@ github issue labels to search for to contribute
   good first contribution
   Good for New Contributors
   pull request wanted
-  
-disorders
-  RBD
-  TMAU?
-  aversion to wifi (perhaps bacteria-caused and related to the TMAU-like bullshit?)
-  livin la vida loca (a result of the RBD and TMAU shit)
