@@ -1,5 +1,6 @@
 
 shower
+reply to call
 food
 house viewing
 check out LI
@@ -20,7 +21,6 @@ look into Roth
 faraday tent
 
 tv
-  Netflix: Marcella
   Mr Robot S02E03 (07/21)
   The Shield
   Avatar
