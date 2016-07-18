@@ -1,12 +1,9 @@
 
-pay rent to:
-24 Starr LLC
-694 Myrtle Avenue #455
-Brooklyn, NY 11205
+314 East 120th St
 
 front door: 2424
 laundry: 2020
 
 143 BLEECKER ST APT 2R
 Brooklyn, NY 11221
-door: 1025#
+door code: 1025
