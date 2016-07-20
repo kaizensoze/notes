@@ -1,12 +1,12 @@
 
-food
 guidepoint
+stranger things
+renew rental car
+add apartment to padmapper
+
 get [24 hour] storage unit
 get zipvan
 move things from apartment into storage
-stranger things
-
-return rental car
 
 car rental claim (07/11)
   request demand letter
@@ -28,6 +28,7 @@ tv
   South Park S20E01 (09/14)
 
 movies
+  Dead Ringers
   Particle Fever
   Eat That Question: Frank Zappa in His Own Words
   Microbe and Gasoline (Microbe et Gasoil)
