@@ -161,6 +161,9 @@ hours
 	
 	07-19-16
 		* finish/push APPS-14-changes that mainly changes multiple tableviews to a single table with two sections and two cell prototypes
+		* progress on call detail view for managers
+	
+	07-20-16
 		* 
 		
 		
