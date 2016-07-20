@@ -1,6 +1,4 @@
 
-calls detail view
-
 projects view: newCount
 project advisors view
 	project.newCount
@@ -164,6 +162,8 @@ hours
 		* progress on call detail view for managers
 	
 	07-20-16
+		* call detail view [for manager]
+	
+	07-21-16
 		* 
-		
 		
