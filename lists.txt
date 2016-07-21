@@ -1,24 +1,21 @@
 
-stranger things
-renew rental car
-add apartment to padmapper
-
+drop off rental car: 88-08 23rd Avenue, New York, NY
+pick up new rental car: 906 Union St, Brooklyn, NY
 get [24 hour] storage unit
+add apartment to padmapper
 get zipvan
 move things from apartment into storage
 
 car rental claim (07/11)
+  filed claim via 1-800-847-2911 [DONE]
   request demand letter
   notarized statement saying I don't have personal automobile insurance on the date of the incident
 	finalize claim: https://www.eclaimsline.com/
-	filed claim via 1-800-847-2911 [DONE]
 start divorce process
 scaredorpooping
 look into Roth
-thelonious monk
 
 tv
-  Stranger Things
   Mr Robot S02E03 (07/21)
   The Shield
   Avatar
