@@ -1,8 +1,6 @@
 
-drop off rental car: 88-08 23rd Avenue, New York, NY
-pick up new rental car: 906 Union St, Brooklyn, NY
-get [24 hour] storage unit
 add apartment to padmapper
+get [24 hour] storage unit
 get zipvan
 move things from apartment into storage
 

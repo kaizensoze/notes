@@ -1,13 +1,14 @@
 
+change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?
+start workflow for client user (look at tickets and determine whether or not to have separate storyboards)
+
 projects view: newCount
 project advisors view
 	project.newCount
 	advisor.status
 	selected url (currently empty)
 get client availability for project
-change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?
-add view for empty states (no projects, no advisors, etc.)
-look into token expiring [every 30 mins?]
+look into auto-renewing token as requested
 
 jbarker@guidepointglobal.com
 welcome
