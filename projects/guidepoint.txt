@@ -1,5 +1,4 @@
 
-change getProjectAdvisorDetails to addProjectAdvisorDetails and have it not return anything?
 start workflow for client user (look at tickets and determine whether or not to have separate storyboards)
 
 projects view: newCount
@@ -169,5 +168,9 @@ hours
 	07-21-16 [0]
 	
 	07-22-16
-		* 
-		
+		* go through latest APPS-14 changes
+		* look into getting rid of cocoapods and replacing with carthage generated Twilio iOS Client SDK .framework
+		* leave cocoapods in since twilio's sdk isn't carthage-compatible
+	
+	07-23-16
+	
