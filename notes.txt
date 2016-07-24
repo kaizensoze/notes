@@ -975,3 +975,19 @@ let p2 = Point.fromDict(dict2)
 ios
 ====
 if you want to persist search session when going back to view, need to enable "Defines Context" in view controller
+
+github issue labels to search for to contribute
+  help wanted
+  help-wanted
+  good first bug
+  Help Wanted
+  contribution welcome
+  ----------------------
+  HelpWanted
+  first time contributor
+  Contributor Friendly
+  Good First Task
+  beginner friendly
+  good first contribution
+  Good for New Contributors
+  pull request wanted

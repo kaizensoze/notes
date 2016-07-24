@@ -1,22 +1,30 @@
 
-sign lease
-guidepoint
-
+engineering blogs wiki: OPML Manual Corrections
+push node-github changes
+ios10-preview
+books
+side project?
+okcupid
+start divorce process
 car rental claim (07/11)
   filed claim via 1-800-847-2911 [DONE]
   request demand letter
   notarized statement saying I don't have personal automobile insurance on the date of the incident
 	finalize claim: https://www.eclaimsline.com/
-start divorce process
 
 tv
-  Avatar
+  The Night Of S01E03
+  Avatar S01E02
   Last Week Tonight S03E18 (07/24)
   Mr Robot S02E04 (07/28)
   Narcos S02E01 (09/02)
-  South Park S20E01 (09/14)
+  South Park S17, S20E01 (09/14)
+  Blair Witch (09/16)
 
 movies
+  Kentucky Fried Movie
+  The Book of Mormon
+  Don't Think Twice
   Eat That Question: Frank Zappa in His Own Words
   Our Kind of Traitor
   Traceroute
@@ -118,6 +126,11 @@ conferences
   (10/21) toorcon
   (12/27) chaos communication congress (C3)
 
+interesting eleventh hope talks
+  Security Options for High Risk Travelers
+  LinkNYC Spy Stations
+  FOIA and Public Records Hacking: How to Complete a FOIA Request or Dox Yourself via the Privacy Act
+
 interesting defcon talks
   Toxic Proxies - Bypassing HTTPS and VPNs to Pwn Your Online Identity
   Machine Duping 101: Pwning Deep Learning Systems
@@ -145,19 +158,3 @@ estimated tax deadlines
   Q2 June 15, 2014
   Q3 September 15, 2014
   Q4 January 15, 2015
-
-github issue labels to search for to contribute
-  help wanted
-  help-wanted
-  good first bug
-  Help Wanted
-  contribution welcome
-  ----------------------
-  HelpWanted
-  first time contributor
-  Contributor Friendly
-  Good First Task
-  beginner friendly
-  good first contribution
-  Good for New Contributors
-  pull request wanted
