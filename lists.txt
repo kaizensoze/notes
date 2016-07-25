@@ -1,6 +1,4 @@
 
-guidepoint
-  ios10-preview
 the armstrong lie
 watch: call of cthulhu game
 kentucky route zero

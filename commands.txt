@@ -429,6 +429,9 @@ wireshark
 xcode
   po thing.recursiveDescription
 
+xcrun
+  xcrun simctl list # simulator
+
 zsh
   print -l ${(ok)functions}  # list functions
 

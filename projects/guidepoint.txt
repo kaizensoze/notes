@@ -1,4 +1,5 @@
 
+clean up simulator list
 swift3 branch
 start workflow for client user (look at tickets and determine whether or not to have separate storyboards)
 projects view: newCount
