@@ -1,9 +1,7 @@
 
-books
 guidepoint
   ios10-preview
-side project?
-okcupid
+
 start divorce process
 car rental claim (07/11)
   filed claim via 1-800-847-2911 [DONE]
@@ -14,14 +12,15 @@ car rental claim (07/11)
 tv
   The Night Of S01E03
   Avatar S01E02
-  Last Week Tonight S03E18 (07/24)
+  Last Week Tonight S03E18
   Mr Robot S02E04 (07/28)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
   Blair Witch (09/16)
 
 movies
-  Kentucky Fried Movie
+  Mr Untouchable
+  Client 9: The Rise and Fall of Eliot Spitzer
   The Book of Mormon
   Don't Think Twice
   Eat That Question: Frank Zappa in His Own Words
