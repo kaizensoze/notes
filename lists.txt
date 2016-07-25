@@ -1,8 +1,7 @@
 
-engineering blogs wiki: OPML Manual Corrections
-push node-github changes
-ios10-preview
 books
+guidepoint
+  ios10-preview
 side project?
 okcupid
 start divorce process
