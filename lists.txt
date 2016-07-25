@@ -1,6 +1,7 @@
 
 guidepoint
   ios10-preview
+kentucky route zero
 
 start divorce process
 car rental claim (07/11)
@@ -12,8 +13,8 @@ car rental claim (07/11)
 tv
   The Night Of S01E03
   Avatar S01E02
-  Last Week Tonight S03E18
   Mr Robot S02E04 (07/28)
+  Last Week Tonight S03E19 (07/31)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
   Blair Witch (09/16)
@@ -33,7 +34,6 @@ movies
   Suicide Squad (08/05)
   Sausage Party (08/11)
   Louis Theroux: My Scientology Movie (09/08)
-  *, Alex Gibney
   *, Werner Herzog
 
 noteworthy books
