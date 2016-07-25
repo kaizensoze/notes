@@ -1,5 +1,4 @@
 
-clean up simulator list
 swift3 branch
 start workflow for client user (look at tickets and determine whether or not to have separate storyboards)
 projects view: newCount
@@ -175,5 +174,5 @@ hours
 		* leave cocoapods in since twilio's sdk isn't carthage-compatible
 	
 	07-25-16
-		* 
+		* progress on swift3 branch
 	
