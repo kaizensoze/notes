@@ -1,7 +1,10 @@
 
 guidepoint
   ios10-preview
+the armstrong lie
+watch: call of cthulhu game
 kentucky route zero
+call doctor again about sleep study
 
 start divorce process
 car rental claim (07/11)
@@ -20,6 +23,7 @@ tv
   Blair Witch (09/16)
 
 movies
+  *, Werner Herzog
   Mr Untouchable
   Client 9: The Rise and Fall of Eliot Spitzer
   The Book of Mormon
@@ -34,7 +38,6 @@ movies
   Suicide Squad (08/05)
   Sausage Party (08/11)
   Louis Theroux: My Scientology Movie (09/08)
-  *, Werner Herzog
 
 noteworthy books
   A Confederacy of Dunces, John Kennedy Toole

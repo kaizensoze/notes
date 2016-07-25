@@ -1,6 +1,6 @@
 
+swift3 branch
 start workflow for client user (look at tickets and determine whether or not to have separate storyboards)
-
 projects view: newCount
 project advisors view
 	project.newCount
@@ -166,7 +166,7 @@ hours
 		* call detail view [for manager]
 	
 	07-21-16
-		* start working on ios10-preview branch
+		* start working on swift3 branch
 	
 	07-22-16
 		* go through latest APPS-14 changes
@@ -174,4 +174,5 @@ hours
 		* leave cocoapods in since twilio's sdk isn't carthage-compatible
 	
 	07-25-16
+		* 
 	
