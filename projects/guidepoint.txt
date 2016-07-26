@@ -1,13 +1,12 @@
 
-swift3 branch
-start workflow for client user (look at tickets and determine whether or not to have separate storyboards)
+go through tickets
+look into auto-renewing token as requested
 projects view: newCount
 project advisors view
 	project.newCount
 	advisor.status
 	selected url (currently empty)
 get client availability for project
-look into auto-renewing token as requested
 
 jbarker@guidepointglobal.com
 welcome
