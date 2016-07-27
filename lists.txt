@@ -1,6 +1,10 @@
 
-guidepoint
 call doctor again about sleep study
+shower
+mcdonalds:
+  fruit and maple oatmeal
+  iced coffee
+guidepoint
 
 start divorce process
 car rental claim (07/11)
@@ -48,6 +52,7 @@ noteworthy books
   Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
   Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
   End This Depression Now!, Paul Krugman
+  Future Crimes, Marc Goodman
   Ghost in the Wires, Kevin Mitnick
   Hackers, Steven Levy
   Ham on Rye, Charles Bukowski
