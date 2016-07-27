@@ -1,9 +1,5 @@
 
-catch up on walking dead
-kentucky route zero
 guidepoint
-restock ice cream
-
 call doctor again about sleep study
 
 start divorce process
@@ -14,10 +10,9 @@ car rental claim (07/11)
 	finalize claim: https://www.eclaimsline.com/
 
 tv
-  The Night Of S01E03
-  Avatar S01E02
   Mr Robot S02E04 (07/28)
   Last Week Tonight S03E19 (07/31)
+  The Night Of S01E03 (07/31)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
 
@@ -25,7 +20,6 @@ movies
   Lights Out
   The Secret Life of Pets
   Star Trek Beyond
-  *, Werner Herzog
   Mr Untouchable
   Client 9: The Rise and Fall of Eliot Spitzer
   The Book of Mormon
@@ -36,6 +30,7 @@ movies
   Swiss Army Man
   Lo and Behold, Reveries of the Connected World
   The Look of Silence
+  *, Werner Herzog
   Jason Bourne (07/29)
   Suicide Squad (08/05)
   Sausage Party (08/11)
