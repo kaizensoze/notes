@@ -1,6 +1,5 @@
 
 call doctor again about sleep study
-
 start divorce process
 car rental claim (07/11)
   filed claim via 1-800-847-2911 [DONE]
@@ -21,7 +20,6 @@ movies
   Star Trek Beyond
   Mr Untouchable
   Client 9: The Rise and Fall of Eliot Spitzer
-  The Book of Mormon
   Don't Think Twice
   Eat That Question: Frank Zappa in His Own Words
   Our Kind of Traitor
@@ -30,99 +28,15 @@ movies
   Lo and Behold, Reveries of the Connected World
   The Look of Silence
   *, Werner Herzog
+  The Book of Mormon
   Jason Bourne (07/29)
   Suicide Squad (08/05)
   Sausage Party (08/11)
   Louis Theroux: My Scientology Movie (09/08)
 
-noteworthy books
-  A Confederacy of Dunces, John Kennedy Toole
-  Age of Ambition, Evan Osnos
-  All's Quiet on the Western Front, Erich Maria Remarque
-  Angler: The Cheney Vice Presidency, Barton Gellman
-  Confront and Conceal, David E. Sanger
-  Countdown to Zero Day, Kim Zetter
-  Dark Pools, Scott Patterson
-  Do No Harm, Henry Marsh
-  Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
-  Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
-  End This Depression Now!, Paul Krugman
-  Future Crimes, Marc Goodman
-  Ghost in the Wires, Kevin Mitnick
-  Hackers, Steven Levy
-  Ham on Rye, Charles Bukowski
-  Just Kids, Patti Smith
-  Kitchen Confidential, Anthony Bourdain
-  Siddhartha, Herman Hesse
-  The Curious Incident Of the Dog In The Night Time, Mark Haddon
-  The Innovators, Walter Isaacson
-  The Psychopath Test: A Journey Through the Madness Industry, Jon Ronson
-  The Shadow Factory, James Bamford
-  The Unwinding, George Packer
-  The Way of the Knife, Mark Mazzetti
-  This Machine Kills Secrets, Andy Greenberg
-  Voltaire's Bastards, John Ralston Saul
-
-noteworthy movies
-  Idiocracy
-  The Princess Bride
-  The Thing
-  This Is Spinal Tap
-
-places
-  DONE
-  bakery
-    Bakeri
-    Buttermilk Bakery
-    Sugar Couture
-    Du Jour Bakery
-    Margaret Palca Bakes
-    Betty Bakery
-    Court Street Pastry Shoppe
-    Caprice's by Sophie
-    Napoli Bakery
-    Mazzola Bakery
-    Four & Twenty Blackbirds
-  sandwiches
-    Court Street Grocers
-    Defontes
-    Original John's Deli
-  coffee
-    Toby's Estate
-    Otha's
-    The West
-    The Mill Coffee Company
-
 torrents
   what.cd
   waffles.fm
-
-videogames
-
-overthewire
-  http://natas11.natas.labs.overthewire.org/
-  U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
-  /etc/natas_webpass/natas11
-
-conferences
-  (01/16) shmoocon
-  (01/25) usenix enigma
-  (03/18) cansecwest
-  (03/18) pwn2own
-  (05/05) thotcon
-  (06/08) dotscale
-  (06/12) circlecitycon
-  (06/13) wwdc
-  (06/xx) summercon
-  (07/09) toorcamp
-  (07/22) H.O.P.E
-  (08/01) blackhat
-  (08/06) defcon
-  (08/13) chaos communication camp (every 4 years)
-  (09/22) appsec
-  (09/26) .conf
-  (10/21) toorcon
-  (12/27) chaos communication congress (C3)
 
 interesting eleventh hope talks
   Security Options for High Risk Travelers
@@ -142,14 +56,10 @@ interesting defcon talks
   Project CITL
   Realtime Bluetooth Device Detection with Blue Hydra  
 
-techorgs
-	hackNY
-	techstars
-	dogpatch labs
-	linkedlist nyc
-	braindump
-	alpha one labs
-	nycresistor
+overthewire
+  http://natas11.natas.labs.overthewire.org/
+  U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
+  /etc/natas_webpass/natas11
 
 estimated tax deadlines
   Q1 April 15, 2014
