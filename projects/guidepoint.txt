@@ -1,5 +1,5 @@
 
-pull to refresh
+if there's a selected start time, scroll to that OR don't scroll if there's already a selected start time
 only show welcome view on first time
 
 projects view: newCount
@@ -184,5 +184,8 @@ hours
 		* auto-reauth and retry on api token expiration
 	
 	07-28-16
+		* pull to refresh
+		* reset availability cell on refresh
+		* remove TODO
 		* 
 	
