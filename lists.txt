@@ -28,7 +28,6 @@ movies
   Swiss Army Man
   Lo and Behold, Reveries of the Connected World
   The Look of Silence
-  *, Werner Herzog
   The Book of Mormon
   Jason Bourne (07/29)
   Suicide Squad (08/05)
