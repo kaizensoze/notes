@@ -13,5 +13,4 @@
 2016-07-28
   planks: 02:45
   pushups: 70
-  pullups:  
   
