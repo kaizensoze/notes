@@ -1,6 +1,6 @@
 
-go through tickets
-look into auto-renewing token as requested
+pull to refresh
+only show welcome view on first time
 
 projects view: newCount
 project advisors view
@@ -179,5 +179,10 @@ hours
 	07-26-16 [0]
 	
 	07-27-16
+		* add note on adding a framework to readme
+		* prevent weird bitbucket username linking in readme
+		* auto-reauth and retry on api token expiration
+	
+	07-28-16
 		* 
 	

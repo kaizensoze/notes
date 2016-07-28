@@ -1,7 +1,4 @@
 
-guidepoint
-call house people
-
 call doctor again about sleep study
 
 start divorce process
