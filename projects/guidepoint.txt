@@ -1,6 +1,5 @@
 
 if there's a selected start time, scroll to that OR don't scroll if there's already a selected start time
-only show welcome view on first time
 
 projects view: newCount
 project advisors view
@@ -187,5 +186,8 @@ hours
 		* pull to refresh
 		* reset availability cell on refresh
 		* remove TODO
-		* 
+		* move user-related functions to separate file
+		* skip welcome screen on subsequent logins
+	
+	07-29-16
 	
