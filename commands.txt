@@ -2,6 +2,9 @@
 ack
   ack -i <pattern>
 
+apns
+  apn push "<79f083d0 7db6d40a f5d7ed4a 035b7392 022ef8ed 53d04b53 e998851b eddaea65>" -c ~/Downloads/dev.pem -m "Hello from the command line" -b 1 -s sosumi.aiff
+
 avconv
   avconv -i input.mkv -codec copy output.mp4
 
@@ -155,6 +158,7 @@ git
       fetch = +refs/heads/*:refs/remotes/upstream/*
       fetch = +refs/pull/*/head:refs/remotes/upstream/pr/*
   git merge and then git checkout --ours or --theirs before adding file(s) in conflict
+  git show master:Expert/CallsViewController.swift
 
 github
   curl -u kaizensoze:<token> https://api.github.com/rate_limit
