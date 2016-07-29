@@ -1,11 +1,4 @@
 
-test notifications on device
-push APPS-14-changes and list changes
-	simplify notifications
-	simplify ClientCallDetail view
-	consolidate ScheduledCalls
-	fix project team
-
 if there's a selected start time, scroll to that OR don't scroll if there's already a selected start time
 test mastor on device
 
@@ -198,5 +191,12 @@ hours
 		* skip welcome screen on subsequent logins
 	
 	07-29-16
-		* 
+		* clean up app delegate
+		* move customizeNavigationBarText to CustomUI
+		* simplify notifications
+		* simplify ClientCallDetail view
+		* consolidate ScheduledCalls
+		* fix project team
+	
+	
 	
