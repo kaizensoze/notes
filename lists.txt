@@ -1,4 +1,5 @@
 
+networking course
 try truffle oil
 call doctor again about sleep study
 start divorce process
@@ -17,7 +18,6 @@ tv
 
 movies
   Lights Out
-  The Secret Life of Pets
   Star Trek Beyond
   Mr Untouchable
   Client 9: The Rise and Fall of Eliot Spitzer
@@ -33,10 +33,6 @@ movies
   Suicide Squad (08/05)
   Sausage Party (08/11)
   Louis Theroux: My Scientology Movie (09/08)
-
-torrents
-  what.cd
-  waffles.fm
 
 interesting eleventh hope talks
   Security Options for High Risk Travelers
@@ -56,13 +52,11 @@ interesting defcon talks
   Project CITL
   Realtime Bluetooth Device Detection with Blue Hydra  
 
+torrents
+  what.cd
+  waffles.fm
+  
 overthewire
   http://natas11.natas.labs.overthewire.org/
   U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
   /etc/natas_webpass/natas11
-
-estimated tax deadlines
-  Q1 April 15, 2014
-  Q2 June 15, 2014
-  Q3 September 15, 2014
-  Q4 January 15, 2015
