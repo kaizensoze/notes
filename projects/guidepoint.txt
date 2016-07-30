@@ -1,6 +1,6 @@
 
 if there's a selected start time, scroll to that OR don't scroll if there's already a selected start time
-test mastor on device
+test master on device
 
 projects view: newCount
 project advisors view
