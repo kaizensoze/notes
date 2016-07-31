@@ -13,9 +13,9 @@ car rental claim (07/11)
 	finalize claim: https://www.eclaimsline.com/
 
 tv
-  Lucky Louie
   Last Week Tonight S03E19 (07/31)
   The Night Of S01E03 (07/31)
+  Lucky Louie
   Mr Robot S02E05 (08/04)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
@@ -34,7 +34,6 @@ movies
   Lo and Behold, Reveries of the Connected World
   The Look of Silence
   The Book of Mormon
-  Jason Bourne (07/29)
   Suicide Squad (08/05)
   Sausage Party (08/11)
   Louis Theroux: My Scientology Movie (09/08)
