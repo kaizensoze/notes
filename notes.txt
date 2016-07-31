@@ -1049,6 +1049,7 @@ conferences
 (08/01) blackhat
 (08/06) defcon
 (08/13) chaos communication camp (every 4 years)
+(09/21) derbycon
 (09/22) appsec
 (09/26) .conf
 (10/21) toorcon
