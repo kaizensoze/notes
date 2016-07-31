@@ -1,8 +1,6 @@
 
-howard stern interviews
 battle creek
 guidepoint
-
 reverse engineer apps
 networking course
 call doctor again about sleep study
@@ -14,6 +12,7 @@ car rental claim (07/11)
 	finalize claim: https://www.eclaimsline.com/
 
 tv
+  Lucky Louie
   Battle Creek S01E01
   Last Week Tonight S03E19 (07/31)
   The Night Of S01E03 (07/31)
