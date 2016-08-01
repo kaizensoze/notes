@@ -1,6 +1,6 @@
 
-if there's a selected start time, scroll to that OR don't scroll if there's already a selected start time
-test master on device
+check on api changes
+maybe not copy twiliosdk files into xcode project?
 
 projects view: newCount
 project advisors view
@@ -81,122 +81,29 @@ questions
 dial-in: 1-800-459-1584, code: 2694 510#
 
 hours
-	07-01-16
-		* clarify whether or not an advisor can skip actions
-		* unrestrict available action buttons to allow skipping statuses
-		* normalize view controller names
-		* fixes for calls, notifications views
-	
-	07-05-16
-		* allow unnamed val param for for ProjectAdvisorStatus
-		* change legacy CGPoint/CGRect stuff to swift struct
-		* consolidating some cleanup
-		* add availability object and parse advisor avail info
-		* show which days advisor is available
-		* progress on showing advisor available time
-	
-	07-06-16
-		* consolidate nsdateformatter stuff
-		* consolidate rendering day/time views
-		* separate force vars for day and time views
-		* clear day/time scroll views on re-render
-		* make time views relative to selected day view
-		* fix time of day segmented control
-		* fix scroll to nearest 15min from now for curr day
-	
-	07-07-16
-		* don't show advisor avail icon on every day/time view
-		* fix for availability.containsDate
-		* debug existing api endpoints to see if anything's been changed or added
-		* look into getting client availability for project via api
-	
-	07-08-16
-  	* some more api debugging
-		* ask about getting client availability (api endpoint not done yet but soon)
-		* create build for testing
-		* create write up on how to test app build on device using test api
-		* prevent text from getting cut off on detail view
-		* remove extra ) for some status date labels
-		* prevent duplicate drawing to status view on detail view
-	
-	07-11-16
-		* use ip address for test domain
-		* create build with hardcoded ip address to eliminate need for charles proxy if on internal network
-		* look into any rendering issues on advisor detail view
-		* debug print api endpoints based on api debug flag
-		* discuss with rich next steps while blocked on remaining api stuff as well as future coordination with shiny on ios stuff
-	
-	07-12-16
-		* help Shiny get project up and running on her machine
-		* update gitignore
-		* add shell script build phase
-		* update readme with description, setup, and contact info
-	
-	07-13-16
-		* clean up old git branches
-		* add app icons
-		* look into php api code for adding stuff to test api
-		* go through APPS-14-client-iphone-app-scheduled-call pull request
-	
-	07-14-16 [0.5]
-		* help Shiny with some things on APPS-14-client-iphone-app-scheduled-call PR
-		* look into PR changes
-	
-	07-15-16
-		* adjust constraints for advisor detail action bar
-		* add search to notification view
-		* searchbar adjustments
-		* fix for selecting search result
-		* extend search criteria
-		* add search to calls view
-		* numberOfRowsInSection search consolidation
-		* add proxy setup instructions to readme
-		* rename project topic to name
-	
-	07-18-16
-		* add filter to calls view
-		* adjust font of calls filter segmented control
-		* look into APPS-14 PR changes
-	
-	07-19-16
-		* finish/push APPS-14-changes that mainly changes multiple tableviews to a single table with two sections and two cell prototypes
-		* progress on call detail view for managers
-	
-	07-20-16
-		* call detail view [for manager]
-	
-	07-21-16
-		* start working on swift3 branch
-	
-	07-22-16
-		* go through latest APPS-14 changes
-		* look into getting rid of cocoapods and replacing with carthage generated Twilio iOS Client SDK .framework
-		* leave cocoapods in since twilio's sdk isn't carthage-compatible
-	
-	07-25-16
-		* progress on swift3 branch
+	08-01-16
+		* further test advisor detail view availability cell interactions with refresh
+		* expand availability cell by default
+		* simplify logic for shortcutting to availability cell on advisor detail view appear
+		* test master branch on device
 		
-	07-26-16 [0]
+	08-02-16 [0]
 	
-	07-27-16
-		* add note on adding a framework to readme
-		* prevent weird bitbucket username linking in readme
-		* auto-reauth and retry on api token expiration
+	08-03-16
+		* merge master into APPS-14
+		* normalize view controllers to just ViewController
+		* explicitly set top bar of advisor detail view
+		* create PR
+		
+	08-04-16
+		* start/stop notification timer on appear/disappear
+		* clear tab badge value on notification tab selected
+		* simplify increment of tab item badge value
+		* create build for client branch
+		* remove cocoapods and add TwilioSDK directly
+		* create PR
 	
-	07-28-16
-		* pull to refresh
-		* reset availability cell on refresh
-		* remove TODO
-		* move user-related functions to separate file
-		* skip welcome screen on subsequent logins
-	
-	07-29-16
-		* clean up app delegate
-		* move customizeNavigationBarText to CustomUI
-		* simplify notifications
-		* simplify ClientCallDetail view
-		* consolidate ScheduledCalls
-		* fix project team
+	08-05-16 [0]
 	
 	
 	

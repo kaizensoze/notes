@@ -4,6 +4,12 @@ definitions
 denouement (daNOOman): conclusion
 cachet (cashAY): the state of being respected/admired
 
+car rental claim (07/11)
+  filed claim via 1-800-847-2911 [DONE]
+  request demand letter
+  notarized statement saying I don't have personal automobile insurance on the date of the incident
+	finalize claim: https://www.eclaimsline.com/
+
 Gully Foyle is my name
 And Terra is my nation
 Deep space is my dwelling place
@@ -882,6 +888,23 @@ Future Crimes, Marc Goodman
 The Cutting Sword of Justice, supposedly a front for iran, erases 75% of Saudi Aramco's data
 gps blockers/spoofers
 Max Ray Vision (aka Iceman) from San Francisco stole competition's data and formed CardersMarket
+CloudCracker
+Zeus Builder: capture keystrokes, steal digital certificates ($5-7k)
+Bugat: spoof bank account transfer requests ($1k)
+SpyEye: all features of Zeus and more, antivirus module to detect competitor Zeus ($500)
+Blackshades: advanced RAT available on ongoing rental basis; capture keystrokes, steal passwords, launch DDOS, hijack facebook accounts, remotely turn on 
+             microphone/camera
+Darkcode crime forum
+security firms that sell exploits: Vupen (france), Netragard (massachusetts), Endgame (georgia), Exodus Intelligence (texas), ReVuln (malta)
+advanced persistent threat (APT) is the term for the more stealthy sophisticated attacks
+botnets: Mariposa, Conficker, Koobface, Gameover Zeus, ZeroAccess, Storm.bot 2.0
+ransomware: Gameover Zeus, Reveton Trojan, CryptoLocker
+cryptocurrency: Liberty Reserve, Bitcoin
+Metcalfe's law dictates that the value of a network increases exponentially with the number of nodes or computers attached
+Texas Auto Center's WebTeckPlus black box
+Francis Brown build $400 RFID device that can scan, copy, clone, and steal smart card data
+NFCProxy hacks NFC (near-field communications)
+crooks in New Jersey and San Francisco have hacked NFC turnstiles using app UltraReset, which auto-replenishes any fares deducted by train operators
 
 Quotes
 ====
@@ -1025,6 +1048,7 @@ The Unwinding, George Packer
 The Way of the Knife, Mark Mazzetti
 This Machine Kills Secrets, Andy Greenberg
 Voltaire's Bastards, John Ralston Saul
+Wired for War, P.W. Singer
 
 noteworthy movies
 ====
@@ -1047,7 +1071,7 @@ conferences
 (07/09) toorcamp
 (07/22) H.O.P.E
 (08/01) blackhat
-(08/06) defcon
+(08/04) defcon
 (08/13) chaos communication camp (every 4 years)
 (09/21) derbycon
 (09/22) appsec

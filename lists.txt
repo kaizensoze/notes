@@ -1,31 +1,23 @@
 
-24 starr st: pick up mail, drop off keys + card
-check out 1 Tennis Pl, Queens, NY 11375
-guidepoint
-tv shows
-
+fork ricochet
+go through things
+call doctor again about sleep study
 reverse engineer apps
 networking course
-call doctor again about sleep study
-start divorce process
-car rental claim (07/11)
-  filed claim via 1-800-847-2911 [DONE]
-  request demand letter
-  notarized statement saying I don't have personal automobile insurance on the date of the incident
-	finalize claim: https://www.eclaimsline.com/
 
 tv
-  The Night Of S01E03 (07/31)
-  Last Week Tonight S03E19 (07/31)
-  Lucky Louie
-  Mr Robot S02E05 (08/04)
+  Peaky Blinders
+  Lucky Louie S01E07
+  Last Week Tonight S03E20 (08/07)
+  The Night Of S01E05 (08/07)
+  Mr Robot S02E06 (08/11)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
 
 movies
   Star Trek Beyond
+  Arthur Christmas
   Tomorrow Night
-  Lights Out
   Mr Untouchable
   Client 9: The Rise and Fall of Eliot Spitzer
   Don't Think Twice
@@ -36,7 +28,6 @@ movies
   Lo and Behold, Reveries of the Connected World
   The Look of Silence
   The Book of Mormon
-  Suicide Squad (08/05)
   Sausage Party (08/11)
   Louis Theroux: My Scientology Movie (09/08)
 
@@ -57,6 +48,9 @@ interesting defcon talks
   Abusing Bleeding Edge Web Standards for AppSec Glory
   Project CITL
   Realtime Bluetooth Device Detection with Blue Hydra  
+
+projects
+  rottentomatoes for books
 
 torrents
   what.cd

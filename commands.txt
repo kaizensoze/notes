@@ -232,6 +232,7 @@ launchctl
 
 
 letsencrypt
+  ./certbot-auto renew
   ./letsencrypt-auto certonly -d brassafrax.com -d www.brassafrax.com -d alpha.brassafrax.com
 
 lsof

@@ -1,3 +1,5 @@
+Against All Enemies, Richard Clarke
+Algorithms to Live By, Brian Christian
 America, Jean Baudrillard
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
@@ -18,6 +20,7 @@ Confessions of an Economic Hit Man, John Perkins
 Conscious Capitalism, John Mackey
 Contact, Carl Sagan
 Cosmos, Carl Sagan
+Cyber War, Richard Clarke
 Dark Money, Jane Mayer
 Dark Territory: The Secret History of Cyber War, Fred Kaplan
 De humani corporis fabrica, Andreas Vesalius
@@ -33,18 +36,22 @@ Fermat's Enigma, Simon Singh
 Future Crimes, Marc Goodman
 Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
+Get in the Van, Henry Rollins
+Girl in a Band, Kim Gordon
 Green River Killer, Jeff Jensen
 Hacking: The Art of Exploitation, Jon Erickson
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
 Hunger, Knut Hamsun
+Hunger Makes Me a Modern Girl, Carrie Brownstein
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
 Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
 Kill Chain, Andrew Cockburn
 Kissinger: A Biography, Walter Isaacson
+Leviathan Wakes, James Corey
 Lolita, Vladimir Nabokov
 Long Walk to Freedom, Nelson Mandela, page: 24
 Look Who's Back, Timur Vermes
@@ -52,13 +59,17 @@ Man Called Intrepid, William Stevenson
 Men are from mars, women are from venus, Joe Peacock
 Missing Microbes, Martin Blaser
 Moby Dick, Herman Melville
+Moral Tribes, Joshua Greene
 Nations on the Take, Wendell Potter
 Notes From Underground, Fyodor Dostoyevsky
+Notorious RBG, Irin Carmon
 Odyssey, Homer
 On Killing, Dave Grossman
+Our Band Could Be Your Life, Michael Azerrad
 Perdido Street Station, China Mieville
 Plague Dogs, Richard Adams
 Player Piano, Kurt Vonnegut
+Please Kill Me, Legs McNeil
 Reamde, Neal Stephenson
 Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
@@ -76,6 +87,7 @@ Spy the Lie, Philip Houston
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
+Team of Rivals, Doris Kearns Goodwin
 Tesla: Inventor of the Electrical Age, W. Bernard Carlson
 The Alienist, Caleb Carr
 The Better Angels of Our Nature, Steven Pinker
@@ -98,6 +110,7 @@ The Illustrations from the Works of Andreas Vesalius of Brussels
 The Intelligent Investor, Benjamin Graham
 The Laws of Medicine, Siddhartha Mukherjee
 The Madmen of Benghazi, Gérard de Villiers
+The Magicians, Lev Grossman
 The Making of a Radical, Scott Nearing
 The Man Who Mistook His Wife For A Hat, Oliver Sacks
 The Master Switch: The Rise and Fall of Information Empires, Tim Wu
@@ -135,6 +148,7 @@ What If?, Randall Munroe
 When Breath Becomes Air, Paul Kalanithi
 When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
+Work Rules!, Laszlo Bock
 World Order, Henry Kissinger
 *, Jonathan Franzen
 *, Joe Hill

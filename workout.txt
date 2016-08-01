@@ -4,7 +4,7 @@
   pushups: 60
 
 2016-07-25
-  pullups: 16 IUH, 16 IUH (IUH = inside underhand)
+  pullups: 2x16 IUH (IUH = inside underhand)
 
 2016-07-26
   planks: 02:30
@@ -13,4 +13,12 @@
 2016-07-28
   planks: 02:45
   pushups: 70
-  
+
+2016-07-31
+  pushups: 68 (X)
+  planks: 02:00 (X)
+  pullups: 
+
+2016-08-02:
+  pushups: 70
+  planks: 02:00 (X) (need to do planks before pullups)
