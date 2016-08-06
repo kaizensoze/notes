@@ -905,6 +905,11 @@ Texas Auto Center's WebTeckPlus black box
 Francis Brown build $400 RFID device that can scan, copy, clone, and steal smart card data
 NFCProxy hacks NFC (near-field communications)
 crooks in New Jersey and San Francisco have hacked NFC turnstiles using app UltraReset, which auto-replenishes any fares deducted by train operators
+Cassidy Wolf sent sextortion email by old high school classmate who used Blackshades
+Foscam incompetent babycam firmware
+microchips in car form the controller area network (CAN)
+CAN hacking tool: $30 device which, when plugged into car's onboard computer network, allows attacker to remotely seize control of vehicle's lights, locks, and steering brake systems
+
 
 Quotes
 ====
