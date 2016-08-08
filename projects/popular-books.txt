@@ -1,0 +1,2 @@
+list all amazon books with at least 1000 reviews and 2 stars
+http://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html

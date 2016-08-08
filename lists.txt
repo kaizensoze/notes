@@ -1,15 +1,15 @@
 
 call doctor again about sleep study
 dermatologist: get moles checked out
+kentucky route zero
 come up with idea for product
 fork ricochet
 reverse engineer apps
 networking course
-kentucky route zero
 
 tv
-  Peaky Blinders S01E01
-  Lucky Louie S01E07
+  Peaky Blinders S01E03
+  Lucky Louie S01E08
   Mr Robot S02E06 (08/11)
   Last Week Tonight S03E21 (08/14)
   The Night Of S01E06 (08/14)
@@ -18,6 +18,7 @@ tv
   Goliath (10/14)
 
 movies
+  Nerve
   Star Trek Beyond
   Arthur Christmas
   Tomorrow Night
@@ -34,6 +35,15 @@ movies
   The Book of Mormon
   Sausage Party (08/11)
   Louis Theroux: My Scientology Movie (09/08)
+
+projects
+  popular books
+  chip's challenge
+
+24 hour long island places
+  king kullen (231 w merrick rd) [weekdays only]
+  king kullen (127 sunrise hwy) [weekdays only]
+  desi food (351 North Central Avenue)
 
 interesting eleventh hope talks
   Security Options for High Risk Travelers
@@ -52,15 +62,6 @@ interesting defcon talks
   Abusing Bleeding Edge Web Standards for AppSec Glory
   Project CITL
   Realtime Bluetooth Device Detection with Blue Hydra  
-
-24 hour long island places
-  desi food (351 North Central Avenue)
-  king kullen (231 w merrick rd) [weekdays only]
-  king kullen (127 sunrise hwy) [weekdays only]
-
-projects
-  chip's challenge
-  rottentomatoes for books
 
 torrents
   what.cd

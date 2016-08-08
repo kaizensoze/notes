@@ -1,8 +1,4 @@
 
-get carthage build working with older checkout
-
-
-check on api changes
 maybe not copy twiliosdk files into xcode project?
 
 projects view: newCount
@@ -110,7 +106,7 @@ hours
 	
 	08-08-16
 		* update swift3 branch
-		
-	
-	
+		* use locksmith swift3 branch
+		* update carthage dependencies
+		* look into remaining api stuff needed for app
 	

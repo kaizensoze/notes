@@ -1,4 +1,17 @@
 
+malware (advanced)
+====
+  NSA
+    Stuxnet
+    Flame
+    Duqu
+    Regin
+  ???
+    ProjectSauron
+  Equation Group
+    EquationDrug
+    Grayfish
+
 chase balance minimum
 ====
 personal savings: 15,000

@@ -1,0 +1,7 @@
+holes can be smaller than wavelength of what you're looking to keep out
+wifi is radio waves
+wifi wavelength is between radio waves and microwaves (microwaves < wifi waves < radio waves)
+wifi wavelength: 3-5 inches
+[mesh of] conductive material
+  copper mesh
+  aluminum sheets
