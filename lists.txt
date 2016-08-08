@@ -1,36 +1,28 @@
 
-short stories
-kentucky route zero
-
 call doctor again about sleep study
-schedule colonoscopy
 dermatologist: get moles checked out
 come up with idea for product
 fork ricochet
 reverse engineer apps
 networking course
-
-short stories
-  The Veldt
-  The Ugly Barnacle
-  The Yellow Wallpaper
-  The Cask of Amontillado
-  An Occurrence at Owl Creek Bridge
+kentucky route zero
 
 tv
-  Peaky Blinders
+  Peaky Blinders S01E01
   Lucky Louie S01E07
-  Last Week Tonight S03E20 (08/07)
-  The Night Of S01E05 (08/07)
   Mr Robot S02E06 (08/11)
+  Last Week Tonight S03E21 (08/14)
+  The Night Of S01E06 (08/14)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
+  Goliath (10/14)
 
 movies
   Star Trek Beyond
   Arthur Christmas
   Tomorrow Night
   Mr Untouchable
+  Suicide Squad
   Client 9: The Rise and Fall of Eliot Spitzer
   Don't Think Twice
   Eat That Question: Frank Zappa in His Own Words
@@ -67,6 +59,7 @@ interesting defcon talks
   king kullen (127 sunrise hwy) [weekdays only]
 
 projects
+  chip's challenge
   rottentomatoes for books
 
 torrents

@@ -433,6 +433,7 @@ wireshark
 
 xcode
   po thing.recursiveDescription
+  xcode-select -p # get path of xcode cli
 
 xcrun
   xcrun simctl list # simulator
