@@ -1,4 +1,9 @@
 
+chase balance minimum
+====
+personal savings: 15,000
+business checking: 1,500
+
 definitions
 ====
 denouement (daNOOman): conclusion

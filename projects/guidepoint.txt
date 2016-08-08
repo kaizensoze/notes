@@ -1,4 +1,7 @@
 
+get carthage build working with older checkout
+
+
 check on api changes
 maybe not copy twiliosdk files into xcode project?
 
@@ -104,6 +107,10 @@ hours
 		* create PR
 	
 	08-05-16 [0]
+	
+	08-08-16
+		* update swift3 branch
+		
 	
 	
 	
