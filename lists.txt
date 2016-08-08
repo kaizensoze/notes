@@ -1,18 +1,17 @@
 
-vice cyberwar
-what we do in the shadows
-read
+short stories
+kentucky route zero
 
-fork ricochet
-go through things
 call doctor again about sleep study
+schedule colonoscopy
+dermatologist: get moles checked out
+come up with idea for product
+fork ricochet
 reverse engineer apps
 networking course
 
 short stories
   The Veldt
-  The Lottery
-  The Star
   The Ugly Barnacle
   The Yellow Wallpaper
   The Cask of Amontillado
@@ -61,6 +60,11 @@ interesting defcon talks
   Abusing Bleeding Edge Web Standards for AppSec Glory
   Project CITL
   Realtime Bluetooth Device Detection with Blue Hydra  
+
+24 hour long island places
+  desi food (351 North Central Avenue)
+  king kullen (231 w merrick rd) [weekdays only]
+  king kullen (127 sunrise hwy) [weekdays only]
 
 projects
   rottentomatoes for books

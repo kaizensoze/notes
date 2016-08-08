@@ -894,6 +894,7 @@ Bugat: spoof bank account transfer requests ($1k)
 SpyEye: all features of Zeus and more, antivirus module to detect competitor Zeus ($500)
 Blackshades: advanced RAT available on ongoing rental basis; capture keystrokes, steal passwords, launch DDOS, hijack facebook accounts, remotely turn on 
              microphone/camera
+also: ExtremeRAT, DarkComet
 Darkcode crime forum
 security firms that sell exploits: Vupen (france), Netragard (massachusetts), Endgame (georgia), Exodus Intelligence (texas), ReVuln (malta)
 advanced persistent threat (APT) is the term for the more stealthy sophisticated attacks
