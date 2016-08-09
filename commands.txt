@@ -204,6 +204,10 @@ heroku
   heroku run rake db:migrate -a nooklyn-dev-pr-1075
   git push heroku master && heroku run rake db:migrate && heroku restart
 
+httpie
+  http httpie.org
+  http httpie.org --style autumn (other decent options: native, solarized)
+
 imagemagick
   identify -verbose [image]
   exiftool -all= [image]

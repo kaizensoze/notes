@@ -1,7 +1,4 @@
 
-$(PROJECT_DIR)/Carthage/Build/iOS
-
-lookup chicory
 popular books project
 star trek
 chip's challenge
