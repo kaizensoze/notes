@@ -110,3 +110,7 @@ hours
 		* update carthage dependencies
 		* look into remaining api stuff needed for app
 	
+	08-09-16 [0]
+	
+	08-10-16
+	

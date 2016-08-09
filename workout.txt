@@ -22,3 +22,7 @@
 2016-08-02:
   pushups: 70
   planks: 02:00 (X) (need to do planks before pullups)
+  
+2016-08-09:
+  planks: 02:45
+  pushups: 50 (X)
