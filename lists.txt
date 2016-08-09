@@ -1,6 +1,9 @@
 
-star trek
+$(PROJECT_DIR)/Carthage/Build/iOS
+
+lookup chicory
 popular books project
+star trek
 chip's challenge
 
 call doctor again about sleep study

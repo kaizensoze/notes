@@ -110,7 +110,10 @@ hours
 		* update carthage dependencies
 		* look into remaining api stuff needed for app
 	
-	08-09-16 [0]
+	08-09-16 [0.5]
+		* add TwilioSDK to project search paths
+		* remove unnecessary TwilioSDK files
+		* look into git log for APPS-14-client-iphone-app-scheduled-call and possibly rebasing it
 	
 	08-10-16
 	
