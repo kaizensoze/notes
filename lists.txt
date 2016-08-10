@@ -24,7 +24,6 @@ movies
   Arthur Christmas
   Tomorrow Night
   Mr Untouchable
-  Suicide Squad
   Client 9: The Rise and Fall of Eliot Spitzer
   Don't Think Twice
   Eat That Question: Frank Zappa in His Own Words
