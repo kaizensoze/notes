@@ -1,2 +1,46 @@
 list all amazon books with at least 1000 reviews and 2 stars
 http://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html
+
+http "http://webservices.amazon.com/onca/xml? \
+Service=AWSECommerceService \
+&AWSAccessKeyId=AKIAJUOA7KFL2KEIBYTQ \
+&Operation=ItemSearch \
+&Keywords=the%20hunger%20games \
+&SearchIndex=Books \
+&Timestamp=2016-08-09T22%3A17%3A00Z \
+&Signature="
+
+examples
+====
+http://webservices.amazon.com/onca/xml?
+Service=AWSECommerceService&
+AWSAccessKeyId=AKIAJUOA7KFL2KEIBYTQ&
+AssociateTag=[Associate ID]&
+Operation=ItemSearch&
+Keywords=the%20hunger%20games&
+SearchIndex=Books
+&Timestamp=[YYYY-MM-DDThh:mm:ssZ]
+&Signature=[Request Signature]
+
+http://webservices.amazon.com/onca/xml?
+Service=AWSECommerceService&
+AWSAccessKeyId=[AWS Access Key ID]&
+AssociateTag=[Associate ID]&  
+Operation=ItemSearch&
+Brand=Lacoste&
+Availability=Available&
+SearchIndex=FashionWomen&
+Keywords=shirts
+&Timestamp=[YYYY-MM-DDThh:mm:ssZ]
+&Signature=[Request Signature]
+
+http://webservices.amazon.com/onca/xml?
+Service=AWSECommerceService&
+AWSAccessKeyId=[AWS Access Key ID]&
+AssociateTag=[Associate ID]&  
+Operation=ItemSearch&
+Keywords=Mustang&
+SearchIndex=Blended&
+Condition=Collectible
+&Timestamp=[YYYY-MM-DDThh:mm:ssZ]
+&Signature=[Request Signature]
