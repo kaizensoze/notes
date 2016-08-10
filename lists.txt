@@ -1,5 +1,4 @@
 
-star trek
 popular books project
 chip's challenge
 
@@ -22,7 +21,6 @@ tv
 
 movies
   Nerve
-  Star Trek Beyond
   Arthur Christmas
   Tomorrow Night
   Mr Untouchable

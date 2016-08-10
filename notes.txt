@@ -1,4 +1,13 @@
 
+CRISPR (https://www.youtube.com/watch?v=jAhjPd4uNFY&feature=youtu.be)
+====
+bacteriophages (phages), which are a virus, hunt and kill bacteria by inserting their own genetic code into the bacteria and taking them over
+the bacteria try to resist but fail most of the time
+sometimes bacteria survive the phages and save a part of the virus dna in their own genetic code in a DNA archive called CRISPR
+when the virus attacks again, the bacteria quickly makes an RNA copy from CRISPR and arms protein CAS9
+if the bacteria finds a match against the dna of the attacking virus, the DNA from CAS9 is activated and cuts out the virus DNA, protecting it from virus attack
+scientists figured out the CRISPR system is programmable
+
 malware (advanced)
 ====
   NSA
