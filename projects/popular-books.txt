@@ -1,5 +1,6 @@
 list all amazon books with at least 1000 reviews and 2 stars
 http://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html
+http://webservices.amazon.com/scratchpad/index.html
 
 http "http://webservices.amazon.com/onca/xml? \
 Service=AWSECommerceService \
@@ -44,3 +45,10 @@ SearchIndex=Blended&
 Condition=Collectible
 &Timestamp=[YYYY-MM-DDThh:mm:ssZ]
 &Signature=[Request Signature]
+
+credentials
+{
+  "aws_access_key_id": "AKIAJUOA7KFL2KEIBYTQ",
+  "aws_secret_access_key": "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",
+  "associate_id": "popbooks08-20"
+}
