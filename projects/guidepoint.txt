@@ -116,4 +116,8 @@ hours
 		* look into git log for APPS-14-client-iphone-app-scheduled-call and possibly rebasing it
 	
 	08-10-16
+		* look into api code
+		
+	08-11-16
+		
 	

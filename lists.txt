@@ -1,7 +1,4 @@
 
-popular books project
-chip's challenge
-
 call doctor again about sleep study
 call capital one about getting car insurance before the claim is resolved
 dermatologist: get moles checked out
@@ -33,7 +30,7 @@ movies
   Lo and Behold, Reveries of the Connected World
   The Look of Silence
   The Book of Mormon
-  Sausage Party (08/11)
+  Sausage Party
   Louis Theroux: My Scientology Movie (09/08)
 
 projects
