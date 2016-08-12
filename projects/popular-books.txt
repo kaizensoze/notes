@@ -10,7 +10,6 @@ https://docs.python.org/3.5/library/xml.etree.elementtree.html#module-xml.etree.
 Service=AWSECommerceService
 &Operation=ItemSearch
 &SearchIndex=Books
-&Sort=review-count-rank|reviewrank|review-rank|salesrank|-unit-sales
 
 ItemSearchResponse
   Items

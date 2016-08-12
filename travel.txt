@@ -1,4 +1,27 @@
 
+house -> Quebec City (9 hours)
+Quebec City -> Montreal (3 hours)
+Montreal -> Ottawa (2 hours)
+Ottawa -> house (7.5 hours)
+
+21.5 hours in car
+144
+
+day (where to spend the night)
+
+Thurs 08/18 (Vermont|QC)
+
+Fri 08/19 (QC)
+
+Sat 08/20 (Montreal)
+
+Sun 08/21 (Montreal)
+
+Mon 08/22 (Montreal|Ottawa)
+
+Tue 08/23 (Ot)
+
+
 EXTRAS
   Montreal
   Quebec City
