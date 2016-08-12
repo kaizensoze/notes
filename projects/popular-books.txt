@@ -4,6 +4,11 @@ https://docs.python.org/3/library/urllib.parse.html#module-urllib.parse
 http://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html
 http://webservices.amazon.com/scratchpad/index.html
 
+Service=AWSECommerceService
+&Operation=ItemSearch
+&SearchIndex=Books
+&Sort=review-count-rank|review-rank
+
 credentials
 {
   "aws_access_key_id": "AKIAJUOA7KFL2KEIBYTQ",
