@@ -1,4 +1,14 @@
 
+ways to exfiltrate data from airgapped computers
+====
+radio frequencies (AirHopper) [https://www.helpnetsecurity.com/2014/11/04/extracting-data-from-air-gapped-computers-via-mobile-phones/]
+heat (BitWhisper) [https://www.helpnetsecurity.com/2015/03/24/hack-air-gapped-computers-using-heat/]
+cellular frequencies (GSMem) [https://www.usenix.org/node/190937]
+fan speed (Fansmitter) [https://www.helpnetsecurity.com/2016/06/24/air-gapped-computers-fan-speed/]
+hard drive noise (DiskFiltration) [https://arxiv.org/abs/1608.03431]
+
+all by Mordechai Guri, Ph.D. at Ben-Gurion University of the Negev (BGU)
+
 CRISPR (https://www.youtube.com/watch?v=jAhjPd4uNFY&feature=youtu.be)
 ====
 bacteriophages (phages), which are a virus, hunt and kill bacteria by inserting their own genetic code into the bacteria and taking them over

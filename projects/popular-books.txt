@@ -1,13 +1,14 @@
 list all amazon books with at least 1000 reviews and 2 stars
 https://docs.python.org/3/py-modindex.html
 https://docs.python.org/3/library/urllib.parse.html#module-urllib.parse
+http://docs.aws.amazon.com/AWSECommerceService/latest/DG/APPNDX_SortValuesArticle.html#_titlerank
 http://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html
 http://webservices.amazon.com/scratchpad/index.html
 
 Service=AWSECommerceService
 &Operation=ItemSearch
 &SearchIndex=Books
-&Sort=review-count-rank|review-rank
+&Sort=review-count-rank|reviewrank|review-rank|salesrank|-unit-sales
 
 credentials
 {
