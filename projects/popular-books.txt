@@ -4,6 +4,8 @@ https://docs.python.org/3/library/urllib.parse.html#module-urllib.parse
 http://docs.aws.amazon.com/AWSECommerceService/latest/DG/APPNDX_SortValuesArticle.html#_titlerank
 http://docs.aws.amazon.com/AWSECommerceService/latest/DG/ItemSearch.html
 http://webservices.amazon.com/scratchpad/index.html
+http://stackoverflow.com/questions/18308529/python-requests-package-handling-xml-response
+https://docs.python.org/3.5/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
 
 Service=AWSECommerceService
 &Operation=ItemSearch

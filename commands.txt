@@ -442,6 +442,9 @@ xcode
 xcrun
   xcrun simctl list # simulator
 
+xmllint
+  xmllint --format out.xml
+
 zsh
   print -l ${(ok)functions}  # list functions
 
