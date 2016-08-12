@@ -9,6 +9,8 @@ hard drive noise (DiskFiltration) [https://arxiv.org/abs/1608.03431]
 
 all by Mordechai Guri, Ph.D. at Ben-Gurion University of the Negev (BGU)
 
+bonus pita: http://www.biztekmojo.com/00844/device-hidden-pita-bread-can-be-used-hack-nearby-laptops
+
 CRISPR (https://www.youtube.com/watch?v=jAhjPd4uNFY&feature=youtu.be)
 ====
 bacteriophages (phages), which are a virus, hunt and kill bacteria by inserting their own genetic code into the bacteria and taking them over

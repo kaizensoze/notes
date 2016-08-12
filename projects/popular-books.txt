@@ -12,6 +12,13 @@ Service=AWSECommerceService
 &SearchIndex=Books
 &Sort=review-count-rank|reviewrank|review-rank|salesrank|-unit-sales
 
+ItemSearchResponse
+  Items
+    Item
+      ItemAttributes
+        Author
+        Title
+
 credentials
 {
   "aws_access_key_id": "AKIAIICWHHC67LWONPQQ",
