@@ -5,6 +5,9 @@ Angela's Ashes, Frank McCourt
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
+A Tale of Two Cities, Charles Dickens
+A Thousand Splendid Suns, Khaled Hosseini
+A Tree Grows in Brooklyn, Betty Smith
 Basic Economics, Thomas Sowell, page: 38
 Being Mortal: Medicine and What Matters in the End, Atul Gawande
 Benjamin Franklin: An American Life, Walter Isaacson
@@ -27,6 +30,7 @@ Cyber War, Richard Clarke
 Daring Greatly, Brené Brown
 Dark Money, Jane Mayer
 Dark Territory: The Secret History of Cyber War, Fred Kaplan
+David Copperfield, Charles Dickens
 De humani corporis fabrica, Andreas Vesalius
 Discworld, Terry Pratchett
 Don Quixote, Miguel de Cervantes
@@ -42,6 +46,7 @@ Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Get in the Van, Henry Rollins
 Girl in a Band, Kim Gordon
+Great Expectations, Charles Dickens
 Green River Killer, Jeff Jensen
 Hacking: The Art of Exploitation, Jon Erickson
 His Dark Materials Trilogy, Philip Pullman
@@ -69,6 +74,7 @@ Notes From Underground, Fyodor Dostoyevsky
 Notorious RBG, Irin Carmon
 Odyssey, Homer
 Of Human Bondage, W. Somerset Maugham
+Oliver Twist, Charles Dickens
 On Killing, Dave Grossman
 Our Band Could Be Your Life, Michael Azerrad
 Perdido Street Station, China Mieville
@@ -117,6 +123,7 @@ The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
 The Girl Next Door, Jack Ketchum
 The Girl on the Train, Paula Hawkins
+The Good Earth, Pearl S. Buck
 The Good Soldiers, David Finkel
 The Illustrations from the Works of Andreas Vesalius of Brussels
 The Immortal Life of Henrietta Lacks, Rebecca Skloot
