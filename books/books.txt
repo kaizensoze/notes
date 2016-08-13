@@ -1,11 +1,14 @@
 Against All Enemies, Richard Clarke
 Algorithms to Live By, Brian Christian
 America, Jean Baudrillard
+Angela's Ashes, Frank McCourt
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
 Basic Economics, Thomas Sowell, page: 38
+Being Mortal: Medicine and What Matters in the End, Atul Gawande
 Benjamin Franklin: An American Life, Walter Isaacson
+Black Flags: The Rise of ISIS, Joby Warrick
 Bleeding Edge, Thomas Pynchon
 Body of Secrets, James Bamford
 Book of the New Sun, Gene Wolfe
@@ -21,6 +24,7 @@ Conscious Capitalism, John Mackey
 Contact, Carl Sagan
 Cosmos, Carl Sagan
 Cyber War, Richard Clarke
+Daring Greatly, Brené Brown
 Dark Money, Jane Mayer
 Dark Territory: The Secret History of Cyber War, Fred Kaplan
 De humani corporis fabrica, Andreas Vesalius
@@ -64,12 +68,14 @@ Nations on the Take, Wendell Potter
 Notes From Underground, Fyodor Dostoyevsky
 Notorious RBG, Irin Carmon
 Odyssey, Homer
+Of Human Bondage, W. Somerset Maugham
 On Killing, Dave Grossman
 Our Band Could Be Your Life, Michael Azerrad
 Perdido Street Station, China Mieville
 Plague Dogs, Richard Adams
 Player Piano, Kurt Vonnegut
 Please Kill Me, Legs McNeil
+Portnoy's Complaint, Philip Roth
 Reamde, Neal Stephenson
 Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
@@ -90,26 +96,33 @@ Swan song, Robert McCammon
 Team of Rivals, Doris Kearns Goodwin
 Tesla: Inventor of the Electrical Age, W. Bernard Carlson
 The Alienist, Caleb Carr
+The Amazing Adventures of Kavalier & Clay, Michael Chabon
 The Better Angels of Our Nature, Steven Pinker
 The Bonfire of the Vanities, Tom Wolfe
 The Book, Alan Watts
+The Book Thief, Markus Zusak
 The Brothers Karamazov, Fyodor Dostoevsky
 The Cartel: A novel, Don Winslow
 The City of Tomorrow, Carlo Ratti
 The Corpse Reader, Antonio Garrido
+The Corrections, Jonathan Franzen
 The Count of Monte Cristo, Alexandre Dumas
 The Dark Tower, Stephen King
 The Electric Kool-Aid Acid Test, Tom Wolfe
 The Emperor's New Mind, Roger Penrose
 The End of Power, Moises Naim
+The Fault in Our Stars, John Green
 The Forever War, Joe Haldeman
 The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
 The Girl Next Door, Jack Ketchum
+The Girl on the Train, Paula Hawkins
 The Good Soldiers, David Finkel
 The Illustrations from the Works of Andreas Vesalius of Brussels
+The Immortal Life of Henrietta Lacks, Rebecca Skloot
 The Intelligent Investor, Benjamin Graham
 The Laws of Medicine, Siddhartha Mukherjee
+The Looming Tower, Lawrence Wright
 The Madmen of Benghazi, Gérard de Villiers
 The Magicians, Lev Grossman
 The Making of a Radical, Scott Nearing
@@ -127,10 +140,12 @@ The Power of your Subconscious Mind
 The Promise of a Pencil, Adam Braun
 The Puzzle Palace, James Bamford
 The Restaurant at the End of the Universe, Douglas Adams
+The Right Stuff, Tom Wolfe
 The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Savior Generals, Victor Davis Hanson
 The Scar, China Mieville
 The Scented Ape, David Michael Stoddart
+The Secret History, Donna Tartt
 The Secret Sentry, Matthew M. Aid
 The Society of Mind, Marvin Minsky
 The Sovereign Individual, James Dale Davidson
@@ -143,6 +158,7 @@ This Will Change Everything, John Brockman
 Tribe: On Homecoming and Belonging
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
+Valley of the Dolls, Jacqueline Susann
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 What If?, Randall Munroe
