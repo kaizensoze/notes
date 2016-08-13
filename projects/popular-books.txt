@@ -7,17 +7,6 @@ http://webservices.amazon.com/scratchpad/index.html
 http://stackoverflow.com/questions/18308529/python-requests-package-handling-xml-response
 https://docs.python.org/3.5/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
 
-Service=AWSECommerceService
-&Operation=ItemSearch
-&SearchIndex=Books
-
-ItemSearchResponse
-  Items
-    Item
-      ItemAttributes
-        Author
-        Title
-
 credentials
 {
   "aws_access_key_id": "AKIAIICWHHC67LWONPQQ",
