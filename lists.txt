@@ -1,8 +1,10 @@
 
 movie
 shower
-rottentomatoes-for-books
+future crimes
 local-food-search
+food shopping
+rottentomatoes-for-books
 node-github:swagger documentation
 chip's challenge
 
@@ -24,6 +26,16 @@ tv
 
 movies
   The Mind of Mark DeFriest
+  Ned Rifle
+  Funny Ha Ha
+  Passenger Side
+  Bellflower
+  Jeff Who Lives at Home
+  Appropriate Behavior
+  Wendy and Lucy
+  Half Nelson
+  Me and You and Everyone we Know
+  Frances Ha
   Dope
   In Bruges
   The Cook, the Thief, His Wife & Her Lover
