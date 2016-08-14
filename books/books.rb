@@ -5,13 +5,12 @@ require 'open-uri'
 require 'uri'
 
 output_file = File.open("#{Dir.home}/Dropbox/documents/txt/books/books.csv", "w")
-output_file.puts ['title', 'author', '# pages'].join(', ')
+output_file.puts ['title', 'author', 'num_pages', 'num_ratings', 'rating'].join(', ')
 
 File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
   file.each_line do |line|
     search_term = line.strip
-    next if search_term.empty?
-    break if search_term == "DONE"
+    break if search_term == "DONE" || search_term.empty?
 
     puts search_term
 
@@ -40,9 +39,10 @@ File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
       title = book_page.css('h1.bookTitle').text.strip.gsub(/\s\s+/, ' ').tr(',', '')
       author = book_page.css('a.authorName')[0].css('span').text.strip
       num_pages = book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)[1].tr(',', '') if book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)
+      num_ratings = book_page.css('span[itemprop="ratingCount"]').text.match(/(.*)? [Rr]ating./)[1].tr(',', '')
+      rating = book_page.css('span[itemprop="ratingValue"]').text
 
-      # title, author, # pages
-      output_file.puts [title, author, num_pages].join(', ')
+      output_file.puts [title, author, num_pages, num_ratings, rating].join(', ')
     end
   end
 end

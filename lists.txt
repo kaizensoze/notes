@@ -1,5 +1,11 @@
 
-schedule uhaul for monday (garden city park)
+refine book script if necessary
+movie
+shower
+rottentomatoes-for-books
+local-food-search
+node-github:swagger documentation
+chip's challenge
 
 call doctor again about sleep study
 call capital one about getting car insurance before the claim is resolved
@@ -19,6 +25,11 @@ tv
 
 movies
   The Mind of Mark DeFriest
+  Dope
+  In Bruges
+  The Cook, the Thief, His Wife & Her Lover
+  Election
+  Black Dynamite
   Nerve
   Arthur Christmas
   Tomorrow Night

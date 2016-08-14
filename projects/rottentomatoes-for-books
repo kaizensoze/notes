@@ -4,3 +4,7 @@ you can sort on year or rating
 for an author it'd be:
 
 title publication_year rating num_reviews
+
+compare rating, num_reviews between goodreads and amazon
+https://www.goodreads.com/search?q=mary+roach
+https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&field-keywords=mary+roach

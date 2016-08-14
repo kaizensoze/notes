@@ -74,6 +74,7 @@ Missing Microbes, Martin Blaser
 Moby Dick, Herman Melville
 Moral Tribes, Joshua Greene
 Nations on the Take, Wendell Potter
+NOS4A2, Joe Hill
 Notes From Underground, Fyodor Dostoyevsky
 Notorious RBG, Irin Carmon
 Odyssey, Homer
@@ -178,8 +179,6 @@ When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 Work Rules!, Laszlo Bock
 World Order, Henry Kissinger
-*, Jonathan Franzen
-*, Joe Hill
 
 DONE
 What the Doormouse Said, John Markoff
