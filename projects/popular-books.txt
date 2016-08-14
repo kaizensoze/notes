@@ -9,7 +9,9 @@ https://docs.python.org/3.5/library/xml.etree.elementtree.html#module-xml.etree.
 
 credentials
 {
-  "aws_access_key_id": "AKIAIICWHHC67LWONPQQ",
-  "aws_secret_access_key": "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",
-  "associate_id": "popbooks08-20"
+  aws_access_key_id: AKIAIICWHHC67LWONPQQ
+  aws_secret_access_key: 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
+  associate_id: popbooks08-20
+  good_reads_key: xMZgxGDL9lbbP9ZkosMSDQ
+  good_reads_secret: hFpRaxuhlTjxBemOfIiZkhPSXs65uUbHHLODXlJie0
 }
