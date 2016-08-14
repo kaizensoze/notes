@@ -1,12 +1,18 @@
 
 movie
-shower
-future crimes
 local-food-search
 food shopping
+  best market (around corner)
+  key food (151 Covert Ave, Floral Park, NY 11001) [8PM]
+  met food (700 Woodfield Rd, West Hempstead, NY 11552) [8PM]
 rottentomatoes-for-books
 node-github:swagger documentation
 chip's challenge
+
+stop by new house to get keys
+work, call
+drive car to house
+uber to pick up uhaul, drive to house to load van, drop off stuff in new house, return uhaul
 
 call doctor again about sleep study
 call capital one about getting car insurance before the claim is resolved
@@ -16,9 +22,10 @@ fork ricochet
 networking course
 
 tv
-  Peaky Blinders S01E03
   Last Week Tonight S03E21 (08/14)
   The Night Of S01E06 (08/14)
+  John Adams
+  Peaky Blinders S01E03
   Mr Robot S02E07 (08/18)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
