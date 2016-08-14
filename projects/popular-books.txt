@@ -15,3 +15,5 @@ credentials
   good_reads_key: xMZgxGDL9lbbP9ZkosMSDQ
   good_reads_secret: hFpRaxuhlTjxBemOfIiZkhPSXs65uUbHHLODXlJie0
 }
+
+http "https://www.goodreads.com/search.xml?key=xMZgxGDL9lbbP9ZkosMSDQ&q=Ender%27s+Game"

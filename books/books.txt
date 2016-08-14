@@ -5,6 +5,7 @@ Angela's Ashes, Frank McCourt
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
+A Man Called Ove, Fredrik Backman
 A Tale of Two Cities, Charles Dickens
 A Thousand Splendid Suns, Khaled Hosseini
 A Tree Grows in Brooklyn, Betty Smith
@@ -49,6 +50,7 @@ Get in the Van, Henry Rollins
 Girl in a Band, Kim Gordon
 Great Expectations, Charles Dickens
 Green River Killer, Jeff Jensen
+Grunt, Mary Roach
 Hacking: The Art of Exploitation, Jon Erickson
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
