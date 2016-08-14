@@ -14,6 +14,7 @@ credentials
   associate_id: popbooks08-20
   good_reads_key: xMZgxGDL9lbbP9ZkosMSDQ
   good_reads_secret: hFpRaxuhlTjxBemOfIiZkhPSXs65uUbHHLODXlJie0
+  nytimes_api_key: ef5ec576aef449a487d91a22ffc481a4
 }
 
 http "https://www.goodreads.com/search.xml?key=xMZgxGDL9lbbP9ZkosMSDQ&q=Ender%27s+Game"
