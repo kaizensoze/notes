@@ -18,3 +18,6 @@ credentials
 }
 
 http "https://www.goodreads.com/search.xml?key=xMZgxGDL9lbbP9ZkosMSDQ&q=Ender%27s+Game"
+
+combined-print-and-e-book-fiction
+combined-print-and-e-book-nonfiction
