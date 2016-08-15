@@ -1,4 +1,9 @@
 
+24 hour long island places
+  king kullen (231 w merrick rd) [weekdays only]
+  king kullen (127 sunrise hwy) [weekdays only]
+  desi food (351 North Central Avenue)
+
 ways to exfiltrate data from airgapped computers
 ====
 radio frequencies (AirHopper) [https://www.helpnetsecurity.com/2014/11/04/extracting-data-from-air-gapped-computers-via-mobile-phones/]

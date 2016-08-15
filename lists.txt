@@ -1,22 +1,18 @@
 
-book
-last week tonight
-
-local-food-search
-rottentomatoes-for-books
-node-github:swagger documentation
-chip's challenge
-
 stop by new house to get keys
-work, call
-drive car to house
-uber to pick up uhaul, drive to house to load van, drop off stuff in new house, return uhaul
+work, read, call
+drive car to house, uber to pick up uhaul, drive to house to load van, drop off stuff in new house, return uhaul
 
 food shopping
   Natural Food (140 7th St, Garden City, NY 11530)
   AB Supermarket (153 7th St, Garden City, NY 11530)
   Whole Foods (2101 Northern Blvd, Manhasset, NY 11030)
   Trader Joe's (910 Old Country Rd, Garden City, NY 11530)
+
+local-food-search
+rottentomatoes-for-books
+node-github:swagger documentation
+chip's challenge
 
 call doctor again about sleep study
 call capital one about getting car insurance before the claim is resolved
@@ -26,13 +22,13 @@ fork ricochet
 networking course
 
 tv
-  Last Week Tonight S03E21 (08/14)
   Peaky Blinders S01E03
   Feed the Beast
   Guilt
   John Adams
   Mr Robot S02E07 (08/18)
   The Night Of S01E07 (08/21)
+  Last Week Tonight S03E22 (08/21)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
   Goliath (10/14)
@@ -69,11 +65,6 @@ movies
   Sausage Party
   Louis Theroux: My Scientology Movie (09/08)
 
-24 hour long island places
-  king kullen (231 w merrick rd) [weekdays only]
-  king kullen (127 sunrise hwy) [weekdays only]
-  desi food (351 North Central Avenue)
-
 interesting eleventh hope talks
   Security Options for High Risk Travelers
   LinkNYC Spy Stations
@@ -90,7 +81,7 @@ interesting defcon talks
   Attacking Network Infrastructure to Generate a 4 Tb/s DDoS for $5
   Abusing Bleeding Edge Web Standards for AppSec Glory
   Project CITL
-  Realtime Bluetooth Device Detection with Blue Hydra  
+  Realtime Bluetooth Device Detection with Blue Hydra
 
 torrents
   what.cd
