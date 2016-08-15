@@ -1,20 +1,28 @@
 
-work, read, call
-drive car to house, uber to pick up uhaul, drive to house to load van, drop off stuff in new house, return uhaul
+setup utilities for house
+move things to living room
+hyperthermia test
+book
+5:30PM: drive car to house
+6PM: grab uber to uhaul (251-37 Jericho Tpke, Bellerose, NY 11426)
+move
 food shopping
   Whole Foods (2101 Northern Blvd, Manhasset, NY 11030)
   Trader Joe's (910 Old Country Rd, Garden City, NY 11530)
   AB Supermarket (153 7th St, Garden City, NY 11530)
-look into okc
 
 local-food-search
 rottentomatoes-for-books
 node-github:swagger documentation
 chip's challenge
+go through github starred
 
-call doctor again about sleep study
-call capital one about getting car insurance before the claim is resolved
+
+see doctor about eating/constipation problem
 dermatologist: get moles checked out
+schedule physical
+call capital one about getting car insurance before the claim is resolved
+
 reverse engineer apps
 fork ricochet
 networking course
