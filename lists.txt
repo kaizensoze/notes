@@ -1,7 +1,7 @@
 
-look into arctic zero ingredients
 book
 last week tonight
+
 local-food-search
 rottentomatoes-for-books
 node-github:swagger documentation
@@ -13,8 +13,10 @@ drive car to house
 uber to pick up uhaul, drive to house to load van, drop off stuff in new house, return uhaul
 
 food shopping
-  trader joe's
-  whole foods
+  Natural Food (140 7th St, Garden City, NY 11530)
+  AB Supermarket (153 7th St, Garden City, NY 11530)
+  Whole Foods (2101 Northern Blvd, Manhasset, NY 11030)
+  Trader Joe's (910 Old Country Rd, Garden City, NY 11530)
 
 call doctor again about sleep study
 call capital one about getting car insurance before the claim is resolved
