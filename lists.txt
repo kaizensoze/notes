@@ -1,8 +1,5 @@
 
-setup utilities for house
 move things to living room
-hyperthermia test
-book
 5:30PM: drive car to house
 6PM: grab uber to uhaul (251-37 Jericho Tpke, Bellerose, NY 11426)
 move
@@ -10,13 +7,15 @@ food shopping
   Whole Foods (2101 Northern Blvd, Manhasset, NY 11030)
   Trader Joe's (910 Old Country Rd, Garden City, NY 11530)
   AB Supermarket (153 7th St, Garden City, NY 11530)
+change address
+hyperthermia test
+book
 
 local-food-search
 rottentomatoes-for-books
 node-github:swagger documentation
 chip's challenge
 go through github starred
-
 
 see doctor about eating/constipation problem
 dermatologist: get moles checked out
