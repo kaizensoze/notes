@@ -1,20 +1,107 @@
 
-2016-07-24
+2015-03-02:
+  the rock club
+    4 V0, 3 V1, 3 V2
+
+2015-03-03:
+  pushups: 1x50
+  the cliffs valhalla
+    auto-belay
+      2 5.7
+      6 V0, 4 V1, 3 V2, 1 V3
+
+2015-03-04:
+  pushups: 1x60, 1x50
+  deadhangs
+    crimp (corner): 11s
+    jug: 60s
+
+2015-03-05:
+  bouldering
+    3 V0, 3 V1, 3 V2, V3
+  auto-belay
+    5.7, 5.8, 5.8, 5.9, 5.9, 5.9+
+
+2015-03-06:
+  bouldering
+    V3, V4
+  auto-belay
+
+2015-03-07
+the cliffs: various auto-belay, bouldering (weekends suck)
+
+2015-03-08:
+  caribiner's: bouldering (sucks balls)
+  deadhangs
+    crimp (mid): 11s
+    crimp (corner): 13s
+
+2015-03-20:
+  plank: 2m
+
+2015-03-21:
+  deadhangs
+    crimp (corner): 30s
+    crimp (mid): 21s
+    sloper: 35s, 50s
+  sloper transitions
+  pushups: 40
+  plank: 2m15s
+
+2015-03-22:
+  gym: 4.5h (cliffs)
+  deadhangs
+    sloper: 55s, 32s, 43s
+    crimp (mid - changed): 15s 
+  pushups: 40, 50
+  sloper transitions
+
+2015-03-23:
+  gym: 3h (cliffs)
+  planks: 3m, 2m, 2m45s
+
+2015-03-24:
+  planks: 2m15s
+  deadhangs
+    sloper: 50s
+
+2015-03-25:
+  planks: 1m30s
+  pushups: 40, 53
+  deadhangs
+    sloper: 57s
+
+2015-03-27
+  bike: to/:from gym
+  gym: 1.5 hours 
+  finger pushups: 12
+  pushups: 30
+  deadhangs
+    sloper: 50s
+  planks: 2m30s
+
+2015-03-28:
+  pushups: 60, 60
+  campusing
+  deadhangs:
+    crimp (mid): 32s
+
+2016-07-24:
   planks: 02:00
   pushups: 60
 
-2016-07-25
+2016-07-25:
   pullups: 2x16 IUH (IUH = inside underhand)
 
-2016-07-26
+2016-07-26:
   planks: 02:30
   pushups: 65
 
-2016-07-28
+2016-07-28:
   planks: 02:45
   pushups: 70
 
-2016-07-31
+2016-07-31:
   pushups: 68 (X)
   planks: 02:00 (X)
   pullups: 
@@ -27,5 +114,5 @@
   planks: 02:45
   pushups: 50 (X)
 
-2016-08-11:
+2016-08-15:
    

@@ -1,13 +1,12 @@
 
-stop by new house to get keys
 work, read, call
 drive car to house, uber to pick up uhaul, drive to house to load van, drop off stuff in new house, return uhaul
+look into okc
 
 food shopping
-  Natural Food (140 7th St, Garden City, NY 11530)
-  AB Supermarket (153 7th St, Garden City, NY 11530)
   Whole Foods (2101 Northern Blvd, Manhasset, NY 11030)
   Trader Joe's (910 Old Country Rd, Garden City, NY 11530)
+  AB Supermarket (153 7th St, Garden City, NY 11530)
 
 local-food-search
 rottentomatoes-for-books
@@ -64,30 +63,3 @@ movies
   The Book of Mormon
   Sausage Party
   Louis Theroux: My Scientology Movie (09/08)
-
-interesting eleventh hope talks
-  Security Options for High Risk Travelers
-  LinkNYC Spy Stations
-  FOIA and Public Records Hacking: How to Complete a FOIA Request or Dox Yourself via the Privacy Act
-
-interesting defcon talks
-  Toxic Proxies - Bypassing HTTPS and VPNs to Pwn Your Online Identity
-  Machine Duping 101: Pwning Deep Learning Systems
-  Feds and 0Days: From Before Heartbleed to After FBI-Apple
-  Discovering and Triangulating Rogue Cell Towers
-  Honey Onions: Exposing Snooping Tor HSDir Relays
-  How to Overthrow a Government
-  I've got 99 Problems, but LittleSnitch ain't one
-  Attacking Network Infrastructure to Generate a 4 Tb/s DDoS for $5
-  Abusing Bleeding Edge Web Standards for AppSec Glory
-  Project CITL
-  Realtime Bluetooth Device Detection with Blue Hydra
-
-torrents
-  what.cd
-  waffles.fm
-
-overthewire
-  http://natas11.natas.labs.overthewire.org/
-  U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
-  /etc/natas_webpass/natas11
