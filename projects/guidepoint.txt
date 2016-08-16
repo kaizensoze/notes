@@ -1,5 +1,15 @@
 
-maybe not copy twiliosdk files into xcode project?
+create client storyboard [DONE]
+getStoryboard in Util class that gets appropriate storyboard based on role of logged in user [DONE]
+test
+	login as manager user, see welcome view, logout
+	login as client user, see welcome view, logout
+	login as manager user, no welcome view, logout
+	login as client user, no welcome view, logout
+client welcome view
+
+241115 jbarker@guidepointglobal.com James Barker Research Project Manager 789 ProjectManager
+1 jhenry@guidepointglobal.com John Henry The Client 1 Client
 
 projects view: newCount
 project advisors view
@@ -8,8 +18,12 @@ project advisors view
 	selected url (currently empty)
 get client availability for project
 
-jbarker@guidepointglobal.com
-welcome
+manager
+	jbarker@guidepointglobal.com
+	welcome
+client
+	jhenry@guidepointglobal.com
+	welcome
 
 curl:
   curl \
