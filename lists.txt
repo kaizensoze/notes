@@ -1,7 +1,6 @@
 
-hyperthermia test
 work
-  guidepoint
+  finish up guidepoint for the day
   node-github lucybot
   local-food-search
   rottentomatoes-for-books
@@ -12,6 +11,7 @@ work
 time warner
 
 doctor appt
+hyperthermia test
 
 food shopping
   King Kullen (1430 Northern Blvd, Manhasset, NY 11040)
