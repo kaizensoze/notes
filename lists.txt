@@ -1,25 +1,21 @@
 
-food shopping
-  2305 Jericho Turnpike, Garden City Park, NY 11040
-  1430 Northern Blvd, Manhasset, NY 11040
-  backup: 231 West Merrick Road
-  failsafe: home
+work
+  guidepoint
+  decrypt equation group files
+  node-github lucybot
+  local-food-search
+  rottentomatoes-for-books
+  chip's challenge
+  go through github starred
+time warner
+
 hyperthermia test
 
-work
-time warner
-x
-
 food shopping
+  King Kullen (1430 Northern Blvd, Manhasset, NY 11040)
   Whole Foods (2101 Northern Blvd, Manhasset, NY 11030)
   Trader Joe's (910 Old Country Rd, Garden City, NY 11530)
   AB Supermarket (153 7th St, Garden City, NY 11530)
-
-local-food-search
-rottentomatoes-for-books
-node-github:swagger documentation
-chip's challenge
-go through github starred
 
 see doctor about eating/constipation problem
 dermatologist: get moles checked out
