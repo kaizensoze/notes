@@ -1,15 +1,17 @@
 
+hyperthermia test
 work
   guidepoint
-  decrypt equation group files
   node-github lucybot
   local-food-search
   rottentomatoes-for-books
+  decrypt equation group files
   chip's challenge
   go through github starred
+
 time warner
 
-hyperthermia test
+doctor appt
 
 food shopping
   King Kullen (1430 Northern Blvd, Manhasset, NY 11040)
@@ -17,13 +19,11 @@ food shopping
   Trader Joe's (910 Old Country Rd, Garden City, NY 11530)
   AB Supermarket (153 7th St, Garden City, NY 11530)
 
-see doctor about eating/constipation problem
 dermatologist: get moles checked out
 schedule physical
 call capital one about getting car insurance before the claim is resolved
 
 reverse engineer apps
-fork ricochet
 networking course
 
 tv
