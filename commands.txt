@@ -159,6 +159,7 @@ git
       fetch = +refs/pull/*/head:refs/remotes/upstream/pr/*
   git merge and then git checkout --ours or --theirs before adding file(s) in conflict
   git show master:Expert/CallsViewController.swift
+  git log --since="12am"
 
 github
   curl -u kaizensoze:<token> https://api.github.com/rate_limit

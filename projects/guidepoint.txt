@@ -1,15 +1,5 @@
 
-create client storyboard [DONE]
-getStoryboard in Util class that gets appropriate storyboard based on role of logged in user [DONE]
-test
-	login as manager user, see welcome view, logout
-	login as client user, see welcome view, logout
-	login as manager user, no welcome view, logout
-	login as client user, no welcome view, logout
 client welcome view
-
-241115 jbarker@guidepointglobal.com James Barker Research Project Manager 789 ProjectManager
-1 jhenry@guidepointglobal.com John Henry The Client 1 Client
 
 projects view: newCount
 project advisors view
@@ -139,5 +129,12 @@ hours
 	08-15-16 [0]
 	
 	08-16-16
-		
+		* perform SkipWelcome check on a per-user basis
+		* accept hardcoded client login
+		* parse role for user
+		* for now just get first role in array
+		* make adjustments for hardcoding of client user
+		* split storyboard based on user role
+		* create client storyboard
+			
 	
