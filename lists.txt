@@ -1,6 +1,5 @@
 
 work
-  finish up guidepoint for the day
   node-github lucybot
   local-food-search
   rottentomatoes-for-books

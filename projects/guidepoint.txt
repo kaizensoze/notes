@@ -1,5 +1,7 @@
 
-client welcome view
+client tab bar view controller
+break APPS-14-client-iphone-app-scheduled-call into small pieces and merge incrementally
+client calls view
 
 projects view: newCount
 project advisors view
@@ -136,5 +138,8 @@ hours
 		* make adjustments for hardcoding of client user
 		* split storyboard based on user role
 		* create client storyboard
-			
+		* client welcome view
+		
+	08-17-16
+		
 	
