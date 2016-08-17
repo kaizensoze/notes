@@ -1,8 +1,5 @@
 
-create separate commits:
-	add Array extension
-	add title to ScheduledCall
-	add app icons taken from older git branch
+add test accounts to readme
 
 client calls view
 update carthage packages if necessary
@@ -147,5 +144,11 @@ hours
 		* client welcome view
 		
 	08-17-16
-		
+		* remove hardcoded client user
+		* add client tab bar view
+		* add app icons taken from older git branch
+		* add array extension
+		* add upcoming call for manager calls view
+		* restrict app to iphone
+		* remove reauthSucceeded print statements
 	
