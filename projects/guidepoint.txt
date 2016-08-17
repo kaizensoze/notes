@@ -1,7 +1,12 @@
 
-client tab bar view controller
-break APPS-14-client-iphone-app-scheduled-call into small pieces and merge incrementally
+create separate commits:
+	add Array extension
+	add title to ScheduledCall
+	add app icons taken from older git branch
+
 client calls view
+update carthage packages if necessary
+break APPS-14-client-iphone-app-scheduled-call into small pieces and merge incrementally
 
 projects view: newCount
 project advisors view
@@ -11,10 +16,12 @@ project advisors view
 get client availability for project
 
 manager
-	jbarker@guidepointglobal.com:welcome
+	jbarker@guidepointglobal.com
+	welcome
 client
-	chris.carroll@wmpartners.com:a
-	c.Tkac@lek.com:a
+	chris.carroll@wmpartners.com
+	c.Tkac@lek.com
+	a
 
 curl:
   curl \

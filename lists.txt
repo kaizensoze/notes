@@ -1,6 +1,6 @@
 
-hyperthermia test
 guidepoint
+decrypt equation group files
 local-food-search
 read
 start researching cars
@@ -9,9 +9,10 @@ fresh direct
 work
   node-github lucybot
   rottentomatoes-for-books
-  decrypt equation group files
   chip's challenge
   go through github starred
+  reverse engineer apps
+  networking course
 
 doctor appt
 
@@ -26,9 +27,6 @@ food shopping
 dermatologist: get moles checked out
 schedule physical
 call capital one about getting car insurance before the claim is resolved
-
-reverse engineer apps
-networking course
 
 tv
   Peaky Blinders S01E03
