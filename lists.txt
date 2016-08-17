@@ -1,8 +1,8 @@
 
 guidepoint
-decrypt equation group files
-local-food-search
 read
+local-food-search
+decrypt equation group files
 start researching cars
 fresh direct
 

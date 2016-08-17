@@ -1,8 +1,7 @@
 
-add test accounts to readme
-
-client calls view
 update carthage packages if necessary
+look into zero height issue for client calls
+diversify client calls test data
 break APPS-14-client-iphone-app-scheduled-call into small pieces and merge incrementally
 
 projects view: newCount
@@ -151,4 +150,11 @@ hours
 		* add upcoming call for manager calls view
 		* restrict app to iphone
 		* remove reauthSucceeded print statements
+		* add test accounts section to readme
+		* add client calls view
+		* fix storyboard warnings
+		* fix notifications view
+		
+	08-18-16
+		* 
 	
