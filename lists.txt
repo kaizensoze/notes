@@ -1,14 +1,18 @@
 
+internet
+look into verizon internet
+guidepoint commit
+guidepoint
+local-food-search
+read
+fresh direct
+
 work
   node-github lucybot
-  local-food-search
   rottentomatoes-for-books
   decrypt equation group files
   chip's challenge
   go through github starred
-
-time warner
-fresh direct
 
 doctor appt
 hyperthermia test

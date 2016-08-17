@@ -11,11 +11,10 @@ project advisors view
 get client availability for project
 
 manager
-	jbarker@guidepointglobal.com
-	welcome
+	jbarker@guidepointglobal.com:welcome
 client
-	jhenry@guidepointglobal.com
-	welcome
+	chris.carroll@wmpartners.com:a
+	c.Tkac@lek.com:a
 
 curl:
   curl \
