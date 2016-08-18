@@ -1,6 +1,6 @@
 
-look into zero height issue for client calls
-diversify client calls test data
+figure out why app icon has an alert
+client call detail view
 break APPS-14-client-iphone-app-scheduled-call into small pieces and merge incrementally
 
 projects view: newCount
@@ -154,6 +154,9 @@ hours
 		* fix storyboard warnings
 		* fix notifications view
 		* look into updating carthage packages
+		* fix constraints for client calls view
+		* diversify client calls test data
+		* add client preferences page
 		
 	08-18-16
 		* 
