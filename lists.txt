@@ -40,6 +40,8 @@ tv
   Goliath (10/14)
 
 movies
+  Imperium
+  Pete's Dragon
   Ned Rifle
   Funny Ha Ha
   Passenger Side
@@ -65,8 +67,8 @@ movies
   Our Kind of Traitor
   Traceroute
   Swiss Army Man
-  Lo and Behold, Reveries of the Connected World
   The Look of Silence
   The Book of Mormon
   Sausage Party
+  Lo and Behold, Reveries of the Connected World (08/19)
   Louis Theroux: My Scientology Movie (09/08)
