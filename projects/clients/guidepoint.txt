@@ -1,14 +1,9 @@
 
-figure out why app icon has an alert
+manager calls: allow some leeway and include calls within last 5min(?) in list of upcoming calls
+client calls: allow some leeway and include calls within last 5min(?) in list of upcoming calls
+
 client call detail view
 break APPS-14-client-iphone-app-scheduled-call into small pieces and merge incrementally
-
-projects view: newCount
-project advisors view
-	project.newCount
-	advisor.status
-	selected url (currently empty)
-get client availability for project
 
 manager
 	jbarker@guidepointglobal.com
@@ -17,6 +12,13 @@ client
 	chris.carroll@wmpartners.com
 	c.Tkac@lek.com
 	a
+
+projects view: newCount
+project advisors view
+	project.newCount
+	advisor.status
+	selected url (currently empty)
+get client availability for project
 
 curl:
   curl \
@@ -159,5 +161,16 @@ hours
 		* add client preferences page
 		
 	08-18-16
+		* make adjustments to client calls view
+    * adjust labels
+    * add different call icons
+    * add eta label under call icon
+    * sort calls by date
+		* sort manager's calls by date
+		* change manager call org labels to italic
+		* have upcoming manager calls include now
+		* add refresh control to client calls view
+	
+	08-19-16
 		* 
 	

@@ -1,0 +1,9 @@
+calculating rates
+====
+month: 22*8*70 = 12,320 -> 10,000
+week: 5*8*70 = 2,600
+day: 8*70 = 600
+
+month: 10,000
+week: 2,700
+day: 600
