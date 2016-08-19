@@ -1,4 +1,15 @@
 
+advanced persistent threats
+  TAO (US)
+  Sofacy Group / APT28 / Pawn Storm (Russia)
+  Dragonfly / Energetic Bear (Eastern Europe)
+  Unit 61398 / Comment Crew / Putter Panda (China)
+  Hidden Lynx (China)
+  Axiom (China)
+  Tarh Andishan (Iran)
+  Ajax Security Team / Flying Kitten (Iran)
+  Bureau 121 (North Korea)
+
 places with arctic zero ice cream
   King Kullen (1430 Northern Blvd, Manhasset, NY 11040) [12AM]
   Natural Food (140 7th St, Garden City, NY 11530)

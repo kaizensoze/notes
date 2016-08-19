@@ -1,7 +1,4 @@
 
-guidepoint
-read
-
 work
   local-food-search
   decrypt equation group files
@@ -14,6 +11,7 @@ work
 start researching cars
 
 bloodwork
+uber to 
 
 pick up lisa to show house
 move bed upstairs
@@ -22,12 +20,9 @@ queens international market
 
 food shopping
   Whole Foods (2101 Northern Blvd, Manhasset, NY 11030) [10PM]
-  Trader Joe's (910 Old Country Rd, Garden City, NY 11530)
-  AB Supermarket (153 7th St, Garden City, NY 11530)
 
-dermatologist: get moles checked out
-schedule physical
 call capital one about getting car insurance before the claim is resolved
+dermatologist: get moles checked out
 
 tv
   Peaky Blinders S01E03
