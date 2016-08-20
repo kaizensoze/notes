@@ -1,0 +1,7 @@
+api_key: dcb89ae4fa
+
+http://www.SupermarketAPI.com/api.asmx/SearchByProductName?APIKEY=dcb89ae4fa&ItemName=Minuet
+http://www.SupermarketAPI.com/api.asmx/StoresByZip?APIKEY=dcb89ae4fa&ZipCode=11004
+
+http://www.SupermarketAPI.com/api.asmx/COMMERCIAL_SearchByProductName?APIKEY=dcb89ae4fa&ItemName=Minuet
+http://www.SupermarketAPI.com/api.asmx/COMMERCIAL_StoresByZip?APIKEY=dcb89ae4fa&ZipCode=11004

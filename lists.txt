@@ -1,8 +1,6 @@
 
-home
-  videos
-  nap?
-  take garbage pail
+take garbage pail
+grocery
 guidepoint
 
 bring livia, louie to house
@@ -18,10 +16,9 @@ look into car to buy
 call capital one about car insurance claim
 
 work
-  local-food-search
   decrypt equation group files
-  node-github lucybot
   rottentomatoes-for-books
+  node-github lucybot
   chip's challenge
   go through github starred
   reverse engineer apps
