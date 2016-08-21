@@ -1,9 +1,7 @@
 
-manager calls: allow some leeway and include calls within last 5min(?) in list of upcoming calls
-client calls: allow some leeway and include calls within last 5min(?) in list of upcoming calls
-
-client call detail view
-break APPS-14-client-iphone-app-scheduled-call into small pieces and merge incrementally
+test/merge branches
+	allow-5min-leeway-for-upcoming-calls
+	client-call-detail-view
 
 manager
 	jbarker@guidepointglobal.com
@@ -152,7 +150,7 @@ hours
 		* restrict app to iphone
 		* remove reauthSucceeded print statements
 		* add test accounts section to readme
-		* add client calls view
+		* add client calls view (via some git fu from APPS-14 branch)
 		* fix storyboard warnings
 		* fix notifications view
 		* look into updating carthage packages
@@ -171,6 +169,17 @@ hours
 		* have upcoming manager calls include now
 		* add refresh control to client calls view
 	
-	08-19-16
-		* 
+	08-19-16 [0]
+	
+	08-21-16 [0.5]
+		* allow leeway for upcoming calls for calls view
+		* allow 5 min leeway so that calls within 5 mins past are still included
+      in upcoming calls
+    * include example call that's 5 mins past
+    * treat calls between now and 5 mins past as now (NOW label) in upcoming
+      calls
+		* add client call detail view (via some git fu from APPS-14 branch)
+	
+	08-22-16
+		
 	

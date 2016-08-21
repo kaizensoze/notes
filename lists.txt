@@ -1,21 +1,19 @@
 
-reschedule time warner appointment
-get lint roller and clean car seat
-13:30: drop off yaris (906 Union St, Brooklyn, NY)
-guidepoint
-the night of
-last week tonight
+read
+research kitchen essentials
+amazon/freshdirect
+research car to buy
 
 bloodwork
 chest x-ray
-research car to buy
+determine when neighbors get home from work and reschedule
 
 call capital one about car insurance claim
 
 work
+  node-github lucybot
   decrypt equation group files
   rottentomatoes-for-books
-  node-github lucybot
   chip's challenge
   go through github starred
   reverse engineer apps
