@@ -1,8 +1,6 @@
 
-the night of
-package item for return
 listen to recordings
-
+package item for return
 read
 determine when neighbors get home from work and reschedule
 faraday cage top priority (over getting a car)

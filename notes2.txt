@@ -1,4 +1,8 @@
-Unbroken
+A Short History of Nearly Everything, Bill Bryson
+====
+Edmond Halley asks Newton about the curve of orbit (gravitational pull between sun and planets). Newton says an ellipse and knows because he calculated it. When Halley asks for the calculation, he says he lost it, but he'll recalculate it when he gets a chance
+
+Unbroken, Laura Hillenbrand
 ====
 in the 1930s, the US was obsessed with eugenics (it wasn't just germany)
 the feared japanese Zero plane
@@ -8,12 +12,12 @@ dry beriberi affects the nervous system, causing numbness, confusion, unsteady g
 B-17: flying fortress
 B-29: superfortress
 
-the signal and the noise
+The Signal and the Noise, Nate Silver
 ====
 risk is something you can put a price on (e.g. knowing your odds in poker)
 uncertainty is risk that is hard to measure
 
-legacy of ashes
+Legacy of Ashes, Tim Weiner
 ====
 Office of Strategic Services (OSS) (1942-1945)
   formed during FDR
@@ -112,12 +116,12 @@ James Schlesinger made CIA director (Feb 1973)
 Egypt goes to war with Israel (1973)
 [stopped reading, stopped caring]
 
-rise of the warrior cop
+Rise of the Warrior Cop, Radley Balko
 ====
 Whitman shootings mark the birth of the SWAT
 1969: Jerry Wilson heads DC's Metro Police in 1969; does it right
 
-no good men among the living
+No Good Men Among the Living, Anand Gopal
 ====
 before the soviet union invaded afghanistan, it was a pretty progressive hippie friendly place (communists) [1950s]
 April 1978: Communists rally against government [under dictator Daud Khan] for killing leader Mir Akbar Khyber
@@ -145,7 +149,7 @@ main practitioners of sharia were mullahs
 to become a mullah you studied for up to 12 years in a madrassa
 in Pashto, these students were called taliban
 
-why zebras don't get ulcers
+Why Zebras Don't Get Ulcers, Robert Sapolsky
 ====
 Walter Cannon focused on adaptive aspect of stress-response in dealing with emergencies
 Hans Selye formalized the ill effects of stress with ulcerated rat experiment
@@ -182,7 +186,7 @@ pituitary also secretes vasopressin, aka antidiuretic hormone, which plays role 
 sympathetic arousal is a relative marker of anxiety and vigilance
 heavy secretion of glucocorticoids is more a marker of depression
 
-The Innovators
+The Innovators, Walter Isaacson
 ====
 ada byron (=> lovelace) daughter of poet lord byron
 ada lovelace meets charles babbage
@@ -434,7 +438,7 @@ Jerry Yang and David Filo build up Yahoo
 web crawlers come into existence: WWW Wanderer built by Matthew Gray, WebCrawler by Brian Pinkerton, AltaVista by Louis Monier, Lycos by Michael Mauldin, OpenText by team at Waterloo, Excite by six friends from Stanford
 all of the crawlers used link-hopping robots
 
-The Faith Healers
+The Faith Healers, James Randi
 ====
 3 types of faith:
   intransigent: faith will not be affected by any sort of contrary evidence, no matter how strong
@@ -450,7 +454,7 @@ evangelist Rex Humbard who began broadcasting in 1952 in Ohio is largely respons
 Johannes Weyer, sixteenth century physician, also known as Piscinarius, was early skeptic of belief
 seed-faith system
 
-The Devil In The White City
+The Devil In The White City, Erik Larson
 ====
 Chicago World Fair of 1893 only lasted 7 months but attracted huge crowd of 27.5 million visits, averaging 700,000 a day
 Jack the Ripper's 5-murder spree in 1888
@@ -461,7 +465,7 @@ William Jenney of firm Loring & Jenney designs first building to have load-beari
 in 1885 fouled water ignites outbreak of cholera and typhoid that kills 10% of Chicago population
 Olmstead, of Central Park fame (among others), brought on to assist with Chicago fair construction/design
 
-The Hot Zone
+The Hot Zone, Richard Preston
 ====
 Charles Monet, Frenchman who lived on private lands of Nzoia Sugar Factory, a plantation in western Kenya, patient zero of virus
 Marburg virus is an African organism named for place first discovered (Behring Works factory in Marburg that produced vaccines using kidney cells from African green monkeys)
@@ -502,7 +506,7 @@ likely that Reston outbreak started with single monkey in Philippines
 kwisha = finished
 Swahili word askari used to mean spear bearer; now it means an armed guard who carries an assault rifle and walks in your shadow
 
-Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life
+Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
 ====
 in nineteenth century Russian-born biologist Elie Mechnikov made link between longevity and healthy balance of bacteria in body
 two most common groups of organisms in the gut, forming 90% of bacteria in colon, are Firmicutes and Bacteroidetes
@@ -539,12 +543,12 @@ clostridial species produce propionic acid (PPA) in abundance
 PPA increases gut permeability
 individuals with autism are typically deficient in glutathione
 
-Travels with Charley in Search of America
+Travels with Charley in Search of America, John Steinbeck
 ====
 (published in 1962, after Jack Kerouac's On the Road (1957)); jfk shot in 1963; johnson elected 1964
 Rocinante is Don Quixote's horse
 
-Stiff
+Stiff, Mary Roach
 =====
 malar fat pad is cushion of youthful padding that sits high on your cheekbone
 nineteenth century operating theaters were bad news for patient (more to do with medical instructions than saving patients' lives)
