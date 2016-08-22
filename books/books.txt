@@ -172,7 +172,6 @@ This Will Change Everything, John Brockman
 Tribe: On Homecoming and Belonging
 Twenty Thousand Leagues Under the Sea, Jules Verne
 Ultrametabolism, Mark Hyman
-Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
 Valley of the Dolls, Jacqueline Susann
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
@@ -392,3 +391,4 @@ Ghost Rider: Travels on the Healing Road, Neil Peart
 Made in the USA, Vaclav Smil
 Rise of the Robots, Martin Ford
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
+Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
