@@ -1,7 +1,7 @@
 
-test/merge branches
-	allow-5min-leeway-for-upcoming-calls
-	client-call-detail-view
+incorporate notifications into master
+ask about client notifications view
+should the calls view autoupdate without requiring a refresh?
 
 manager
 	jbarker@guidepointglobal.com
@@ -171,7 +171,7 @@ hours
 	
 	08-19-16 [0]
 	
-	08-21-16 [0.5]
+	08-21-16 [1]
 		* allow leeway for upcoming calls for calls view
 		* allow 5 min leeway so that calls within 5 mins past are still included
       in upcoming calls
@@ -181,5 +181,15 @@ hours
 		* add client call detail view (via some git fu from APPS-14 branch)
 	
 	08-22-16
-		
+		* show completed calls in descending order
+		* client calls view: rename segmented control cell
+		* Merge branch 'client-call-detail-view'
+		* disable upcoming calls leeway for now
+		* design/layout adjustments for client detail view
+		* replace any hardcoded -5 values with leeway variable
+		* leave dial-in button enabled
+		* truncate day of week, 0-pad hour in call-related views
+	
+	08-23-16
+		* 
 	

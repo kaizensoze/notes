@@ -1,16 +1,23 @@
 
-guidepoint
-research car to buy
+the night of
+package item for return
+listen to recordings
+
+read
+determine when neighbors get home from work and reschedule
+faraday cage top priority (over getting a car)
+test sleeping in downstairs bedroom
 
 bloodwork
 chest x-ray
-determine when neighbors get home from work and reschedule
 
+research car to buy
 call capital one about car insurance claim
 
 work
-  node-github lucybot
   decrypt equation group files
+  node-github lucybot
+  wifi mapper
   rottentomatoes-for-books
   chip's challenge
   go through github starred
@@ -24,7 +31,6 @@ tv
   Peaky Blinders S01E03
   John Adams
   The Night Of S01E07 (08/21)
-  
   Mr Robot S02E07 (08/25)
   Last Week Tonight S03E22 (08/28)
   Narcos S02E01 (09/02)
