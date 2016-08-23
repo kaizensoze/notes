@@ -1,6 +1,13 @@
-A Short History of Nearly Everything, Bill Bryson
+Kill Chain, Andrew Cockburn
 ====
-Edmond Halley asks Newton about the curve of orbit (gravitational pull between sun and planets). Newton says an ellipse and knows because he calculated it. When Halley asks for the calculation, he says he lost it, but he'll recalculate it when he gets a chance
+Predator invented by Israeli Avraham Karem
+GPS, designed primarily by inventor Roger L. Easton, consists of 31 satellites, each passing overhead at an altitude of 12,600 miles twice a day
+satellites' orbits ensure that, at any one time, at least 4 satellites are in line of sight from any point on the planet
+Special Operations Executive (SOE), clandestine British warfare agency set up by Winston Churchill in 1940
+not everyone was on board to kill Hitler. Colonel Ronald Thornley said he would be canonized and it would look bad resorting to such low methods
+SOE was fairly ineffective
+
+
 
 Unbroken, Laura Hillenbrand
 ====
@@ -11,6 +18,8 @@ wet beriberi affects the heart and circulatory system, causing edema; it also ca
 dry beriberi affects the nervous system, causing numbness, confusion, unsteady gait, and paralysis
 B-17: flying fortress
 B-29: superfortress
+Mutsuhiro Watanabe war criminal who essentially got away
+In 1951 Allies and Japan signed the Treaty of Peace, ending the occupation and waiving the right of former POWs and their families to seek reparations
 
 The Signal and the Noise, Nate Silver
 ====
@@ -686,3 +695,7 @@ Cassidy Wolf sent sextortion email by old high school classmate who used Blacksh
 Foscam incompetent babycam firmware
 microchips in car form the controller area network (CAN)
 CAN hacking tool: $30 device which, when plugged into car's onboard computer network, allows attacker to remotely seize control of vehicle's lights, locks, and steering brake systems
+
+A Short History of Nearly Everything, Bill Bryson
+====
+Edmond Halley asks Newton about the curve of orbit (gravitational pull between sun and planets). Newton says an ellipse and knows because he calculated it. When Halley asks for the calculation, he says he lost it, but he'll recalculate it when he gets a chance

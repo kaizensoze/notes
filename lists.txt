@@ -1,16 +1,15 @@
 
-listen to recordings
-package item for return
-read
-determine when neighbors get home from work and reschedule
-faraday cage top priority (over getting a car)
-test sleeping in downstairs bedroom
+food
+reschedule time warner installation
+guidepoint
+research car to buy
+research faraday cage
 
 bloodwork
 chest x-ray
 
-research car to buy
 call capital one about car insurance claim
+cancel planet fitness membership
 
 work
   decrypt equation group files
@@ -22,7 +21,6 @@ work
   reverse engineer apps
   networking course
 
-cancel planet fitness membership
 dermatologist: get moles checked out
 
 tv
@@ -36,6 +34,7 @@ tv
   Goliath (10/14)
 
 movies
+  Fermat's Last Theorem
   Imperium
   Pete's Dragon
   Ned Rifle
