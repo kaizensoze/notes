@@ -176,7 +176,11 @@ gpg
   gpg --delete-key <id>
   gpg --import pgp.asc
   gpg --fingerprint <id>
-  gpg --verify OnionShare.pkg.asc OnionShare.pkg
+  gpg --verify FILE.sig
+  gpg --verify FILE.asc FILE
+  gpg --output doc.gpg --encrypt --recipient blake@cyb.org doc  # encrypt
+  gpg --output FILE --decrypt FILE.gpg                          # decrypt
+  gpg --clearsign doc                                           # sign text [but don't compress]
 
 hash
   hash      # list bindings

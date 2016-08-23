@@ -1,6 +1,6 @@
 
-incorporate notifications into master
-ask about client notifications view
+add client-notifications
+add general notifications
 should the calls view autoupdate without requiring a refresh?
 
 manager
