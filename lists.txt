@@ -1,5 +1,5 @@
 
-food
+decrypt equation group files
 reschedule time warner installation
 guidepoint
 research car to buy
@@ -12,7 +12,6 @@ call capital one about car insurance claim
 cancel planet fitness membership
 
 work
-  decrypt equation group files
   node-github lucybot
   wifi mapper
   rottentomatoes-for-books
