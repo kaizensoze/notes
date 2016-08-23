@@ -1,6 +1,9 @@
 
+add back in notification capability
 add client-notifications
-add general notifications
+adjust design/layout of client notifications view
+add notifications to manager notifications view
+ask about preferences view for both manager and client (put the ability to logout there?)
 should the calls view autoupdate without requiring a refresh?
 
 manager

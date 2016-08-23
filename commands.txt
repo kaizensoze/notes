@@ -163,6 +163,7 @@ git
   git co origin/master Expert/Info.plist
   git d master -- Expert/Info.plist
   git checkout -p
+  git diff -R (reverse additions/deletions for diff [between branches])
 
 github
   curl -u kaizensoze:<token> https://api.github.com/rate_limit
