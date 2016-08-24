@@ -6,6 +6,7 @@ Angela's Ashes, Frank McCourt
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
+A Bug Hunter's Diary, Tobias Klein
 A Man Called Ove, Fredrik Backman
 A Tale of Two Cities, Charles Dickens
 A Thousand Splendid Suns, Khaled Hosseini
@@ -96,6 +97,7 @@ Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
 Seveneves, Neal Stephenson
 Sexus, Henry Miller
+Silence on the Wire, Michael Zalewski
 So, Anyway..., John Cleese (p82)
 Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
