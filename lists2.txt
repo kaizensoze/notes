@@ -1,4 +1,8 @@
 
+fully anonymous messaging (doesn't require phone number)
+  ricochet
+  threema
+
 linux security
   SELinux
   AppArmor
