@@ -1,20 +1,20 @@
 
 guidepoint
-6PM: reschedule time warner installation
+shower
+grab amazon package
 read
-
-research used cars
 
 bloodwork
 chest x-ray
 cancel planet fitness membership
+research used cars
 
-order faraday tent
+research/order faraday tent
 call capital one about car insurance claim
 
 work
-  node-github lucybot
   wifi mapper
+  node-github lucybot
   rottentomatoes-for-books
   chip's challenge
   go through github starred

@@ -1,8 +1,13 @@
 
-add back in notification capability
-add client-notifications
-adjust design/layout of client notifications view
-add notifications to manager notifications view
+add method to ScheduledCall that determines upcoming or completed
+or add ScheduledCallStatus call function in init that determines/sets it
+set scheduled call image on advisor detail view based on status
+
+show appropriate call image on call detail view (manager, client)
+add eta label to manager calls view
+
+fix hardcoded notification message
+
 ask about preferences view for both manager and client (put the ability to logout there?)
 should the calls view autoupdate without requiring a refresh?
 
@@ -194,5 +199,17 @@ hours
 		* truncate day of week, 0-pad hour in call-related views
 	
 	08-23-16
-		* 
+		* add notifications and client notifications view
+		* adjust design/layout of client notifications view
+		* add notifications background mode in info.plist
+		* set client notification cell status icon
+		* fix icon for completed calls on manager calls view
+		* fix test data image for manager notifications
+		* adjust scheduled call image on advisor detail view
+		* add refresh, search to client notifications view
+		* move badge value logic to uiviewcontroller extension
+		* apply notifications to manager notifications view
+		
+	08-24-16
+		
 	
