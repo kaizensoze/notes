@@ -1,12 +1,18 @@
 
-chest x-ray
-dermatologist: get moles checked out
+guidepoint
+look for roommate
+schedule appointment for x-ray
+schedule dermatologist
+
+pick up shampoo
+usha foods
 
 order faraday tent
 cancel planet fitness membership
 call capital one about car insurance claim
 
 work
+  cox-fail
   node-github lucybot
   wifi mapper
   rottentomatoes-for-books
