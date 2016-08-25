@@ -1,10 +1,6 @@
 
-add method to ScheduledCall that determines upcoming or completed
-or add ScheduledCallStatus call function in init that determines/sets it
-set scheduled call image on advisor detail view based on status
-
-show appropriate call image on call detail view (manager, client)
-add eta label to manager calls view
+add eta label to manager call detail view
+allow for now image on call detail view (manager, client)
 
 fix hardcoded notification message
 
@@ -210,6 +206,13 @@ hours
 		* move badge value logic to uiviewcontroller extension
 		* apply notifications to manager notifications view
 		
-	08-24-16
+	08-24-16 [0.5]
+		* consolidate upcoming/completed logic in call model
+		* add eta label to manager calls view
+		* fix call image on advisor detail view
+		* use image2 on call detail view
+		
+	08-25-16
+		
 		
 	

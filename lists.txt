@@ -1,12 +1,10 @@
 
-guidepoint
-
-cancel planet fitness membership
-
 chest x-ray
-call capital one about car insurance claim
 dermatologist: get moles checked out
+
 order faraday tent
+cancel planet fitness membership
+call capital one about car insurance claim
 
 work
   node-github lucybot
