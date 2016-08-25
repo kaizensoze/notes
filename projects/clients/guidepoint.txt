@@ -1,5 +1,4 @@
 
-add eta label to manager call detail view
 allow for now image on call detail view (manager, client)
 
 fix hardcoded notification message

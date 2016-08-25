@@ -486,6 +486,14 @@ all by Mordechai Guri, Ph.D. at Ben-Gurion University of the Negev (BGU)
 
 bonus pita: http://www.biztekmojo.com/00844/device-hidden-pita-bread-can-be-used-hack-nearby-laptops
 
+wifi surveillance methods
+====
+http://www.theverge.com/2015/10/28/9625636/rf-capture-mit-wifi-tracking-surveillance-technology
+http://motherboard.vice.com/read/wifi-signals-can-id-individuals-by-body-shape
+http://www.theatlantic.com/technology/archive/2016/08/wi-fi-surveillance/497132/
+https://people.eecs.berkeley.edu/~guanhua/paper/WiHear_MobiCom14.pdf (detect speech)
+https://www.sigmobile.org/mobicom/2015/papers/p90-aliA.pdf (detect keystrokes)
+
 CRISPR (https://www.youtube.com/watch?v=jAhjPd4uNFY&feature=youtu.be)
 ====
 bacteriophages (phages), which are a virus, hunt and kill bacteria by inserting their own genetic code into the bacteria and taking them over
