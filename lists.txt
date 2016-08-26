@@ -1,10 +1,8 @@
 
-guidepoint
-order faraday tent
 unclog shower drain
+order faraday tent
 read
 
-check out meetups
 pick up shampoo
 sign up for library
 
