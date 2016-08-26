@@ -1,5 +1,4 @@
 
-ask about preferences view for both manager and client (put the ability to logout there?)
 once api call working for calls view, update on appear [and have timer that updates results every minute?]
 
 manager
@@ -213,4 +212,10 @@ hours
 		* go through the api endpoints to check for any updates
 		* have notifications view detect when app becomes active
 		* apply active trigger to client notifications view
+		
+	08-26-16
+		* build out preferences view with logout option
+		* confirm logout
+		* take another look at the api stuff in bitbucket
+		
 	
