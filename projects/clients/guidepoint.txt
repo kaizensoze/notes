@@ -1,6 +1,4 @@
 
-clear app icon badge
-
 ask about preferences view for both manager and client (put the ability to logout there?)
 once api call working for calls view, update on appear [and have timer that updates results every minute?]
 
@@ -213,5 +211,6 @@ hours
 		* add eta label to manager call detail view
 		* allow now status image on call detail view
 		* go through the api endpoints to check for any updates
-		
+		* have notifications view detect when app becomes active
+		* apply active trigger to client notifications view
 	
