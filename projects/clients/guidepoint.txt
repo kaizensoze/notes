@@ -1,4 +1,6 @@
 
+have all subsection cells expand (even if no content)
+client call: add to calendar
 once api call working for calls view, update on appear [and have timer that updates results every minute?]
 
 manager
@@ -13,8 +15,11 @@ projects view: newCount
 project advisors view
 	project.newCount
 	advisor.status
-	selected url (currently empty)
+	fix selected url (endpoint not returning anything)
 get client availability for project
+get email content to fill into email
+send email action
+send reminder action
 
 curl:
   curl \
@@ -217,5 +222,6 @@ hours
 		* build out preferences view with logout option
 		* confirm logout
 		* take another look at the api stuff in bitbucket
+		* go over what's remaining
 		
 	
