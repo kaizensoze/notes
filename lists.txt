@@ -1,10 +1,4 @@
 
-lookup book by Michael Scheuer
-find book on background of movie Munich
-check in on Ricochet repo activity
-
-read
-
 pick up shampoo
 usha foods
 
@@ -19,7 +13,8 @@ call capital one about car insurance claim
 schedule dermatologist
 
 work
-  cox-fail
+  decox.py
+  try hyper.sh
   rottentomatoes-for-books
   chip's challenge
   reverse engineer apps
@@ -28,14 +23,15 @@ work
 tv
   Peaky Blinders S01E03
   John Adams
-  The Night Of S01E07 (08/21)
-  Mr Robot S02E07 (08/25)
-  Last Week Tonight S03E22 (08/28)
+  The Night Of S01E08 (08/28)
+  Mr Robot S02E09 (09/01)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
+  Last Week Tonight S03E23 (09/25)
   Goliath (10/14)
 
 movies
+  Sword of Gideon
   Don't Think Twice
   Fermat's Last Theorem
   Imperium
