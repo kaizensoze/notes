@@ -1,10 +1,8 @@
 
-allow for now image on call detail view (manager, client)
-
-fix hardcoded notification message
+clear app icon badge
 
 ask about preferences view for both manager and client (put the ability to logout there?)
-should the calls view autoupdate without requiring a refresh?
+once api call working for calls view, update on appear [and have timer that updates results every minute?]
 
 manager
 	jbarker@guidepointglobal.com
@@ -99,7 +97,7 @@ hours
 	08-02-16 [0]
 	
 	08-03-16
-		* merge master into APPS-14
+		* merge master into APPS-14 and resolve conflicts
 		* normalize view controllers to just ViewController
 		* explicitly set top bar of advisor detail view
 		* create PR
@@ -174,7 +172,7 @@ hours
 	
 	08-19-16 [0]
 	
-	08-21-16 [1]
+	08-21-16
 		* allow leeway for upcoming calls for calls view
 		* allow 5 min leeway so that calls within 5 mins past are still included
       in upcoming calls
@@ -205,13 +203,15 @@ hours
 		* move badge value logic to uiviewcontroller extension
 		* apply notifications to manager notifications view
 		
-	08-24-16 [0.5]
+	08-24-16
 		* consolidate upcoming/completed logic in call model
 		* add eta label to manager calls view
 		* fix call image on advisor detail view
 		* use image2 on call detail view
 		
 	08-25-16
-		
+		* add eta label to manager call detail view
+		* allow now status image on call detail view
+		* go through the api endpoints to check for any updates
 		
 	

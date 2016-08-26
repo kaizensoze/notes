@@ -1,31 +1,26 @@
 
-change address for all services
-cancel mail forwarding
-shower
 guidepoint
-fresh direct
 
-check out meetups
+unclog shower drain
 pick up shampoo
 usha foods
+check out meetups
+sign up for library
 
 time warner installation
 update ios
 brew update
 cancel planet fitness membership
+rewatch mr robot season 2
 
 order faraday tent
 call capital one about car insurance claim
 schedule dermatologist
-rewatch mr robot season 2
 
 work
   cox-fail
-  node-github lucybot
-  wifi mapper
   rottentomatoes-for-books
   chip's challenge
-  go through github starred
   reverse engineer apps
   networking course
 
