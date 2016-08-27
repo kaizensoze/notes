@@ -1,24 +1,26 @@
 
 read
+
+time warner installation
+brew update
+update ios
+download shit
+rewatch mr robot season 2
 decox
 
 pick up shampoo
 usha foods
-
-time warner installation
-update ios
-brew update
 order faraday tent
-cancel planet fitness membership
-rewatch mr robot season 2
 
 call capital one about car insurance claim
 schedule dermatologist
+cancel planet fitness membership
 
 work
   decox.py
   github data: XXX
   try hyper.sh
+  try deepstream.io
   rottentomatoes-for-books
   chip's challenge
   reverse engineer apps
