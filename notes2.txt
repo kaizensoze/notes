@@ -23,6 +23,30 @@ in the 1990s the DEA forged a profitable relationship with the NSA
 JSOC under McChrystal's command similarly turned to the powerful NSA
 IMSI Catcher technology was developed by the NSA
 SCIF member who saw secret JSOC raid logs before they were shredded: "They were really running riot, shooting up rooms-full of people, massacring families, night after night after night."
+$200,000 Seeker, built by Jordanian company, looked like a helicopter and was small and cheap, but squashed. (too cheap and effective, might reduce budget?)
+IEDs detonated by radio waves become a big problem
+Warlock radio jammers are introduced as countermeasure, which quickly become irrelevant as insurgents switch to low-tech methods like a buried command wire
+stigmergic systems use simple environmental signals to coordinate actions of independent agents
+goal was to make it more risky for insurgents to place IEDs
+one attempt was to have the Iraqi cell-phone companies put a random delay of a few seconds for a call to go through
+bullshit Joint IED Defeat Organization (JIEDDO) formed 
+some tried methods: training of bees to detect homemade bombs, sniffer dogs, a molecular sniffer called "Fido"
+most of these programs were useless but expensive
+air force research lab in Dayton, OH hard developed the Gotcha radar system: drone-mounted, remaining aloft for 24 hours or more
+Gotcha was actually a variant on JSTARS
+The MQ9 Reaper drone, General Atomics' successor to the Predator, was introduced in 2005
+the Reaper costs 30M, and 5M/year to maintain; capable of patrolling for up to 30 hours; lasts half that when carrying armaments, and crashes at least twice as often as the manned F-15, F-16 fighters
+a slant: confusing women and children with military aged males
+Northrop's Global Hawk aircraft is junk; can't see clouds, radar is crap, falls apart
+by 2012 even the air force had had enough saying the U2 spy plane could do a better job
+Northrop Grumman's vice president for government relations Sid Ashworth fights back and saves the useless aircraft
+on February 24, 2014 Defense Secretary Chuck Hagel announces a series of stringent cuts to the US military, including the entire force of A-10s, and the U-2 was replaced by the Global Hawk
+Sierra Nevada Corporation touts revolutionary airborne surveillance system called Gorgon Stare, which will transmit live video images of physical movement across an entire town; the thing didn't actually work
+from earlier in book, al-Qaeda was pretty much retired, happy with the US now overseeing Afghanistan, etc., but then the local warlords get chummy with the US military and start selling out competitors/rivals, having them tortured, so all the locals get pissed off and come out of the woodworks to fight again
+Seal Team 6 becomes Navy Special Warfare Development Group (DEVGRU)
+at some point two separate arms of the agency were vying for control of the Predator: the Counterterrorism Center (CTC), and the Special Activities Division; the CTC won out
+once the CTC owned the Predator, they had to get waivers from target countries to use it
+in 2004 the CIA got permission to use it in Pakistan in exchange for the head of a militant tribal strongman in Waziristan named Nek Muhammad Wazir
 
 
 Unbroken, Laura Hillenbrand

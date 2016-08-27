@@ -1,6 +1,5 @@
 
-read
-
+remove aluminum foil crap
 time warner installation
 brew update
 update ios
