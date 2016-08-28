@@ -86,6 +86,7 @@ Oliver Twist, Charles Dickens
 On Killing, Dave Grossman
 Our Band Could Be Your Life, Michael Azerrad
 Perdido Street Station, China Mieville
+Philosophy in the Bedroom, Marquis de Sade
 Plague Dogs, Richard Adams
 Player Piano, Kurt Vonnegut
 Please Kill Me, Legs McNeil
@@ -113,6 +114,7 @@ Tesla: Inventor of the Electrical Age, W. Bernard Carlson
 The Alienist, Caleb Carr
 The Amazing Adventures of Kavalier & Clay, Michael Chabon
 The Better Angels of Our Nature, Steven Pinker
+The Billion Dollar Spy, David E. Hoffman
 The Bonfire of the Vanities, Tom Wolfe
 The Book, Alan Watts
 The Book Thief, Markus Zusak
@@ -137,6 +139,8 @@ The Girl Next Door, Jack Ketchum
 The Girl on the Train, Paula Hawkins
 The Good Earth, Pearl S. Buck
 The Good Soldiers, David Finkel
+The Great Bridge, David McCullough
+The Greater Journey, David McCullough
 The Illustrations from the Works of Andreas Vesalius of Brussels
 The Immortal Life of Henrietta Lacks, Rebecca Skloot
 The Intelligent Investor, Benjamin Graham

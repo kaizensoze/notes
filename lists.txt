@@ -1,13 +1,13 @@
 
-shower
-take out garbage
-read
-
-freshdirect (x2)
-livia stopping by to drop off some things
-pick up shampoo
+nap
+john adams
+freshdirect
 decox
+livia stopping by to drop off some things
+take out garbage
 guidepoint
+
+pick up shampoo
 order faraday tent
 
 library
@@ -27,9 +27,10 @@ work
   networking course
 
 tv
-  Peaky Blinders S01E03
   John Adams
   The Night Of S01E08 (08/28)
+  Peaky Blinders S01E03
+  Corner Gas
   Mr Robot S02E09 (09/01)
   Narcos S02E01 (09/02)
   South Park S17, S20E01 (09/14)
@@ -37,35 +38,32 @@ tv
   Goliath (10/14)
 
 movies
-  Sword of Gideon
+  Imperium [X]
+  Our Kind of Traitor [X]
+  Nerve [X]
+  Dope [X]
+  Jeff Who Lives at Home [X]
+  Pete's Dragon [X]
+  In Bruges [X]
+  The Look of Silence [X]
+  Appropriate Behavior [X]
+  Client 9: The Rise and Fall of Eliot Spitzer [X]
+  Wendy and Lucy [X]
+  Election [X]
+  Ned Rifle [X]
+  Sword of Gideon [X]
+  Arthur Christmas [X]
+  Bellflower [X]
+  Funny Ha Ha [X]
   Don't Think Twice
   Fermat's Last Theorem
-  Imperium
-  Pete's Dragon
-  Ned Rifle
-  Funny Ha Ha
   Passenger Side
-  Bellflower
-  Jeff Who Lives at Home
-  Appropriate Behavior
-  Wendy and Lucy
-  Half Nelson
   Me and You and Everyone we Know
-  Dope
-  In Bruges
-  The Cook, the Thief, His Wife & Her Lover
-  Election
   Black Dynamite
-  Nerve
-  Arthur Christmas
   Tomorrow Night
   Mr Untouchable
-  Client 9: The Rise and Fall of Eliot Spitzer
   Eat That Question: Frank Zappa in His Own Words
-  Our Kind of Traitor
   Traceroute
   Swiss Army Man
-  The Look of Silence
-  The Book of Mormon
-  Lo and Behold, Reveries of the Connected World (08/19)
+  Lo and Behold, Reveries of the Connected World
   Louis Theroux: My Scientology Movie (09/08)
