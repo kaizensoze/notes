@@ -1,3 +1,32 @@
+Future Crimes, Marc Goodman
+====
+The Cutting Sword of Justice, supposedly a front for iran, erases 75% of Saudi Aramco's data
+gps blockers/spoofers
+Max Ray Vision (aka Iceman) from San Francisco stole competition's data and formed CardersMarket
+CloudCracker
+Zeus Builder: capture keystrokes, steal digital certificates ($5-7k)
+Bugat: spoof bank account transfer requests ($1k)
+SpyEye: all features of Zeus and more, antivirus module to detect competitor Zeus ($500)
+Blackshades: advanced RAT available on ongoing rental basis; capture keystrokes, steal passwords, launch DDOS, hijack facebook accounts, remotely turn on 
+             microphone/camera
+also: ExtremeRAT, DarkComet
+Darkcode crime forum
+security firms that sell exploits: Vupen (france), Netragard (massachusetts), Endgame (georgia), Exodus Intelligence (texas), ReVuln (malta)
+advanced persistent threat (APT) is the term for the more stealthy sophisticated attacks
+botnets: Mariposa, Conficker, Koobface, Gameover Zeus, ZeroAccess, Storm.bot 2.0
+ransomware: Gameover Zeus, Reveton Trojan, CryptoLocker
+cryptocurrency: Liberty Reserve, Bitcoin
+Metcalfe's law dictates that the value of a network increases exponentially with the number of nodes or computers attached
+Texas Auto Center's WebTeckPlus black box
+Francis Brown build $400 RFID device that can scan, copy, clone, and steal smart card data
+NFCProxy hacks NFC (near-field communications)
+crooks in New Jersey and San Francisco have hacked NFC turnstiles using app UltraReset, which auto-replenishes any fares deducted by train operators
+Cassidy Wolf sent sextortion email by old high school classmate who used Blackshades
+Foscam incompetent babycam firmware
+microchips in car form the controller area network (CAN)
+CAN hacking tool: $30 device which, when plugged into car's onboard computer network, allows attacker to remotely seize control of vehicle's lights, locks, and steering brake systems
+conversnitch is a light bulb with a microphone that live tweets nearby conversations
+
 Kill Chain, Andrew Cockburn
 ====
 Predator invented by Israeli Avraham Karem
@@ -62,9 +91,29 @@ Baitullah was nurturing a Jordanian jihadi doctor and blogger named Humam Balawi
 Balawi was invited to CIA base Khost, blew up seven CIA
 Hakimullah later killed, but it helped increase Mehsud's rivals, the Haqqanis
 Hakimullah's replacement was Maulana Fazlullah known as Mullah Radio for pronouncing beheadings for infractions of sharia law such as polio vaccinations
-
-
-
+the CIA and JSOC move on to Yemen
+Ali Abdullah Saleh, Yemen's corrupt dictator since 1978 has fun feeding the CIA and JSOC bad info
+Jaber al-Shabwani, deputy governor of Marib province, mistakenly killed by drone strike based on bad info
+Jaber al-Shabwani was a cousn of Ayer al-Shabwani, a prominent local al-Qaeda leader
+Shabwani's father, Sheikh Ali al-Shabwani, in retaliation, leads his tribe in blowing up section of trans-Yemen oil pipeline
+Washington suspends drone operations in Yemen for a year
+Anwar al-Awlaki added to CIA's kill list in April 2011, meanwhile everyone knew where he was and no one arrested him
+Justice Department lawyers cook up justification for killing Awlaki
+the Israeli Supreme Court ruled in Dec 2006 that targeted preventions would be legal in certain cases when absolutely necessary, but, according to IDF whistle-blower Anat Kamm, the Israeli military routinely disregarded the judgement anyway; Kamm sentenced to 4.5 years in prison
+Awlaki killed in Sep 2011 and his son killed two weeks later at a restaurant where a high-value target Ibrahim al-Banna was thought to be eating
+Awlaki was a target due to connection to two failed attempts to explode bombs on American planes, and his mentoring of Nidal Malik Hasan, the army psychiatrist accused of killing 13 people at Fort Hood, Texas in Nov 2009
+Saleh hands the land to al-Qaeda and then starts bombing them along with the US
+Saleh replaced by Abd Rubbah Mansour Hadi
+in general, it would've been a lot safer to just go in and arrest people rather than kill them [and nearby civilians] with drones
+ISR = Intelligence, surveillance and reconnaissance, acquisition and processing of military intelligence
+in first decade of 21st century, new acronym entered military jargon: A2/AD, antiaccess/area denial (strong defenses against US incursions)
+RQ-170 stealth drone nicknamed "the Beast of Kandahar"
+General Atomics got 2 billion from the Pentagon in 2013 (0.68% of US defense contracts that year), small compared to 37 billion brought in by leading contractor Lockheed Martin
+prime contractors, the five giant firms that emerged from mergers of early 1990s, not interested in General Atomics' drones since they didn't net that much per unit
+RQ-180, like the Beast, operated jointly by the air force and CIA
+the RQ-180 was just surveillance; a drone designed to do a bunch of things was desired so the US Navy put out a 3.7 billion contract
+in 2009 Shia insurgents in Iraq used SkyGrabber software (29.95) to capture and download Predator video feeds
+in Dec 2011 an RQ-170 landed in Iran and the Iranian Revolutionary Guard put it on display
 
 Unbroken, Laura Hillenbrand
 ====
@@ -724,34 +773,6 @@ American Machine and Foundry creates first commercially available robot Versatra
 Rise of the Robots, Martin Ford
 ====
 “I find it somewhat ironic that many conservatives in the United States are adamant about securing the border against immigrants who will likely take jobs that few Americans want, while at the same time expressing little concern that the virtual border is left completely open to higher-skill workers who take jobs that Americans definitely do want.”
-
-Future Crimes, Marc Goodman
-====
-The Cutting Sword of Justice, supposedly a front for iran, erases 75% of Saudi Aramco's data
-gps blockers/spoofers
-Max Ray Vision (aka Iceman) from San Francisco stole competition's data and formed CardersMarket
-CloudCracker
-Zeus Builder: capture keystrokes, steal digital certificates ($5-7k)
-Bugat: spoof bank account transfer requests ($1k)
-SpyEye: all features of Zeus and more, antivirus module to detect competitor Zeus ($500)
-Blackshades: advanced RAT available on ongoing rental basis; capture keystrokes, steal passwords, launch DDOS, hijack facebook accounts, remotely turn on 
-             microphone/camera
-also: ExtremeRAT, DarkComet
-Darkcode crime forum
-security firms that sell exploits: Vupen (france), Netragard (massachusetts), Endgame (georgia), Exodus Intelligence (texas), ReVuln (malta)
-advanced persistent threat (APT) is the term for the more stealthy sophisticated attacks
-botnets: Mariposa, Conficker, Koobface, Gameover Zeus, ZeroAccess, Storm.bot 2.0
-ransomware: Gameover Zeus, Reveton Trojan, CryptoLocker
-cryptocurrency: Liberty Reserve, Bitcoin
-Metcalfe's law dictates that the value of a network increases exponentially with the number of nodes or computers attached
-Texas Auto Center's WebTeckPlus black box
-Francis Brown build $400 RFID device that can scan, copy, clone, and steal smart card data
-NFCProxy hacks NFC (near-field communications)
-crooks in New Jersey and San Francisco have hacked NFC turnstiles using app UltraReset, which auto-replenishes any fares deducted by train operators
-Cassidy Wolf sent sextortion email by old high school classmate who used Blackshades
-Foscam incompetent babycam firmware
-microchips in car form the controller area network (CAN)
-CAN hacking tool: $30 device which, when plugged into car's onboard computer network, allows attacker to remotely seize control of vehicle's lights, locks, and steering brake systems
 
 A Short History of Nearly Everything, Bill Bryson
 ====

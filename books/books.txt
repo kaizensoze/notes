@@ -26,7 +26,6 @@ Chaos in Kabul, Gérard de Villiers
 Chaos Monkeys, Antonio Garcia Martinez
 Cloud Atlas, David Mitchell
 Confessions of an Economic Hit Man, John Perkins
-Conscious Capitalism, John Mackey
 Contact, Carl Sagan
 Cosmos, Carl Sagan
 Coup d'État: A Practical Handbook, Edward N. Luttwak
@@ -64,7 +63,6 @@ Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Pau
 Inside Isis, Benjamin Hall
 Ishmael, Daniel Quinn
 Islamic State: The Digital Caliphate, Abdel Bari Atwan
-Kill Chain, Andrew Cockburn
 Kissinger: A Biography, Walter Isaacson
 Let's Pretend This Never Happened, Jenny Lawson
 Leviathan Wakes, James Corey
@@ -401,3 +399,5 @@ Made in the USA, Vaclav Smil
 Rise of the Robots, Martin Ford
 Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
 Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hillenbrand
+Kill Chain, Andrew Cockburn
+Conscious Capitalism, John Mackey
