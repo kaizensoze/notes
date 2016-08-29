@@ -6,6 +6,7 @@ verify time warner refund on card
 order faraday tent
 cancel planet fitness membership
 schedule dermatologist
+catch up on CYBERWAR series
 
 work
   decox.py

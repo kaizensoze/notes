@@ -836,3 +836,313 @@ let p2 = Point.fromDict(dict2)
 ios
 ====
 if you want to persist search session when going back to view, need to enable "Defines Context" in view controller
+
+fully anonymous messaging (doesn't require phone number)
+  ricochet
+  threema
+
+linux security
+  SELinux
+  AppArmor
+  Grsecurity
+
+advanced persistent threats
+  TAO (US)
+  Sofacy Group / APT28 / Pawn Storm (Russia)
+  Dragonfly / Energetic Bear (Eastern Europe)
+  Unit 61398 / Comment Crew / Putter Panda (China)
+  Hidden Lynx (China)
+  Axiom (China)
+  Tarh Andishan (Iran)
+  Ajax Security Team / Flying Kitten (Iran)
+  Bureau 121 (North Korea)
+  Unit 8200 (Israel)
+
+food shopping
+  Whole Foods (2101 Northern Blvd, Manhasset, NY 11030) [10PM]
+
+places with arctic zero ice cream
+  King Kullen (1430 Northern Blvd, Manhasset, NY 11040) [12AM]
+  Natural Food (140 7th St, Garden City, NY 11530)
+  King Kullen (1430 Northern Blvd, Manhasset, NY 11040)
+  King Kullen (231 w merrick rd)
+
+arctic zero ice cream
+  cake batter
+  orange dream
+
+24 hour long island places
+  king kullen (231 w merrick rd) [weekdays only]
+  king kullen (127 sunrise hwy) [weekdays only]
+  desi food (351 North Central Avenue)
+
+interesting eleventh hope talks
+  Security Options for High Risk Travelers
+  LinkNYC Spy Stations
+  FOIA and Public Records Hacking: How to Complete a FOIA Request or Dox Yourself via the Privacy Act
+
+interesting defcon talks
+  Toxic Proxies - Bypassing HTTPS and VPNs to Pwn Your Online Identity
+  Machine Duping 101: Pwning Deep Learning Systems
+  Feds and 0Days: From Before Heartbleed to After FBI-Apple
+  Discovering and Triangulating Rogue Cell Towers
+  Honey Onions: Exposing Snooping Tor HSDir Relays
+  How to Overthrow a Government
+  I've got 99 Problems, but LittleSnitch ain't one
+  Attacking Network Infrastructure to Generate a 4 Tb/s DDoS for $5
+  Abusing Bleeding Edge Web Standards for AppSec Glory
+  Project CITL
+  Realtime Bluetooth Device Detection with Blue Hydra
+
+torrents
+  what.cd
+  waffles.fm
+
+overthewire
+  http://natas11.natas.labs.overthewire.org/
+  U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
+  /etc/natas_webpass/natas11
+  
+estimated tax deadlines
+  Q1 April 15, 2014
+  Q2 June 15, 2014
+  Q3 September 15, 2014
+  Q4 January 15, 2015
+  
+places
+  bakery
+    Bakeri
+    Buttermilk Bakery
+    Sugar Couture
+    Du Jour Bakery
+    Margaret Palca Bakes
+    Betty Bakery
+    Court Street Pastry Shoppe
+    Caprice's by Sophie
+    Napoli Bakery
+    Mazzola Bakery
+    Four & Twenty Blackbirds
+  sandwiches
+    Court Street Grocers
+    Defontes
+    Original John's Deli
+  coffee
+    Toby's Estate
+    Otha's
+    The West
+    The Mill Coffee Company
+
+techorgs
+  hackNY
+  techstars
+  dogpatch labs
+  linkedlist nyc
+  braindump
+  alpha one labs
+  nycresistor
+  
+conferences
+  (01/16) shmoocon
+  (01/25) usenix enigma
+  (03/18) cansecwest
+  (03/18) pwn2own
+  (05/05) thotcon
+  (06/08) dotscale
+  (06/12) circlecitycon
+  (06/13) wwdc
+  (06/xx) summercon
+  (07/09) toorcamp
+  (07/22) H.O.P.E
+  (08/01) blackhat
+  (08/04) defcon
+  (08/13) chaos communication camp (every 4 years)
+  (09/21) derbycon
+  (09/22) appsec
+  (09/26) .conf
+  (10/21) toorcon
+  (12/27) chaos communication congress (C3)
+
+noteworthy books
+  A Confederacy of Dunces, John Kennedy Toole
+  Age of Ambition, Evan Osnos
+  All's Quiet on the Western Front, Erich Maria Remarque
+  Angler: The Cheney Vice Presidency, Barton Gellman
+  Confront and Conceal, David E. Sanger
+  Countdown to Zero Day, Kim Zetter
+  Dark Pools, Scott Patterson
+  Do No Harm, Henry Marsh
+  Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
+  Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
+  End This Depression Now!, Paul Krugman
+  Future Crimes, Marc Goodman
+  Ghost in the Wires, Kevin Mitnick
+  Hackers, Steven Levy
+  Ham on Rye, Charles Bukowski
+  Just Kids, Patti Smith
+  Kitchen Confidential, Anthony Bourdain
+  No Good Men Among the Living, Anand Gopal
+  Siddhartha, Herman Hesse
+  The Curious Incident Of the Dog In The Night Time, Mark Haddon
+  The Innovators, Walter Isaacson
+  The Rats in the Walls, H. P. Lovecraft
+  The Shadow Factory, James Bamford
+  The Unwinding, George Packer
+  The Way of the Knife, Mark Mazzetti
+  This Machine Kills Secrets, Andy Greenberg
+  Unbroken, Laura Hillenbrand
+  Voltaire's Bastards, John Ralston Saul
+  Wired for War, P.W. Singer
+
+noteworthy movies
+  Idiocracy
+  The Princess Bride
+  The Thing
+  This Is Spinal Tap
+
+github issue labels to search for to contribute
+  help wanted
+  help-wanted
+  good first bug
+  Help Wanted
+  contribution welcome
+  ----------------------
+  HelpWanted
+  first time contributor
+  Contributor Friendly
+  Good First Task
+  beginner friendly
+  good first contribution
+  Good for New Contributors
+  pull request wanted
+
+donuts
+  Portland, OR
+    Voodoo Donuts
+    Blue Star Donuts
+  Boise, ID
+    Guru Donuts
+  Des Moines, IA
+    Donut Hut
+    
+music
+  65daysofstatic
+  a;GRUMH
+  aereogramme
+  and you will know us by the trail of dead
+  animals as leaders
+  arcade fire
+  arch enemy
+  asobi seksu
+  ataxia
+  bear in heaven
+  beatles
+  bjork
+  blood & batteries
+  boccherini
+  borknagar
+  brahms
+  built to spill
+  chapterhouse
+  colin marston
+  coma recovery
+  copy
+  cradle of filth
+  crutch
+  cymbals eat guitars
+  daft punk
+  dance gavin dance
+  dark night of the soul
+  dark tranquility
+  dear hunter
+  death stars
+  die krupps
+  dresden dolls
+  drive like jehu
+  efterklang
+  el ten eleven
+  the enemy
+  ennis tola
+  escape the fate
+  esmerine
+  facing new york
+  a five and dime ship
+  fly pan am
+  form & fate
+  fountain soundtrack
+  front line assembly
+  fugazi
+  funeral party
+  gifts from enola
+  god is an astronaut
+  grand silent system
+  hrsta
+  jack and kim
+  john frusciante
+  judgement day
+  katatonia
+  kinski
+  kreator
+  kronos quartet NIN cover
+  Leiahdorus
+  liquid divine
+  M83
+  mae
+  marty friedman
+  mascagni
+  maserati
+  meanwhile, back in communist russia
+  melotron
+  the mercury project
+  metric
+  mexico 1910
+  morrissey
+  mozart
+  Mt.
+  mute math
+  neuroticfish
+  ok go
+  opeth
+  ours to alibi
+  patrick wolf
+  playradioplay!
+  pinback
+  primal fear
+  the receiving end of sirens
+  ra ra riot
+  russian circles
+  samuel jackson five
+  saxon shore
+  secret machines
+  Sickoakes
+  the smiths
+  the sounds
+  stabilizer
+  survival research labs
+  the downer party
+  the subways
+  terminator soundtrack
+  theta naught
+  this will destroy you
+  tosin abasi
+  tristeza
+  tsunami bomb
+  vnv
+  we vs. death
+  wumpscut
+  Yndi Halda
+  you.may.die.in.the.desert
+  
+geologic periods
+  cambrian
+  ordovician
+  silurian
+  devonian
+  carboniferous
+  permian
+  triassic
+  jurassic
+  cretaceous
+  tertiary
+  pleistocene
+  holocene (since last ice age)
+  anthropocene?
