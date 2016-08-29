@@ -1,792 +1,838 @@
-The Secret Sentry, Matthew Aid
+08/25/16: Just a reminder. Like clockwork, immediately, my brain just freezes up with horrible "brain fog". I pretty much feel high and/or retarded. For two days or so I felt perfectly fine. Digestive system/appetite normal. All of a sudden hungry as hell, brain fog, inability to concentrate. This is awful.
+
+company/startup thoughts
 ====
-in a sense Brigadier General Carter Clarke was the founding father ot the NSA
-Clarke's Special Branch was a part of the Army G-2 in the Pentagon created after Pearl Harbor, the unit to which all intercepts were sent for analysis
-the army's SIGINT organization, the Signal Security Agency (SSA), was a separate field agency that was (until 1944) part of the Army Signal Corps
-when Clarke took command of the Special Branch of Army G-2 in May 1942, they were able to read the top Japanese comms helping win the battle of Midway
-they worked with Britain's Bletchley Park
-the US was reading the codes of more than 40 countries, including allies and the Axis
-before the end of the war Clarke knew the Soviet Union would be the next main enemy and ordered to begin cracking Russian codes in Jan 1943
-the Navy had its own code-breaking operations headquartered in Washington
+our attention spans are so short these days we might want to rethink the way we launch websites/products
+examples
+    pokemon go
+    draw something
 
-
-
-Future Crimes, Marc Goodman
+guitar
 ====
-The Cutting Sword of Justice, supposedly a front for iran, erases 75% of Saudi Aramco's data
-gps blockers/spoofers
-Max Ray Vision (aka Iceman) from San Francisco stole competition's data and formed CardersMarket
-CloudCracker
-Zeus Builder: capture keystrokes, steal digital certificates ($5-7k)
-Bugat: spoof bank account transfer requests ($1k)
-SpyEye: all features of Zeus and more, antivirus module to detect competitor Zeus ($500)
-Blackshades: advanced RAT available on ongoing rental basis; capture keystrokes, steal passwords, launch DDOS, hijack facebook accounts, remotely turn on 
-             microphone/camera
-also: ExtremeRAT, DarkComet
-Darkcode crime forum
-security firms that sell exploits: Vupen (france), Netragard (massachusetts), Endgame (georgia), Exodus Intelligence (texas), ReVuln (malta)
-advanced persistent threat (APT) is the term for the more stealthy sophisticated attacks
-botnets: Mariposa, Conficker, Koobface, Gameover Zeus, ZeroAccess, Storm.bot 2.0
-ransomware: Gameover Zeus, Reveton Trojan, CryptoLocker
-cryptocurrency: Liberty Reserve, Bitcoin
-Metcalfe's law dictates that the value of a network increases exponentially with the number of nodes or computers attached
-Texas Auto Center's WebTeckPlus black box
-Francis Brown build $400 RFID device that can scan, copy, clone, and steal smart card data
-NFCProxy hacks NFC (near-field communications)
-crooks in New Jersey and San Francisco have hacked NFC turnstiles using app UltraReset, which auto-replenishes any fares deducted by train operators
-Cassidy Wolf sent sextortion email by old high school classmate who used Blackshades
-Foscam incompetent babycam firmware
-microchips in car form the controller area network (CAN)
-CAN hacking tool: $30 device which, when plugged into car's onboard computer network, allows attacker to remotely seize control of vehicle's lights, locks, and steering brake systems
-conversnitch is a light bulb with a microphone that live tweets nearby conversations
+misc:
+    seventh chords:
+    7-    1,3,5,m7
+    M7-   1,3,5,7
+    m7-   1,m3,5,m7
+    dim7- 1,m3,d5,d7
+    mM7 - 1,m3,5,7
 
-Kill Chain, Andrew Cockburn
+chords:
+
+scales:
+    Major
+    XX--
+    -X-X
+    X-XX
+    X-XX
+    XX-X
+    -X-X
+
+    Natural Minor
+    -X--- 
+    -XX-X
+    XX-X-
+    -X-X-
+    -X-XX
+    -X-XX
+
+    Harmonic Minor
+    XX---
+    -XX--
+    XX-X- 
+    --XX-
+    -X-XX
+    -X-XX
+
+    Pentatonic Neutral
+    -X---
+    -X--X
+    X--X-
+    -X-X-
+    -X-X-
+    -X-X-
+    
+    Pentatonic Major
+    -X--
+    -X-X
+    X-X-    
+    X--X
+    X--X
+    -X-X
+
+    Pentatonic Minor
+    X---
+    X--X
+    X-X-
+    X-X-
+    X-X-
+    X--X
+
+    Pentatonic Blues
+    X---
+    X--X
+    X-XX
+    X-X-
+    XXX-
+    X--X
+        
+    Dorian
+    -X---
+    -X-XX
+    XX-X-
+    XX-X-
+    -X-X-
+    -X-XX
+
+    Phrygian
+    X---    
+    XX-X
+    X-X-
+    X-XX
+    X-XX
+    XX-X
+
+    Lydian
+    XX--
+    XX-X
+    X-X-
+    X-XX
+    X-XX
+    -X-X
+
+    Mixolydian
+    -X---
+    -X-XX
+    X-XX-
+    XX-X-
+    XX-X-
+    -X-X-
+
+    Locrian
+    X---
+    -X-X
+    X-XX
+    X-XX
+    XX-X
+    XX-X
+
+to figure out scale:
+    just remember the step intervals
+    tonic supertonic mediant subdominant dominant submediant leading/subtonic
+
+to figure out key conversions:
+    a flat is -1, a sharp is +1
+    C -> C#: +7
+    C -> Cb: -7
+    C(major) -> c(minor): -3
+
+to remember order of sharps:
+    Father Charles Goes Down And Ends Battle
+
+to remember order of flats:
+    Battle Ends And Down Goes Charles' Father
+
+to figure out chords:
+    just remember note intervals
+
+scale steps:
+Major:      WWHWWWH
+Dorian:     WHWWWHW
+Phrygian:   HWWWHWW
+Lydian:     WWWHWWH
+Mixolydian: WWHWWHW
+Minor:      WHWWWHW
+Locrian:    HWW
+
+interview assignment
 ====
-Predator invented by Israeli Avraham Karem
-GPS, designed primarily by inventor Roger L. Easton, consists of 31 satellites, each passing overhead at an altitude of 12,600 miles twice a day
-satellites' orbits ensure that, at any one time, at least 4 satellites are in line of sight from any point on the planet
-Special Operations Executive (SOE), clandestine British warfare agency set up by Winston Churchill in 1940
-not everyone was on board to kill Hitler. Colonel Ronald Thornley said he would be canonized and it would look bad resorting to such low methods
-SOE was fairly ineffective
-early CIA: "swashbuckling of the worst kind"
-according to Castro's longtime bodyguard, Fabien Escalante, there were no less than 638 attempts on Castro's life, most of them by the CIA
-according to Bissell, the order to set up an assassination squad known as Special Group (Augmented) came directly from National Security Advisor McGeorge Bundy and his deputy Walt Rostow
-President Ford banned assassinations with Executive Order 11905 in 1976 stating that "No employee of the United States government shall engage in, or conspire to engage in, political assassination"
-Mir Aimal Kasi, a Pakistani who gunned down CIA employees on their way into work at Langley in 1993
-CIA knew about future 9/11 hijackers al-Midhar and al-Hazmi and that they had a multiple-entry visa for the US, but didn't pass info to FBI
-they then knew that they were in the US but didn't tell FBI due to petty dislike of chief of FBI National Security Division in New York, John O'Neill
-al-Midhar and al-Hazmi rented a fucking room from an FBI informant
-JSTARS = Joint Surveillance Target Attack Radar System, originally developed to track Soviet armored divisions racing across the plains of northern Europe by collecting radar images of moving objects and processing them with on-board computers in order to target the advanced formations (never worked properly)
-Operation Anaconda doesn't go very well
-new model of satellite phone for civilians in middle east, the Thuraya, had a GPS system that was not very accurate (within a 100m distance)
-for a targeted kill, civilians could be killed but not that many without clearance from higher authority. The number was <30
-when clearance was requested to kill more civilians, no case was refused
-in the 1990s the DEA forged a profitable relationship with the NSA
-JSOC under McChrystal's command similarly turned to the powerful NSA
-IMSI Catcher technology was developed by the NSA
-SCIF member who saw secret JSOC raid logs before they were shredded: "They were really running riot, shooting up rooms-full of people, massacring families, night after night after night."
-$200,000 Seeker, built by Jordanian company, looked like a helicopter and was small and cheap, but squashed. (too cheap and effective, might reduce budget?)
-IEDs detonated by radio waves become a big problem
-Warlock radio jammers are introduced as countermeasure, which quickly become irrelevant as insurgents switch to low-tech methods like a buried command wire
-stigmergic systems use simple environmental signals to coordinate actions of independent agents
-goal was to make it more risky for insurgents to place IEDs
-one attempt was to have the Iraqi cell-phone companies put a random delay of a few seconds for a call to go through
-bullshit Joint IED Defeat Organization (JIEDDO) formed 
-some tried methods: training of bees to detect homemade bombs, sniffer dogs, a molecular sniffer called "Fido"
-most of these programs were useless but expensive
-air force research lab in Dayton, OH hard developed the Gotcha radar system: drone-mounted, remaining aloft for 24 hours or more
-Gotcha was actually a variant on JSTARS
-The MQ9 Reaper drone, General Atomics' successor to the Predator, was introduced in 2005
-the Reaper costs 30M, and 5M/year to maintain; capable of patrolling for up to 30 hours; lasts half that when carrying armaments, and crashes at least twice as often as the manned F-15, F-16 fighters
-a slant: confusing women and children with military aged males
-Northrop's Global Hawk aircraft is junk; can't see clouds, radar is crap, falls apart
-by 2012 even the air force had had enough saying the U2 spy plane could do a better job
-Northrop Grumman's vice president for government relations Sid Ashworth fights back and saves the useless aircraft
-on February 24, 2014 Defense Secretary Chuck Hagel announces a series of stringent cuts to the US military, including the entire force of A-10s, and the U-2 was replaced by the Global Hawk
-Sierra Nevada Corporation touts revolutionary airborne surveillance system called Gorgon Stare, which will transmit live video images of physical movement across an entire town; the thing didn't actually work
-from earlier in book, al-Qaeda was pretty much retired, happy with the US now overseeing Afghanistan, etc., but then the local warlords get chummy with the US military and start selling out competitors/rivals, having them tortured, so all the locals get pissed off and come out of the woodworks to fight again
-Seal Team 6 becomes Navy Special Warfare Development Group (DEVGRU)
-at some point two separate arms of the agency were vying for control of the Predator: the Counterterrorism Center (CTC), and the Special Activities Division; the CTC won out
-once the CTC owned the Predator, they had to get waivers from target countries to use it
-in 2004 the CIA got permission to use it in Pakistan in exchange for the head of a militant tribal strongman in Waziristan named Nek Muhammad Wazir
-Cofer Black and Jose Rodriguez kinda go nutso with the torture stuff
-Rodriguez replaced by Robert Grenier who was fired for opposing the torture/rendition shit (he really wasn't against it, just didn't think it was being done right)
-Grenier replaced by "Mike" (Michael D'Andrea)
-Alec Station, the unit set up in 1996 to hunt Osama bin Laden, was abolished in 2006, but was actually just renamed
-growing scale of the Tehrik-i-Taliban (Pakistani Taliban known as TTP)
-two rival tribes in Pakistan: the Mehsuds and the Wazirs
-Mehsud were dubbed the wolves due to their ferociousness
-the Wazirs were at peace with the Pakistani government and more interested in fighting the US in Afghanistan
-the CIA were more interested in the Wazirs until the NSA picked up a phone call that Baitullah Mehsud of the Mehsud had a nuclear weapon; it was concluded he had a dirty bomb
-Baitullah Mehsud had attacked the Sri Lankan cricket team and a police academy in Lahore
-Baitullah killed and replaced by his more capable cousin Hakimullah
-Baitullah was nurturing a Jordanian jihadi doctor and blogger named Humam Balawi, who convinced Jordanian intelligence he was a double agent
-Balawi was invited to CIA base Khost, blew up seven CIA
-Hakimullah later killed, but it helped increase Mehsud's rivals, the Haqqanis
-Hakimullah's replacement was Maulana Fazlullah known as Mullah Radio for pronouncing beheadings for infractions of sharia law such as polio vaccinations
-the CIA and JSOC move on to Yemen
-Ali Abdullah Saleh, Yemen's corrupt dictator since 1978 has fun feeding the CIA and JSOC bad info
-Jaber al-Shabwani, deputy governor of Marib province, mistakenly killed by drone strike based on bad info
-Jaber al-Shabwani was a cousn of Ayer al-Shabwani, a prominent local al-Qaeda leader
-Shabwani's father, Sheikh Ali al-Shabwani, in retaliation, leads his tribe in blowing up section of trans-Yemen oil pipeline
-Washington suspends drone operations in Yemen for a year
-Anwar al-Awlaki added to CIA's kill list in April 2011, meanwhile everyone knew where he was and no one arrested him
-Justice Department lawyers cook up justification for killing Awlaki
-the Israeli Supreme Court ruled in Dec 2006 that targeted preventions would be legal in certain cases when absolutely necessary, but, according to IDF whistle-blower Anat Kamm, the Israeli military routinely disregarded the judgement anyway; Kamm sentenced to 4.5 years in prison
-Awlaki killed in Sep 2011 and his son killed two weeks later at a restaurant where a high-value target Ibrahim al-Banna was thought to be eating
-Awlaki was a target due to connection to two failed attempts to explode bombs on American planes, and his mentoring of Nidal Malik Hasan, the army psychiatrist accused of killing 13 people at Fort Hood, Texas in Nov 2009
-Saleh hands the land to al-Qaeda and then starts bombing them along with the US
-Saleh replaced by Abd Rubbah Mansour Hadi
-in general, it would've been a lot safer to just go in and arrest people rather than kill them [and nearby civilians] with drones
-ISR = Intelligence, surveillance and reconnaissance, acquisition and processing of military intelligence
-in first decade of 21st century, new acronym entered military jargon: A2/AD, antiaccess/area denial (strong defenses against US incursions)
-RQ-170 stealth drone nicknamed "the Beast of Kandahar"
-General Atomics got 2 billion from the Pentagon in 2013 (0.68% of US defense contracts that year), small compared to 37 billion brought in by leading contractor Lockheed Martin
-prime contractors, the five giant firms that emerged from mergers of early 1990s, not interested in General Atomics' drones since they didn't net that much per unit
-RQ-180, like the Beast, operated jointly by the air force and CIA
-the RQ-180 was just surveillance; a drone designed to do a bunch of things was desired so the US Navy put out a 3.7 billion contract
-in 2009 Shia insurgents in Iraq used SkyGrabber software (29.95) to capture and download Predator video feeds
-in Dec 2011 an RQ-170 landed in Iran and the Iranian Revolutionary Guard put it on display
+two parts
 
-Unbroken, Laura Hillenbrand
+1) build
+grab json from a url you have control over
+load it into a collection view
+specify layout specs that would require overriding collection view layout methods (minimumInter...)
+tapping into collection view shows very basic detail view
+
+2) debug
+change some of the code they submit
+change some of the json returned by the url
+
+key things to mention on giving the assignment:
+  "Treat this as the beginning of a large project as opposed to a one-off assignment."
+
+amino acids
 ====
-in the 1930s, the US was obsessed with eugenics (it wasn't just germany)
-the feared japanese Zero plane
-1937: Rape of Nanking
-wet beriberi affects the heart and circulatory system, causing edema; it also caused extreme swelling of the scrotum to the size of bread loaves
-dry beriberi affects the nervous system, causing numbness, confusion, unsteady gait, and paralysis
-B-17: flying fortress
-B-29: superfortress
-Mutsuhiro Watanabe war criminal who essentially got away
-In 1951 Allies and Japan signed the Treaty of Peace, ending the occupation and waiving the right of former POWs and their families to seek reparations
+amino acids
+  alanine
+  arginine
+  asparagine
+  aspartic acid
+  cysteine
+  glutamine
+  glutamic acid
+  glycine
+  histidine
+  isoleucine
+  leucine
+  lysine
+  methionine
+  phenylalanine
+  proline
+  serine
+  threonine
+  tryptophan
+  tyrosine
+  valine
 
-The Signal and the Noise, Nate Silver
+proteins
+  amino acids
+carbohydrates
+  monosaccharides
+    glucose
+    fructose
+    galactose
+    mannose
+    tagatose
+    ribose
+    deoxyribose
+    xylose
+  disaccharides
+    sucrose
+    lactose
+    lactulose
+    maltose
+    trehalose
+    cellobiose
+    chitobiose
+  oligosaccharides
+    fructo-oligosaccharides
+    galactooligosaccharides
+    mannan oligosaccharides
+  polysaccharides
+    starch
+    cellulose
+    glycogen
+    inulin
+    pectin
+lipids
+  fatty acids
+    eicosanoids
+    fatty esters
+      wax esters
+    fatty amides
+      N-acyl ethanolamines
+  glycerolipids
+    triglycerides
+  glycerophospholipids (phospholipids)
+    lecithin (phosphatidylcholine)
+  sphingolipids
+  sterol lipids
+    cholesterol
+    C18
+      estrogen
+        estradiol
+    C19
+      androgens
+        testosterone
+        androsterone
+    C21
+      progestogens
+        progesterone
+      glucocorticoids
+        cortisol
+    secosteroid
+      cholecalciferol (vitamin D3)
+    bile acids
+    phytosterols
+    ergosterols
+  prenol lipids
+    isoprenoids
+      carotenoids
+    quinones, hydroquinones
+      vitamin E, K
+      ubiquinones
+  saccharolipids
+  polyketides
+    erythromycin
+    tetracyclines
+    avermectins
+    antitumor epothilones
+
+metabolic pathways
+  http://ketopia.com/metabolic-pathways/
+  TODO: look into other metabolic pathway charts
+
+protein -> amino acids (protein catabolism aka proteolysis)
+
+TODO: look into protein hydrolysis
+
+glutamate -> proline
+tryptophan -> indole
+
+damascenone <- carotenoid
+damascenone: roses
+
+amino acid catabolism
+protein hyrolysis
+
+linux
 ====
-risk is something you can put a price on (e.g. knowing your odds in poker)
-uncertainty is risk that is hard to measure
+3 main layers
+  user-space
+    applications
 
-Legacy of Ashes, Tim Weiner
+  kernel-space
+    system call interface
+    kernel subsystems
+    device drivers
+
+  hardware
+
+each processor doing 1 of 3 things at any given moment:
+  * in user-space, executing user code in a process
+  * in kernel-space, in process context, executing on behalf of a specific process
+  * in kernel-space, in interrupt context, not associated with process, handling an interrupt
+
+major.minor.revision.stable (ex: 2.6.26.1)
+minor odd -> development
+minor even -> stable
+
+kernel does not have access to libc or standard headers
+kernel has its own equivalent of functions (ex: printk instead of printf)
+
+use of inline functions for performance optimization (use sparingly; ex: static inline void wolf(unsigned long tail_size) )
+use of inline assembly
+branch annotation (ex: unlikely(error), likely(success) )
+float point discouraged in kernel
+small, fixed-size stack
+
+task list: circular doubly linked list
+each element is a process descriptor of type struct task_struct {
+  unsigned long state
+  int prio
+  struct task_struct *parent
+  struct list_head tasks
+  pid
+  ...
+}
+task_struct allocated via slab allocator
+at the end of kernel stack of each process is the struct thread_info {
+  struct task_struct *task
+  struct exec_domain *exec_domain
+  __u32 flags
+  __u32 status
+  __u32 cpu
+  int preempt_count
+  ...
+}
+current macro for process descriptor of currently executing task = current_thread_info()->task
+process descriptor states
+  TASK_RUNNING: process currently running or on runqueue (only state possible for process executing in user-space)
+  TASK_INTERRUPTIBLE: process is sleeping
+  TASK_UNINTERRUPTIBLE: process is sleeping but doesn't wake up when signalled
+  __TASK_TRACED: process is being traced
+  __TASK_STOPPED: process has stopped; not running and not eligible to run
+change task state with set_task_state(task, state)
+all processes descendants of init process, whose PID is one
+for_each_process() iterates over entire task list
+
+linked list funkiness
+list_for_each()
+list_for_each_entry()
+list_entry()
+
+scheduler classes
+  SCHED_NORMAL
+    handled by CFS
+    CFS uses the scheduler entity struct, struct sched_entity {
+      ...
+      on_rq
+      ...
+      vruntime
+      ...
+    }
+    vruntime: amount of time spent running normalized by the number of runnable processes
+
+process priority
+  real-time (0 to 99)
+  nice (-20 to 19)
+
+
+blackjack
 ====
-Office of Strategic Services (OSS) (1942-1945)
-  formed during FDR
-  under William Donovan ("Wild Bill")
-Operation PAPERCLIP: poach Nazi talent so Soviets can't; group led by General Reinhard Gehlen (Aug 1945 - )
-SSU [forms in attempt to salvage disbanded OSS] (1945)
-two rival camps form
-  espionage: Richard Helms
-  covert: Frank Wisner
-Truman forms Central Intelligence Group (CIG), with Sidney Souers as director (Jan 1946)
-George Kennan pens "long telegram" warning of soviet threat, giving rise to Truman Doctrine, Marshall Plan, CIA (Feb 1946)
-Hoyt Vandenberg takes over as director (June 1946)
-Truman gives his speech: Truman Doctrine (Mar 1947)
-Roscoe Hillenkoetter becomes director (May 1947)
-congressional committee secret hearings start that will lead to formal creation of CIA (Jun 1947)
-Truman signs National Security Act of 1947, creating air force as separate service, led by Vandenberg, a new National Security Council (NSC), office of Secretary of Defense (James Forrestal), and the CIA (Sept 1947)
-NSC issues secret orders to CIA to do covert ops; CIA sets sights on upcoming Italian elections set for Apr 1948 (Dec 1947)
-communists take over Czechoslovakia (Mar 1948)
-cable sent to pentagon suspecting soviet attack imminent; Truman wins approval for Marshall Plan (Mar 1948)
-Marshall Plan used to help fund CIA: country that receives aid has to match amount in its own currency. 5% of that went to CIA
-CIA succeed in buying off Italian elections (Apr 1948)
-CIA have a new German currency introduced; Soviets blockade Berlin (Jun 1948)
-Frank Wisner takes charge of American covert action (Sep 1948)
-Office of Policy Coordination (OPC) created under NSC (1948), later merged into CIA (1951), essentially the CIA's covert action wing
-National Committee for a Free Europe formed (1949)
-Kennan burns out, Forrestal resigns (Mar 1949) and has a mental breakdown
-Operation NIGHTINGALE: Ukrainian resistance force, including Nazi collaborators, formed to go against Stalin (1949)
-CIA Act passed, leading to black budgets and ability to bring 100 foreigners into US per year regardless of war criminals, etc.  (May 1949)
-attempt to infiltrate Ukrainians into USSR; all agents killed (Sep 1949)
-attempt to run rebels into Albania; all killed (Oct 1949)
-lots of agents continue to die; missions were compromised due to spies like Kim Philby, James Angleton's BFF
-at conclusion of string of clusterfucks, Angleton promoted to chief of counterintelligence
-Congress for Cultural Freedom, including Radio Free Europe, established as CIA front (Jun 1950)
-Operation MOCKINGBIRD: secret propaganda campaign to influence media (early 50s)
-Korean War (1950-1953)
-Walter Bedell Smith becomes director - and immediately pissed with Wisner (Oct 1950)
-General McArthur hates the agency and tries to keep them out of the way
-Soviet spy William Wolf Weisband penetrates codebreakers' Arlington Hall, compromising SIGINT; the NSA is eventually formed in 1952
-huge intelligence failure and US army attacked by Mao's army
-Bedell Smith appoints Allen Dulles as deputy director of plans (READ: chief of covert operations); the two do not get along (Jan 1951)
-Dulles promoted to deputy director, Wisner to chief of covert operations
-scores of Korean and Chinese agents sent to their deaths in covert ops
-Korean war an intelligence disaster - $152 million wasted on weapons for phantom guerrillas
-CIA starts brutal interrogations of supposed double agents (1950)
-Project ARTICHOKE -> Project MKULTRA: mind control program (1953)
-CIA slips army civilian employee Frank Olson LSD; he jumps out hotel window to his death
-Free Jurists' committee: underground group of lawyers/paralegals fighting communism in East Berlin
-Wisner pushes to take over Free Jurists under Gehlen; group tortured/arrested by soviets
-Wisner pushes to support Polish liberation army WIN, a group past wiped out by Polish secret police backed by soviets
-Poles send cut of CIA money to Communist Party of Italy
-Bedell Smith forges OPC and Office of Special Operations (OSO) into unified covert system
-Eisenhower becomes president (1953)
-Allen Dulles made director; looks to push covert over espionage
-Stalin dies; Nikita Khrushchev takes over (Mar 1953)
-in Iran, CIA overthrows Mohammed Mossadegh in military coup and replaces him with Shah of Iran after he threatens to nationalize British oil; sha's secret police SAVAK are brutal (1953)
-CIA overthrows Jacob Arbenz in military coup after he threatens to nationalize Rockefeller-owned United Fruit Company (1954)
-CIA supports Liberal Democratic Party (LDP) under Nobusuke Kishi in Japan (Nov 1955)
-Radio Free Europe incites Hungary to revolt by broadcasting Khruschev's Secret Speech denouncing Stalin; hints that US will provide aid. No aid comes, Soviets invade, lots die. (1956)
-operative Rocky Stone goes to offer money to Syrian army for help to kill Abdul Hamij Serraj, chief of Syrian intelligence; backfires, leading to Syria-Egypt alliance: United Arab Republic (1957)
-CIA fails to overthrow Indonesia's Sukarno (May 1958)
-Wisner's insanity reaches a critical mass (Jun 1958)
-Richard Bissell replaces Wisner as chief
-Soviets shoot down U-2 spy plane; Eisenhower resigns (May 1960)
-while Bay of Pigs is prepping, Bissell contacts Mafia (John Rosselli, Sam Giancana) to kill Castro
-Eisenhower orders Patrice Lumumba, prime minister of the Congo, to be killed (originally planned as injected lethal toxin)
-Joseph Mobutu kills Lumumba and takes over
-John F Kennedy becomes president (Jan 1961)
-CIA assassinate Generalissimo Rafael Trujillo of Dominican Republic (1961)
-Mafia try to have Tony Varona poison Castro's ice cream, fail
-US bomb and destroy half of Castro's air force (Apr 1961)
-Bay of Pigs an epic fail (Apr 1961)
-John McCone becomes CIA director (Nov 1961)
-Cuban missile crisis (Oct 1962)
-John Whitten, prisoner-of-war interrogator in WWII, employs polygraph in CIA
-JFK killed (Nov 1963)
-...
-National Reconnaissance Office born in 1962 to build spy satellites
-Vietnam War authorized by Gulf of Tonkin resolution (Aug 1964)
-Red Raborn becomes director of CIA (Apr 1965)
-Tony Poe, CIA field commander in Laos, told grunts to cut off ears of those they killed
-Ted Shackley as station chief in Laos was pretty successful
-Sukarno secretly launches coup against own government, allying himself with the Indonesian Communist Party (PKI) (Oct 1965)
-CIA agent Adam Malik, army major general Suharto, and american ambassador in Indonesia Marshall Green work together to come up with plan to overthrow Sukarno
-Indonesian envoy Bob Martens comes up with list of 67 PKI leaders; Suharto's civilian shock troops [and Kap-Gestapu] start killing hundreds of thousands of people
-Richard Helms made director of CIA (June 1966)
-first big Washington march against war; Johnson thinks it's funded by Beijing/Moscow, asks CIA to start spying on dissidents (Oct 1967)
-Robert Kennedy shot and killed by Palestinian Sirhan Sirhan (June 1968)
-Richard Nixon becomes US president (Jan 1969)
-Henry Kissinger made National Security Advisor
-CIA spent tens of millions parachuting weapons to Tibetan guerrillas who fought for their spiritual leader, His Holiness Tenzen Gyatso, 14th Dalai Lama
-Salvador Allende, president of Chile, kills himself in coup against him; General Augusto Pinochet takes over (Sept 1973)
-Pinochet goes on to murder more than 3200, jailing/torturing tens of thousands in the Caravan of Death
-Colonel Manual Contreras, head of Chilean intelligence under Pinochet, killed Orlando Letelier and Ronni Moffitt in a car bomb 14 blocks from White House (1976)
-Watergate scandal (June 1972)
-James Schlesinger made CIA director (Feb 1973)
-Egypt goes to war with Israel (1973)
-[stopped reading, stopped caring]
+5-8
+  H
 
-Rise of the Warrior Cop, Radley Balko
+9
+  3-6: D
+  H
+
+10,5-5
+  10-A: H
+  D
+
+11
+  A: H
+  D
+
+12-14
+  4-6: S
+  H
+
+15
+  2-6,10: S
+  H
+
+16
+  7-8: H
+  S
+
+17-21, A8-A10
+  S
+
+A2,A3
+  5-6: D
+  H
+
+A4,A5
+  4-6: D
+  H
+
+A6
+  3-6: D
+  H
+
+A7
+  3-6: D
+  9-A: H
+  S
+
+2-2, 3-3, 7-7
+  2-7: P
+  H
+
+4-4
+  5-6: P
+  H
+
+6-6
+  2-6: P
+  H
+
+8-8
+  P
+
+9-9
+  7,10-A: S
+  P
+
+A-A
+  P
+
+chess
 ====
-Whitman shootings mark the birth of the SWAT
-1969: Jerry Wilson heads DC's Metro Police in 1969; does it right
+OFFENSE
+E-7 knight [1]
+rook + bishop [3]
+trap king behind pawns with knight [4,5]
+rook sacrifice on h8 [6]
 
-No Good Men Among the Living, Anand Gopal
+DEFENSE
+keep f-pawn [2]
+fianchettoed bishop on g7
+
+OPENING MOVES
+
+Ruy Lopez
+
+1 e4 e5 2 Nf3 Nc6 3 Bb5
+
+Ruy Lopez [Exchange] (black)
+
+3 ... a6 4 Bxc6 ...
+
+Ruy Lopez [Main Line] (white, black)
+
+3 ... a6 4 Ba4 Nf6 5 0-0 
+
+Ruy Lopez [Open] (white)
+
+3 ... a6 4 Ba4 Nf6 5 0-0 Nxe4 6 d4 exd4 7 Re1 d5 8 Nxd4 Be7 9 
+
+unity
 ====
-before the soviet union invaded afghanistan, it was a pretty progressive hippie friendly place (communists) [1950s]
-April 1978: Communists rally against government [under dictator Daud Khan] for killing leader Mir Akbar Khyber
-Communists stage coup, kill Khan
-Christmas Eve 1979: Soviets invade
-Even before the soviets invaded, it was pretty much the Muslim Brotherhood [in the outskirts] and the Communists
-once soviets invade, the Islamist insurgents (mujahadeen) unite against soviets
-soviets vs. us, pakistan, saudi arabia
-afghani boys educated in pakistan and fed extreme violent version of islam
-soviets withdraw in 1989
-soviet union collapses in 1991, aid to proxies ceases, afghan government collapses
-mujahadeen take over
-commander in northwestern province of Faryab decrees it permissable to rape any unmarried girl over the age of 12
-1992: afghan civil war begins
-two rival groups: Islamic Society, Islamic Party
-Islamic Society led by Burhanuddin Rabbani, including general Ahmad Shah Massoud
-Islamic Party led by Gulbuddin Hekmatyar
-group of militiamen christened "Gelam Jam" (Rug Collectors) for looting everything
-1993: Moussad allies with Abdul Rasul Sayyaf
-Feb 7, 1993: Massoud and Sayyaf's forces attack Afshar
-Sayyaf would later invite Osama bin Laden to Afghanistan
-practice of seclusion (purdah) of women predates Islam
-throughout history of Afghanistan, tribal policy went from egalitarian to hierarchical through strongmen, to sharia
-main practitioners of sharia were mullahs
-to become a mullah you studied for up to 12 years in a madrassa
-in Pashto, these students were called taliban
+inspector -> gear menu -> reset
+select object, make scene active, f : focus scene view camera on object
+create Materials folder in Project view, create Material and add to folder, select albedo to change color, drag material object onto object in scene view to apply
+select object, add component: Physics -> RigidBody
+use gear menu -> Move Up/Down for each component to rearrange
+create Scripts folder in Project view, select object, add component Script
+FixedUpdate is on each physics change
+highlight keyword, cmd + ' to open doc page
+select object and cmd + d to duplicate
+create Prefabs folder in Project view, drag object into Prefabs folder
+for triggerable objects, make them a trigger in inspector, also add rigidbody to object and make kinematic
+use unity remote to dynamically test mobile game on device without having to do a build each time
 
-Why Zebras Don't Get Ulcers, Robert Sapolsky
+ways to exfiltrate data from airgapped computers
 ====
-Walter Cannon focused on adaptive aspect of stress-response in dealing with emergencies
-Hans Selye formalized the ill effects of stress with ulcerated rat experiment
-autonomic nervous system includes sympathetic and parasympathetic systems
-sympathetic: fight, flight, fright, sex
-parasympathetic: chill
-"safety features" exist so that parts of the brain that trigger sympathetic inhibit the parasympathetic and vice versa
-neural route represented by sympathetic system is first means to mobilize response to stressor
-another way is through secretion of hormones
-if a neuron secretes a chemical messenger that travels and causes next cell in line to do something different, that messenger is a neurotransmitter
-if a neuron secretes a messenger that instead percolates into the bloodstream, that messenger is a hormone
-used to be believed that testicles secrete less testosterone with age
-wealthy people would get injected with testicular extracts from other animals [and could even pick the animal]
-this led to organotherapy: grafting of little bits of testes
-in 1944 Geoffrey Harris proposes that brain is also a hormonal gland
-Roger Guillemin and Andrew Schally start looking for these brain hormones
-14 years later, the chemical structure of the first releasing hormone is published
-they get the Nobel Price in 1976
-the hypothalamus contains a huge array of releasing and inhibiting hormones
-two hormones vital to stress-response are epinephrine and norepinephrine released by sympathetic nervous system
-another important class of hormones in response to stress are glucocorticoids
-glucocorticoids are steroid hormones
-steroid is used to describe general chemical structure of five classes of hormones: androgens (anabolic), estrogens, progestins, mineralocorticoids, glucocorticoids
-secreted by the adrenal gland, often act similar to epinephrine
-epinephrine acts within seconds, glucocorticoids back this up over course of minutes or hours
-a putative hormone is referred to as a factor until its chemical structure is confirmed (ex: CRF -> CRH)
-CRH (corticotropin releasing hormone) triggers pituitary to release hormone ACTH (corticotropin)
-ACTH is released into bloodstream, reaches adrenal gland, and triggers glucocorticoid release
-in times of stress pancreas is stimulated to release hormone glucagon
-glucocorticoids, glucagon, and the sympathetic nervous system raise circulating levels of sugar glucose
-pituitary also secretes prolactin, which suppresses reproduction during stress
-pituitary and brain secrete class of endogenous morphine-like substances called endorphins and enkephalins which help blunt pain perception
-pituitary also secretes vasopressin, aka antidiuretic hormone, which plays role in cardiovascular stress-response
-sympathetic arousal is a relative marker of anxiety and vigilance
-heavy secretion of glucocorticoids is more a marker of depression
+radio frequencies (AirHopper) [https://www.helpnetsecurity.com/2014/11/04/extracting-data-from-air-gapped-computers-via-mobile-phones/]
+heat (BitWhisper) [https://www.helpnetsecurity.com/2015/03/24/hack-air-gapped-computers-using-heat/]
+cellular frequencies (GSMem) [https://www.usenix.org/node/190937]
+fan speed (Fansmitter) [https://www.helpnetsecurity.com/2016/06/24/air-gapped-computers-fan-speed/]
+hard drive noise (DiskFiltration) [https://arxiv.org/abs/1608.03431]
 
-The Innovators, Walter Isaacson
+all by Mordechai Guri, Ph.D. at Ben-Gurion University of the Negev (BGU)
+
+bonus pita: http://www.biztekmojo.com/00844/device-hidden-pita-bread-can-be-used-hack-nearby-laptops
+
+wifi surveillance methods
 ====
-ada byron (=> lovelace) daughter of poet lord byron
-ada lovelace meets charles babbage
-charles babbage builds a Difference Engine, which can solve polynomial equations
-at Cambridge, Babbage along with John Herschel and George Peacock form a club called Analytical Society
-Analytical Society campaigned to get university to abandon Newton's dot notation calculus and replace with Leibniz' dx/dy notation
-in 1640s, Blaise Pascal created mechanical calculator for tax purposes
-Leibniz tries to improve it with multiplication/division (does not completely succeed due to not being an engineer)
-Babbage and hired engineer not quite skilled enough to get Difference Engine working
-Babbage dreams up something else: The Analytical Machine
-Analytical Machine is the product of what Ada Lovelace, in her essay on imagination, called "the Combining Faculty"
-Babbage applies the automated loom, invited in 1801 by Joseph-Marie Jacquard
-Babbage unable to get funding from British government
-Babbage meets future prime minister of Italy Menabrea who publishes description of Analytical Machine in French
-ada adds translation and "Notes by the Translator"; the notes become more famous than the article itself
-notes make ada destined to become iconic figure in history of computing
-in ada's notes she explores 4 concepts
-1) a general-purpose machine, one that could perform a preset task but could be programmed and reprogrammed to do limitless and changeable array of tasks
-2) the machine could store, manipulate, process, and act upon anything that could be expressed in symbols
-3) figure out in step-by-step detail the workings of a program/algorithm (used Bernoulli numbers as example)
-4) machines cannot think (later dubbed "Lady Lovelace's Objection" by Alan Turing)
-babbage wanted ada to push the govt for funding
-ada refuses, babbage then writes an attack against govt and cowardly asks ada to include it in her notes
-babbage sends appendage anyway and they reply telling him to man up and submit it separately with his name
-babbage asks ada not to send her notes; she refuses and he backs down and submits it separately
-ada offers babbage a business/political partnership; he declines
-herman hollerith, an employee of the us census bureau, annoyed it took almost 8 years to manually tabulate 1880 census
-hollerith gets idea of rail conductors punching holes on ticket
-using the punch cards, hollerith completes 1890 census in a year
-first major use of electrical circuits to process info
-hollerith founds company in 1924: -> (mergers, aquisitions) -> International Business Machines (IBM)
-machines by Hollerith and Babbage were digital: calculated using digits
-another approach is to model a physical phenomenon and make measurements on analogous model to calculate results: analog machine
-Lord Kelvin and James Thomson worked on creating an analog machine to solve diferential equations
-used to help create tide charts and artillery trajectory tables
-analog machine used a planimeter that can measure area of two-dimensional shape
-able to produce tide chart in four hours, but unable to link devices together to solve multivariable eqns
-multivariable eqn problem finally mastered in 1931 by Vanevar Bush with his Differential Analyzer; he will later found Raytheon
-Differential Analyzer very useful for artillery firing tables
-in mid 1930s Tommy Flowers pioneers use of vacuum tubes as on-off switch in electronic circuits
-Alan Turing wins scholarship to attend King's College to read mathematics
-one of three books he buys with prize money is John vom Neumann's The Mathematical Foundations of Quantum Mechanics
-at 1928 conference, Hilbert poses three fundamental questions about any formal system of mathematics
-1) was its set of rules complete so that any statement could be proved/disproved using only rules of system?
-2) was it consistent so that no statement could be proved true and also proved false?
-3) was there some procedure that could determine whether a particular statement was provable, rather than allowing some statement to be unprovable?
-within 3 years kurt godel answered first two questions with a no
-his incompleteness theorem used self-referential statements
-Turing's teacher Max Newman teaches Turing about Hilbert's questions
-Turing comes up with Logical Computing Machine as thought experiment
-Logical Computing Machine: infinite length of paper tape containing symbols within squares; machine reads symbols and performs actions based on instructions table
-Turing went on to show that noncomputable numbers existed, related to the halting problem
-halting problem: there can be no method to determine in advance whether any given instruction table combined with inputs will run indefinitely
-thus: no mechanical procedure can detrmine the provability of every mathematical statement
-Turing's paper "On Computable Numbers, with an Application to the Entscheidungsproblem" published in 1937
-Max Newman sends Turing off to Princeton to study under Alonzo Church
-Turing's paper doesn't get much attention
-Turing asks mother to send out reprints to Bertrand Russell and some other scholars
-only major review is done by Alonzo Church who introduces the term Turing Machine
-Claude Shannon applies Boole logic for electrical circuits
-relay: a switch that can be opened/shut electrically using an electromagnet
-ones that clack open/closed sometimes called electromechanical because they have moving parts
-vacuum tubes and transistors can be used as switches in electrical circuits; they're called electronic since they manipulate flow of electrons but do not require movement of physical parts
-logic gate: switch that can handle one or more inputs
-George Stibitz was working at Bell Labs around same time; uses relays and bulbs to show you could create a calculating machine with them
-Bell Labs needed to amplify a phone signal over long distance while filtering out static
-solution involved complex numbers
-Stibitz gets chance to build machine to help => The Complex Number Calculator completed in 1939
-Howard Aiken lobbies Harvard to build a more sophisticated computer to help with calculations
-Harvard Mark I built under Howard Aiken after project control transferred to Navy
-Mark I was slower but fully automatic
-in 1937 Konrad Zuse in Germany builds binary calculator that can read instructions from punched tape
-through various prototypes, with Z3 being the first fully working all-purpose programmable digital computer
-Zuse's prototypes destroyed in allied bombing of Berlin
-John Vincent Atanasoff in Iowa built a calculating device that used vacuum tubes (conceived first partly electronic digital computer)
-Atanasoff worked with Clifford Berry
-Atanasoff drafted into Navy and work stopped
-John Mauchly meets Atanasoff and later builds ENIAC with Eckert (legal dispute ensues)
-Turing works at Bletchley Park
-Grace Hopper, Jean Jennings, and other women program the ENIAC
-John von Neumann improves on ENIAC and essentially gets all credit for it
-Mauchly and Eckert leave to form Eckert-Mauchly Computer Corporation -> Rand -> Unisys; they built UNIVAC which is purchased by Census Bureau
-von Neumann returns to Princeton and works on a stored program computer
-Neumann leaves to join Atomic Energy Commission and group dissolves; this leads to shift of innovation to corporate realm beginning in 1950s
-William Shockley leads team at Bell Labs
-Bell Labs sets out to develop vacuum tube replacement using semiconductors
-included in the group are John Bardeen and Walter Brattain
-Bardeen and Brattain come up with transistor
-Shockley is jealous and pushes himself to one-up them with an improvement (layering of materials)
-Pat Haggerty of Texas Instruments has trouble licensing tech from Bell Labs
-Haggerty hires away Gordon Teal, they build the transistor radio; pocket radio is a huge hit
-Shockley looks to build a transistor company
-Shockley and Beckman look to start company in Palo Alto
-Palo Alto population increases due to work from defense industry
-film canisters dropped from U-2 spy planes were developed at NASA Ames Research Center in Sunnyvale; people flock to the area
-Dave Packard and Bill Hewlett start out in a garage in the area; by the 1950s, Hewlett-Packard becomes pace horse for region's tech startups
-Fred Ternan, student of Vannevar Bush at MIT, becomes Stanford dean of engineering and creates industrial park in 1953
-Ternan woos Shockley who moves Shockley Semiconductor Laboratory, a division of Beckman Instruments, to Stanford
-Shockley hires Robert Noyce, Gordon Moore, and the other "traitorous eight"
-Shockley becomes insufferable and the traitorous eight leave to form Fairchild Semiconductor
-Shockley Semiconductor never recovers, Shockley leaves for Stanford
-on October 4, 1957, Russians launch Sputnik, setting off a space race
-Jack Kilby joins Texas Instruments; builds the first microchip
-Jean Hoerni, a Fairchild physicist places a layer of silicon oxide to protect the transistor
-Noyce and Moore start looking into making multiple devices on single piece of silicon
-patent battle ensues between Texas Instruments and Fairchild
-even if texas instruments were to be awarded a patent for putting multiple components on a single chip, Fairchild hoped to be awarded a patent for making the connections through printed metal lines instead of wires
-in April 1961 Noyce was declared the inventor of the microchip
-some legal confusion later and Kilby granted patent
-Fairchild appeals and wins
-Fairchild and Texas Instruments come to a truce and agree to co-license to each other
-Kilby and Noyce seen as coinventors
-first major market for microchips is military
-in 1962 Strategic Air Command designed land-based missile Minuteman II that required two thousands microchips just on onboard guidance system
-Navy also buying chips for submarine-launched missile Polaris
-first consumer devices to use microchips are hearing aids
-Texas Instruments starts working on pocket calculators
-fairchild camera and instrument buy fairchild semiconductor and stifle creativity
-many leave; Jean Hoerni and 3 others leave to start Teledyne funded by Arthur Rock
-Arthur Rock provided venture capital for Fairchild Semiconductor deal
-more VCs: Venrock Associates, American Research and Development Corporation (ARDC)
-ARDC founded by Georges Doriot, former dean of Harvard Business School
-Arthur Rock placed value on people rather than idea
-Noyce and Moore form Intel
-west coast work style starts with Hewlett-Packard (laid back, flexible hours, etc.)
-Andy Grove, who also worked at Fairchild, joins Intel as director of engineering
-in summer 1969 japanese company Busicom go to Intel to build powerful desktop calculator
-in sep 1969 Ted Hoff and Stan Mazor design a general purpose logic chip
-intel retains rights to new chip and is allowed to license its use to other companies
-new chip is basically a computer processor on a chip and is dubbed a microprocessor
-in nov 1971, intel releases new chip to public as the Intel 4004
-Don Hoefler, a columnist for the weekly trade paper Electronic News, starts series of columns titled "Silicon Valley USA"
-hacker subculture as well as video game Spacewar comes from MIT's Tech Model Railroad Club
-Minsky build a learning machine designed to model the brain (SNARC)
-DEC PDP-1 donated to MIT in Sept 1961
-best programmer in the group is Steve Russell who helped John McCarthy create LISP
-Nolan Bushnell huge Spacewar fan
-Nolan Bushnell gets into University of Utah, which has best computer graphics program in the country at the time
-University of Utah one of four nodes on ARPANET
-other U of U students included Jim Clark (Netscape), John Warnock (Adobe), Ed Catmull (Pixar), and Alan Kay
-Atari incorporated June 27, 1972
-Congress established National Science Foundation based on Vanevar Bush's report titled "Science, the Endless Frontier"
-Defense Department and National Science Foundation become prime funders of much of America's basic research
-most notable hybrid research centers to pop up after Bush's push are:
-  RAND Corporation, originally formed to provide rsearch and development to Air Force
-  Stanford Research Insitute and its offshoot, the Augmentation Research Center
-  Xerox PARC
-  Lincoln Laboratory, military-funded research center affiliated with MIT
-  Bolt, Beranek and Newman, founded by MIT, Harvard engineers
-J. C. R. Licklider founding director of military office that funded ARPANET; essentially a father of the Internet
-Licklider worked with Prof Norbert Wiener, a theorist who coined the term cybernetics
-Licklider really good at finding talented people to work with one another
-in the 1950s MIT AI lab develop computer time-sharing
-DARPA has repeatedly lost the D: created in 1958 as ARPA, renamed DARPA in 1972, ARPA in 1993, back to DARPA in 1996
-Licklider comes up with idea for "Libraries of the Future"
-Licklider recruited to DC to head information processing at DARPA
-Bob Taylor and Larry Roberts worked at ARPA (not on friendly terms)
-work on ARPA networking project begins, which is eventually named ARPA Net -> ARPANET by Larry Roberts at a conference: Oct 1967
-Roger Scantlebury comes up with idea to break messages into small units called packets
-the packet idea had been developed independently by Paul Baran at RAND
-different methods for sending data through a network:
-  circuit switching: similar to a phone system, a set of switches creates a dedicated circuit for signals to go back and forth during conversation and connection remains open
-  message switching (aka store-and-forward switching): entire message given address header, sent into network, then passed along from node to node
-  packet switching: messages broken into packets, given address headers, then sent to their destinations
-Leonard Kleinrock claims credit for packet stuff, other internet founders kinda flip out at such a claim
-Larry Roberts sent out soliciation for bids to companies that might want to build the minicomputers that would be sent to each research center to build the minicomputers
-contract goes to BBN, team led by Frank Heart and Robert Kahn
-Roberts selects four research centers to be the first ARPANET nodes: UCLA, Stanford Research Lab, University of Utah, and UCSB
-UCLA grad student Stephen Crocker leads group of grad students on figuring out how their host computers will connect to the standardized ARPANET IMPs
-Crocker comes up with idea for 'Request for Comments' or RFC
-Xerox's Palo Alto Research Center (PARC) wanted local-area network to connect office work stations
-recent Harvard PhD Bob Metcalfe created way to use coaxial cable to create high-bandwidth system that he named "Ethernet"
-it was modeled on wireless network developed in Hawaii called ALOHAnet which sent packet data through UHF and satellite signals
-there was a packet radio network in San Francisco called PRNET with a satellite version called SATNET
-these systems were not compatible so in 1973 Robert Kahn set out to fix that
-Kahn worked with Vint Cerf to work on system that was referred to as an "internetwork" later shortened to "internet"
-traffic between ARPANET and any other network had to be seamless; they came up with an Internet Protocol (IP) that specified how to put the packet's destination in its header and helped determine how it would travel through networks to get there
-layered above the IP was Transmission Control Protocol (TCP) that instructed how to put the packets back together in the right order, checked to see if any of them were missing and requested retransmission of any info that had been lost
-in July 1945 Vannevar Bush wrote essay for Atlantic titled "As We May Thing" foreseeing a personal machine he dubbed a memex
-ken kesey graduates from university of oregon, goes to bay area as gard student in stanford's creative writing program
-while there he worked overnight shift at mental hospital and volunted for projects like Project MKUltra
-he writes his first novel One Flow Over the Cuckoo's Nest
-forms Merry Pranksters commune and travels cross-country in an old school bus
-he starts hosting series of Acid Tests; Kesey hears Grateful Dead and enlists them
-stewart brand creates Whole Earth Catalog
-Doug Engelbart seeks to augment human intelligence
-with some funding, he creates his own Augmentation Research Center at Stanford Research Institute (SRI)
-Engelbart, along with Bill English, invent the mouse
-culminating in 1968, Engelbart devices augmentation system called oNLine System or NLS which included: on-screen graphics, multiple windows on a screen, digital publishing, blog-like journals, wiki-like collaborations, document sharing, email, instant messaging, hypertext linking, skype-like videoconferencing, and formatting of documents
-these ideas would later be advanced by Alan Kay at Xerox PARC
-Engelbart demos The Mother of All Demos on Dec 9, 1968
-Alan Kay joins Stanford Artificial Intelligence Laboratory (SAIL) run by John McCarthy; isn't a good fit
-Kay joins Xerox PARC and eventually works on creating the laptop (initially called Dynabook); he creates Smalltalk for the OS software
-personal computer never takes of at PARC due to its conversative ways (management)
-Fred Moore and friends open a public-access computer center
-Lee Felsenstein works on applying tech for societal good (protests, wikipedia-like openness, etc.)
-Fred Moore and Gordon French start Homebrew Computer Club
-Les Solomon of Popular Electronics discovers MITS (Ed Roberts' company)
-Ed Roberts creates the Altair
-Steve Dompier plays Beatles song, and then Daisy Bell (first song ever played by a computer at Bell Labs on IBM 704 in 1961) on Altair
-Bill Gates and Paul Allen work on BASIC for Altair
-Microsoft later formed
-Gates writes letter to hobbyists after copies of BASIC are made
-Steve Wozniak and Steve Jobs get together, build blue box and then personal computer; form Apple
-Dan Bricklin creates VisiCalc
-during 1970s IBM dominated mainframe market with 360 series
-DEC and Wang dominated refrigerator-size minicomputer market
-IBM approaches Microsoft for OS
-Gary Kildall, owner of CP/M, misses opportunity so Microsoft says they'll take care of it, buys DOS from Tim Paterson of Seattle Computer Products
-Apple/Microsoft conflict
-Richard Stallman creates GNU
-Linus Torvalds creates Linux
-in 1981 Lawrence Landweber at University of Wisconsin brought together universities not connected to ARPANET and created another network called CSNET
-CSNET became forerunner of network funded by NSF: NSFNET
-email becomes popular use case on ARPANET
-program called SNDMSG allowed user of big central computer to send message to personal folder of another user sharing same computer
-in 1971 Ray Tomlinson, an MIT engineer working at BBN, allowed to send messages to folders on other mainframes
-he did it by combining SNDMSG with experimental file transfer program called CYPNET; using username@hostname address syntax
-in Feb 1978, two members of Chicago Area Computer Hobbyists' Exchange, Ward Christensen and Randy Suess, snowed in by blizzard, develop Bulletin Board System (BBS) for sharing
-in 1979 students at Duke and UNC develop system hosted on personal computers known as Usenet
-modems introduced for consumer use to connect computers to internet via phone line
-illegal to connect modem into phone system electronically but you could do so mechanically
-Pennywhistle, designed by Lee Felsenstein, could send/receive digital signals at 300 bps
-in 1981 the Hayes Smartmodem came on the market
-Stewart Brand helps create The WELL (Whole Earth 'Lectronic Link'), an online community to discuss whatever
-participants could not be totally anonymous
-William von Meister creates The Source, linking home computers into a networking offering bunch of services, one of first consumer-oriented online services
-competitor is CompuServe, a business-oriented time-sharing network
-in 1984 CBS, Sears, and IBM join forces to launch service Prodigy
-up until 1992 it was illegal to connect a commercial service like AOL to the Internet
-in September 1993 AOL opens portal allowing members access to newsgroups and bulletin boards of the Internet
-the tech savvy referred to this as the Eternal September
-Al Gore helped allow AOL to connect to the Internet with the High Performance Computing Act of 1991 and the Scientific and Advanced Technology Act of 1992
-Tim Berners-Lee creates relational program Enquire at CERN
-using hypertext and RPCs he comes up with URLs, HTTP, HTML
-Berners-Lee teams up with Robert Cailliau to get funding for proposal they call "WorldWideWeb" Proposal for a HyperText Project"
-World Wide Web takes off in 1993
-first easy-to-install Web browser with graphic capabilities Mosaic developed at the National Center for Supercomputing Applications (NCSA) at the University of Illinois Urbana-Champaign
-built by Marc Andreesen, undergrad, and NCSA staffer Eric Bina
-Berners-Lee meets up with Andreesen and they disagree on Mosaic's path
-Justin Hall, freshman at Swarthmore College, creates first blog in Jan 1994
-Yahoo, Lycos, Excite pop up later that year
-Justin Hall teams up with editors Howard Rheingold and Louis Rossetto at Wired
-Ev Williams and Meg Hourihan create Pyra Labs, a suite of web applications for collaboration
-Dave Winer creates XML syndication format for weblogs
-Ward Cunningham develops wiki
-Wikipedia
-Jerry Yang and David Filo build up Yahoo
-web crawlers come into existence: WWW Wanderer built by Matthew Gray, WebCrawler by Brian Pinkerton, AltaVista by Louis Monier, Lycos by Michael Mauldin, OpenText by team at Waterloo, Excite by six friends from Stanford
-all of the crawlers used link-hopping robots
+http://www.theverge.com/2015/10/28/9625636/rf-capture-mit-wifi-tracking-surveillance-technology
+http://motherboard.vice.com/read/wifi-signals-can-id-individuals-by-body-shape
+http://www.theatlantic.com/technology/archive/2016/08/wi-fi-surveillance/497132/
+https://people.eecs.berkeley.edu/~guanhua/paper/WiHear_MobiCom14.pdf (detect speech)
+https://www.sigmobile.org/mobicom/2015/papers/p90-aliA.pdf (detect keystrokes)
 
-The Faith Healers, James Randi
+CRISPR (https://www.youtube.com/watch?v=jAhjPd4uNFY&feature=youtu.be)
 ====
-3 types of faith:
-  intransigent: faith will not be affected by any sort of contrary evidence, no matter how strong
-  the will to believe: willful belief where there is insufficient or no evidence either way to make a rational choice
-  hypothesis based upon evidence: evidence but not enough evidence or evidence of good enough quality to support total belief
-Paracelsus sought medicine in magic
-Lourdes healing fountain
-laying on of hands originated with nineteenth-century American/European evangelists
-Reverend William Branham of Indiana brought modern evangelist/fundamentalist healing movement into existence in the 1940s
-doctors and nurses in US have revitalized the International Order of St. Luke the Physician, and Episcopal group stressing a spiritual approach to the practice of medicine
-order grew as result of evangelist Oral Roberts's success in the 1950s
-evangelist Rex Humbard who began broadcasting in 1952 in Ohio is largely responsible for television format used by faith-healers
-Johannes Weyer, sixteenth century physician, also known as Piscinarius, was early skeptic of belief
-seed-faith system
+bacteriophages (phages), which are a virus, hunt and kill bacteria by inserting their own genetic code into the bacteria and taking them over
+the bacteria try to resist but fail most of the time
+sometimes bacteria survive the phages and save a part of the virus dna in their own genetic code in a DNA archive called CRISPR
+when the virus attacks again, the bacteria quickly makes an RNA copy from CRISPR and arms protein CAS9
+if the bacteria finds a match against the dna of the attacking virus, the DNA from CAS9 is activated and cuts out the virus DNA, protecting it from virus attack
+scientists figured out the CRISPR system is programmable
 
-The Devil In The White City, Erik Larson
+malware (advanced)
 ====
-Chicago World Fair of 1893 only lasted 7 months but attracted huge crowd of 27.5 million visits, averaging 700,000 a day
-Jack the Ripper's 5-murder spree in 1888
-in 1889, Paris on the Champ de Mars opened the Exposition Universelle
-Chicago rebuilt after Great Fire of 1871
-Montauk in Chicago termed first skyscraper
-William Jenney of firm Loring & Jenney designs first building to have load-bearing metal frame
-in 1885 fouled water ignites outbreak of cholera and typhoid that kills 10% of Chicago population
-Olmstead, of Central Park fame (among others), brought on to assist with Chicago fair construction/design
+  NSA
+    Stuxnet
+    Flame
+    Duqu
+    Regin
+  ???
+    ProjectSauron
+  Equation Group
+    EquationDrug
+    Grayfish
 
-The Hot Zone, Richard Preston
+chase balance minimum
 ====
-Charles Monet, Frenchman who lived on private lands of Nzoia Sugar Factory, a plantation in western Kenya, patient zero of virus
-Marburg virus is an African organism named for place first discovered (Behring Works factory in Marburg that produced vaccines using kidney cells from African green monkeys)
-first person known to be infected by Marburg virus was employee named Klaus F.
-Marburg kills 1 in 4
-Yellow fever kills 1 in 20
-Marburg is one of family of viruses known as filoviruses (thread virus)
-most viruses are ball-shaped particles resembing peppercorns
-Marburg is the only ring-shaped virus known (resemble Cheerios or a tub of spaghetti when spilled out)
-effects of Marburg on brain resemble that of rabies
-filoviruses comprises Marburg and two types of Ebola: Ebola Zaire and Ebola Sudan
-Ebola Zaire kill rate is 9 in 10
-Marburg has special affinity for eyes and testicles (can linger there for months even after death)
-Kasensero one of the first places AIDS appeared
-strain that killed Charles Monet is known today as the Musoke strain after the doctor who contracted it from Monet
-Ebola virus named for Ebola River
-Ebola distantly related to measles, mumps, and rabies
-triggers rash all over body
-Ebola virus particle contains only seven different proteins
-ultraviolet door between Level 1 and Level 2
-ultraviolet light smashes virus' genetic material and makes them unable to replicate
-negative air pressure designed to keep hot agents from drifting outward
-first line of defense against a hot agent is sticky tape because it seals cracks
-July 6 1976: Mr. Yu G. first identified case in outbreak of unknown virus (later known as Ebola Sudan)
-Ebola Sudan lethality comparable to Black Plague
-to this day first human case of Ebola Zaire has never been identified
-overlap between victims is in Kitum Cave
-Racal suit is a portable, positive-pressure space suit with battery-powered air supply
-T-61: euthanasia agent
-set out patches of paper saturated with spores of harmless bacterium known as Bacillus subtilis niger
-a decon job that kills niger will kill almost anything
-sunbeam electric frying pans are Army's tool of choice for decon job
-electric frying pans cooked disinfecting crystals
-crystals released formaldehyde gas as they boiled
-leave gas in sealed off building for 3 days then check that the treatment killed the niger
-Reston virus (monkey house) turns out to not kill humans even though it does infect them
-likely that Reston outbreak started with single monkey in Philippines
-kwisha = finished
-Swahili word askari used to mean spear bearer; now it means an armed guard who carries an assault rifle and walks in your shadow
+personal savings: 15,000
+business checking: 1,500
 
-Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain–for Life, David Perlmutter
+definitions
 ====
-in nineteenth century Russian-born biologist Elie Mechnikov made link between longevity and healthy balance of bacteria in body
-two most common groups of organisms in the gut, forming 90% of bacteria in colon, are Firmicutes and Bacteroidetes
-firmicutes are fat-loving bacteria, equipped with more enzymes to digest complex carbs (more efficient at extracting energy); they increase fat absorption
-obese people have elevated levels of firmicutes
-two most studied strains of bacteria are Bifidobacterium and Lactobacillus
-Escherichia coli produces vitamin K but can cause severe illness
-Heliobacter pylori causes peptic ulcers but regulates appetite
-we're born with Clostridium dificile but it can grow unchecked based on diet
-cytokines are small proteins released by cells that affect the behavior of other cells and are often important participants in inflammatory process
-C-reactive protein, interleukin six (IL-6), and tumor necrosis factor apha (TNF-a) are all cytokines
-TNF-a elevated in inflammatory conditions such as Alzheimer's, psoriasis, rheumatoid arthritis, cardiovascular disease, Crohn's disease, and asthma
-elevated blood sugar causes inflammation in the bloodstream and triggers reaction called glycation
-glycation: biological process by which sugar binds to proteins and certain fats, resulting in deformed molecules
-these sugar proteins are called advanced glycation end products (AGEs)
-good gut bacteria are capable of producing important brain chemicals like BDNF, gamma-amino butyric acid (GABA), and glutamate
-BDNF is involved in neurogenesis, the process by which new neurons are created
-BDNF also protects existing neurons
-Cyrex Array 2: gut permeability test that measures antibodies produced by immune system when confronted by molecule lipopolysaccharide (LPS)
-byproduct of mitochondria is production of reactive oxygen species (ROS) aka free radicals
-free radicals, known for negative effects of aging, also take part in apoptosis (process by which cells undergo self-destruction)
-our fingers formed through apoptosis
-apoptosis also allows our bodies to rid themselves of cancer cells
-cells lacking a nucleus can still commit apoptosis; mitochondria determine whether a cell shall live or die
-all of the mitochondrial DNA is inherited solely from the female lineage
-lower levels of BDNF have been associated with human anxiety and depression
-serotonin synthesized from tryptophan
-when tryptophan is degraded in body by certain enzymes, it becomes unavailable for production of serotonin
-one of byproducts of degraded tryptophan is kynurenine so high levels of kynurenine are good indicator of low tryptophan levels
-Bifidobacterium infantis associated with lower levels of kynurenine
-people with autism tend to have higher levels of clostridial specials; people with autism tend to crave carbs, especially refined sugars
-three main fatty acids produced by gut microbes are acetic, propionic, and butyric acid
-clostridial species produce propionic acid (PPA) in abundance
-PPA increases gut permeability
-individuals with autism are typically deficient in glutathione
+denouement (daNOOman): conclusion
+cachet (cashAY): the state of being respected/admired
 
-Travels with Charley in Search of America, John Steinbeck
+car rental claim (07/11)
+  filed claim via 1-800-847-2911 [DONE]
+  request demand letter
+  notarized statement saying I don't have personal automobile insurance on the date of the incident
+	finalize claim: https://www.eclaimsline.com/
+
+Gully Foyle is my name
+And Terra is my nation
+Deep space is my dwelling place
+The stars my destination 
+
+LOTR
 ====
-(published in 1962, after Jack Kerouac's On the Road (1957)); jfk shot in 1963; johnson elected 1964
-Rocinante is Don Quixote's horse
+Eru Ilúvatar
+  Ainur
+    Valar
+      Lords
+        Manwë
+        Ulmo
+        Aulë
+        Oromë
+        Mandos
+        Lórien
+        Tulkas
+      Queens
+        Varda
+        Yavanna
+        Nienna
+        Estë
+        Valrë
+        Vána
+        Nessa
+      Other
+        Melkor
+    Maiar
+      Istari
+        Sauroman the White
+        Gandalf the Gray
+        Radagast the Brown
+        The [Two] Blue Wizards
+      Sauron
+      Balrogs
 
-Stiff, Mary Roach
-=====
-malar fat pad is cushion of youthful padding that sits high on your cheekbone
-nineteenth century operating theaters were bad news for patient (more to do with medical instructions than saving patients' lives)
-first operations under ether didn't take place until 1846
-proctology helped pave way for surgery's acceptance as respectable branch of medicine
-King Ptolemy I of Alexandrian Egypt circa 300 BC was first leader to deem it ok for medical types to cut open the dead for purpose of figuring out how bodies work
-Herophilus first physician to dissect human bodies
-he began dissecting live criminals
-number of private anatomy schools flourish in England and Scotland in 18th, 19th century
-from sixteenth century up until passage of Anatomy Act of 1886, only cadavers legally available for dissection in Britain where those of executed murderers
-dissection as sentencing option for murderers was mandated in 1752 Britain
-to gibbet is to dip a corpse in tar and suspend it in a flat iron cage (gibbet) in plain view of townsfolk while it rots and gets pecked apart by crows
-competition with Paris schools where unclaimed corpses of poor who died at city hospitals could be used for dissection
-by 1828 demands of London's anatomy schools were such that 10 full-time, 200 part-time people dedicated to body snatching throughout dissecting season (anatomy courses were held only between October and May to avoid rapid decomposition in warmer weather)
-Burke and Hare kill people to sell their corpses
-Burke hanged, Hare granted immunity
-burke becomes synonym for smother
-in ancient China, Confucian doctrine considered dissection a defilement of the human body and forbade its practice
-this was a problem for Huang Ti, Father of Chinese Medicine, who around 2600 BC set out to write authoritative medical and anatomical text
-even without dissection Huang Ti was able to figure out that blood of body is under control of the heart and the blood current flows in a continuous circle and never stops
-Galen of Imperial Rome also never did a human dissection, but figured some things out through a bunch of animal dissections
-Hippocrates also never dissected a human
-Renassaince anatomist Belgian Andreas Vesalius got hands dirty in dissection
-his book De Humani Corporis Fabrica is the most venerated anatomy book in history
-1960s saw first heart transplant and passing of the Uniform Anatomical Gift Act, both of which raised awareness of need for organs for transplantation and of body donation as an option
-around same time there was a notable increase in cost of funerals
-The American Way of Death by Jessica Mitford criticized funeral industry leading to upswing in cremation
-potassium level of gel inside eyes is helpful during first 24 hours
-algor mortis, cooling of dead body, also hepful
-corposes lose about 1.5 deg F per hour until they reach the temperature of air around them
-rigor mortis is more variable; starts a few hours after death, usually in head and neck, and continues down body disappearing anywhere from ten to forty-eight hours after death
-if body has been dead longer than three days, investigators turn to entomological clues (age of fly larvae)
-stages of decay
-  fresh: involves autolysis (self-digestion)
-  bloat: intestinal gas is waste product of bacteria metabolism. once dead, bodies don't expel gas and builds up causing bloat. small intestine is collapsed
-         and sealed off. intestines eventually give way
-  putrefaction/decay: digestive organs and lungs disintegrate first. brain liquefies next. up until about 3 weeks organs can be identified
-skin slip, or gloving, is where skin will come off
-by analyzing liquids of human decay in soil you can tell if a body has been moved. if the unique volatile fatty acids and compounds of human decay aren't there, the body didn't decompose there
-aroma scan technology being developed for estimating time of death (electronic nose)
-human remains dogs can pinpoint the location of a corpse at the bottom of a lake by sniffing water's surface for gases
-eye caps invented by morticians to help dead people keep their eyes shut
-first people known to attempt arterial embalming were trio of Dutch biologists and anatomists named Swammerdam, Ruysch, and Blanchard in late 1600s
-intention was to preserve bodies to work around chronic shortage of bodies for dissection
-arterial embalming didn't catch on until American Civil War
-Thomas Holmes, father of embalming, sold his patented embalming fluid Innominata
-cut carotid artery, insert cannula into artery connected by tubing to cannister of embalming fluid
-embalming fluid contains red coloring to make skin look pink
-water reverses chemical reactions of embalming
-dead person = decedent
-maximum amount a rib cage can compress without damaging internal organs is 2.75 inches
-first Fords came without windshields, which is why drivers wore goggles
-car windshields then had window glass and then tempered glass
-cadavers used to determine force of impact of head against tempered glass
-GM's first collapsible steering wheel shaft, introduced in the 1960s, cut the risk of death in a head-on collision by half
-flail chest is a condition in which all your ribs break and your rib cage can't help inflate your lungs
-electric cauterizing wand looks like cheap bank pen on cord, functions like a scalpel, cutting and burning (any vessels that are severed are melted shut)
-ancient Egyptians believed the ka, the esssence of a person, resided in the heart; the heart was the only organ left inside a mummified corpse
-Babylonians believed it resided in the liver
-mellified man: dead human remains steeped in honey
-macerate: soften in liquid
-Jews would sell fake mummies in Alexandria
-medical use of feces around since Pliny
-dropsy aka edema
-human blood used to treat leprosy
-scrofula aka King's evil aka Mycobacterial cervical lymphadenitis: disease with glandular swellings
-for six to eight hours, the blood in a dead body remains sterile and red blood cells retain oxygen-carrying capabilities
-Soviets were big on using blood from cadavers
-only person outside of USSR to try it was Dr. Kevorkian
-some people cook and eat placenta to stave off postpartum depression
+Eru Ilúvatar ->
+  Men
+    Hobbits
+  Elves
 
-Sprint, Jake Knapp
+Manwe ->
+  Eagles
+
+Aulë ->
+  Dwarves
+
+Yavanna ->
+  All animals/plants including Ents
+
+Melkor ->
+  Balrogs
+  Dragons
+  Trolls
+  Orcs (Corrupted Elves)
+
+Game of Thrones
 ====
-1 week sprint
-  mon
-    start at the end
-    map
-    ask the expert
-    target
-  tue
-    remix & improve
-    sketch
-  wed
-    decide
-    rumble
-    storyboard
-  thu
-    prototype
-  fri
-    test
-    learn
-choose one or two Deciders
-ideal size for a sprint is seven people
-bring in any extra experts on Monday
-team will include Deciders, Facilitator, ...
-use a Time Timer
-chat from game Glitch became Slack
-Keynote good for prototyping
-85 percent of problems are observed after just five people (usability tests)
+Prince Rhaegar Targaryen abducts Lyanna Stark
+King Aerys II (Mad King) has Eddard Stark's father (Rickard Stark) and brother (Brandon Stark) killed for protesting abduction, leading to Robert's Rebellion
+Robert's Rebellion
+  Jon Arryn of House Arryn
+Houses
+  Tyrell
+    Redwyne
 
-Made in the USA: The Rise and Retreat of American Manufacturing, Vaclav Smil
-====
-George C. Devol and Joseph F. Engelberger set up Unimation, the world's first robot company
-first prototype machine ready in 1958
-American Machine and Foundry creates first commercially available robot Versatran in 1960
+temp range
+  ideal: 65 - 70
+  tolerable: 45 - 80
 
-Rise of the Robots, Martin Ford
+Talk Shows
 ====
-“I find it somewhat ironic that many conservatives in the United States are adamant about securing the border against immigrants who will likely take jobs that few Americans want, while at the same time expressing little concern that the virtual border is left completely open to higher-skill workers who take jobs that Americans definitely do want.”
+tonight show (NBC) [11:35pm-12:35am]
+  jimmy fallon (2014-present)
+  jay leno (2010-2014)
+  conan o'brien (2009-2010)
+  jay leno (1992-2009)
+  johnny carson (1962-1992)
+late show (CBS) [11:35pm-12:35am]
+  stephen colbert (2015-present)
+  david letterman (1993-2015)
+late night (NBC) [12:35am-1:35am]
+  seth meyers (2014-present)
+  jimmy fallon (2009-2014
+  conan o'brien (1993-2009)
+  david letterman (1982-1993)
+late late show (CBS) [12:35am-1:35am]
+  james corden (2015-present)
+  craig ferguson (2005-2014)
+  craig kilborn (1999-2004)
 
-A Short History of Nearly Everything, Bill Bryson
+CPR
 ====
-Edmond Halley asks Newton about the curve of orbit (gravitational pull between sun and planets). Newton says an ellipse and knows because he calculated it. When Halley asks for the calculation, he says he lost it, but he'll recalculate it when he gets a chance
+if (spinal injury suspected)
+  do not shake
+else
+  shake and shout to check for responsiveness
+if unresponsive dial 911 then start CPR (for kids, do CPR for 2 minutes before dialing 911)
+place two fingertips over carotid artery to check circulation
+lift chin up, tilt back head to clear any possible obstruction
+place heel of hand over sternum (one hand over the other, fingers interlaced), push in 2 inches
+100 compressions/min ("staying alive" song)
+perform breathing every 30 compressions
+pinch nose, 2 deep breaths (don't over-inflate to prevent vomiting), listen for breathing
+
+presidents + major events
+====
+teddy roosevelt 1901-1909
+taft 1909-1913
+wilson 1913-1921
+  WWI 1914-1918
+  first red scare 1917-1920
+harding 1921-1923
+coolidge 1923-1929
+hoover 1929-1933
+  Great Depression 1929-1939
+fdr 1933-1945
+  WWII 1939-1945
+truman 1945-1953
+  korean war 1950-1953
+  second red scare 1950-1956
+eisenhower 1953-1961
+  vietnam war 1959-1973
+jfk 1961-1963
+lbj 1963-1969
+nixon 1969-1974
+ford 1974-1977
+carter 1977-1981
+reagan 1981-1989
+hw bush 1989-1993
+clinton 1993-2001
+w bush 2001-2009
+obama 2009-present
+
+parts of government
+====
+Dept of Defense
+  Secretary of Defense
+    Office of Inspector General of DoD
+    Office of Secretary of Defense
+      DARPA
+      NSA
+      DIA
+      ...
+    Dept of Army
+      Army
+    Dept of Navy
+      Navy
+      Marines
+    Dept of Air Force
+      Air Force
+    Joint Chiefs of Staff
+      NORTHCOM
+      SOUTHCOM
+      CENTCOM
+      EUCOM
+      PACOM
+      AFRICOM
+      STRATCOM
+      SOCOM
+        JSOC
+      TRANSCOM
+Dept of Justice
+  Attorney General
+  FBI
+  DEA
+  US Marshals
+  Bureau of Alcohol, Tobacco, Firearms & Explosives
+  Office of the Inspector General
+  National Security Division
+  ...
+Dept of State
+Dept of Treasury
+
+NOTE: In May 2009, Obama merged Homeland Security Council (HSC) and National Security Council (NSC) into National Security Staff (NSS)
+
+countries (196)
+====
+members of UN (193)
+taiwan
+kosovo
+vatican city
+
+breakup of yugoslavia
+====
+Slovenia
+Croatia
+Bosnia-Herzegovina
+Montenegro
+Serbia
+Kosovo
+Macedonia
+
+nsa program transition
+====
+echelon
+trailblazer (thinthread loses)
+turbulence
+
+butte < mesa < plateau
+
+2 hex characters = 1 byte
+
+cell phone simulators
+====
+Harris: Triggerfish -> StingRay -> Hailstorm
+countermeasures: Android:SnoopSnitch, ESD:CryptoPhone
+In theory IMSI catchers can pinpoint only the location of 3G/4G phones so the trick is to knock them down to 2G to access calls/texts/etc., which is what Hailstorm does.
+
+caduceus vs rod of asclepius
+====
+The two-snake caduceus design has ancient and consistent associations with trade, eloquence, trickery, and negotiation.
+Tangential association of the caduceus with medicine has occurred through the ages, where it was sometimes associated with alchemy and wisdom.
+The modern use of the caduceus as a symbol of medicine became established in the United States in the late 19th and early 20th century as a result of documented mistakes, misunderstandings and confusion.
+
+limitless worker surveillance
+====
+in Feb 1855 Allan Pinkerton met with attorney Edward Rucker at Chicago Masonic Hall to discuss need for greater control over employees
+they decided to form Pinkerton National Detective Agency
+The Pinkertons served role of infiltrating/busting unions and monitoring workers
+Congress later passes Anti-Pinkerton Act of 1893 which limited federal government's ability to hire Pinkertons (private employers still could)
+
+Quotes
+====
+"I feel like my main quest is a side quest."
+
+“It is good to have an end to journey towards; but it is the journey that matters, in the end.”
+Ursula K. Le Guin. “The Left Hand of Darkness.”
+
+"This tasteless cover is a good indication of the lack of musical invention within. The musical growth rate of this band cannot even be charted. They are treading water in a sea of retarded sexuality and bad poetry." - This Is Spinal Tap
+
+"I know you gentlemen have been through a lot, but when you find the time, I'd rather not spend the rest of this winter tied to this fucking couch." - The Thing
+
+"He who has a why to live for can bear with almost any how."
+Nietzsche
+
+"It is the good fortune of many to live distant from the scene of sorrow.”
+Thomas Paine. “Common Sense.”
+
+"Don't you do it, Hitler. Don't you dare fall in love with me." - Parks and Recreation S05E08
+
+"Most people shoot for happiness but feel formed through suffering."
+The Road to Character - David Brooks
+
+"A date is an experience you have with another person that makes you appreciate being alone."
+Larry David
+
+“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”
+
+Excerpt From: Charles Bukowski. “Women.” iBooks.
+
+"I don't know what you're doing below 14th street, but it doesn't' matter." (You can't hide behind art.)
+Lorne Michaels
+  
+patents
+====
+for reading patents, just read the independent claims
+http://www.danshapiro.com/blog/2010/09/how-to-read-a-patent-in-60-second/
+
+Hydroxynorketamine: ketamine metabolite that fights depression
+
+struct to dict
+====
+import UIKit
+
+struct Point {
+    let x: Double
+    let y: Double
+    let z: Double
+    
+    init(_ x: Double, _ y: Double, _ z: Double) {
+        self.x = x
+        self.y = y
+        self.z = z
+    }
+    
+    func toDict() -> NSDictionary {
+        let dict = [
+            "x": x,
+            "y": y,
+            "z": z
+        ]
+        return dict
+    }
+    
+    static func fromDict(dict: NSDictionary) -> Point? {
+        guard let x = dict["x"] as? Double, y = dict["y"] as? Double, z = dict["z"] as? Double else {
+            return nil
+        }
+        return Point(x, y, z)
+    }
+}
+
+let p = Point(1, 2, 3)
+let dict = p.toDict()
+
+let dict2 = ["x": 4, "y": 5, "z": 6]
+let p2 = Point.fromDict(dict2)
+
+ios
+====
+if you want to persist search session when going back to view, need to enable "Defines Context" in view controller
