@@ -9,9 +9,8 @@ schedule dermatologist
 work
   decox.py
   github data: XXX/FIXME/TODO/etc.
-  chip's challenge
-  reverse engineer apps
   networking course
+  reverse engineer apps
   use virtual reality to share real-life experiences (ex: what it was like going to school growing up)
 
 tv
