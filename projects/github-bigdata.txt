@@ -7,7 +7,7 @@ from
 order by
   watch_count desc
 
-/* Check contents of a particular file pattern. */
+/* Check contents of a particular file pattern in repos of a given min popularity. */
 select
   sf.repo_name,
   sf.path,
