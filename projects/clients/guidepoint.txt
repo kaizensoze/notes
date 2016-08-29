@@ -1,5 +1,4 @@
 
-have all subsection cells expand (even if no content)
 client call: add to calendar
 once api call working for calls view, update on appear [and have timer that updates results every minute?]
 
