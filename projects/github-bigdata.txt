@@ -1,3 +1,4 @@
+/* Get most popular repos. */
 select
   repo_name,
   watch_count
@@ -5,7 +6,8 @@ from
   [bigquery-public-data:github_repos.sample_repos]
 order by
   watch_count desc
-  
+
+/* Check contents of a particular file pattern. */
 select
   sf.repo_name,
   sf.path,
@@ -22,6 +24,26 @@ where
   and lower(path) like '%.pem'
   and lower(path) not like '%test%'
 
-look for config files
-  settings.py
-  database.yml
+/* Get most popular licenses. */
+select
+  license,
+  count(license) repo_count
+from
+  [bigquery-public-data:github_repos.licenses]
+group by
+  license
+order by
+  repo_count desc
+
+/* Get committers with most fucks in the subject. */
+select
+  repo_name,
+  author.name,
+  subject,
+  (length(subject) - length(replace(lower(subject), 'fuck', ''))) / length('fuck') fuck_count
+from
+  [bigquery-public-data:github_repos.sample_commits]
+where
+  lower(subject) like '%fuck%'
+order by
+  fuck_count desc
