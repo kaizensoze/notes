@@ -1,33 +1,29 @@
 
-nap
-john adams
-freshdirect
+go through bookmarks
 decox
-livia stopping by to drop off some things
-take out garbage
 guidepoint
 
-pick up shampoo
+usha foods
+library
+verify time warner refund on card
 order faraday tent
 
-library
-usha foods
 cancel planet fitness membership
 schedule dermatologist
-verify time warner refund on card
 
 work
   decox.py
   github data: XXX
   try hyper.sh
-  try deepstream.io
   rottentomatoes-for-books
+  company shaming based on known vulnerabilities/liabilities (public [and private/internal])
   chip's challenge
   reverse engineer apps
   networking course
 
 tv
   John Adams
+  The Stand
   The Night Of S01E08 (08/28)
   Peaky Blinders S01E03
   Corner Gas

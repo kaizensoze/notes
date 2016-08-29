@@ -249,9 +249,10 @@ letsencrypt
   ./letsencrypt-auto certonly -d brassafrax.com -d www.brassafrax.com -d alpha.brassafrax.com
 
 lsof
-  lsof -i :443
-  lsof -i tcp:443
-  sudo lsof -n -P -i +c 13
+  sudo lsof -i :17600
+  sudo lsof -i tcp:17600
+  sudo lsof -n -P -i +c 0              # `+c 0` means show all characters for process name
+  sudo lsof -i -n -P | grep -i LISTEN  # all listening traffic
 
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
@@ -270,11 +271,11 @@ mongodb
   db.users.remove({})
 
 netcat
-  nc -vz <ip> <port>
+  nc -vz <ip> <port>  # check if port [on given host/ip] is open
 
-netstat
-  netstat -an | grep 443
-  netstat -atp tcp | grep -i "listen"
+netstat (netstat sucks in osx)
+  sudo netstat -an | grep 443             # use lsof instead
+  sudo netstat -atp tcp | grep -i LISTEN  # use lsof instead
 
 nginx
   sudo nginx -t
