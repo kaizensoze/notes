@@ -1,30 +1,22 @@
 
-go through bookmarks
-decox
-guidepoint
-
 usha foods
 library
 verify time warner refund on card
 order faraday tent
-
 cancel planet fitness membership
 schedule dermatologist
 
 work
   decox.py
-  github data: XXX
-  try hyper.sh
-  rottentomatoes-for-books
-  company shaming based on known vulnerabilities/liabilities (public [and private/internal])
+  github data: XXX/FIXME/TODO/etc.
   chip's challenge
   reverse engineer apps
   networking course
+  use virtual reality to share real-life experiences (ex: what it was like going to school growing up)
 
 tv
-  John Adams
-  The Stand
   The Night Of S01E08 (08/28)
+  The Stand
   Peaky Blinders S01E03
   Corner Gas
   Mr Robot S02E09 (09/01)
@@ -51,6 +43,9 @@ movies
   Arthur Christmas [X]
   Bellflower [X]
   Funny Ha Ha [X]
+  Don't Breathe
+  In Order of Disappearance
+  Florence Foster Jenkins
   Don't Think Twice
   Fermat's Last Theorem
   Passenger Side
