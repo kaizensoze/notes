@@ -7,8 +7,9 @@ cancel planet fitness membership
 schedule dermatologist
 
 work
-  decox.py
   github data: XXX/FIXME/TODO/etc.
+  decox.py
+  hacker academy
   networking course
   reverse engineer apps
   use virtual reality to share real-life experiences (ex: what it was like going to school growing up)
@@ -25,7 +26,6 @@ tv
   Goliath (10/14)
 
 movies
-  Imperium [X]
   Our Kind of Traitor [X]
   Nerve [X]
   Dope [X]

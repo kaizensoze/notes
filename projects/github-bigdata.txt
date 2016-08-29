@@ -1,0 +1,27 @@
+select
+  repo_name,
+  watch_count
+from
+  [bigquery-public-data:github_repos.sample_repos]
+order by
+  watch_count desc
+  
+select
+  sf.repo_name,
+  sf.path,
+  sc.content
+from
+  [bigquery-public-data:github_repos.sample_files] sf
+  join [bigquery-public-data:github_repos.sample_contents] sc on (sc.sample_repo_name = sf.repo_name and sc.sample_path = sf.path)
+where
+  repo_name in (
+    select repo_name
+    from [bigquery-public-data:github_repos.sample_repos]
+    where watch_count > 100
+  )
+  and lower(path) like '%.pem'
+  and lower(path) not like '%test%'
+
+look for config files
+  settings.py
+  database.yml
