@@ -7,7 +7,6 @@ cancel planet fitness membership
 schedule dermatologist
 
 work
-  github data: XXX/FIXME/TODO/etc.
   decox.py
   hacker academy
   networking course
