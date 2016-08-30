@@ -223,4 +223,6 @@ hours
 		* take another look at the api stuff in bitbucket
 		* go over what's remaining
 		
-	
+	08-29-16
+		* 
+		
