@@ -1,6 +1,6 @@
 
+dial in -> request followup (button)
 check api endpoints for any changes
-email view controller
 once api call working for calls view, update on appear [and have timer that updates results every minute?]
 
 manager
