@@ -1,5 +1,6 @@
 
 client call: add to calendar
+check api endpoints for any changes
 once api call working for calls view, update on appear [and have timer that updates results every minute?]
 
 manager
