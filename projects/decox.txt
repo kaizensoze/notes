@@ -1,0 +1,14 @@
+call 949-240-1212
+press 1
+enter phone number provided
+provide number
+get address?
+press 1 to cancel their internet
+
+use twilio
+https://www.twilio.com/console/voice/logs/calls
+https://www.twilio.com/console/dev-tools/twiml-bins/EHbdc227843ed00d7c27a5715b04ce5711
+http://stackoverflow.com/questions/27090063/how-do-i-have-twilio-make-a-silent-call-that-only-sends-digits-not-voice-via-mp
+
+TWILIO_ACCOUNT_SID = 'ACee225639e619373aefeb393ac5089d8e'
+TWILIO_AUTH_TOKEN = '600998631c08ca51518a3dabce0ad3a6'
