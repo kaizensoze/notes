@@ -1,6 +1,4 @@
 
-call details:split out buttons into separate cell
-
 CallRatingViewController
 requestFollowUp email
 check api endpoints for any changes
@@ -238,5 +236,19 @@ hours
 		* add call to calendar
 		
 	08-30-16
-		* 
+		* call detail completed buttons
+		* change buttons on call detail view based on status of call
+		* create CallRating object
+		* rename CallRating to ScheduledCallRating
+		* add static min/max rating to call rating
+		* add rating to scheduled call
+		* add call to call rating
+		* switch rating button to label if call already rated
+		* move call detail button logic to cellForRowAtIndexPath
+		* add base CallRatingViewController
+		* split client call cell into upcoming/completed
+		* apply upcoming/completed call cell to client call details
+		* split out buttons into separate cell on client call details view
 		
+	08-31-16
+		* 
