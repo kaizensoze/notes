@@ -1,7 +1,9 @@
 
-dial in -> request followup (button)
+call details:split out buttons into separate cell
+
+CallRatingViewController
+requestFollowUp email
 check api endpoints for any changes
-once api call working for calls view, update on appear [and have timer that updates results every minute?]
 
 manager
 	jbarker@guidepointglobal.com
@@ -78,6 +80,7 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
+	What happens when call is cut short? (modify the call's endDate?)
   What should the Availability subsection look like for an already scheduled advisor?
   What's the difference between SEND CONFIRMATION and EMAIL buttons?
   JWT token is good for 12 hours so should user be logged out every 12 hours?
