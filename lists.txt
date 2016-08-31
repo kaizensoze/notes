@@ -28,13 +28,13 @@ tv
 movies
   Dope [X]
   Jeff Who Lives at Home [X]
-  In Bruges [X]
   The Look of Silence [X]
   Client 9: The Rise and Fall of Eliot Spitzer [X]
   Election [X]
   Arthur Christmas [X]
   Bellflower [X]
   Funny Ha Ha [X]
+  The Lobster
   Don't Breathe
   Florence Foster Jenkins
   Don't Think Twice
