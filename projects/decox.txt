@@ -12,4 +12,14 @@ TWILIO_AUTH_TOKEN = '600998631c08ca51518a3dabce0ad3a6'
 cox #: 949-240-1212
 skip's #: 346-213-0461
 
-figure out how to get twilio to stop cutting off recording from the very beginning (relative to calling manually)
+boot up digitalocean
+set up digitalocean
+get flask server running
+hit url that returns sample text
+hit url that returns sample twiml
+hit url that returns desired twiml with phonenumber hardcoded
+hit url that returns desired twiml with dynamic phonenumber param
+pass url to client.calls.create in decox.py, test basic recording (hit 1 and verify asking for number)
+
+issues
+  figure out how to get twilio to stop cutting off recording from the very beginning (relative to calling manually)
