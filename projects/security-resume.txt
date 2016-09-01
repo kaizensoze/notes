@@ -1,0 +1,6 @@
+
+openoffice doc
+
+go through github stuff and add keywords 
+
+web applications, mobile applications, code dev, security experience / testing / assessment, source code review, javascript expertise, burp suite, nessus, acunetix, qualys, etc
