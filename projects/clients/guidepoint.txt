@@ -1,5 +1,4 @@
 
-CallRatingViewController
 requestFollowUp email
 check api endpoints for any changes
 
@@ -251,4 +250,9 @@ hours
 		* split out buttons into separate cell on client call details view
 		
 	08-31-16
-		* 
+		* call rating view controller
+		* select rating
+		* progress on review text view
+		* add padding to review text view
+		* add placeholder to review text view
+	
