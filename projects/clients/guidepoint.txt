@@ -1,7 +1,6 @@
 
-animate "YOUR RATING WAS SUBMITTED"
-requestFollowUp email
-check api endpoints for any changes
+look into remaining things
+start assigning tickets to mark
 
 manager
 	jbarker@guidepointglobal.com
@@ -78,6 +77,7 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
+	From the client's perspective, how to get the Project Manager for a project?
 	What happens when call is cut short? (modify the call's endDate?)
   What should the Availability subsection look like for an already scheduled advisor?
   What's the difference between SEND CONFIRMATION and EMAIL buttons?
@@ -256,4 +256,11 @@ hours
 		* progress on review text view
 		* add padding to review text view
 		* add placeholder to review text view
+		
+	09-01-16
+		* validate and submit call rating
+		* animate Your Rating Was Submitted
+		* request follow up email
 	
+	09-02-16
+		* 
