@@ -1,0 +1,14 @@
+swagger_tokenizer.json
+  should these endpoints be locked down?
+  should all of the 200 get responses use RefResp? 
+  should all of the 404 responses use http404Resp?
+  some of the 500 responses use http404Resp (e.g. /ops/v1/conf, /ops/v1/ping)
+  definitions > RefResp > properties > env > enum:
+    duplicate vals
+  discrepancy on type for yyyy (double vs int64)
+  also mm has type string, double, int64 throughout
+
+swagger_kasa.json
+  /login/v2/reservation 200 returns wrong response?
+  should the error endpoint 200 respones return ack?
+  /ops/v1/applications/{date}: no response ref

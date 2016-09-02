@@ -1,3 +1,6 @@
+
+rowhammer issue: repeatedly accessing row of memory can cause bit flips in adjacent rows
+
 08/25/16: Just a reminder. Like clockwork, immediately, my brain just freezes up with horrible "brain fog". I pretty much feel high and/or retarded. For two days or so I felt perfectly fine. Digestive system/appetite normal. All of a sudden hungry as hell, brain fog, inability to concentrate. This is awful.
 
 company/startup thoughts
