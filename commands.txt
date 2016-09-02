@@ -260,6 +260,7 @@ mail
 microsoft word
   alt+F9: show formulas
   F9: update formulas
+  Layout > Data > Formula: edit formula
 
 mongodb
   sudo service mongod start
