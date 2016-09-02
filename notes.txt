@@ -8,6 +8,17 @@ they worked with Britain's Bletchley Park
 the US was reading the codes of more than 40 countries, including allies and the Axis
 before the end of the war Clarke knew the Soviet Union would be the next main enemy and ordered to begin cracking Russian codes in Jan 1943
 the Navy had its own code-breaking operations headquartered in Washington
+Russians were doing a better job than everyone else
+in Oct 1943, Richard Hallock made first break into Russian ciphers (Russians were reusing their one time pads)
+Russian intelligence changes:
+    1922-1923: after postrevolutionary Cheka, it became the State Political Directorate (GPU)
+    1923-1934: United State Political Directorate (OGPU)
+    1934-1943: Main Directorate for State Security (GUGB)
+    1943-1946: People's Commissariat for State Security (NKGB)
+    1946-1953: Ministry for State Security (MGB)
+    1953-1954: Ministry of Internal Affairs (MVD)
+    1954-1991: Committee for State Security (KGB)
+    Oct 1991: KGB dissolved following collapse of the USSR and the abortive coup against Mikhail Gorbachev
 
 
 Future Crimes, Marc Goodman
