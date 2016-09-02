@@ -1,7 +1,35 @@
 
-rowhammer issue: repeatedly accessing row of memory can cause bit flips in adjacent rows
+tor
+====
+4 types of relays: guard (entry), middle, exit, bridge
+a circuit consists of 3 nodes: a guard, a middle, and an exit
+all links between nodes encrypted except exit node -> target machine
+onion service = onion address
+.onion addresses: 16 characters (base 32)
+client and server hide their location
+steps:
+    onion service picks nodes and builds a circuit
+    service uploads its onion service descriptor (text file that explains how to get to service) to an onion service directory (HSDirectory)
+    user learns about the .onion (service) and fetches descriptor from the directory (creates circuit to random relay (rendezvous point))
+    user tells the service to meet at rendezvous point
+    service connects to rendezvous point
+    user and service can now use circuit to exchange info
+    there exist six HSDirs
+    descriptor id is base16
+future tor changes:
+    add random value to descriptor generated hash
+    change onion address from 16 to 52 characters
+    guard node sets (to prevent knowing guard node by malicious middle node)
+    onion balance: way to set up multiple identical hidden services
+onion security:
+    dont run relays on onion servers
+    use unix sockets and avoid tcp altogether
+    
+    
+    
 
-08/25/16: Just a reminder. Like clockwork, immediately, my brain just freezes up with horrible "brain fog". I pretty much feel high and/or retarded. For two days or so I felt perfectly fine. Digestive system/appetite normal. All of a sudden hungry as hell, brain fog, inability to concentrate. This is awful.
+
+rowhammer issue: repeatedly accessing row of memory can cause bit flips in adjacent rows
 
 company/startup thoughts
 ====
