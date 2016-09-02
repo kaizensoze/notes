@@ -1,4 +1,5 @@
 
+animate "YOUR RATING WAS SUBMITTED"
 requestFollowUp email
 check api endpoints for any changes
 
