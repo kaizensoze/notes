@@ -19,7 +19,39 @@ Russian intelligence changes:
     1953-1954: Ministry of Internal Affairs (MVD)
     1954-1991: Committee for State Security (KGB)
     Oct 1991: KGB dissolved following collapse of the USSR and the abortive coup against Mikhail Gorbachev
-
+on Sept 1945, the SSA was redesignated as the Army Security Agency (ASA)
+super-secret intercept program known as Operation Gold: in May 1946, two years before the creation of the state of Israel, the US Navy COMINT org began intercepting the international telephone calls and cable traffic of Jewish agents in the US who were engaged in raising money and buying arms for the Jewish underground in Palestine
+On March 5, 1946, Winston Churchill delivers famous speech in Fulton, Missouri warning about the Iron Curtain
+informal war time arrangements between American and British COMINT formalized on same day
+as Churchill has delivering his speech, a group of Senior American and British intelligence officials were signing a Top Secret intelligence-sharing agreement called the British-United States Communication Intelligence Agreement (BRUSA Agreement)
+there was to be a free and complete exchange of information between Government Communications Headquarters (GCHQ) and the US orgs
+other SIGINT allies-Canada, Australia, New Zealand-referenced in agreement
+in 1954 BRUSA morphs into United Kingdom-United States (UKUSA) Agreement
+on Sept 5, 1945, Russian cipher clerk Igor Gouzenko walked out of Russian embassy in Ottawa and defected to Canada
+info from Gouzenko helped the Royal Canadian Mounted Police identify seventeen spies working for the Soviet military intelligence service (GRU) in Canada and Britain
+Richard Pritchard headed GCHQ
+during the 1948 Berlin Crisis, it was COMINT that showed the Soviets had no intention of launching an attack on West Berlin or West Germany
+on June 26, 1948, the Soviets cut off all access to West Berlin, forcing the US and Britain to begin massive airlift to keep West Berlin supplied with foodstuffs and coal for heating
+on Friday, October 29, 1948, just as Truman was preparing to give a speech at Brooklyn Academy of Music in New York City, the Russian government and military executed a massive change of virtually all of their cipher systems. This day was later known as Black Friday
+US/UK cryptanalysts would be unable to decrypt more complicated ciphers until tenure of Admiral Bobby Ray Inman in the late 1970s
+Russian military and key Soviet government ministries began encrypting their telephone calls using a newly developed voice scrambling device called Vhe Che (High Frequency)
+Russians made massive shift because William Weisband, forty-year-old Russian linguist with ASA, told the KGB everything he knew
+on Oct 20 1948, newly independent US Air Force formally activated its own COMINT, the US Air Force Security Service (USAFSS)
+CIA had been created in 1947
+between December 1948 and June 1950, Meredith Gardner decrypted portions of Soviet Venona ciphers that helped the FBI identify Judith Coplon, Julius Rosenberg, Klaus Fuchs, Donald MacLean, David Green-glass, Julius Rosenberg, and Theodore Alvin Hall; only 15 of the 206 Soviet agents identified in the Venona decrypts were prosecuted
+forty individuals identified as having spied for Russia fled before they could be prosecuted, including MacLean, Guy Burgess, and Kim Philby
+by 1950 COMINT was looking pretty weak
+there was no COMINT on North Korea before the Korean War broke out (they just weren't a priority over the USSR)
+on June 28, 1950, Seoul fell to the North Korean invasion [without a fight] three days after it began
+North Korea was incompetent with COMINT and all of their military tactical codes and ciphers were broken
+with COMINT compromised, North Korea essentially got owned
+AFSA was able to read the cable traffic of best informed foreign diplomat based in Beijing, Dr. Kavalam Madhava Panikkar, India's ambassador to China
+intercepts of Panikkar's cables to New Delhi in July/August 1940 revealed he had been told by Chou Enlai that the Chinese would not intervene militarily in Korea
+decrypted cables of the Burmese ambassador in Beijing warned that China now intended to become militarily involved in Korea
+on Sept 25, Chou Enlai warned Indian ambassador that China would intervene if UN forces crossed the 38th parallel
+Panikkar's reporting was discounted/ignored, but China wasn't bluffing
+on Oct 1 South Korean troops crossed the 38th parallel; the next day, Mao Tsetung ordered 260,000 Chinese troops to begin crossing the Yalu River on October 15
+ 
 
 Future Crimes, Marc Goodman
 ====
