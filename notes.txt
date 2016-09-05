@@ -70,6 +70,13 @@ on Jan 20, 1961, JFK sworn in as 35th president
 at the time NSA had a budget of $654M, while CIA had a budget of $401.6M
 Jack Frost was a disaster as head of NSA (not on good terms with Kennedy administration among other things)
 by 1962 McNamara fired Frost
+by July 1962, SIGINT showed that the Cuban MiG fighters were now routinely conducting ground-controlled intercept (CGI) air defense exercises and on two occasions intercepted intruding aircraft, clear evidence that the Cuban air force was fast becoming combat ready
+NSA was able to tap into the Cuban national telephone system; this was possible because the American telecommunications giant RCA International had built the system in 1957 and it used vulnerable micro wave relay system rather than invulnerable landlines to carry virtually all telephone traffice between Havana and all major towns and cities in Cuba
+in 1960, the Soviets began to replace the American-made equipment with Russian communications and crypographic equipment; NSA estimated it would take them about two years to replace it but with the lack of spare parts blah blah blah, they'd just stick with the American system
+a "burst" transmission is one in which the message is compressed electronically and the information packed into the "burst" takes only seconds to be transmitted and received
+SIGINT detected four Soviet Foxtrot-class attack submarines departing Northern Fleet naval bases on the Kola Peninsula
+U-2 imagery showed the Russians had accelerated their work on completing the ballistic missile sites in Cuba
+Cuban saboteurs blew up four electrical substations in western Venezuela
 
 
 Future Crimes, Marc Goodman
