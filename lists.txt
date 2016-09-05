@@ -23,6 +23,7 @@ movies
   Arthur Christmas [X]
   Bellflower [X]
   Funny Ha Ha [X]
+  Hacksaw Ridge
   Don't Breathe
   Don't Think Twice
   Fermat's Last Theorem
