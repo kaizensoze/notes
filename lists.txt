@@ -1,14 +1,11 @@
 
-hacker academy
-look into externally hosted api endpoint
 
 check out shoprite (2335 New Hyde Park Road)
 order faraday tent? (http://hollandshielding.com/Orderform)
 schedule dermatologist
 
 work
-  hacker academy
-  decox
+  decox (look into externally hosted api endpoint)
   networking course
   reverse engineer apps
 
@@ -24,8 +21,6 @@ tv
   Goliath (10/14)
 
 movies
-  The Look of Silence [X]
-  Election [X]
   Arthur Christmas [X]
   Bellflower [X]
   Funny Ha Ha [X]
@@ -34,7 +29,6 @@ movies
   Fermat's Last Theorem
   Passenger Side
   Me and You and Everyone we Know
-  Black Dynamite
   Tomorrow Night
   Mr Untouchable
   Eat That Question: Frank Zappa in His Own Words
