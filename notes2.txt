@@ -29,10 +29,6 @@ future tor changes:
 onion security:
     dont run relays on onion servers
     use unix sockets and avoid tcp altogether
-    
-    
-    
-
 
 rowhammer issue: repeatedly accessing row of memory can cause bit flips in adjacent rows
 

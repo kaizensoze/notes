@@ -1,9 +1,4 @@
 
-look into remaining things
-create build
-
-start assigning tickets to mark
-
 manager
 	jbarker@guidepointglobal.com
 	welcome
@@ -11,16 +6,6 @@ client
 	chris.carroll@wmpartners.com
 	c.Tkac@lek.com
 	a
-
-projects view: newCount
-project advisors view
-	project.newCount
-	advisor.status
-	fix selected url (endpoint not returning anything)
-get client availability for project
-get email content to fill into email
-send email action
-send reminder action
 
 curl:
   curl \
@@ -100,4 +85,9 @@ hours
 	
 	09-02-16 [0]
 	
-	
+	09-06-16
+		* look at latest twilio changes in APPS-14-client-iphone-app-scheduled-call branch
+		* look into any changes in api responses
+		* go through any remaining things required on backend and formally create tickets for them
+		* create and email latest PM+Client iOS build
+		
