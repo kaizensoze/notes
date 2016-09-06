@@ -1065,35 +1065,17 @@ donuts
     
 music
   65daysofstatic
-  a;GRUMH
-  aereogramme
-  and you will know us by the trail of dead
   animals as leaders
   arcade fire
-  arch enemy
   asobi seksu
-  ataxia
-  bear in heaven
   beatles
   bjork
-  blood & batteries
-  boccherini
-  borknagar
-  brahms
-  built to spill
-  chapterhouse
-  colin marston
-  coma recovery
   copy
   cradle of filth
   crutch
-  cymbals eat guitars
   daft punk
   dance gavin dance
-  dark night of the soul
-  dark tranquility
   dear hunter
-  death stars
   die krupps
   dresden dolls
   drive like jehu
@@ -1122,7 +1104,6 @@ music
   kinski
   kreator
   kronos quartet NIN cover
-  Leiahdorus
   liquid divine
   M83
   mae
@@ -1135,7 +1116,6 @@ music
   metric
   mexico 1910
   morrissey
-  mozart
   Mt.
   mute math
   neuroticfish
@@ -1151,25 +1131,16 @@ music
   russian circles
   samuel jackson five
   saxon shore
-  secret machines
-  Sickoakes
   the smiths
   the sounds
   stabilizer
   survival research labs
-  the downer party
-  the subways
-  terminator soundtrack
   theta naught
   this will destroy you
   tosin abasi
   tristeza
-  tsunami bomb
-  vnv
-  we vs. death
+  VNV Nation
   wumpscut
-  Yndi Halda
-  you.may.die.in.the.desert
   
 geologic periods
   cambrian
