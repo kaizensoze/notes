@@ -1,4 +1,9 @@
 
+deception in reporting
+====
+man crys after jeter hits a home run
+"after" implies "because" or "due to" but technically it's simply two sequential [but not necessarily connected] events
+
 tor
 ====
 4 types of relays: guard (entry), middle, exit, bridge

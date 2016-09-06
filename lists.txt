@@ -9,23 +9,25 @@ work
   reverse engineer apps
 
 tv
-  Peaky Blinders S01E05
   Jonathan Strange & Mr. Norrell S01E02
+  Peaky Blinders S02E01
   Mr Robot S02E10 (09/07)
   Life's Too Short
   Corner Gas
   South Park S17, S20E01 (09/14)
   Last Week Tonight S03E23 (09/25)
+  Channel Zero (09/27)
   Goliath (10/14)
 
 movies
-  Arthur Christmas [X]
-  Bellflower [X]
-  Funny Ha Ha [X]
+  Arthur Christmas
+  Bellflower
+  Funny Ha Ha
+  Passenger Side
+  ================
   Don't Breathe
   Don't Think Twice
   Fermat's Last Theorem
-  Passenger Side
   Me and You and Everyone we Know
   Mr Untouchable
   Tomorrow Night
@@ -34,4 +36,7 @@ movies
   Swiss Army Man
   Lo and Behold, Reveries of the Connected World
   Louis Theroux: My Scientology Movie (09/08)
+  Arq (09/16)
+  Mascots (10/13)
   Hacksaw Ridge (11/04)
+  In Dubious Battle (??/??)
