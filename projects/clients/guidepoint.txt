@@ -1,4 +1,12 @@
 
+advisor detail view
+	when advisor is selected
+		action button overlay on advisor detail view
+			SCHEDULE CALL, EMAIL
+			disable schedule button if advisor doesn't meet compliance
+		have availability subsection just show compliance warning on drop if advisor doesn't meet compliance
+		availability subsection send confirmation button -> mail view
+
 manager
 	jbarker@guidepointglobal.com
 	welcome
@@ -64,13 +72,9 @@ endpoints
   /request/{id}/advisor/{id}/compliance_action (POST) // submit compliance action
 
 questions
-	From the client's perspective, how to get the Project Manager for a project?
-	What happens when call is cut short? (modify the call's endDate?)
-  What should the Availability subsection look like for an already scheduled advisor?
-  What's the difference between SEND CONFIRMATION and EMAIL buttons?
-  JWT token is good for 12 hours so should user be logged out every 12 hours?
+	What happens after sending confirmation email?
 	answered:
-		advisors are moved from one action to the next (not cumulative)
+		advisors are moved from one action to the next (cannot have more than one status; e.g. if you're Scheduled you're not also Accepted, Sent, Selected)
 		advisors can only go from one action to the next (disallow skipping steps)
 		Declined means the advisor declined instead of accepting
 		the status progression is in 2 directions
@@ -92,5 +96,6 @@ hours
 		* create and email latest PM+Client iOS build
 		
 	09-07-16
+		* go through TODO/FIXME throughout code for PM/Client and create tickets for any additional remaining tasks
 		* 
 		
