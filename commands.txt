@@ -282,6 +282,10 @@ nginx
   sudo nginx -t
   sudo nginx -s reload
 
+ngrep
+  sudo ngrep -d any metafilter  # grep anything related to metafilter traffic (go to http://metafilter.com in browser)
+  sudo ngrep special_id         # filter for special_id in any network traffic
+
 nmap
   nmap -sP 192.168.0.1/24
 
