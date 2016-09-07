@@ -91,3 +91,6 @@ hours
 		* go through any remaining things required on backend and formally create tickets for them
 		* create and email latest PM+Client iOS build
 		
+	09-07-16
+		* 
+		

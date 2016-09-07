@@ -292,6 +292,7 @@ osx
   sudo killall -HUP mDNSResponder
   sysctl -a hw
   cmd+alt+i to get size of selected files
+  split view: hold click on green maximize icon of window
 
 pdf
   brew install poppler
