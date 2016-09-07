@@ -288,6 +288,9 @@ nmap
 npm
   npm ls [--global] --depth=0
 
+opensnoop
+  sudo opensnoop -p PID
+
 osx
   sudo killall -HUP mDNSResponder
   sysctl -a hw
@@ -403,6 +406,9 @@ ssh-agent
 
 ssh-keygen
   ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+strace
+  (prefix command with strace; e.g. strace python blah.py)
 
 tcpdump
   sudo tcpdump -nS
