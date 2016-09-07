@@ -97,5 +97,8 @@ hours
 		
 	09-07-16
 		* go through TODO/FIXME throughout code for PM/Client and create tickets for any additional remaining tasks
+		* progress on scheduling actions on advisor detail view
+		
+	09-08-16
 		* 
 		
