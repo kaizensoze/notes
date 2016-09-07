@@ -1,9 +1,4 @@
 
-guidepoint
-add soil to pots
-shower
-listen to recordings
-movies
 netflix
 courses
 
@@ -28,12 +23,6 @@ tv
   Goliath (10/14)
 
 movies
-  Passenger Side
-  Funny Ha Ha
-  In the Loop
-  Bellflower
-  Waiting for Guffman
-  ================
   Don't Breathe
   Don't Think Twice
   Fermat's Last Theorem
