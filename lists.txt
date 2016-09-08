@@ -1,6 +1,6 @@
 
-guidepoint
 netflix
+guidepoint
 courses
 decox
 
@@ -14,7 +14,6 @@ work
   reverse engineer apps
 
 tv
-  Jonathan Strange & Mr. Norrell S01E02
   Peaky Blinders S02E02
   Mr Robot S02E10 (09/07)
   Life's Too Short
