@@ -1,4 +1,5 @@
 
+convert codebase to ios 10
 advisor detail view
 	when advisor is selected
 		action button overlay on advisor detail view
