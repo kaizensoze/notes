@@ -1,7 +1,5 @@
 
-xcode 8 - ios 10
 guidepoint
-call mom to visit grandpa
 check out shoprite (2335 New Hyde Park Road)
 schedule dermatologist
 
@@ -21,7 +19,6 @@ tv
   Goliath (10/14)
 
 movies
-  Don't Breathe
   Don't Think Twice
   Fermat's Last Theorem
   Mr Untouchable
