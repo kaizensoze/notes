@@ -1,6 +1,9 @@
 
+shower
+head home
+node-github (add-projects)
+dermatologist
 check out shoprite (2335 New Hyde Park Road)
-schedule dermatologist
 
 work
   decox (look into externally hosted api endpoint)
@@ -11,8 +14,8 @@ tv
   Peaky Blinders S03E03
   Life's Too Short
   Corner Gas
-  South Park S17, S20E01 (09/14)
-  Mr Robot S02E11 (09/15)
+  South Park S17, S20E01
+  Mr Robot S02E11
   Last Week Tonight S03E23 (09/25)
   Channel Zero (09/27)
   Goliath (10/14)
