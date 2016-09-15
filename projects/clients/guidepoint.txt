@@ -110,3 +110,6 @@ hours
 	09-14-16
 		* get app up to date with ios 10 / swift 3
 	
+	09-15-16
+		* 
+	
