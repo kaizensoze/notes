@@ -1,5 +1,7 @@
 
-convert codebase to ios 10
+projects view
+test reauthenticate
+
 advisor detail view
 	when advisor is selected
 		action button overlay on advisor detail view
