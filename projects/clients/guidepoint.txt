@@ -113,5 +113,8 @@ hours
 	09-15-16 [0]
 	
 	09-16-16
+		* finalized and merged ios 10 / swift 3 changes
+		
+	09-19-16
 		* 
 	
