@@ -1,9 +1,7 @@
 
 schedule dermatologist
 schedule colorectal surgeon
-schedule psychiatrist
 reconnect for doctor's appointment
-check out shoprite (2335 New Hyde Park Road)
 
 work
   decox (look into externally hosted api endpoint)
