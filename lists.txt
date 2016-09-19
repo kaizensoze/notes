@@ -1,5 +1,5 @@
 
-schedule psychiatrist
+psychiatrist appt
 schedule dermatologist
 reconnect for doctor's appointment
 
