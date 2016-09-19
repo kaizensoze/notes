@@ -1,6 +1,6 @@
 
+schedule psychiatrist
 schedule dermatologist
-schedule colorectal surgeon
 reconnect for doctor's appointment
 
 work
