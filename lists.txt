@@ -10,11 +10,11 @@ work
   reverse engineer apps
 
 tv
-  American Horror Story S06E02 (09/21)
   Life's Too Short
   Corner Gas
   South Park S20E02 (09/21)
   Mr Robot S02E12 (09/21)
+  American Horror Story S06E02 (09/21)
   Parts Unknown S08E01 (09/25)
   Last Week Tonight S03E23 (09/25)
   Channel Zero (09/27)
@@ -29,7 +29,6 @@ movies
   Eat That Question: Frank Zappa in His Own Words
   Traceroute
   Swiss Army Man
-  Lo and Behold, Reveries of the Connected World
   Louis Theroux: My Scientology Movie
   Silicon Cowboys
   Mascots (10/13)
