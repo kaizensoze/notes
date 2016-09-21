@@ -1,5 +1,6 @@
 
-psychiatrist appt
+ask psychiatrist to call careconnect to authorize MRI
+try to get compensated for psychiatrist visit
 schedule dermatologist
 reconnect for doctor's appointment
 
@@ -9,15 +10,18 @@ work
   reverse engineer apps
 
 tv
+  American Horror Story S06E02 (09/21)
   Life's Too Short
   Corner Gas
   South Park S20E02 (09/21)
   Mr Robot S02E12 (09/21)
+  Parts Unknown S08E01 (09/25)
   Last Week Tonight S03E23 (09/25)
   Channel Zero (09/27)
   Goliath (10/14)
 
 movies
+  Sully
   Don't Think Twice
   Fermat's Last Theorem
   Mr Untouchable
