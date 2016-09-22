@@ -115,6 +115,11 @@ Foscam incompetent babycam firmware
 microchips in car form the controller area network (CAN)
 CAN hacking tool: $30 device which, when plugged into car's onboard computer network, allows attacker to remotely seize control of vehicle's lights, locks, and steering brake systems
 conversnitch is a light bulb with a microphone that live tweets nearby conversations
+insurgents use SkyGrabber software to intercept Predator drone video feeds
+students at UT Austin demonstrated hacking DHS UAVs by spoofing the drone's GPS using hardware they built for under $1,000
+Iranians spoofed UAV's GPS signal and were able to capture RQ-170 (beast of kandahar)
+in 2011 a computer virus struck the US drone fleet logging every keystroke of drone pilots
+in 2013 Samy Kamkar devised attack that allowed him to fly his own aerial drone that would seek other flying robots in the sky, hack them, turn them into a physical botnet army of UAVs under his control (SkyJack)
 
 Kill Chain, Andrew Cockburn
 ====
