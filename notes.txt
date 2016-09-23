@@ -120,6 +120,12 @@ students at UT Austin demonstrated hacking DHS UAVs by spoofing the drone's GPS 
 Iranians spoofed UAV's GPS signal and were able to capture RQ-170 (beast of kandahar)
 in 2011 a computer virus struck the US drone fleet logging every keystroke of drone pilots
 in 2013 Samy Kamkar devised attack that allowed him to fly his own aerial drone that would seek other flying robots in the sky, hack them, turn them into a physical botnet army of UAVs under his control (SkyJack)
+UC Berkeley scientists were able to reconstruct the faces people were looking at based solely on patterns of brain activity and what they were seeing in their mind
+CMU researchers were able to perform "thought identification", identifying the object a person was thinking about merely by reviewing the scan
+synthetic biology (synbio) is the engineering of biology from individual cells to full organisms
+2008 Genetic Information Nondiscrimination Act (GINA) makes it illegal for employers to fire or refuse employment based on genetic information
+you can take the genetic codes for active ingredients in illegal substances and cut and paste them into yeast
+E. coli bacteria have been genetically engineered and reprogrammed to produce THC
 
 Kill Chain, Andrew Cockburn
 ====
