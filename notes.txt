@@ -127,6 +127,7 @@ synthetic biology (synbio) is the engineering of biology from individual cells t
 you can take the genetic codes for active ingredients in illegal substances and cut and paste them into yeast
 E. coli bacteria have been genetically engineered and reprogrammed to produce THC
 
+
 Kill Chain, Andrew Cockburn
 ====
 Predator invented by Israeli Avraham Karem
