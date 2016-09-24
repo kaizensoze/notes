@@ -14,7 +14,9 @@ three implementations of init:
     System V
     systemd
     Upstart
-System V and other older versions relied on a sequence that performed only one startup task at a time; this made it easy to resolve dependencies
+System V and other older versions relied on a sequence that performed only one startup task at a time; this made it easy to resolve dependencies but performance wasn't very good
+getty is a program that attaches to terminals and displays a login prompt
+
 
 The Secret Sentry, Matthew Aid
 ====
