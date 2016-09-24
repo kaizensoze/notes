@@ -1,6 +1,6 @@
-The Wise Men, Walter Isaacson
+How Linux Works, Brian Ward
 ====
-Ambassador Averell Harriman
+
 
 The Secret Sentry, Matthew Aid
 ====
@@ -873,3 +873,85 @@ Rise of the Robots, Martin Ford
 A Short History of Nearly Everything, Bill Bryson
 ====
 Edmond Halley asks Newton about the curve of orbit (gravitational pull between sun and planets). Newton says an ellipse and knows because he calculated it. When Halley asks for the calculation, he says he lost it, but he'll recalculate it when he gets a chance
+
+Linux Kernel Development, Robert Love
+====
+3 main layers
+  user-space
+    applications
+
+  kernel-space
+    system call interface
+    kernel subsystems
+    device drivers
+
+  hardware
+
+each processor doing 1 of 3 things at any given moment:
+  * in user-space, executing user code in a process
+  * in kernel-space, in process context, executing on behalf of a specific process
+  * in kernel-space, in interrupt context, not associated with process, handling an interrupt
+
+major.minor.revision.stable (ex: 2.6.26.1)
+minor odd -> development
+minor even -> stable
+
+kernel does not have access to libc or standard headers
+kernel has its own equivalent of functions (ex: printk instead of printf)
+
+use of inline functions for performance optimization (use sparingly; ex: static inline void wolf(unsigned long tail_size) )
+use of inline assembly
+branch annotation (ex: unlikely(error), likely(success) )
+float point discouraged in kernel
+small, fixed-size stack
+
+task list: circular doubly linked list
+each element is a process descriptor of type struct task_struct {
+  unsigned long state
+  int prio
+  struct task_struct *parent
+  struct list_head tasks
+  pid
+  ...
+}
+task_struct allocated via slab allocator
+at the end of kernel stack of each process is the struct thread_info {
+  struct task_struct *task
+  struct exec_domain *exec_domain
+  __u32 flags
+  __u32 status
+  __u32 cpu
+  int preempt_count
+  ...
+}
+current macro for process descriptor of currently executing task = current_thread_info()->task
+process descriptor states
+  TASK_RUNNING: process currently running or on runqueue (only state possible for process executing in user-space)
+  TASK_INTERRUPTIBLE: process is sleeping
+  TASK_UNINTERRUPTIBLE: process is sleeping but doesn't wake up when signalled
+  __TASK_TRACED: process is being traced
+  __TASK_STOPPED: process has stopped; not running and not eligible to run
+change task state with set_task_state(task, state)
+all processes descendants of init process, whose PID is one
+for_each_process() iterates over entire task list
+
+linked list funkiness
+list_for_each()
+list_for_each_entry()
+list_entry()
+
+scheduler classes
+  SCHED_NORMAL
+    handled by CFS
+    CFS uses the scheduler entity struct, struct sched_entity {
+      ...
+      on_rq
+      ...
+      vruntime
+      ...
+    }
+    vruntime: amount of time spent running normalized by the number of runnable processes
+
+process priority
+  real-time (0 to 99)
+  nice (-20 to 19)
