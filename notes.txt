@@ -1,5 +1,8 @@
 How Linux Works, Brian Ward
 ====
+when a process calls fork(), the kernel creates a nearly identical copy of the process
+when a process calls exec(program), the kernel starts program, replacing the current process
+other than init, all user processes on a linux system start as a result of fork(), and most of the time, you also run exec() to start a new program instead of running a copy of an existing process (i.e. you fork and then exec)
 
 
 The Secret Sentry, Matthew Aid
