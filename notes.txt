@@ -3,7 +3,18 @@ How Linux Works, Brian Ward
 when a process calls fork(), the kernel creates a nearly identical copy of the process
 when a process calls exec(program), the kernel starts program, replacing the current process
 other than init, all user processes on a linux system start as a result of fork(), and most of the time, you also run exec() to start a new program instead of running a copy of an existing process (i.e. you fork and then exec)
-
+find sysfs location of a device in /dev: udevadm info --query=all --name=/dev/sda
+user space startup:
+    init
+    essential low-level services (e.g. udevd, sys-logd)
+    network configuration
+    mid- and high-level services (e.g. cron, printing)
+    login prompts, GUIs, and other high-level applications
+three implementations of init:
+    System V
+    systemd
+    Upstart
+System V and other older versions relied on a sequence that performed only one startup task at a time; this made it easy to resolve dependencies
 
 The Secret Sentry, Matthew Aid
 ====

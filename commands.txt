@@ -316,12 +316,11 @@ php
 pip
   pip install --user (already as alias in zshrc)
   pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs pip install -U   (upgrades all installed)
-  
+
 pipe
   ls ~ > f
   ls ~ > f 2> e
   ls ~ > f 2>&1
-  
 
 postgres
   \l # list databases
