@@ -167,6 +167,7 @@ git
   git d master -- Expert/Info.plist
   git checkout -p
   git diff -R (reverse additions/deletions for diff [between branches])
+  git diff master -- . ':!test' ':!package.json'  # exclude paths from git diff
 
 github
   curl -u kaizensoze:<token> https://api.github.com/rate_limit
