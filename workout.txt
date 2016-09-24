@@ -135,7 +135,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   pushups: 51
   
 2016-09-01:
-  planks: 01:30 (pathetic)
+  planks: 01:30
   
 2016-09-04:
   pushups: 50
@@ -151,5 +151,5 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   2x6 pullups
   
 2016-09-24:
-  planks: 
+  planks: 02:30
   
