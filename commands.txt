@@ -265,7 +265,11 @@ mac
   mac info
   mac speedtest
   mac ports   # seems to be the same as `sudo lsof -i -n -P | grep -i LISTEN`
-  
+  mac dev:monitor system.log
+  mac system
+  mac temp
+  mac memory
+  mac git:open # open current repository on github
 
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
