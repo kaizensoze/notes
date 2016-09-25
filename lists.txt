@@ -1,6 +1,6 @@
 
-osxauditor
-getlantern
+redox
+webtorrent
 osquery
 
 buy car
