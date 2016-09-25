@@ -3,4 +3,4 @@ cd atom
 [script/clean]
 script/build
 
-/Users/joegallo/dev/atom/out/Atom.app --safe
+out/Atom.app/Contents/MacOS/Atom --safe
