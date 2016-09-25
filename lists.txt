@@ -1,21 +1,19 @@
 
-redox
 osquery
 webtorrent
+redox
 
 buy car
 call car rental about not receiving info on accident
 post rooms on craigslist
 stop by zucker hillside for MRI results -> see neurologist with MRI results
-give two weeks for guidepoint
 sleep study
-ask aunt val about divorce process
 wait on gig from kristian -> find new ios gig
+ask aunt val about divorce process
 
 work
+  guidepoint
   decox
-  networking course
-  reverse engineer apps
 
 tv
   Life's Too Short

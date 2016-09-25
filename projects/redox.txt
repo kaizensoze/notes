@@ -1,8 +1,11 @@
 
 setup
   curl -sf https://raw.githubusercontent.com/redox-os/redox/master/bootstrap.sh -o bootstrap.sh && bash -e bootstrap.sh
+  add `export PATH=$HOME/.cargo/bin:$PATH`, `source $HOME/.cargo/env` to ~/.zshrc
   cd redox
   curl https://sh.rustup.rs -sSf | sh
   rustup override set nightly
   make all
   make virtualbox
+
+bash -e bootstrap.sh
