@@ -1,7 +1,6 @@
 
-osquery
 webtorrent
-redox
+osquery
 
 buy car
 call car rental about not receiving info on accident
