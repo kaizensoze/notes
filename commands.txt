@@ -256,7 +256,15 @@ lsof
   sudo lsof -i :17600
   sudo lsof -i tcp:17600
   sudo lsof -n -P -i +c 0              # `+c 0` means show all characters for process name
-  sudo lsof -i -n -P | grep -i LISTEN  # all listening traffic
+  sudo lsof -i -n -P | grep -i LISTEN  # all listening traffic (list of used ports)
+
+mac
+  mac update
+  mac lock
+  mac apps:app-store
+  mac info
+  mac speedtest
+  mac ports   # seems to be the same as `sudo lsof -i -n -P | grep -i LISTEN`
 
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com

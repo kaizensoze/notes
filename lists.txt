@@ -1,4 +1,8 @@
 
+osxauditor
+getlantern
+osquery
+
 buy car
 call car rental about not receiving info on accident
 post rooms on craigslist
