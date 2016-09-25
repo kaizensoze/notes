@@ -4,3 +4,15 @@ cd atom
 script/build
 
 out/Atom.app/Contents/MacOS/Atom --safe
+
+create ~/Downloads/data.js
+var arr = [
+        'main',
+        'user',
+        'settings',
+        'lang',
+        'billing',
+];
+place cursor on settings line after first quote
+ctrl-shift-K deletes the line
+cursor should be on lang line after first quote
