@@ -265,6 +265,7 @@ mac
   mac info
   mac speedtest
   mac ports   # seems to be the same as `sudo lsof -i -n -P | grep -i LISTEN`
+  
 
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
@@ -321,6 +322,7 @@ php
   brew install homebrew/php/php70
   brew install homebrew/php/php70-pdo-pgsql
   add export PATH="$(brew --prefix homebrew/php/php70)/bin:$PATH" to ~/.zshrc
+  php -i # php info from the command line
 
 pip
   pip install --user (already as alias in zshrc)
