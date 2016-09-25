@@ -1,18 +1,19 @@
 
-webtorrent
-osquery
+update craigslist pictures
+  open blinds in rooms
+  add pictures of other parts of house
+look into buying used car
 
-buy car
-call car rental about not receiving info on accident
-post rooms on craigslist
 stop by zucker hillside for MRI results -> see neurologist with MRI results
+call car rental about not receiving info on accident
 sleep study
 wait on gig from kristian -> find new ios gig
 ask aunt val about divorce process
 
 work
-  guidepoint
+  osquery
   decox
+  guidepoint
 
 tv
   Life's Too Short
