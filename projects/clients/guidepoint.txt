@@ -1,11 +1,10 @@
 
+add actions view to advisor detail view
+
 advisor detail view
 	when advisor is selected
 		action button overlay on advisor detail view
 			SCHEDULE CALL, EMAIL
-			disable schedule button if advisor doesn't meet compliance
-		have availability subsection just show compliance warning on drop if advisor doesn't meet compliance
-		availability subsection send confirmation button -> mail view
 
 manager
 	jbarker@guidepointglobal.com
@@ -14,6 +13,9 @@ client
 	chris.carroll@wmpartners.com
 	c.Tkac@lek.com
 	a
+
+
+Product > Scheme > Edit Scheme (apple-<) > add environment variable: OS_ACTIVITY_MODE: disable
 
 curl:
   curl \
@@ -123,5 +125,15 @@ hours
 	
 	09-22-16 [0]
 	
-	09-23-16
+	09-23-16 [0]
+	
+	09-26-16
+		* adjust pm storyboard frames
+		* adjust manager call detail view constraints
+		* update carthage frameworks
+		* adjust client storyboard constraints
+		* further investigate xcode 8 storyboard bug
+		* add note in readme about xcode 8 storyboard bug
+		
+	09-27-16
 		* 
