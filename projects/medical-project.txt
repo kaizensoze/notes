@@ -1,0 +1,9 @@
+anonymous upload
+make sure sensitive info is redacted
+data entry into system
+state problem (symptoms, etc.) included with data
+volunteers try to figure out problem and make suggestions (human, AI?)
+keep track of things ruled out as the case progresses
+binary result (yay/nay) to let volunteer(s) know if they solved the problem
+
+similar to stack overflow in usage?
