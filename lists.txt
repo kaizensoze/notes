@@ -1,7 +1,5 @@
 
-read
-think of health-related project
-  look into sources of anonymous medical data
+call capitalone
 job hunt
   https://github.com/yanirs/established-remote [DONE]
   https://github.com/jessicard/remote-jobs 
@@ -14,6 +12,7 @@ ask aunt val about divorce process
 
 work
   decox
+  medical project
 
 tv
   Life's Too Short
