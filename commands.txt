@@ -168,6 +168,7 @@ git
   git checkout -p
   git diff -R (reverse additions/deletions for diff [between branches])
   git dw master -- . ':!test' ':!package.json' ':!examples' ':!doc' ':!CHANGELOG.md'  # select what parts of diff you care about
+  git branch --track fork-master kaizensoze/master  # having multiple local master branches from different remotes
 
 github
   curl -u kaizensoze:<token> https://api.github.com/rate_limit
