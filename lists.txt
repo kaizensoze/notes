@@ -1,10 +1,22 @@
 
-call capitalone
+wow
+read
+
+house
+  sleep formula
+  
+things to try for sleep
+  tart cherry juice
+  catnip
+  magnesium
+
+call budget about accident (get estimate, etc.)
+call LIJ about getting MRI result
+look into buying used car
 job hunt
   https://github.com/yanirs/established-remote [DONE]
   https://github.com/jessicard/remote-jobs 
   https://oldgeekjobs.com/ [DONE]
-look into buying used car
 stop by zucker hillside for MRI results
 see neurologist with MRI results
 sleep study
@@ -12,6 +24,7 @@ ask aunt val about divorce process
 
 work
   decox
+  revisit collaborative prototyping site idea
   medical project
 
 tv
