@@ -14,7 +14,6 @@ client
 	c.Tkac@lek.com
 	a
 
-
 Product > Scheme > Edit Scheme (apple-<) > add environment variable: OS_ACTIVITY_MODE: disable
 
 curl:
@@ -135,5 +134,9 @@ hours
 		* further investigate xcode 8 storyboard bug
 		* add note in readme about xcode 8 storyboard bug
 		
-	09-27-16
+	09-27-16 [0]
+	
+	09-28-16 [0]
+	
+	09-29-16
 		* 
