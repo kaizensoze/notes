@@ -1,4 +1,5 @@
 
+figure out how to fix manager.storyboard without having to reapply changes
 
 Manager.storyboard
 	CallDetail
