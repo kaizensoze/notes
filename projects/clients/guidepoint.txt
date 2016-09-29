@@ -1,5 +1,4 @@
 
-adjust tabbar in Manager.storyboard
 
 Manager.storyboard
 	CallDetail
@@ -13,9 +12,8 @@ Manager.storyboard
 Client.storyboard
 	TODO
 
-try readding tabbar images to Client.storyboard
+fix client storyboard tabbar tint bug
 
-try adjusting views *one more time*
 work on new psds
 
 add actions view to advisor detail view
