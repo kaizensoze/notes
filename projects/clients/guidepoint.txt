@@ -1,5 +1,21 @@
 
-doublecheck storyboard issues
+adjust tabbar in Manager.storyboard
+
+Manager.storyboard
+	CallDetail
+		Call Image View: 10 12 39 39
+		Eta Label: 10 57 39 14
+		Date Label: 61 12 306 19
+		Phone Number Label: 61 43 306 19
+		Pin Label: 61 61 306 19
+		Email Button: 10 93 355 45
+		
+Client.storyboard
+	TODO
+
+try readding tabbar images to Client.storyboard
+
+try adjusting views *one more time*
 work on new psds
 
 add actions view to advisor detail view
