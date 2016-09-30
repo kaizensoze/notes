@@ -1,5 +1,10 @@
 
-ask if I should remove call-related views from PM storyboard
+update project icon on project advisors view
+update status label on project advisors view
+update status icon on project advisors view
+
+ask about slide vs checkbox
+use slide for the All status?
 
 Manager.storyboard
 	CallDetail
