@@ -1,6 +1,4 @@
 
-try setting every vc to freeform (600, 600)
-
 Manager.storyboard
 	CallDetail
 		Call Image View: 10 12 39 39
