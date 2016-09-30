@@ -1,5 +1,5 @@
 
-figure out how to fix manager.storyboard without having to reapply changes
+try setting every vc to freeform (600, 600)
 
 Manager.storyboard
 	CallDetail
@@ -11,7 +11,8 @@ Manager.storyboard
 		Email Button: 10 93 355 45
 		
 Client.storyboard
-	TODO
+	ClientCalls
+		
 
 fix client storyboard tabbar tint bug
 
@@ -157,4 +158,10 @@ hours
 	09-28-16 [0]
 	
 	09-29-16
-		* 
+		* add two debug flags to api manager
+		* refix main storyboard
+		* rename main storyboard to manager
+		* fix manager storyboard tabbar tint bug
+		* rerefix manager storyboard
+		* look for a fix to get around xcode 8 storyboard bug
+		
