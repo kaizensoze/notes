@@ -1,6 +1,4 @@
 
-update project icon on project advisors view
-update status label on project advisors view
 update status icon on project advisors view
 
 ask about slide vs checkbox
