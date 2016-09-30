@@ -1,5 +1,6 @@
 
 update status icon on project advisors view
+	2x: 52x52
 
 ask about slide vs checkbox
 use slide for the All status?
@@ -172,3 +173,14 @@ hours
 		* rerefix manager storyboard
 		* look for a fix to get around xcode 8 storyboard bug
 		
+	09-30-16
+		* print auth token to console
+		* detach call/notification views from pm tabbar
+		* change projects tabbar icon
+		* convert launch screen to xcode 8 storyboard
+		* replace project icon
+		* update project icon on project advisors view
+		* update status label on project advisors view
+	
+	09-31-16
+		* 
