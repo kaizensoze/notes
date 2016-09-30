@@ -1,4 +1,6 @@
 
+ask if I should remove call-related views from PM storyboard
+
 Manager.storyboard
 	CallDetail
 		Call Image View: 10 12 39 39
@@ -10,6 +12,8 @@ Manager.storyboard
 		
 Client.storyboard
 	ClientCalls
+	
+	CallRating
 		
 
 fix client storyboard tabbar tint bug
