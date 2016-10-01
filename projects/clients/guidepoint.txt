@@ -1,4 +1,5 @@
 
+send hours
 update status icon on project advisors view
 	2x: 52x52
 
