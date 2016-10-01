@@ -19,7 +19,6 @@ work
 tv
   Life's Too Short
   Corner Gas
-  Parts Unknown S08E01
   Last Week Tonight S03E23 (10/02)
   South Park S20E04 (10/05)
   Channel Zero (10/11)
@@ -31,7 +30,6 @@ movies
   Mr Untouchable
   Tomorrow Night
   Eat That Question: Frank Zappa in His Own Words
-  Swiss Army Man
   Louis Theroux: My Scientology Movie
   Silicon Cowboys
   Mascots (10/13)
