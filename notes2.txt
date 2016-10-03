@@ -467,11 +467,11 @@ malware (advanced)
     Flame
     Duqu
     Regin
-  ???
-    ProjectSauron
-  Equation Group
-    EquationDrug
-    Grayfish
+    ProjectSauron (?)
+    Careto (?)
+    Equation Group
+      EquationDrug
+      Grayfish
 
 chase balance minimum
 ====
