@@ -1,6 +1,5 @@
 
-update status icon on project advisors view
-	2x: 52x52
+project advisor view updates
 
 Manager.storyboard
 	CallDetail
@@ -16,8 +15,6 @@ Client.storyboard
 	
 	CallRating
 		
-
-fix client storyboard tabbar tint bug
 
 work on new psds
 
