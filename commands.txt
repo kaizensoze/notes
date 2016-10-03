@@ -275,7 +275,7 @@ mac
 mail
   echo "This is a test." | mail -s Testing gallo.j@gmail.com
 
-microsoft word
+microsoft word (not excel)
   alt+F9: show formulas
   F9: update formulas
   Layout > Data > Formula: edit formula
