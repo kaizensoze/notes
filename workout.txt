@@ -163,3 +163,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   pushups: 60
   planks: 02:00
   
+2016-10-03:
+  finger pullups: 10
+  pushups: 50
+  
