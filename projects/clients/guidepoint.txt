@@ -1,5 +1,5 @@
 
-project advisor view updates
+project advisor view: swipe cell under ALL to show action buttons
 
 Manager.storyboard
 	CallDetail
@@ -104,5 +104,6 @@ questions
 dial-in: 1-800-459-1584, code: 2694 510#
 
 hours	
-	10-03-16
-		* 
+	10-03-16 [0.5]
+		* add updated status icons
+		* register status icon size change in storyboard
