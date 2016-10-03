@@ -2,9 +2,6 @@
 update status icon on project advisors view
 	2x: 52x52
 
-ask about slide vs checkbox
-use slide for the All status?
-
 Manager.storyboard
 	CallDetail
 		Call Image View: 10 12 39 39
