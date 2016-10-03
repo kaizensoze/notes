@@ -1,15 +1,16 @@
 
 call budget rental car about accident (get estimate, etc.)
 call LIJ about getting MRI result
-look into buying used car
-job hunt
-  https://github.com/yanirs/established-remote [DONE]
-  https://github.com/jessicard/remote-jobs 
-  https://oldgeekjobs.com/ [DONE]
-stop by zucker hillside for MRI results
 see neurologist with MRI results
+pick up prescription
+look into buying used car
 sleep study
 ask aunt val about divorce process
+job hunt
+  https://github.com/jessicard/remote-jobs 
+  https://news.ycombinator.com/item?id=12628466
+  https://github.com/yanirs/established-remote [DONE]
+  https://oldgeekjobs.com/ [DONE]
 
 work
   decox

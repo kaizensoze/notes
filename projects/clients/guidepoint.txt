@@ -1,5 +1,4 @@
 
-send hours
 update status icon on project advisors view
 	2x: 52x52
 
@@ -111,77 +110,5 @@ questions
 dial-in: 1-800-459-1584, code: 2694 510#
 
 hours	
-	09-01-16
-		* validate and submit call rating
-		* animate Your Rating Was Submitted
-		* request follow up email
-	
-	09-02-16 [0]
-	
-	09-06-16
-		* look at latest twilio changes in APPS-14-client-iphone-app-scheduled-call branch
-		* look into any changes in api responses
-		* go through any remaining things required on backend and formally create tickets for them
-		* create and email latest PM+Client iOS build
-		
-	09-07-16
-		* go through TODO/FIXME throughout code for PM/Client and create tickets for any additional remaining tasks
-		* progress on scheduling actions on advisor detail view
-		
-	09-08-16 [0]
-	
-	09-09-16 [0]
-	
-	09-12-16 [0]
-	
-	09-13-16 [0]
-	
-	09-14-16
-		* get app up to date with ios 10 / swift 3
-	
-	09-15-16 [0]
-	
-	09-16-16
-		* finalized and merged ios 10 / swift 3 changes
-		
-	09-19-16 [0]
-	
-	09-20-16 [0]
-	
-	09-21-16 [0]
-	
-	09-22-16 [0]
-	
-	09-23-16 [0]
-	
-	09-26-16
-		* adjust pm storyboard frames
-		* adjust manager call detail view constraints
-		* update carthage frameworks
-		* adjust client storyboard constraints
-		* further investigate xcode 8 storyboard bug
-		* add note in readme about xcode 8 storyboard bug
-		
-	09-27-16 [0]
-	
-	09-28-16 [0]
-	
-	09-29-16
-		* add two debug flags to api manager
-		* refix main storyboard
-		* rename main storyboard to manager
-		* fix manager storyboard tabbar tint bug
-		* rerefix manager storyboard
-		* look for a fix to get around xcode 8 storyboard bug
-		
-	09-30-16
-		* print auth token to console
-		* detach call/notification views from pm tabbar
-		* change projects tabbar icon
-		* convert launch screen to xcode 8 storyboard
-		* replace project icon
-		* update project icon on project advisors view
-		* update status label on project advisors view
-	
-	09-31-16
+	10-03-16
 		* 
