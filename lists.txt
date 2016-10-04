@@ -1,8 +1,8 @@
 
-stop by library
 stop by home
 pick up prescription
 
+stop by library
 call budget rental car about accident (get estimate, etc.)
 call LIJ about getting MRI result
 see neurologist with MRI results
