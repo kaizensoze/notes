@@ -1,0 +1,5 @@
+has my IoT device been used in a botnet?
+
+get list of source ips of botnet
+knowing device's ip, check against list -> yay/nay
+given device for ip, link to device page to change default user/pw
