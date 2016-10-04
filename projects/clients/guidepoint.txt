@@ -1,5 +1,8 @@
 
-project advisor view: swipe cell under ALL to show action buttons
+project advisors view: swipe cell under ALL to show action buttons
+https://github.com/MortimerGoro/MGSwipeTableCell
+
+project advisors view: compliance pass required label
 
 Manager.storyboard
 	CallDetail
