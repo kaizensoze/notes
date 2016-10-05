@@ -137,7 +137,6 @@ The Dark Tower, Stephen King
 The Devil's Chessboard, David Talbot
 The Electric Kool-Aid Acid Test, Tom Wolfe
 The Emperor's New Mind, Roger Penrose
-The End of Absence, Michael John Harris
 The End of Power, Moises Naim
 The End of Protest, Micah White
 The Fast Metabolism Diet, Haylie Pomroy
@@ -419,3 +418,4 @@ Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hi
 Kill Chain, Andrew Cockburn
 Conscious Capitalism, John Mackey
 Future Crimes, Marc Goodman
+The End of Absence, Michael John Harris [x]
