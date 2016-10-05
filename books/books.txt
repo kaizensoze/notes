@@ -1,4 +1,3 @@
-11/22/63, Stephen King
 Against All Enemies, Richard Clarke
 Alexander Hamilton, Ron Chernow
 Algorithms to Live By, Brian Christian
@@ -418,4 +417,5 @@ Unbroken: A World War II Story of Survival, Resilience, and Redemption, Laura Hi
 Kill Chain, Andrew Cockburn
 Conscious Capitalism, John Mackey
 Future Crimes, Marc Goodman
+11/22/63, Stephen King
 The End of Absence, Michael John Harris [x]
