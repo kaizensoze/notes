@@ -11,7 +11,6 @@ job hunt
   https://oldgeekjobs.com/ [DONE]
 
 work
-  decox
   revisit collaborative prototyping site idea
   medical project
 
