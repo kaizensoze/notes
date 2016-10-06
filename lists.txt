@@ -1,8 +1,9 @@
 
 work
 westworld
-return mouse
 
+return mouse
+get dog
 call LIJ about getting MRI result (cyst on frontal lobe)
 see neurologist with MRI results
 call budget rental car about accident (get estimate, etc.)
