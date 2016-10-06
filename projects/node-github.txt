@@ -1,4 +1,6 @@
-get enterprise stuff working
+https://github.com/mikedeboer/node-github/issues/246
+https://github.com/mikedeboer/node-github/issues/320
+https://github.com/mikedeboer/node-github/issues/376
 
 https://github.com/lucybot/lucy-console/tree/static-site
 https://any-api.com/
