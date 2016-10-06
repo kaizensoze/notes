@@ -2,12 +2,12 @@
 work
 westworld
 
-return mouse
+library
 get dog
+printer arrives -> print label -> return mouse
 call LIJ about getting MRI result (cyst on frontal lobe)
 see neurologist with MRI results
 call budget rental car about accident (get estimate, etc.)
-look into buying used car
 sleep study
 job hunt
   https://github.com/jessicard/remote-jobs 
