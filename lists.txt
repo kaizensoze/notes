@@ -1,4 +1,8 @@
 
+work
+westworld
+return mouse
+
 call LIJ about getting MRI result (cyst on frontal lobe)
 see neurologist with MRI results
 call budget rental car about accident (get estimate, etc.)
@@ -15,10 +19,10 @@ work
   medical project
 
 tv
+  South Park S20E04
   Amanda Knox
   Corner Gas
   Westworld S01E01
-  South Park S20E04 (10/05)
   Last Week Tonight S03E25 (10/09)
   Channel Zero (10/11)
   Goliath (10/14)
