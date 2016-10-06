@@ -1,7 +1,6 @@
 
-project advisors view: swipe cell under ALL to show action buttons
-https://github.com/MortimerGoro/MGSwipeTableCell
-
+post-status label
+go through other project advisors view changes
 project advisors view: compliance pass required label
 
 Manager.storyboard
@@ -101,3 +100,16 @@ hours
 	10-03-16 [0.5]
 		* add updated status icons
 		* register status icon size change in storyboard
+
+	10-04-16
+		* adjust project advisor status icon
+		* go through psd updates
+		
+	10-05-16
+		* add MGSwipeTableCell framework
+		* progress on allowing left swipe on project advisor cell
+		* add swipe buttons
+		* adjust position of swipe buttons
+		
+	10-06-16
+		* 
