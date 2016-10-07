@@ -113,4 +113,9 @@ hours
 		* adjust position of swipe buttons
 		
 	10-06-16
+		* implement swipe button event handlers
+		* post status update cell
+		* post status update cell delete functionality
+		
+	10-07-16
 		* 
