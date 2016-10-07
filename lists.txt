@@ -1,7 +1,8 @@
 
+guidepoint
 hfc prep
-library
 12PM: freshdirect
+library
 3PM: hfc meeting
 look up dog adoption places
 printer arrives -> print label -> return mouse
