@@ -1,7 +1,6 @@
 
-wow
-node-github
 look into adopting a dog
+node-github
 printer arrives -> print label -> return mouse
 
 library
