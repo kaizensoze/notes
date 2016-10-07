@@ -117,4 +117,11 @@ hours
 		* post status update cell delete functionality
 		
 	10-07-16
-		* 
+		* update storyboard patches
+		* readjust manager storyboard
+		* remove old patch
+		* slightly refactor ProjectTableViewCell2
+		* add project cell to project advisor detail view
+		* update project advisor info cell
+		
+	

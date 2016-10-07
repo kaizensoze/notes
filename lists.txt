@@ -1,12 +1,13 @@
 
-guidepoint
-hfc prep: go over ios camera api
 12PM: freshdirect
-library
+hfc prep: go over ios camera api
 3PM: hfc meeting
 look up dog adoption places
 printer arrives -> print label -> return mouse
-call LIJ about getting MRI result (cyst on frontal lobe)
+
+library
+mail authorization form to LIJ to get MRI results (cyst on frontal lobe)
+
 see neurologist with MRI results
 call budget rental car about accident (get estimate, etc.)
 sleep study
