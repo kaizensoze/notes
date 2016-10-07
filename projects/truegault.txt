@@ -27,3 +27,17 @@ Auto focus
 Verify focus 
 
 Fitting scoring review
+
+some research
+====
+tracking API usage
+  basic logging
+  galileo https://getgalileo.io/
+  
+detecting mem leaks
+  xcode instruments
+  
+setting camera focus on tap point https://stackoverflow.com/questions/26682450/set-camera-focus-on-tap-point-with-swift
+captureDevicePointOfInterestForPoint()
+
+  
