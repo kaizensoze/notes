@@ -1,8 +1,6 @@
 
-westworld
-
+look up dog adoption places
 library
-get dog
 printer arrives -> print label -> return mouse
 call LIJ about getting MRI result (cyst on frontal lobe)
 see neurologist with MRI results
