@@ -1,5 +1,4 @@
 
-go through xkcd comics: https://xkcd.com/1683/
 wow
 node-github
 look into adopting a dog
