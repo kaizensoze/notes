@@ -1,0 +1,29 @@
+Here is the outline below I mentioned when we spoke on Friday. After thinking about it a bit, it seems we have a "app readiness" project for the final tweaks / review and then getting the app to Alpha. After that we would be ready to move a more structured product/ feature approach by sprint that we discussed. The outline below would the readiness part of the project.
+
+We touched on how we work but I wanted to put a slight finer point on how I would like to see things work. As we mentioned, we are looking for basically an extension of our team. With the resource mix we would to be working with, we would the same team members to stay with the project (especially the lead devs) as much as possible. We will break the work down into tasks, enter them in Jira, estimate the time and then assign the ticket to the right resource. We expect the team to maintain the correct status of the tickets (open ->  in progress, etc) and log their time and effort desc daily. The specs and all assets are all in our wiki that the team will have access to. This pretty much dev 101 but I'm amazed at the number of "pros" that can handle basic dev admin tasks. We will need to do daily standups with the contributing members of the team at a mutually agreeable AM time. I would see us moving fairly fast on these items below right out the gate next week so we can be as far along as possible for the video assets when they are ready, later this coming week. 
+
+Code review
+
+mem leaks, API usage, camera, etc.
+
+UI/UX review 
+
+Suggestions and tweaks 
+Main menu
+
+Scan Review 
+
+Scan guides redo - 6 guides 
+Coach marks review,  assess 
+Angle meter UI enhancements (if any)
+Scan step video snippets
+Full Video. add to app
+Complete UI review
+
+Camera Tweaks 
+
+Screen white out, over exposure 
+Auto focus 
+Verify focus 
+
+Fitting scoring review

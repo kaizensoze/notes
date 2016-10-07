@@ -1,6 +1,6 @@
 
 guidepoint
-hfc prep
+hfc prep: go over ios camera api
 12PM: freshdirect
 library
 3PM: hfc meeting
