@@ -23,7 +23,6 @@ Broken Markets, Sal L. Arnuk
 Business@The Speed of Thought, Bill Gates
 Chaos, James Gleick
 Chaos in Kabul, Gérard de Villiers
-Chaos Monkeys, Antonio Garcia Martinez
 Cloud Atlas, David Mitchell
 Confessions of an Economic Hit Man, John Perkins
 Contact, Carl Sagan
@@ -419,3 +418,4 @@ Conscious Capitalism, John Mackey
 Future Crimes, Marc Goodman
 11/22/63, Stephen King
 The End of Absence, Michael John Harris [x]
+Chaos Monkeys, Antonio Garcia Martinez [x]

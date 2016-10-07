@@ -19,12 +19,12 @@ work
   medical project
 
 tv
-  South Park S20E04
   Amanda Knox
   Corner Gas
-  Westworld S01E01
+  Westworld S01E02
   Last Week Tonight S03E25 (10/09)
   Channel Zero (10/11)
+  South Park S20E04 (10/12)
   Goliath (10/14)
 
 movies
@@ -33,7 +33,6 @@ movies
   Mr Untouchable
   Tomorrow Night
   Eat That Question: Frank Zappa in His Own Words
-  Louis Theroux: My Scientology Movie
   Mascots (10/13)
   Hacksaw Ridge (11/04)
   In Dubious Battle (??/??)
