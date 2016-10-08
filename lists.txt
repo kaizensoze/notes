@@ -3,8 +3,6 @@
 visit animal shelter: 3320 Beltagh Avenue, Wantagh, NY 11793
 node-github
 hackrf
-wow
-
 print label -> return mouse
 mail authorization form to LIJ to get MRI results (cyst on frontal lobe)
 see neurologist with MRI results
