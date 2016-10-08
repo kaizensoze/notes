@@ -1,3 +1,33 @@
+Dark Territory, Fred Kaplan
+====
+NSA had its roots in WWI
+in August 1917, US created MI-8, devoted to deciphering German telegraph signals
+unit stayed open after the war inside inconspicuous building in New York City that was called the Black Chamber
+unit, Code Compilation Company, monitored suspected subversives
+Black Chamber shut down in 1929 after Secretary of State Henry Stimson said "gentlemen blah blah yadda yadda"
+practiced was revived in WWII as the Signal Security Agency, later animorphing into the Army Security Agency, then the Armed Forces Security Agency, then in 1952, the National Security Agency
+Pentagon's top scientist William Perry took a job at Sylvania Labs in future Silicon Valley to specialize in electronic countermeasures (devices that jammed, diffracted, or disabled those systems)
+one of Perry's earliest projects involved intercepting the radio signals guiding a Soviet nuclear warhead to alter its trajectory, which wasn't that effective since the blast would still kill a lot of people
+Perry later formed his own company Electromagnetic Systems Laboratory (ESL) in 1964 which did contract work for NSA and CIA
+he coined the term counter-C2 warfare, C2 standing for command and control
+when the Russians found out about the microwaves emanating from the US embassy's tenth floor they started beaming its windows with their own microwave generators hoping to listen in on American spies' conversations
+the KGB was stealing secrets from the Moscow embassy and a device called the Gunman was found inside sixteen IBM Selectric typewriters, which were used by secretaries of high-level embassy officials; the Gunman recorded every one of their keystrokes and transmitted the data to a receiver in a church across the street
+the NSA had two main directorates: Signals Intelligence and Information Security (later called Information Assurance)
+SIGINT was the active, glamorous side of the puzzle palace: engineers, cryptologists, old-school spies
+Information Security (INFOSEC) tested the reliability and security of the hardware and software that the SIGINT teams used
+for the most part SIGINT and INFOSEC had no direct contact
+most of the NSA worked at Fort Meade, Maryland
+INFOSEC was a 22min drive away in a drab brown brick building called FANEX, an annex to the future BWI Marshall Airport
+the two entities began to join forces toward the end of Carter's presidency
+Computer Security Center created and INFOSEC started testing hardware/software used by both the NSA and Defense Department
+after watching Wargames, Reagan asked how vulnerable computer systems were
+the presidential directive NSDD-145 was drafted putting the NSA in charge of securing telecommunications and computers
+the directive called for the creation of a National Telecommunications and Information Systems Security Committee
+it specified that the "National Manager for Telecommunications and Automated Information Systems Security" would be the NSA director
+Congressman Jack Brooks helped pass a bill that revised the president's directive, denying the agency any such power
+
+
+
 How Linux Works, Brian Ward
 ====
 when a process calls fork(), the kernel creates a nearly identical copy of the process
