@@ -24,7 +24,15 @@ after watching Wargames, Reagan asked how vulnerable computer systems were
 the presidential directive NSDD-145 was drafted putting the NSA in charge of securing telecommunications and computers
 the directive called for the creation of a National Telecommunications and Information Systems Security Committee
 it specified that the "National Manager for Telecommunications and Automated Information Systems Security" would be the NSA director
-Congressman Jack Brooks helped pass a bill that revised the president's directive, denying the agency any such power
+Congressman Jack Brooks helped pass the Computer Security Act of 1987, which revised the president's directive, denying the agency any such power
+during the Gulf War, the Iraqis had lots of antiaircraft missiles and were well trained to use them; the NSA were able to disrupt Iraq's command-control systems and its air-defense radar
+in the mid 1980s, there were two groups of NSA SIGINT, A: Soviet Union and its satellites, B: rest of the world
+director Mike McConnell learned taht some of the radio receivers around the globe were no longer picking up signals
+one of McConnell's aides came into office with two maps: one of the world with major shipping powers: the sea lines of communications (SLOCs)
+second map showed lines and densities of fiber-optic cable around the world
+to capture digital communication, the main target would be the fiber optic cables
+the Computer Security Act of 1987 gave NSA control over the security of military computers and classified networks but irected the National Bureau of Standards, under the Department of Commerce, to handle the rest
+McConnell's staff devised the Clipper Chip as a backdoor for commercial voice encryption; died horrible justified death
 
 
 
