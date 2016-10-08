@@ -1,7 +1,21 @@
 
+Install wxmac 2.9 with python bindings
 ```
-brew install gnuradio
+brew install wxmac --python
+```
 
+tap robotastic keg
+```
+brew tap robotastic/homebrew-hackrf
+```
+
+install gnuradio
+```
+brew install gnuradio --with-qt
+```
+
+start jack service
+```
 brew services start jack
 ```
 
@@ -20,3 +34,30 @@ test gnucompanion
 ```
   gnuradio-companion
 ```
+
+install hackrf
+```
+brew install hackrf
+```
+
+plug in hackrf via usb and test that it works
+```
+hackrf_info
+```
+
+install some dependencies that allows the hackrf to connect to gnuradio companion
+```
+brew install rtlsdr gr-osmosdr gr-baz --HEAD
+```
+
+install gqrx
+```
+brew install gqrx
+```
+
+run gqrx
+```
+gqrx
+```
+
+osmocom_fft -a hackrf
