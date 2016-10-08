@@ -1,8 +1,12 @@
 
 10AM: library
-visit animal shelter: 3320 Beltagh Avenue, Wantagh, NY 11793
 hackrf
 print label -> return mouse
+library
+wow
+
+visit animal shelter: 3320 Beltagh Avenue, Wantagh, NY 11793
+
 mail authorization form to LIJ to get MRI results (cyst on frontal lobe)
 see neurologist with MRI results
 call budget rental car about accident (get estimate, etc.)
