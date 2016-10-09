@@ -30,6 +30,7 @@ Cosmos, Carl Sagan
 Coup d'État: A Practical Handbook, Edward N. Luttwak
 Crisis of Character, Gary J. Byrne
 Cyber War, Richard Clarke
+Cypherpunks: Freedom and the Future of the Internet, Julian Assange
 Daring Greatly, Brené Brown
 Dark Money, Jane Mayer
 Dark Territory: The Secret History of Cyber War, Fred Kaplan
@@ -183,6 +184,7 @@ The Stand, Stephen King
 The Three-Body Problem, Liu Cixin
 The Trouble With Testosterone, Robert Sapolsky
 The Vital Question, Nick Lane
+The WikiLeaks Files: The World According to US Empire, Julian Assange
 The Wise Men, Walter Isaacson
 This Will Change Everything, John Brockman
 Time Warp Trio series, Jon Scieszka
@@ -195,6 +197,7 @@ War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 What If?, Randall Munroe
 When Breath Becomes Air, Paul Kalanithi
+When Google Met Wikileaks, Julian Assange
 When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 Work Rules!, Laszlo Bock
