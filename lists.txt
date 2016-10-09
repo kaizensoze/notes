@@ -1,15 +1,14 @@
 
 hackrf
-visit animal shelter: 3320 Beltagh Avenue, Wantagh, NY 11793
 ups dropoff
-
+visit animal shelter: 3320 Beltagh Avenue, Wantagh, NY 11793
 mail authorization form to LIJ to get MRI results (cyst on frontal lobe)
 see neurologist with MRI results
 call budget rental car about accident (get estimate, etc.)
 sleep study
 divorce
 job hunt
-  https://github.com/jessicard/remote-jobs 
+  https://github.com/jessicard/remote-jobs
   https://news.ycombinator.com/item?id=12628466
   https://github.com/yanirs/established-remote [DONE]
   https://oldgeekjobs.com/ [DONE]
@@ -19,10 +18,9 @@ work
   medical project
 
 tv
-  Amanda Knox
   Corner Gas
-  Westworld S01E02 (10/09)
-  Last Week Tonight S03E25 (10/09)
+  Westworld S01E02
+  Last Week Tonight S03E25
   Channel Zero (10/11)
   South Park S20E04 (10/12)
   Black Mirror (10/21)
