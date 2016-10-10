@@ -122,4 +122,8 @@ hours
 		* add project cell to project advisor detail view
 		* update project advisor info cell
 		
+	10-10-16 [0]
 	
+	10-11-16
+		* 
+		
