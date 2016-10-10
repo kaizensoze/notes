@@ -460,7 +460,7 @@ when the virus attacks again, the bacteria quickly makes an RNA copy from CRISPR
 if the bacteria finds a match against the dna of the attacking virus, the DNA from CAS9 is activated and cuts out the virus DNA, protecting it from virus attack
 scientists figured out the CRISPR system is programmable
 
-malware (advanced)
+Advanced Persistent Threats (APTS)
 ====
   NSA
     Stuxnet
@@ -472,6 +472,8 @@ malware (advanced)
     Equation Group
       EquationDrug
       Grayfish
+  ?
+    StrongPity
 
 chase balance minimum
 ====
