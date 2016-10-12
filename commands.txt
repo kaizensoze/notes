@@ -171,6 +171,7 @@ git
   git branch --track fork-master kaizensoze/master  # having multiple local master branches from different remotes
   git diff [-R] > patch-name.diff
   git apply pack-name.diff
+  git log -L 444,447 lib/routes.json
 
 github
   curl -u kaizensoze:<token> https://api.github.com/rate_limit
