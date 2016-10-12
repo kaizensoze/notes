@@ -1,5 +1,12 @@
 
-start working on client psd
+adjust client views
+commit
+open up storyboard
+save
+generate reverse patch client-storyboard.diff
+commit patch
+
+work on client calls view
 
 Manager.storyboard
 	CallDetail
