@@ -15,13 +15,12 @@ work
   medical project
 
 tv
-  South Park S20E04
   Ash vs Evil Dead S01E01
   Crazy Ex-Girlfriend
   Preacher S01E01
   Channel Zero S01E02
-  Preacher S01E01
   Goliath (10/14)
+  South Park S20E05 (10/20)
   Black Mirror (10/21)
   Corner Gas
 
@@ -31,6 +30,6 @@ movies
   Mr Untouchable
   Tomorrow Night
   Eat That Question: Frank Zappa in His Own Words
-  Mascots (10/13)
+  Mascots
   Hacksaw Ridge (11/04)
   In Dubious Battle (??/??)

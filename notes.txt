@@ -36,6 +36,11 @@ McConnell's staff devised the Clipper Chip as a backdoor for commercial voice en
 On June 21, Bill Clinton signed a Presidential Decision Directive, PDD-39, titled "U.S. Policy on Counterterrorism" which put Attorney General Janet Reno in charge of a cabinet committee to review and suggest ways to reduce the vulnerability of government facilities and critical national infrastructure
 On June 9, 1997, nsa red team hacked into DoD using only commercially available equipment
 On Nov 2, 1988, Moriss worm wreaks havoc
+eight man crew Coalition Vulnerability Assessment Team led by 23 year old Matt Devost working out of the Defense Information Systems Agency in Alington, VA carries out attack exercise on various classified systems
+NSA's Red Team, part of Information Assurance Directorate, defensive side, stationed in FANEX, building out near Friendship Airport, worked out of a chamber called The Pit, which was so secret few people at NSA knew it existed
+Red Team took part in exercise Eligible Receiver June 9–13, 1997, breaking into systems in just 4 days
+John Hamre, who had slashed military budgets, stunned by results
+on Oct 13, 1997, the Marsh Commission published its report titled Critical Foundations, only briefly alluding to Eligible Receiver
 
 
 How Linux Works, Brian Ward
