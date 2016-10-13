@@ -1,12 +1,9 @@
 
-adjust client views [DONE]
-test in simulator [DONE]
-record all dimensions [DONE]
-commit [DONE]
-close and open up storyboard to have it reset
-save
-generate reverse patch client-storyboard.diff
-commit patch
+if client storyboard gets messed up:
+	save to trigger git changes
+	git diff -R > fix-client-storyboard.diff
+	(try git diff -R HEAD^! to compare output with git diff -R)
+	(try git format-patch to compare output with git diff -R)
 
 work on client calls view
 
@@ -192,5 +189,10 @@ hours
 	10-11-16 [0]
 	
 	10-12-16
+		* fix client storyboard constraints
+		* more client storyboard constraint fixes
+		* adjust client call image views
+		
+	10-13-16
 		* 
 		
