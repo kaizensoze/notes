@@ -1,7 +1,9 @@
 
-adjust client views
-commit
-open up storyboard
+adjust client views [DONE]
+test in simulator [DONE]
+record all dimensions [DONE]
+commit [DONE]
+close and open up storyboard to have it reset
 save
 generate reverse patch client-storyboard.diff
 commit patch
@@ -16,6 +18,62 @@ Manager.storyboard
 		Phone Number Label: 61 43 306 19
 		Pin Label: 61 61 306 19
 		Email Button: 10 93 355 45
+		
+Client.storyboard
+	Calls
+		ClientCallFilterCell
+			SegmentedControl: 8 8 359 29
+		ClientUpcomingCallCell
+			Call Image View: 9 10 39 39
+			Eta Label: 9 55 39 12
+			Date Label: 54 6 288 22
+			Advisor Label: 54 27 288 16
+			Project Label: 54 42 288 16
+			Phone Number Label: 54 59 288 16
+		ClientCompletedCallCell
+			Call Image View: 9 10 39 39
+			Eta Label: 9 55 39 12
+			Date Label: 54 6 288 22
+			Start Time Label: 54 27 288 16
+			Advisor Label: 54 42 288 16
+			Project Label: 54 59 288 16
+	ClientCallDetail
+		ClientUpcomingCallDetailCell
+			Call Image View: 10 10 39 39
+			Eta Label: 10 55 39 12
+			Date Label: 59 6 308 22
+			Advisor Label: 59 26 308 16
+			Project Label: 59 41 308 16
+			Phone Number Label: 59 58 308 16
+		ClientCompletedCallDetailCell
+			Call Image View: 10 10 39 39
+			Eta Label: 10 55 39 12
+			Date Label: 59 6 308 22
+			Start Time Label: 59 26 308 16
+			Advisor Label: 59 41 308 16
+			Project Label: 59 58 308 16
+		ClientCallButtonsCell
+			Button1: 8 0 359 45
+			Button2: 8 57 359 45
+			Rating Submitted Label: 8 57 359 45
+	CallRating
+		ClientCompletedCallDetail
+			Call Image View: 10 10 39 39
+			Eta Label: 10 55 39 12
+			Date Label: 59 6 308 22
+			Start Time Label: 59 26 308 16
+			Advisor Label: 59 41 308 16
+			Project Label: 59 58 308 16
+		CallRatingCell
+			Give a rating: 11 5 88 17
+			Rating Button View: 64 45 246 32
+				Rating1 Button: 0 0 34 32
+				Rating2 Button: 53 0 34 32
+				Rating3 Button: 106 0 34 32
+				Rating4 Button: 159 0 34 32
+				Rating5 Button: 212 0 34 32
+			Review Text View: 12 101 351 150
+			Submit Button: 12 264 351 45
 		
 add actions view to advisor detail view
 advisor detail view
