@@ -1,4 +1,11 @@
 
+upcoming call detail view
+	project cell
+	dial-in number info above buttons
+	disable dial-in button if not yet able to call in
+
+fix manager storyboard
+
 if client storyboard gets messed up:
 	save to trigger git changes
 	git diff -R > fix-client-storyboard.diff
