@@ -1,4 +1,3 @@
-
 upcoming call detail view
 	project cell
 	dial-in number info above buttons

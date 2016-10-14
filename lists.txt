@@ -1,4 +1,10 @@
 guidepoint
+flask tutorial
+
+7ParkData phone interview
+7ParkData in-person interview
+
+pay dentist bill
 call budget rental car about accident (get estimate, etc.)
 visit animal shelter: 3320 Beltagh Avenue, Wantagh, NY 11793
 hackrf
