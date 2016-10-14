@@ -1,6 +1,7 @@
 7ParkData phone interview
-extend rental car by 3 days
 call about paying dentist bill online
+switch car
+extend rental car by 3 days
 7ParkData in-person interview
 
 call budget rental car about accident (get estimate, etc.)
