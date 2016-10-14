@@ -1,0 +1,5 @@
+what role you're looking for?
+what version of flask are you using?
+database?
+what's the architecture like?
+webserver? uwsgi, gunicorn?

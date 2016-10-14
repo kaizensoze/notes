@@ -2,9 +2,9 @@ flask tutorial
 
 7ParkData phone interview
 extend rental car by 3 days
+call about paying dentist bill online
 7ParkData in-person interview
 
-pay dentist bill
 call budget rental car about accident (get estimate, etc.)
 hackrf
 see neurologist with MRI results
