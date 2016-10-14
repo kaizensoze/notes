@@ -1,3 +1,4 @@
+
 shower
 take in garbage pails
 guidepoint
@@ -17,7 +18,7 @@ tv
   Crazy Ex-Girlfriend
   Preacher S01E01
   Channel Zero S01E02
-  Goliath (10/14)
+  Goliath
   South Park S20E05 (10/20)
   Black Mirror (10/21)
   Corner Gas
