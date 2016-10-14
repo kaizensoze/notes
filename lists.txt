@@ -4,6 +4,7 @@ take in garbage pails
 food
 guidepoint
 7ParkData in-person interview (275 Madison Avenue, New York, NY 10016) [https://www.google.com/maps/dir/82-13+255th+Street,+Glen+Oaks,+NY+11004,+USA/275+Madison+Avenue,+New+York,+NY+10016/@40.7411048,-73.7210219,16z/data=!4m14!4m13!1m5!1m1!1s0x89c2626894f2eb0f:0xc6a59b0be75c5c08!2m2!1d-73.713806!2d40.7397769!1m5!1m1!1s0x89c259011e131cb9:0x7b70449b3c1305e0!2m2!1d-73.9799875!2d40.7512258!3e3] (take QM6 bus in front of Glen Oaks Deli)
+retry redox (https://github.com/redox-os/redox)
 hackrf
 divorce
 
