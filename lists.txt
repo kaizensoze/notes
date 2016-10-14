@@ -1,5 +1,3 @@
-flask tutorial
-
 7ParkData phone interview
 extend rental car by 3 days
 call about paying dentist bill online
