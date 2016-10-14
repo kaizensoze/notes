@@ -5,14 +5,6 @@ upcoming call detail view
 
 fix manager storyboard
 
-if client storyboard gets messed up:
-	save to trigger git changes
-	git diff -R > fix-client-storyboard.diff
-	(try git diff -R HEAD^! to compare output with git diff -R)
-	(try git format-patch to compare output with git diff -R)
-
-work on client calls view
-
 Manager.storyboard
 	CallDetail
 		Call Image View: 10 12 39 39
@@ -200,5 +192,10 @@ hours
 		* adjust client call image views
 		
 	10-13-16
+		* update upcoming client call cell
+		* adjust client call cell images
+		* update completed client call cell
+		* progress on updating client call detail view
+	
+	10-14-16
 		* 
-		
