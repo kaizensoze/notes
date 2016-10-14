@@ -1,18 +1,13 @@
-7ParkData phone interview
-call about paying dentist bill online
-switch car
-extend rental car by 3 days
-7ParkData in-person interview
-
 call budget rental car about accident (get estimate, etc.)
+shower
+take in garbage pails
+guidepoint
+food
+7ParkData in-person interview (275 Madison Avenue, New York, NY 10016) [https://www.google.com/maps/dir/82-13+255th+Street,+Glen+Oaks,+NY+11004,+USA/275+Madison+Avenue,+New+York,+NY+10016/@40.7411048,-73.7210219,16z/data=!4m14!4m13!1m5!1m1!1s0x89c2626894f2eb0f:0xc6a59b0be75c5c08!2m2!1d-73.713806!2d40.7397769!1m5!1m1!1s0x89c259011e131cb9:0x7b70449b3c1305e0!2m2!1d-73.9799875!2d40.7512258!3e3] (take QM6 bus in front of Glen Oaks Deli)
+
 hackrf
 see neurologist with MRI results
 divorce
-job hunt
-  https://github.com/jessicard/remote-jobs
-  https://news.ycombinator.com/item?id=12628466
-  https://github.com/yanirs/established-remote [DONE]
-  https://oldgeekjobs.com/ [DONE]
 
 work
   revisit collaborative prototyping site idea
