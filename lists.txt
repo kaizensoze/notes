@@ -1,5 +1,4 @@
 
-retry redox (https://github.com/redox-os/redox)
 hackrf
 divorce
 
