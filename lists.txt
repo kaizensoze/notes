@@ -1,6 +1,4 @@
 
-freshdirect
-
 hackrf
 divorce
 
@@ -24,6 +22,5 @@ movies
   Mr Untouchable
   Tomorrow Night
   Eat That Question: Frank Zappa in His Own Words
-  Mascots
   Hacksaw Ridge (11/04)
   In Dubious Battle (??/??)
