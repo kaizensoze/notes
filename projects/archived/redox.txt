@@ -1,7 +1,7 @@
 
 setup
   curl -sf https://raw.githubusercontent.com/redox-os/redox/master/bootstrap.sh -o bootstrap.sh && bash -e bootstrap.sh
-  add (`export PATH=$HOME/.cargo/bin:$PATH`,)? `source $HOME/.cargo/env` to ~/.zshrc [and manually run source $HOME/.cargo/env?]
+  add `export PATH=$HOME/.cargo/bin:$PATH`(?) `source $HOME/.cargo/env` to ~/.zshrc [and manually run source $HOME/.cargo/env?]
   cd redox
   make all
   make virtualbox

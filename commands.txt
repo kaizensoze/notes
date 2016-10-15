@@ -313,6 +313,12 @@ nmap
 npm
   npm ls [--global] --depth=0
 
+nvm
+  nvm ls
+  nvm install node (latest)
+  nvm install <version>
+  nvm use <version>
+
 opensnoop
   sudo opensnoop -p PID
 
