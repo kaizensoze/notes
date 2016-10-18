@@ -28,8 +28,8 @@ Client.storyboard
 			Call Image View: 10 10 39 39
 			Eta Label: 10 53 39 12
 			Date Label: 59 6 308 22
-			Advisor Label: 59 24 308 16
-			Project Label: 59 39 308 16
+			Advisor Label: 59 26 308 16
+			Project Label: 59 41 308 16
 		ClientCompletedCallDetailCell
 			Call Image View: 10 10 39 39
 			Eta Label: 10 53 39 12
