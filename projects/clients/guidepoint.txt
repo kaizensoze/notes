@@ -4,15 +4,6 @@ upcoming call detail view
 	disable dial-in button if not yet able to call in
 
 fix manager storyboard
-
-Manager.storyboard
-	CallDetail
-		Call Image View: 10 12 39 39
-		Eta Label: 10 57 39 14
-		Date Label: 61 12 306 19
-		Phone Number Label: 61 43 306 19
-		Pin Label: 61 61 306 19
-		Email Button: 10 93 355 45
 		
 Client.storyboard
 	Calls
@@ -35,14 +26,13 @@ Client.storyboard
 	ClientCallDetail
 		ClientUpcomingCallDetailCell
 			Call Image View: 10 10 39 39
-			Eta Label: 10 55 39 12
+			Eta Label: 10 53 39 12
 			Date Label: 59 6 308 22
-			Advisor Label: 59 26 308 16
-			Project Label: 59 41 308 16
-			Phone Number Label: 59 58 308 16
+			Advisor Label: 59 24 308 16
+			Project Label: 59 39 308 16
 		ClientCompletedCallDetailCell
 			Call Image View: 10 10 39 39
-			Eta Label: 10 55 39 12
+			Eta Label: 10 53 39 12
 			Date Label: 59 6 308 22
 			Start Time Label: 59 26 308 16
 			Advisor Label: 59 41 308 16
@@ -69,6 +59,15 @@ Client.storyboard
 				Rating5 Button: 212 0 34 32
 			Review Text View: 12 101 351 150
 			Submit Button: 12 264 351 45
+		
+Manager.storyboard
+	CallDetail
+		Call Image View: 10 12 39 39
+		Eta Label: 10 57 39 14
+		Date Label: 61 12 306 19
+		Phone Number Label: 61 43 306 19
+		Pin Label: 61 61 306 19
+		Email Button: 10 93 355 45
 		
 add actions view to advisor detail view
 advisor detail view
