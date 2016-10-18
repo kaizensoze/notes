@@ -181,7 +181,6 @@ The Road to Reality: A Complete Guide to the Laws of the Universe, Roger Penrose
 The Savior Generals, Victor Davis Hanson
 The Scar, China Mieville
 The Scented Ape, David Michael Stoddart
-The Secret History, Donna Tartt
 The Secret Sentry, Matthew M. Aid
 The Society of Mind, Marvin Minsky
 The Sovereign Individual, James Dale Davidson
@@ -430,3 +429,4 @@ Chaos Monkeys, Antonio Garcia Martinez [x]
 Let's Pretend This Never Happened, Jenny Lawson
 Hunger Makes Me a Modern Girl, Carrie Brownstein
 Please Kill Me, Legs McNeil and GillianMcCain
+The Secret History, Donna Tartt [x]
