@@ -1,7 +1,6 @@
-postcallbuttons cell
-
+fix rateAdvisor segue
 fix manager storyboard
-		
+
 Client.storyboard
 	Calls
 		ClientCallFilterCell
@@ -56,7 +55,7 @@ Client.storyboard
 				Rating5 Button: 212 0 34 32
 			Review Text View: 12 101 351 150
 			Submit Button: 12 264 351 45
-		
+
 Manager.storyboard
 	CallDetail
 		Call Image View: 10 12 39 39
@@ -65,12 +64,6 @@ Manager.storyboard
 		Phone Number Label: 61 43 306 19
 		Pin Label: 61 61 306 19
 		Email Button: 10 93 355 45
-		
-add actions view to advisor detail view
-advisor detail view
-	when advisor is selected
-		action button overlay on advisor detail view
-			SCHEDULE CALL, EMAIL
 
 manager
 	jbarker@guidepointglobal.com
