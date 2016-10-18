@@ -1,7 +1,6 @@
-upcoming call detail view
-	project cell
-	dial-in number info above buttons
+dial in cell
 	disable dial-in button if not yet able to call in
+postcallbuttons cell
 
 fix manager storyboard
 		
