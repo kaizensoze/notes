@@ -5,6 +5,7 @@ divorce
 work
   revisit collaborative prototyping site idea
   medical project
+  consider moving away from ios work and getting nice non-apple laptop
 
 tv
   Channel Zero S01E02
