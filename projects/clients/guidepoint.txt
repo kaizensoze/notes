@@ -32,10 +32,16 @@ Client.storyboard
 			Start Time Label: 59 26 308 16
 			Advisor Label: 59 56 308 16
 			Project Label: 59 71 308 16
-		ClientCallButtonsCell
-			Button1: 8 0 359 45
-			Button2: 8 57 359 45
-			Rating Submitted Label: 8 57 359 45
+		DialInCell
+			DialIn Number Label: 8 7 359 16
+			PhoneNumber Label: 8 26 359 16
+			DialIn Button: 8 50 359 45
+		AddToCalendarCell
+			AddToCalendarButton: 8 6.5 359 45
+		PostCallButtonsCell
+			RequestFollowupButton: 8 0 359 45
+			RateAdvisorButton: 8 57 359 45
+			RatingSubmittedLabel: 8 57 359 45
 	CallRating
 		ClientCompletedCallDetail
 			Call Image View: 10 10 39 39
