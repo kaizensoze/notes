@@ -20,9 +20,9 @@ Client.storyboard
 			Call Image View: 9 10 39 39
 			Eta Label: 9 55 39 12
 			Date Label: 54 6 288 22
-			Start Time Label: 54 27 288 16
-			Advisor Label: 54 42 288 16
-			Project Label: 54 59 288 16
+			Start Time Label: 54 26 288 16
+			Advisor Label: 54 41 288 16
+			Project Label: 54 56 288 16
 	ClientCallDetail
 		ClientUpcomingCallDetailCell
 			Call Image View: 10 10 39 39
