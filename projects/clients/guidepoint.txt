@@ -1,4 +1,3 @@
-fix rateAdvisor segue
 fix manager storyboard
 
 Client.storyboard
