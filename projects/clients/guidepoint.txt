@@ -1,3 +1,6 @@
+test rating advisor
+add to calendar dialog
+
 fix manager storyboard
 
 Client.storyboard
