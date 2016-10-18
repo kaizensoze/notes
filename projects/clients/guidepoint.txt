@@ -190,5 +190,5 @@ hours
 	10-17-16 [0]
 	
 	10-18-16
-		* 
+		* update client call detail view
 		
