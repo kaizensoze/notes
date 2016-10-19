@@ -1,7 +1,7 @@
 
-reply to https://github.com/ricochet-im/ricochet/issues/459
+guidepoint
+ricochet
 hackrf
-divorce
 
 work
   ricochet
