@@ -1,5 +1,4 @@
 
-return bed?
 hackrf
 divorce
 
@@ -14,7 +13,6 @@ tv
   Black Mirror (10/21)
   Westworld S01E04 (10/23)
   Last Week Tonight S03E27 (10/23)
-  Peaky Blinders S04E01
   Corner Gas
   Lie to Me
 
@@ -22,6 +20,5 @@ movies
   Traceroute
   Don't Think Twice
   Tomorrow Night
-  Eat That Question: Frank Zappa in His Own Words
   Hacksaw Ridge (11/04)
   In Dubious Battle (??/??)
