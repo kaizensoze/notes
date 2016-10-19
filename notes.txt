@@ -41,7 +41,16 @@ NSA's Red Team, part of Information Assurance Directorate, defensive side, stati
 Red Team took part in exercise Eligible Receiver June 9–13, 1997, breaking into systems in just 4 days
 John Hamre, who had slashed military budgets, stunned by results
 on Oct 13, 1997, the Marsh Commission published its report titled Critical Foundations, only briefly alluding to Eligible Receiver
-
+Fight against Milosevic involes a lot of information warfare
+NSA deemed increasingly obsolete and needs a revamp
+On Jan 24, 2000, NSA's main computer system crashes and stays down for 3 days
+Executive report suggests new organization chart for SIGINT Directorate: Global Response, Global Network, Tailored Access
+Trailblazer program introduced
+NSA's new goal is to tap into fiberoptic cables
+The Office of Tailored Operations (TAO) is formed, an elite group of computer programmers
+TAO gets better at its craft, developing things like Loudauto, HowlerMonkey, MonkeyCalendar, and Nightstand
+CND, CNA, CNE
+Computer Network Defense/Attack/Exploitation
 
 How Linux Works, Brian Ward
 ====
