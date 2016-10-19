@@ -942,6 +942,7 @@ noteworthy books
   Just Kids, Patti Smith
   Kitchen Confidential, Anthony Bourdain
   No Good Men Among the Living, Anand Gopal
+  Please Kill Me
   Siddhartha, Herman Hesse
   The Curious Incident Of the Dog In The Night Time, Mark Haddon
   The Innovators, Walter Isaacson
@@ -953,7 +954,6 @@ noteworthy books
   Unbroken, Laura Hillenbrand
   Voltaire's Bastards, John Ralston Saul
   Wired for War, P.W. Singer
-  Please Kill Me
 
 noteworthy movies
   Idiocracy
