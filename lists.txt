@@ -1,11 +1,12 @@
 
+reply to https://github.com/ricochet-im/ricochet/issues/459
 hackrf
 divorce
 
 work
+  ricochet
   revisit collaborative prototyping site idea
   medical project
-  consider moving away from ios work and getting nice non-apple laptop
 
 tv
   Channel Zero S01E02
