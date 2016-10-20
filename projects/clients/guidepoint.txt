@@ -60,13 +60,19 @@ Client.storyboard
 			Submit Button: 12 234 351 45
 
 Manager.storyboard
+	ProjectAdvisors
+		ProjectAdvisorPostStatusUpdateCell
+			Status Image View: 14 21 26 26
+			Post Status Update Label: 54 26 287 16
+			Remove Button: 349 25 15 15
 	CallDetail
-		Call Image View: 10 12 39 39
-		Eta Label: 10 57 39 14
-		Date Label: 61 12 306 19
-		Phone Number Label: 61 43 306 19
-		Pin Label: 61 61 306 19
-		Email Button: 10 93 355 45
+		CallDetailCell
+			Call Image View: 10 12 39 39
+			Eta Label: 10 57 39 14
+			Date Label: 61 12 306 19
+			Phone Number Label: 61 43 306 19
+			Pin Label: 61 61 306 19
+			Email Button: 10 93 355 45
 
 manager
 	jbarker@guidepointglobal.com
