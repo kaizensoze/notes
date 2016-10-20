@@ -1,9 +1,6 @@
 
-update rate advisor view
-test rating advisor
-request follow up email
-add to calendar dialog
 fix manager storyboard
+add to calendar dialog
 
 Client.storyboard
 	Calls
