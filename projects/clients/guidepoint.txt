@@ -1,5 +1,4 @@
 
-fix manager storyboard
 add to calendar dialog
 
 Client.storyboard
