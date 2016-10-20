@@ -3,7 +3,6 @@ update rate advisor view
 test rating advisor
 request follow up email
 add to calendar dialog
-
 fix manager storyboard
 
 Client.storyboard
@@ -43,29 +42,25 @@ Client.storyboard
 			PhoneNumber Label: 8 26 359 16
 			DialIn Button: 8 50 359 45
 		AddToCalendarCell
-			AddToCalendarButton: 8 6.5 359 45
+			Add To Calendar Button: 8 6.5 359 45
 		PostCallButtonsCell
-			RequestFollowupButton: 8 0 359 45
-			RateAdvisorButton: 8 57 359 45
-			RatingSubmittedLabel: 8 57 359 45
+			Request Followup Button: 8 0 359 45
+			Rate Advisor Button: 8 57 359 45
+			Rating Submitted Label: 8 57 359 45
 	CallRating
-		ClientCompletedCallDetail
-			Call Image View: 10 10 39 39
-			Eta Label: 10 55 39 12
-			Date Label: 59 6 308 22
-			Start Time Label: 59 26 308 16
-			Advisor Label: 59 41 308 16
-			Project Label: 59 58 308 16
+		ProjectInfoCell
+			Rate Label: 13 14 35 16
+			Advisor Label: 13 41 354 16
+			Project Label: 13 58 354 16
 		CallRatingCell
-			Give a rating: 11 5 88 17
-			Rating Button View: 64 45 246 32
+			Rating Button View: 65 15 246 32
 				Rating1 Button: 0 0 34 32
 				Rating2 Button: 53 0 34 32
 				Rating3 Button: 106 0 34 32
 				Rating4 Button: 159 0 34 32
 				Rating5 Button: 212 0 34 32
-			Review Text View: 12 101 351 150
-			Submit Button: 12 264 351 45
+			Review Text View: 12 71 351 150
+			Submit Button: 12 234 351 45
 
 Manager.storyboard
 	CallDetail
