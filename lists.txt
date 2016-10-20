@@ -8,21 +8,17 @@ work
   medical project
 
 tv
-  South Park S20E05 (10/19)
   Black Mirror (10/21)
   Westworld S01E04 (10/23)
   Last Week Tonight S03E27 (10/23)
   Channel Zero S01E03 (10/25)
+  South Park S20E06 (10/26)
   Corner Gas
   Lie to Me
 
 movies
-  The Overnighters [Netflix]
-  Tell No One [Netflix]
-  After the Wedding [Netflix]
   A Single Man [Netflix]
   Omar [Netflix]
-  Transsiberian
   Tadpole
   The Battle of Algiers
   If....
@@ -32,7 +28,7 @@ movies
   Tomorrow Night
   Hacksaw Ridge (11/04)
   In Dubious Battle (??/??)
-  
+
 games (ps4)
   inside
   the witness

@@ -1,4 +1,8 @@
+
+rename CallRating view
+update rate advisor view
 test rating advisor
+request follow up email
 add to calendar dialog
 
 fix manager storyboard
