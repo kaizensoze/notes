@@ -1,8 +1,4 @@
 
-node-github
-test video-contact-sheet
-check in on dermatologist biopsy
-call vet
 shower
 garbage pails
 library
