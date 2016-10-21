@@ -1,8 +1,4 @@
 
-guidepoint
-shower
-lunch+caffeine
-walk louie
 freshdirect
 hackrf
 
@@ -21,12 +17,9 @@ tv
   Lie to Me
 
 movies
-  A Single Man [Netflix]
-  Omar [Netflix]
   Tadpole
   The Battle of Algiers
   If....
-  The Spirit of the Beehive
   Traceroute
   Don't Think Twice
   Tomorrow Night
