@@ -312,6 +312,8 @@ nmap
 
 npm
   npm ls [--global] --depth=0
+  npm show github@* version   # list all versions of github package
+  npm publish --tag <old-version>  # publish older version
 
 nvm
   nvm ls

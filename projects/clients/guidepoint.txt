@@ -1,6 +1,5 @@
 
-test manager
-test client
+
 
 Client.storyboard
 	Calls
@@ -153,9 +152,10 @@ questions
 dial-in: 1-800-459-1584, code: 2694 510#
 
 hours	
-	10-03-16 [0.5]
+	10-03-16
 		* add updated status icons
 		* register status icon size change in storyboard
+		* look into twilio sdk
 
 	10-04-16
 		* adjust project advisor status icon
@@ -214,6 +214,6 @@ hours
 	10-21-16
 		* small manager storyboard change
 		* do a round of testing for PM, client apps
-		* create and send latest PM/Client iOS build
 		* go through latest APPS-14-client-iphone-app-scheduled-call branch
+		* create and send latest PM/Client iOS build
 		
