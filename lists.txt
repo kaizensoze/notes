@@ -5,6 +5,7 @@ guidepoint
 hackrf
 
 work
+  decox
   ricochet
   revisit collaborative prototyping site idea
   medical project

@@ -51,6 +51,43 @@ The Office of Tailored Operations (TAO) is formed, an elite group of computer pr
 TAO gets better at its craft, developing things like Loudauto, HowlerMonkey, MonkeyCalendar, and Nightstand
 CND, CNA, CNE
 Computer Network Defense/Attack/Exploitation
+General John Abizaid takes helm of US Central Command on July 7, 2003
+NSA tries to integrate capabilities with soldiers in the field, providing intel, but politics prevents this from happening (CIA helps cockblock)
+Abizaid looks to one-star general Keith Alexander, a tech-competent individual
+Abizaid and Alexander look to General Stanley McChrystal, head of JSOC, for help
+Hayden and Alexander did not get along; previously, Alexander had requested access to NSA's database and Hayden refused
+Hayden referred to Alexander as "the Nike swoosh" (Just do it), due to willingness to do something regardless of legality
+Alexander wins over Rumsfeld, who didn't much like Hayden
+one week before Alexander arrived at Fort Meade, William Black, Hayden's deputy, pulled the plug on Trailblazer
+Trailblazer was an expensive monolithic failure [probably due to being mostly outsourced to contractors]
+Alexander and personnel come up with Turbulence program within a year
+Turbulence consisted of nine smaller systems
+some parts sourced from satellites, microwave, cable communications; other cell phones, others the Internet (on level of data packets)
+over ensuing decade, Turbulence matures/splinters into specialized programs (Turbine, Turmoil, QuantumTheory, QuantumInsert, XKeyscore)
+in early stages of Turbulence, a parallel program emerges, Real Time Regional Gateway (RTRG), its first mission hunting down insurgents in Iraq
+RTRG got under way early in 2007, around same time General David Petraeus assumed command of US forces in Iraq and President Bush ordered a surge in number of forces
+roadside bombs were the biggest threat to American soldiers in Iraq
+it took sixteen hours for data on bombers to flow to Pentagon, then Fort Meade, then to tech teams for analysis, then back to intel centers in Baghdad, then to soldiers in the field
+Alexander proposed putting NSA equipment/analysts in Iraq
+on Sept 6, 2007, four Israeli F-15 fighter jets flew over an unfinished nuclear reactor in easern Syria, which was being built with the help of North Korean scientists, and demolished it with a barrage of laser-guided bombs and missiles
+the Russian air-defense systems installed in Syria didn't detect the fighter jets
+the Israelis managed to pull of the attack (Operation Orchard), because Unit 8200 hacked the Syrian air-defense radar system, using a program called Suter, developed by a US Air Force bureau called Big Safari
+Suter didn't disable the radar, instead it disrupted the data link connecting the radar with the screens of radar operators; it also hacked into the screens' video signal so that the Unit 8200 crew could see what the radar operators were seeing
+Suter harked back to the Balkan days, ten years earlier, when the Pentagon's J-39 unit, the NSA, and the CIA's Information Operations Center spoofed the Serbian air-defense command by tapping into its communications lines and sending false data to its radar screens
+on April 27, 2007, riots broke out in Tallinn, capital of Estonia when Estonia's president, under pressure from Putin, overruled a law that would have removed all the monuments that had gone up during the years of Soviet occupation (Bronze Night riot)
+the day after the Bronze Night riot, Estonia hit with massive cyber attack from Russia; for a sporadic three weeks, nearly all systems were down
+on August 1, 2008, Ossetian separatists shelled the Georgian village of Tskhinvali; Georgian soliders recapture the town in a few hours
+the next day Russian troops and tanks roll into the village, supported by air strikes and a naval blockade
+at the precise moment the Russian troops crossed the South Ossetian line, 54 Georgian websites were hacked and rerouted to Russian servers, which shut them down
+after four days of fighting, the Georgian army retreated; soon after, Russian's parliament formally recognized South Ossetia and Abkhazia and independent states
+on March 4, 2007, the Department of Energy conducted an experiment called the Aurora Generator Test
+it tested whether or not someone could hack into a control system and cause power outages
+a technician typed 21 lines of malicious code into a digital relay, which was wired to a generator
+the code opened a circuit breaker in the generator's protection system, then closed it just before the system responded, throwing its operations out of sync; the generator died
+two weeks before Aurora Generator Test, Mike McConnell sworn in as director of national intelligence, a new job created just two years earlier, in wake of report by 9/11 Commission concluding that al Qaeda's plot to attack the World Trade Center succeeded because the nation's scattered intelligence agencies-FBI, CIA, NSA, and rest-didn't communicate with one another and so couldn't connect all of the dots
+to get cyber on the agenda and make politically import people more aware of issue, McConnell took a memo someone had written a few weeks ago, showed it to them, told them the Chinese hacked it from their computer and the NSA hacked it back from the Chinese computer
+
+
 
 How Linux Works, Brian Ward
 ====
