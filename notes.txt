@@ -86,6 +86,9 @@ a technician typed 21 lines of malicious code into a digital relay, which was wi
 the code opened a circuit breaker in the generator's protection system, then closed it just before the system responded, throwing its operations out of sync; the generator died
 two weeks before Aurora Generator Test, Mike McConnell sworn in as director of national intelligence, a new job created just two years earlier, in wake of report by 9/11 Commission concluding that al Qaeda's plot to attack the World Trade Center succeeded because the nation's scattered intelligence agencies-FBI, CIA, NSA, and rest-didn't communicate with one another and so couldn't connect all of the dots
 to get cyber on the agenda and make politically import people more aware of issue, McConnell took a memo someone had written a few weeks ago, showed it to them, told them the Chinese hacked it from their computer and the NSA hacked it back from the Chinese computer
+McConnel makes point to people in meeting with Bush and advisors that had the 9/11 hijackers been cyber smart they could've hacked into the servers of one major bank in NYC and contaminated its files, inflicting more economic damage than they'd doen by taking down the Twin Towers
+Bush, infuriated, tells McConnell he has 30 days to fix the issue of cyber defense
+looking into the issue of protecting civilian networks, they find that it's way more complicated due to all the access points
 
 
 
