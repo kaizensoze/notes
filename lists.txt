@@ -1,5 +1,4 @@
 
-freshdirect
 hackrf
 
 work
@@ -14,7 +13,7 @@ tv
   Channel Zero S01E03 (10/25)
   South Park S20E06 (10/26)
   Corner Gas
-  Lie to Me
+  Lie to Me S01E01
 
 movies
   Tadpole
