@@ -1,5 +1,6 @@
 
-check remaining things to update in manager storyboard
+test manager
+test client
 
 Client.storyboard
 	Calls
@@ -211,5 +212,8 @@ hours
 		* look into remaining things to update in manager storyboard
 	
 	10-21-16
-		* 
+		* small manager storyboard change
+		* do a round of testing for PM, client apps
+		* create and send latest PM/Client iOS build
+		* go through latest APPS-14-client-iphone-app-scheduled-call branch
 		
