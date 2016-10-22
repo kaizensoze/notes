@@ -1,9 +1,4 @@
 
-shower
-garbage pails
-library
-read
-movies
 ricochet
 hackrf
 
@@ -23,8 +18,8 @@ tv
   Lie to Me S01E01
 
 movies
-  Tadpole
   The Battle of Algiers
+  Tadpole
   If....
   Traceroute
   Don't Think Twice
