@@ -1,5 +1,4 @@
-link passed to showContextMenu(link) is undefined
-=> hoveredLink passed to MenuItem.onTriggered is undefined
+
 
 setup
   git clone https://github.com/ricochet-im/ricochet.git
