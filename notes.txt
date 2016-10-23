@@ -119,6 +119,7 @@ Stuxnet spurred Iranians to create their own cyber war unit; they created their 
 Obama orders drafting of new presidential policy directive PPD-20 US Cyber Operations Policy assessing aims/risks/benefits/consequences of attacks, signed in Oct 2012
 in April 2007, Colonel Gregory Rattray summoned several executives from largest us defense contractors and informed them they needed to stop being so passive to china's stealing of trade secrets, etc.; coined the term APT (advaned persistent threat) to describe the hackers' actions
 on Jun 6 2013, the washington post and the guardian reported on PRISM
+on Aug 27, 2013, the President's Review Group on Intelligence and Communications Technologies met in the White House Situation Room with the president, Susan Rice, and the heads of the intelligence agencies; Obama gave the group a deadline of Dec 15; their job was provide analysis of cyber policy and provide better alternatives if possible
 
 
 How Linux Works, Brian Ward
