@@ -89,6 +89,13 @@ to get cyber on the agenda and make politically import people more aware of issu
 McConnel makes point to people in meeting with Bush and advisors that had the 9/11 hijackers been cyber smart they could've hacked into the servers of one major bank in NYC and contaminated its files, inflicting more economic damage than they'd doen by taking down the Twin Towers
 Bush, infuriated, tells McConnell he has 30 days to fix the issue of cyber defense
 looking into the issue of protecting civilian networks, they find that it's way more complicated due to all the access points
+in 2004, in its second year of operations, the Homeland Security Department put out a contract for a government-wide intrustion-detections ystem called Einstein, the the task proved unwieldly
+McConnell and Hathaway put in motion a program called Comprehensive National Cybersecurity Initiative (CNCI), which called for creation of a supra-agency that would consolidate government's scattered servers into a single "Federal Enterprise Network," set strict security standards, and whittle down the points of entry to the Internet from over 4000 to just 50
+on Jan 9, 2008, Bush signed a national security presidential directive, NSPD-54, which cited the dangers posed by America's cyber vulnerabilities and ordered Hathaway's plan into action as a remedy
+which legal statutes authorized which sets of activites: Title 50 for intelligence, Title 10 for military operations, Title 18 for criminal probes
+Homeland Security upgraded to Einstein 2 and started planning for Einstein 3; NSA took on these projects as part of share of the 17.3 billion they got from NSPD-54
+after coming on board, Alexander backed out, explaining that the civilian agencies' requirements and Homeland Security's approach were incompatible; the Einstein project falls apart after NSA leaves
+
 
 
 How Linux Works, Brian Ward
