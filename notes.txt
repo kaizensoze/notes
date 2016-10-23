@@ -95,6 +95,22 @@ on Jan 9, 2008, Bush signed a national security presidential directive, NSPD-54,
 which legal statutes authorized which sets of activites: Title 50 for intelligence, Title 10 for military operations, Title 18 for criminal probes
 Homeland Security upgraded to Einstein 2 and started planning for Einstein 3; NSA took on these projects as part of share of the 17.3 billion they got from NSPD-54
 after coming on board, Alexander backed out, explaining that the civilian agencies' requirements and Homeland Security's approach were incompatible; the Einstein project falls apart after NSA leaves
+on Oct 24, 2008, a beacon was emitting a signal from inside CentCom's classified computers; TAO reroutes the agent.btz to a different place; this operation was called Buckshot Yankee
+Buckshot yankee drove the point home that the NSA had its shit together and came out ahead of the Pentagon
+Mike McConnell pushes Bob Gates to unify Cyber Command with the NSA at Fort Meade
+Alexander was supposedly (untrue) about to retire (past the typical 3 year term for director) and Gates figured making NSA director also director of Cymber Command would help keep Alexander out of retirement
+on June 23, 2009, Gates signs memorandum, ordering creation of U.S. Cyber Command
+on October 31, 2010, U.S. Cyber Command raised its flag at Fort Meade
+in the late 1990s, Richard Clarke learned that 80 percent of global internet traffic passed through jsut two buildings in the US: one called MAE West in San Jose, CA and the other MAE East in Tysons Corner, VA; he entered the rooms with a secret service agent and found it trivial to wreak havoc
+since most of the traffic passed through the US, you could just tap foreign comms in the US
+there was a legal obstacle since back in the 1970s, Senator Frank Church uncovered massive abuse by the CIA and NSA, leading to the passage of the Foreign Intelligence Surveillance Act in 1978, which barred domestic surveillance without evidence of probable cause that the target was an agent of a foreign power and that the places of surveillance were used by that agent and even then the govt would have to present the evidence to a FISA court; the president could authorize surveillance without a court order, but onlly if the attorny general certified under oath that the target was believed to be a foreign agent and that the eavesdropping would not pick up communications of a US person, defined as an American citizen, permanent resident, or corporation
+the Patriot Act expanded foreign agents to include terrorist groups [with no affiliation to a nation-state]
+VeriSign map gets senators' attention for justifying including US citizens in data collection
+in early August, 2007, the bill, labeled Protect America Act, that notes electronic surveillance of an American would not be illegal-would not even be defined as electronic surveillance-if it was aimed at a person who was reasonably believed to be located outside of the US
+another passage specifies that the govt can obtain the info only with assistance of a communications service provider; this allowed NSA to retrieve data from private corporations and gave corporations legal cover to cooperate with NSA
+only limit the bill placed on surveillance was that the data acquired from Americans had to be minimized (no names or contents)
+Mike McConnell replaced first week of Obama's presidency; Hathaway gone by August
+a few days before inauguration, Bush briefed Obama on Olympic Games, later known as Stuxnet
 
 
 
