@@ -1,4 +1,3 @@
-Against All Enemies, Richard Clarke
 Alexander Hamilton, Ron Chernow
 Algorithms to Live By, Brian Christian
 America, Jean Baudrillard
@@ -30,7 +29,6 @@ Contact, Carl Sagan
 Cosmos, Carl Sagan
 Coup d'État: A Practical Handbook, Edward N. Luttwak
 Crisis of Character, Gary J. Byrne
-Cyber War, Richard Clarke
 Cypherpunks: Freedom and the Future of the Internet, Julian Assange
 Daring Greatly, Brené Brown
 Dark Money, Jane Mayer

@@ -111,7 +111,14 @@ another passage specifies that the govt can obtain the info only with assistance
 only limit the bill placed on surveillance was that the data acquired from Americans had to be minimized (no names or contents)
 Mike McConnell replaced first week of Obama's presidency; Hathaway gone by August
 a few days before inauguration, Bush briefed Obama on Olympic Games, later known as Stuxnet
-
+Stuxnet spreads outside of Natanz
+Symantec in CA, VirusBlokAda in Belarus, Kaspersky Lab in Russia start studying the Stuxnet worm
+German security researcher Ralph Langner infers that someone was trying to disable the Natanz nuclear reactor in Iran and that Israelis were probably involved
+in Obama's first year as president, around fourth of july, North Korea launched DOS shutting down websites of DHS, Treasury, Transportation, Secret Service, FTC, NYSE, NASDAQ, and dozens of South Korean banks
+Stuxnet spurred Iranians to create their own cyber war unit; they created their own Shamoon virus, wiping out 30k hard drives at Saudi Aramco
+Obama orders drafting of new presidential policy directive PPD-20 US Cyber Operations Policy assessing aims/risks/benefits/consequences of attacks, signed in Oct 2012
+in April 2007, Colonel Gregory Rattray summoned several executives from largest us defense contractors and informed them they needed to stop being so passive to china's stealing of trade secrets, etc.; coined the term APT (advaned persistent threat) to describe the hackers' actions
+on Jun 6 2013, the washington post and the guardian reported on PRISM
 
 
 How Linux Works, Brian Ward
