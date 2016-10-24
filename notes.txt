@@ -125,7 +125,7 @@ General Alexander publicly claimed that PRISM had helped discover and disrupt th
 if a terrorist in Pakistan called a terrorist in Yemen, the NSA could intercept their conversation, but if they same two people were talking on a cell phone in the same overseas location, the NSA would have to get a warrant from the FISA court; that's why McConnell pushed for a revision in the law and what led to the Protect America Act of 2007, which allowed the govt to conduct electronic surveillance inside the US as long as the people communicating were "reasonably believed" to be outside the US
 the PRISM intercept could legally get under way once there was a 52% probability that both parties to the call/email were foreign-based
 if, once the intercept began, it turned out the parties were inside the US, the operation had to be shut down immediately and all data thus far retrieved destroyed
-
+the panel determined that even if the NSA hadn't collected all the metadata related to a terrorist's phone number, the NSA or FBI would still have uncovered those plots
 
 How Linux Works, Brian Ward
 ====
