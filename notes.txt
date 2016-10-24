@@ -120,6 +120,11 @@ Obama orders drafting of new presidential policy directive PPD-20 US Cyber Opera
 in April 2007, Colonel Gregory Rattray summoned several executives from largest us defense contractors and informed them they needed to stop being so passive to china's stealing of trade secrets, etc.; coined the term APT (advaned persistent threat) to describe the hackers' actions
 on Jun 6 2013, the washington post and the guardian reported on PRISM
 on Aug 27, 2013, the President's Review Group on Intelligence and Communications Technologies met in the White House Situation Room with the president, Susan Rice, and the heads of the intelligence agencies; Obama gave the group a deadline of Dec 15; their job was provide analysis of cyber policy and provide better alternatives if possible
+for all of 2012, the NSA queried the database for 288 US phone numbers; as a result, they passed on twelve "tips" to the FBI; of the 12, 0 led to the halting of a plot or the capture of a terrorist
+General Alexander publicly claimed that PRISM had helped discover and disrupt the planning of 54 terrorist attacks
+if a terrorist in Pakistan called a terrorist in Yemen, the NSA could intercept their conversation, but if they same two people were talking on a cell phone in the same overseas location, the NSA would have to get a warrant from the FISA court; that's why McConnell pushed for a revision in the law and what led to the Protect America Act of 2007, which allowed the govt to conduct electronic surveillance inside the US as long as the people communicating were "reasonably believed" to be outside the US
+the PRISM intercept could legally get under way once there was a 52% probability that both parties to the call/email were foreign-based
+if, once the intercept began, it turned out the parties were inside the US, the operation had to be shut down immediately and all data thus far retrieved destroyed
 
 
 How Linux Works, Brian Ward
