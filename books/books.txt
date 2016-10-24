@@ -34,7 +34,6 @@ Cyber War, Richard Clarke
 Cypherpunks: Freedom and the Future of the Internet, Julian Assange
 Daring Greatly, Brené Brown
 Dark Money, Jane Mayer
-Dark Territory: The Secret History of Cyber War, Fred Kaplan
 David Copperfield, Charles Dickens
 De humani corporis fabrica, Andreas Vesalius
 Discworld, Terry Pratchett
@@ -434,3 +433,4 @@ Let's Pretend This Never Happened, Jenny Lawson
 Hunger Makes Me a Modern Girl, Carrie Brownstein
 Please Kill Me, Legs McNeil and GillianMcCain
 The Secret History, Donna Tartt [x]
+Dark Territory: The Secret History of Cyber War, Fred Kaplan
