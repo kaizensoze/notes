@@ -137,6 +137,12 @@ the House and Senate would have to take a vote on Section 215
 moderates in Congress drafted a bill called the USA Freedom Act which would keep metadata stored with the telecom companies and allow the NSA access to only narrowly specified pieces of it and only after obtaining a FISA Court order
 Congress approved the main reforms of NSA practices as recommended by Obama's commission
 Geoffrey Stone delivers speech at Fort Meade: "I found, to my surprise, that the NSA deserves the respect and appreciation of the American people. But it should never, ever, be trusted."
+on Feb 10, 2014, Islamic Republic of Iran launched massive cyber attack against the Las Vegas Sands Corporation, destroying hard drives, stealing thousands of credit cards and names and SSNs of employees
+Sheldon Adelson, pro-Israel right-winger who owned 52 percent of Las Vegas Sands stock, a month earlier had made a comment about nuclear negotiations with Iran that royally pissed them off apparently
+on Nov 24, 2014, gang of hackers called Guardians of Peace hack into Sony Pictures
+Sony contacts FBI, FireEye to track down hacker; group called "DarkSeoul" identified, which often did cyber jobs for the North Korean govt
+Obama expresses disappointment over Sony not releasing movie and giving into blackmail
+on Dec 22, 2014, three days after Obama talked about the Sony hack, someone disconnected North Korea from the Internet
 
 How Linux Works, Brian Ward
 ====
