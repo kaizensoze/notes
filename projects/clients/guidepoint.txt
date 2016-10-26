@@ -217,3 +217,12 @@ hours
 		* go through latest APPS-14-client-iphone-app-scheduled-call branch
 		* create and send latest PM/Client iOS build
 		
+	10-24-16
+		* look into merges or APPS-14-client-iphone-app-scheduled-call with updated master
+		
+	10-25-16
+		* take a look at api code into why /auth on test is now throwing a 500 error
+	
+	10-26-16
+		* 
+		
