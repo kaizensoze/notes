@@ -9,7 +9,6 @@ work
   medical project
 
 tv
-  Channel Zero S01E03
   South Park S20E06 (10/26)
   Westworld S01E05 (10/30)
   Last Week Tonight S03E28 (10/30)
@@ -38,6 +37,7 @@ games (ps4)
   overwatch
   dark souls 3
   dishonored 2 (11/11)
+  final fantasy XV (11/29)
   the last guardian (12/06)
   journey
   DOOM
