@@ -1,5 +1,12 @@
 
+guidepoint
+1PM: apple event
+ricochet
+videogames
 
+sat
+  animal shelter
+  library
 
 work
   ricochet
@@ -9,14 +16,9 @@ work
   medical project
 
 tv
-  Deutschland 83
   Westworld S01E05 (10/30)
   Last Week Tonight S03E28 (10/30)
   South Park S20E07 (11/02)
-  The Get Down
-  Fortitude
-  The Hour
-  Terriers
   Corner Gas
   Lie to Me S01E01
 
