@@ -9,7 +9,7 @@ work
   medical project
 
 tv
-  South Park S20E06 (10/26)
+  South Park S20E06
   Westworld S01E05 (10/30)
   Last Week Tonight S03E28 (10/30)
   Deutschland 83
@@ -21,7 +21,6 @@ tv
   Lie to Me S01E01
 
 movies
-  Tadpole
   If....
   The Man Who Laughs
   Traceroute
@@ -32,19 +31,13 @@ movies
   In Dubious Battle (??/??)
 
 games (ps4)
-  xcom 2
+  the talos principle
   battlefield 1
-  overwatch
+  xcom 2
   dark souls 3
+  FIFA 17
+  GTA 5
   dishonored 2 (11/11)
   final fantasy XV (11/29)
   the last guardian (12/06)
-  journey
-  DOOM
-  FIFA 17
-  GTA 5
-  the talos principle
-  alien: isolation?
-  destiny?
-  the witcher 3?
   

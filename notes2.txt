@@ -518,7 +518,7 @@ Eru Ilúvatar
         Vána
         Nessa
       Other
-        Melkor
+        Melkor -> Morgoth
     Maiar
       Istari
         Saruman the White
