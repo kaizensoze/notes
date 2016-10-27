@@ -1,12 +1,15 @@
 
-guidepoint
+library/food
 1PM: apple event
 ricochet
 videogames
+gauge freelance demand
 
 sat
   animal shelter
-  library
+
+test laptops
+  walk to PC Richard (713 Hillside Ave)
 
 work
   ricochet
