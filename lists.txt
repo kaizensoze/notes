@@ -9,10 +9,10 @@ work
   medical project
 
 tv
-  South Park S20E06
+  Deutschland 83
   Westworld S01E05 (10/30)
   Last Week Tonight S03E28 (10/30)
-  Deutschland 83
+  South Park S20E07 (11/02)
   The Get Down
   Fortitude
   The Hour
@@ -25,18 +25,16 @@ movies
   The Man Who Laughs
   Traceroute
   Don't Think Twice
-  Near Dark
   Tomorrow Night
   Hacksaw Ridge (11/04)
-  In Dubious Battle (??/??)
 
 games (ps4)
-  the talos principle
-  battlefield 1
   xcom 2
   dark souls 3
-  FIFA 17
+  battlefield 1
+  the talos principle
   GTA 5
+  FIFA 17
   dishonored 2 (11/11)
   final fantasy XV (11/29)
   the last guardian (12/06)
