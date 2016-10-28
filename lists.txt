@@ -1,5 +1,4 @@
 
-xcom 2
 the witness
 
 node-github changes
@@ -32,6 +31,7 @@ games (ps4)
   xcom 2
   dark souls 3
   battlefield 1
+  minecraft
   the talos principle
   GTA 5
   FIFA 17
