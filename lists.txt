@@ -1,6 +1,4 @@
 
-the witness
-
 node-github changes
 ricochet
 gauge freelance demand
