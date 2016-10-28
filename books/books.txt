@@ -59,7 +59,6 @@ Great Expectations, Charles Dickens
 Green River Killer, Jeff Jensen
 Grunt, Mary Roach
 Hacking: The Art of Exploitation, Jon Erickson
-Harry Potter and the Cursed Child, J.K. Rowling
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
@@ -435,3 +434,4 @@ Hunger Makes Me a Modern Girl, Carrie Brownstein
 Please Kill Me, Legs McNeil and GillianMcCain
 The Secret History, Donna Tartt [x]
 Dark Territory: The Secret History of Cyber War, Fred Kaplan
+Harry Potter and the Cursed Child, J.K. Rowling
