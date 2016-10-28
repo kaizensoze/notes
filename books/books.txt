@@ -54,7 +54,6 @@ Futuristic Violence and Fancy Suits, David Wong
 Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Get in the Van, Henry Rollins
-Girl in a Band, Kim Gordon
 Great Expectations, Charles Dickens
 Green River Killer, Jeff Jensen
 Grunt, Mary Roach
@@ -435,3 +434,4 @@ Please Kill Me, Legs McNeil and GillianMcCain
 The Secret History, Donna Tartt [x]
 Dark Territory: The Secret History of Cyber War, Fred Kaplan
 Harry Potter and the Cursed Child, J.K. Rowling
+Girl in a Band, Kim Gordon [x]
