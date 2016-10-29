@@ -1,5 +1,5 @@
 
-freelance research
+
 
 work
   ricochet
@@ -7,6 +7,11 @@ work
   decox
   revisit collaborative prototyping site idea
   medical project
+  
+research
+  hololens
+  elm
+  go
 
 tv
   Westworld S01E05 (10/30)
