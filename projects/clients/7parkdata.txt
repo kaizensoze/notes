@@ -1,2 +1,27 @@
-setup
+
+todo
 ====
+setup local
+setup test server redhat
+document local, test server setup
+TODO: create setup.md for getting setup on osx
+TODO: look into cleaning up sql procs/funcs
+get rid of static/Uploads
+look into consolidating sendWithSendgrid, sendTestWithSendgrid
+move any config-related values in code to environment variables
+look into formatting sql query strings
+branch different config files based on dev/prod environment
+have different db pws between dev and prod
+get rid of instanceactivity
+
+3 main groups of tables
+====
+non-prefixed (app config, etc.)
+rb_: (template frontend mapping; report builder)
+report/rpt
+
+caveats
+====
+reportinstance
+  report_id is really instance_id
+  report__id is report id
