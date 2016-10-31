@@ -1,13 +1,8 @@
 
-12:00 - 
-
 todo
 ====
-s3: AKIAJPMMOCNEQYJN52XA, zu1IJPyLoFr5Ae752o+bqCYZNTb8sAIKazwh6CSI
-redshift
-0dea83711cb31171e705d5b6a52105b4b008da9a
 SG.
-username in
+username in -> use superuser list global variable in init.py?
 
 move all config-related constants into __init__.py
 
@@ -30,4 +25,24 @@ caveats
 reportinstance
   report_id is really instance_id
   report__id is report id
-login: joe:<jumpcloud_pw>
+login: joe:DRUCKCZXPdiiPeHXcVKKyJxNDpYs36
+
+hours
+====
+10/31/16: 12:00 - 18:30 (6.5)
+  * phone call + join.me going over setup/code
+  * go through code
+  * get setup on local
+  * add local setup instructions to README
+  * add python version file for pyenv
+  * ignore compiled python files
+  * git ignore jetbrains stuff
+  * add some virtualenv paths to ignore
+  * remove already committed compiled python files
+  * remove Uploads folder
+  * get rid of instanceactivity
+  * organize init.py
+  * add full db uri for convenience
+  * consolidate redshift config info
+  * consolidate timeline token config
+  * move aws/s3 config to init.py
