@@ -3,13 +3,15 @@
 
 todo
 ====
-get rid of instanceactivity
-get rid of static/Uploads
+s3: AKIAJPMMOCNEQYJN52XA, zu1IJPyLoFr5Ae752o+bqCYZNTb8sAIKazwh6CSI
+redshift
+0dea83711cb31171e705d5b6a52105b4b008da9a
+SG.
+username in
 
-look into cleaning up sql procs/funcs
+move all config-related constants into __init__.py
 
 branch different config files based on dev/prod environment
-move any config-related values in code to environment variables
 
 look into formatting sql query strings
 
@@ -28,3 +30,4 @@ caveats
 reportinstance
   report_id is really instance_id
   report__id is report id
+login: joe:<jumpcloud_pw>
