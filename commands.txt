@@ -403,6 +403,9 @@ rails
 
   y MatePost.find(2409)  (in rails console)
 
+redhat
+  cat /etc/redhat-releas  # check version
+
 rsync
   rsync -avzhe ssh --progress ubuntu@54.175.82.101:~/son ~/Downloads/son
 
