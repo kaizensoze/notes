@@ -1,6 +1,36 @@
 
+change Config to Settings
+swap Log and Settings (prevent Log being right next to Logout)
+
+
+
+access Report Builder|Stats|Config|Log: ben, brian, catherine, daniel, mike (superusers)
+save report definition changes:         catherine, daehan, daniel, mike 
+send final report:                      ben, byrne, catherine, mike         (admin_users)
+re-edit report:                         ben, catherine, mike                (admin_users)
+
+admin_users = ben, catherine, mike
+superusers = ben, byrne, catherine, daehan, daniel, mike, vince
+
+/sendTestReport
+sendTestRpt()
+  sendTestWithMandrill()
+  sendTestWithSendgrid()
+
+/distributeReport
+sendReportsToClients()
+  sendWithMandrill()
+  sendWithSendgrid()
+
 todo
 ====
+fix getReportStats
+
+add mail toggle to UI
+get usergroups working
+
+test distributeReport
+
 split init.py into local, dev/qa, prod
 
 some things to consolidate into int.py
@@ -50,3 +80,6 @@ hours
   * consolidate redshift config info
   * consolidate timeline token config
   * move aws/s3 config to init.py
+  
+11/01/16: 10:30 - 16:00, 
+  * 

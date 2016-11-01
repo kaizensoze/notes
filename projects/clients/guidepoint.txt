@@ -223,6 +223,17 @@ hours
 	10-25-16
 		* take a look at api code into why /auth on test is now throwing a 500 error
 	
-	10-26-16
-		* 
+	10-26-16 [0]
+	
+	10-27-16
+		* small manager storyboard changes
+		* change pref tab to account
+		* change client pref tab to account
+		* remove client notifications tab
+		* adjust tab-account 2x image
+		* take a look at call-related stuff
+	
+	10-28-16 [0]
+	
+	10-31-16 [0]
 		

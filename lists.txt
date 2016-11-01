@@ -1,5 +1,11 @@
 
-
+7parkdata
+shower
+lunch
+pick up dog food
+order new collar for willy
+send guidepoint hours
+dark souls III
 
 work
   ricochet
@@ -7,7 +13,7 @@ work
   decox
   revisit collaborative prototyping site idea
   medical project
-  
+
 research
   hololens
   elm
