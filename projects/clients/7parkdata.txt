@@ -1,10 +1,14 @@
 
 todo
 ====
-SG.
-username in -> use superuser list global variable in init.py?
+split init.py into local, dev/qa, prod
 
-move all config-related constants into __init__.py
+some things to consolidate into int.py
+  SG.
+  username in -> use superuser list global variable in init.py?
+
+import qa db into local db
+get sendTestMail working on local
 
 branch different config files based on dev/prod environment
 
