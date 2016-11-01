@@ -1,4 +1,6 @@
 
+http http://avenue-api.7parkdata.com/v2/timeline/posts "Authorization:Token 452ae83a7c4cae52afb40cb1ce5254def5a1e19b"
+
 access Report Builder|Stats|Config|Log: ben, brian, catherine, daniel, mike (superusers)
 save report definition changes:         catherine, daehan, daniel, mike 
 send final report:                      ben, byrne, catherine, mike         (admin_users)
@@ -20,25 +22,10 @@ sendReportsToClients()
 todo
 ====
 get usergroups working
-
-test distributeReport
-
 split init.py into local, dev/qa, prod
-
-some things to consolidate into int.py
-  SG.
-  username in -> use superuser list global variable in init.py?
-
 import qa db into local db
-get sendTestMail working on local
-
-branch different config files based on dev/prod environment
-
 look into formatting sql query strings
-
-look into consolidating sendWithSendgrid, sendTestWithSendgrid
-setup test server redhat; document
-have different db pws between dev and prod
+have different db pws between dev and prod?
 
 3 main groups of tables
 ====
@@ -55,7 +42,7 @@ login: joe:DRUCKCZXPdiiPeHXcVKKyJxNDpYs36
 
 hours
 ====
-10/31/16: 12:00 - 18:30 (6.5)
+10/31/16: [12:00 - 18:30] (6.5)
   * phone call + join.me going over setup/code
   * go through code
   * get setup on local
@@ -73,5 +60,13 @@ hours
   * consolidate timeline token config
   * move aws/s3 config to init.py
   
-11/01/16: 10:30 - 17:30, 
+11/01/16: [10:30 - 17:30, 18:30 - 19:30] (8)
+  * prevent getReportStats 500 error if sendgrid fails
+  * use enums for email providers
+  * add email provider dropdown directly in config table
+  * rename Config to Settings in nav
+  * swap Settings and Log in nav
+  * progress on adding post to timeline
+
+11/02/16: [] ()
   * 
