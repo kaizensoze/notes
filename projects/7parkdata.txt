@@ -1,8 +1,0 @@
-https://hangouts.google.com/hangouts/_/happyfuncorp.com/joe-7parkdata
-
-what role you're looking for?
-what version of flask are you using? 0.10.1
-database? mysql
-what's the architecture like?
-webserver? uwsgi, gunicorn?
-check out chalice
