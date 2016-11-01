@@ -1,9 +1,4 @@
 
-change Config to Settings
-swap Log and Settings (prevent Log being right next to Logout)
-
-
-
 access Report Builder|Stats|Config|Log: ben, brian, catherine, daniel, mike (superusers)
 save report definition changes:         catherine, daehan, daniel, mike 
 send final report:                      ben, byrne, catherine, mike         (admin_users)
@@ -24,9 +19,6 @@ sendReportsToClients()
 
 todo
 ====
-fix getReportStats
-
-add mail toggle to UI
 get usergroups working
 
 test distributeReport
@@ -81,5 +73,5 @@ hours
   * consolidate timeline token config
   * move aws/s3 config to init.py
   
-11/01/16: 10:30 - 16:00, 
+11/01/16: 10:30 - 17:30, 
   * 

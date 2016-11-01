@@ -3,8 +3,9 @@
 shower
 lunch
 pick up dog food
-order new collar for willy
 send guidepoint hours
+configure slack channel alert settings
+order new collar for willy
 dark souls III
 
 work
