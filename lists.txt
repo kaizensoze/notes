@@ -8,8 +8,8 @@ work
   ricochet
   hackrf
   decox
+  collaborative free draw with cheap tablet pad (research existing solutions)
   revisit collaborative prototyping site idea
-  medical project
 
 research
   hololens
