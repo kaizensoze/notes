@@ -1,12 +1,5 @@
 
-7parkdata
-shower
-lunch
-pick up dog food
-send guidepoint hours
-configure slack channel alert settings
-order new collar for willy
-dark souls III
+
 
 work
   ricochet
@@ -21,9 +14,9 @@ research
   go
 
 tv
-  Last Week Tonight S03E28
   South Park S20E07 (11/02)
   Westworld S01E06 (11/06)
+  Last Week Tonight S03E29 (11/06)
   Corner Gas
   Lie to Me S01E01
 
@@ -31,7 +24,6 @@ movies
   Gimme Danger
   Oasis: Supersonic
   If....
-  The Man Who Laughs
   Traceroute
   Don't Think Twice
   Tomorrow Night
