@@ -1,5 +1,26 @@
 
+* Icons in the lower navigation should be bigger (same size as Client app side)
+* check "go to availability cell" still works
+* Availability should display current day, current part of day and time. Should not permit user to select time in past
+* Is it possible to have label and chevron not to move when it’s tapped. Eg. Questions, Compliance, etc. and their chevrons move up and down  
+  when tapped. Chris noticed that weird movement
+* Availability should only show Advisor’s Note, Days and Times that is available
+* Scheduling call selection (now under Availability Section) should be on its own page and should roll-in under   
+* The Availability selection should be available by tapping should 
+* Time zone should be editable
+* Each individual Advisor page should have buttons on the bottom. 
+    Accepted Advisor page should have following buttons: "Send to Client”, "Select Advisor”, "Schedule Call”
+    Sent Advisor page should have following buttons: "Send to Client”, "Select Advisor”, "Schedule Call”
+    Selected Advisor page should have following buttons: "Send to Client”, "Schedule Call”
+* When "Send to Client” or paper airplane is tapped it should open email window with pre-filled text as in the comp.
 
+manager
+	jbarker@guidepointglobal.com
+	welcome
+client
+	chris.carroll@wmpartners.com
+	c.Tkac@lek.com
+	a
 
 Client.storyboard
 	Calls
@@ -72,14 +93,6 @@ Manager.storyboard
 			Phone Number Label: 61 43 306 19
 			Pin Label: 61 61 306 19
 			Email Button: 10 93 355 45
-
-manager
-	jbarker@guidepointglobal.com
-	welcome
-client
-	chris.carroll@wmpartners.com
-	c.Tkac@lek.com
-	a
 
 Product > Scheme > Edit Scheme (apple-<) > add environment variable: OS_ACTIVITY_MODE: disable
 
@@ -155,5 +168,12 @@ hours
 	11-01-16 (0)
 	
 	11-02-16
-		* 
-		
+		* manager storyboard fixes
+    * widen login fields
+    * client storyboard fixes
+    * edit subsections on client detail view
+    * edit subsections on advisor detail view
+
+  11-03-16
+    * 
+
