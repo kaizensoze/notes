@@ -174,5 +174,15 @@ hours
     * edit subsections on advisor detail view
 
   11-03-16
-    * 
+    * storyboard adjustments
+		* increase height of tabbar
+		* update account tab
+		* remove old preferences tab
+		* remove unused notifications tab
+		* update calls tab icon
+		* update projects tab icon
+		* make availability subsection more like regular subsection
+		* adjust login views
+		* send on advisors view goes to mail compose vc
 
+	

@@ -1,5 +1,38 @@
 
+select
+  ri.*,
+  sa.activity_time,
+  sa.attachment_url
+from
+  reportinstance ri
+  join sentattachments sa on ri.report_id = sa.instance_id and activity = 'finalsend'
+where
+  ri.report_status = 8
+  and sa.activity_time > '2016-10-27 13:22'
+order by
+  sa.activity_time;"""
 
+0  ri.report_id
+1  ri.report_subject
+2  ri.report_body
+3  ri.report_assigneduser
+4  ri.report_created
+5  ri.report_lastmodified
+6  ri.report_file_path
+7  ri.report_status
+8  ri.lobid
+9  ri.report__id
+10 comments
+11 sa.activity_time
+12 sa.attachment_url
+
+reportinstance ri
+
+
+row[1] = ri.report_subject
+row[11] = sa.activity_time
+row[12] = sa.attachment_url
+row[2] = ri.report_body
 
 http http://avenue-api.7parkdata.com/v2/timeline/posts "Authorization:Token 452ae83a7c4cae52afb40cb1ce5254def5a1e19b"
 
@@ -62,5 +95,13 @@ hours
   * swap Settings and Log in nav
   * progress on adding post to timeline
 
-11/02/16: [10:00 - 13:30] ()
+11/02/16: [10:00 - 13:30] (3.5)
+  * intermediate permissions refactor
+  * format sql queries
+  * small whitespace changes
+  * rearrange send functions
+  * make client email bcc optional
+  
+11/03/16: [] ()
   * 
+
