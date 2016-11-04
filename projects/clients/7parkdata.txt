@@ -1,6 +1,14 @@
 
-http http://avenue-api.7parkdata.com/v2/timeline/posts "Authorization:Token 452ae83a7c4cae52afb40cb1ce5254def5a1e19b"
+todo
+====
+consolidate test/prod send functions
+get usergroups working
+split init.py into local, dev/qa, prod
+import qa db into local db
+have different db pws between dev and prod?
 
+endpoints
+====
 /sendTestReport
 sendTestRpt()
   sendTestWithMandrill()
@@ -11,18 +19,14 @@ sendReportsToClients()
   sendWithMandrill()
   sendWithSendgrid()
 
-todo
+timeline
 ====
-get usergroups working
-split init.py into local, dev/qa, prod
-import qa db into local db
-look into formatting sql query strings
-have different db pws between dev and prod?
+http http://avenue-api.7parkdata.com/v2/timeline/posts "Authorization:Token 452ae83a7c4cae52afb40cb1ce5254def5a1e19b"
 
 3 main groups of tables
 ====
 non-prefixed (app config, etc.)
-rb_: (template frontend mapping; report builder)
+rb_: (report builder)
 report/rpt
 
 caveats
