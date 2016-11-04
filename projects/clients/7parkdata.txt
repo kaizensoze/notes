@@ -16,8 +16,10 @@ virtualenv venv
 mkdir distro
 mkdir distrodeploy
 pip install supervisor
+cd /home/distro/distro/distrib
 supervisord -c supervisord.conf
-newrelic-admin run-program gunicorn -b 0.0.0.0:8080 app:app
+# newrelic-admin run-program gunicorn -b 0.0.0.0:8080 app:app
+export PYTHONPATH=/home/ec2-user/distro/:$PYTHONPATH
 
 todo
 ====
