@@ -1,11 +1,29 @@
 
+release process
+====
+merge develop into master
+change to `dev = False` in __init__.py
+test locally
+push changes to master
+
+setup new prod server
+====
+sudo yum install gcc
+sudo yum install openldap-devel
+sudo yum install mysql-devel
+sudo yum install postgresql-devel
+virtualenv venv
+mkdir distro
+mkdir distrodeploy
+newrelic-admin run-program gunicorn -b 0.0.0.0:8080 app:app
+
 todo
 ====
+setup 7parkdata-deploy machine
 consolidate test/prod send functions
-get usergroups working
 split init.py into local, dev/qa, prod
-import qa db into local db
 have different db pws between dev and prod?
+get usergroups working
 
 endpoints
 ====
