@@ -332,6 +332,7 @@ osx
   sysctl -a hw
   cmd+alt+i to get size of selected files
   split view: hold click on green maximize icon of window
+  sudo purge
 
 pdf
   brew install poppler
@@ -389,6 +390,9 @@ pyenv
   env PYTHON_CONFIGURE_OPTS="--enable-framework" pyenv install 3.5.1  # for pyinstaller requiring the library (.dylib)
   pyenv global <version> <version> ...
   pyenv local <version>
+  pyenv local --unset
+  pyenv shell <version>
+  pyenv shell --unset
 
 rails
   bundle install && rake db:migrate && PORT=3000 foreman start
