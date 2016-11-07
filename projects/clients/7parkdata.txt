@@ -1,5 +1,12 @@
 
+ssh 7parkdata
+ps aux | grep -i python
+vim /tmp/supervisord.log
 
+http://54.82.204.54:8080/
+distro-prod-870175581.us-east-1.elb.amazonaws.com
+
+supervisorctl -c /home/ec2-user/distro/supervisor.conf restart gunicorn
 
 sudo killall supervisord
 test client emails: http://127.0.0.1:8080/editInstance?instanceId=797
