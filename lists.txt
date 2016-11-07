@@ -1,11 +1,10 @@
 
-walk willy
-shower
-sell battlefield 1
-videogames
+
+
+pushups
 7parkdata
+freshdirect
 guidepoint
-read
 
 work
   ricochet
@@ -33,3 +32,4 @@ games (ps4)
   dishonored 2 (11/11)
   final fantasy XV (11/29)
   the last guardian (12/06)
+  heavy rain
