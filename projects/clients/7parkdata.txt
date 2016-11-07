@@ -1,12 +1,10 @@
 
-report client views
-look into removing unnecessary opening connections
+
 
 sudo killall supervisord
+test client emails: http://127.0.0.1:8080/editInstance?instanceId=797
 
-new prod ip: 54.82.204.54
-
-run [locally]
+run
 ====
 python distrib/app.py
 
@@ -16,28 +14,6 @@ merge develop into master
 change to `dev = False` in __init__.py
 test locally
 push changes to master
-
-setup new prod server
-====
-sudo yum install gcc
-sudo yum install openldap-devel
-sudo yum install mysql-devel
-sudo yum install postgresql-devel
-virtualenv venv
-mkdir distro
-mkdir distrodeploy
-
-endpoints
-====
-/sendTestReport
-sendTestRpt()
-  sendTestWithMandrill()
-  sendTestWithSendgrid()
-
-/distributeReport
-sendReportsToClients()
-  sendWithMandrill()
-  sendWithSendgrid()
 
 timeline
 ====

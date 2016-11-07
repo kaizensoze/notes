@@ -11,11 +11,11 @@ work
   revisit collaborative prototyping site idea
 
 tv
-  Westworld S01E06
-  Last Week Tonight S03E29
-  South Park S20E07 (11/09)
-  Corner Gas
   Lie to Me S01E01
+  South Park S20E07 (11/09)
+  Westworld S01E07 (11/13)
+  Last Week Tonight S03E30 (11/13)
+  Corner Gas
 
 movies
   Hacksaw Ridge
