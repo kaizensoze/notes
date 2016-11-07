@@ -41,5 +41,22 @@ login: joe:DRUCKCZXPdiiPeHXcVKKyJxNDpYs36
 
 hours
 ====
-11/07/16: [11:00 - ] ()
-  * 
+11/07/16: [11:00 - 18:30] (7.5)
+  * kill supervisor before starting
+  * use full path for supervisord conf file
+  * change back app.py and wsgi.py
+  * only update report instance's status and lastmodified on send final
+  * Show list of client emails in edit report instance form
+  * add kaizensoze (Joe Gallo) to pullapprove list
+  * move client emails table to above send final button
+  * update readme for prod server setup
+  * change supervisor config path in deploy script
+  * have flask debug flag based on dev env variable
+  * have supervisor restart gunicorn
+  * use more general supervisor reload over restart
+  * clean up database connections in email.py
+  * load app config variables from settings file
+  * disable SQLALCHEMY_TRACK_MODIFICATIONS
+  * move client emails to a modal
+
+11/08/16: [] ()
