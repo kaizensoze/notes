@@ -1,9 +1,14 @@
 
+report client views
 look into removing unnecessary opening connections
 
 sudo killall supervisord
 
 new prod ip: 54.82.204.54
+
+run [locally]
+====
+python distrib/app.py
 
 release process
 ====
@@ -53,44 +58,5 @@ login: joe:DRUCKCZXPdiiPeHXcVKKyJxNDpYs36
 
 hours
 ====
-10/31/16: [12:00 - 18:30] (6.5)
-  * phone call + join.me going over setup/code
-  * go through code
-  * get setup on local
-  * add local setup instructions to README
-  * add python version file for pyenv
-  * ignore compiled python files
-  * git ignore jetbrains stuff
-  * add some virtualenv paths to ignore
-  * remove already committed compiled python files
-  * remove Uploads folder
-  * get rid of instanceactivity
-  * organize init.py
-  * add full db uri for convenience
-  * consolidate redshift config info
-  * consolidate timeline token config
-  * move aws/s3 config to init.py
-  
-11/01/16: [10:30 - 17:30, 18:30 - 19:30] (8)
-  * prevent getReportStats 500 error if sendgrid fails
-  * use enums for email providers
-  * add email provider dropdown directly in config table
-  * rename Config to Settings in nav
-  * swap Settings and Log in nav
-  * progress on adding post to timeline
-
-11/02/16: [10:00 - 13:30] (3.5)
-  * intermediate permissions refactor
-  * format sql queries
-  * small whitespace changes
-  * rearrange send functions
-  * make client email bcc optional
-  
-11/03/16: [18:00 - 20:00] (2)
-  * add post to timeline on final send
-
-11/04/16: [10:30 - 12:30, 13:30 - 17:30] (6)
-  * go through prod server setup
-  * add supervisor config to codedeploy appspec
-  * have a single entry point for the app
-  * consolidate test send functions
+11/07/16: [11:00 - ] ()
+  * 
