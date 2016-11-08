@@ -459,6 +459,11 @@ ssh-keygen
 strace
   (prefix command with strace; e.g. strace python blah.py)
 
+supervisor
+  supervisord -c <config>
+  supervisorctl -c <config> reload
+  supervisorctl -c <config> restart gunicorn
+
 tcpdump
   sudo tcpdump -nS
   sudo tcpdump -nnvvS

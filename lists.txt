@@ -9,7 +9,10 @@ work
   revisit collaborative prototyping site idea
 
 tv
-  Lie to Me S01E01
+  netflix
+    Glitch
+    Planet Earth
+    Lie to Me S01E01
   South Park S20E07 (11/09)
   Westworld S01E07 (11/13)
   Last Week Tonight S03E30 (11/13)
