@@ -1,19 +1,5 @@
 
-advancednav: ('ben','catherine','mike','brian','daniel')
-updateappsettings: ('ben','catherine','mike','daehan','daniel')
-editreports: ('catherine','mike','daehan','daniel')
-sendfinal: ('ben','byrne','catherine','mike')
-editweeklysentreports: ('mike','ben','catherine')
-edithistoricalreports: ('mike','ben','catherine')
-distributereport: ('catherine','ben','mike')
-addreporttemplate: ('ben', 'mike', 'catherine', 'daniel', 'daehan')
-addreport: ('ben','mike','catherine','daniel','daehan')
 
-ADMIN_USERS=('ben', 'catherine', 'joe', 'mike')
-SUPER_USERS=('ben', 'catherine', 'daehan', 'daniel', 'joe', 'mike')
-
-distro-admin
-distro-superuser
 
 ssh 7parkdata
 ps aux | grep -i python
