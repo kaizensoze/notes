@@ -1,4 +1,8 @@
 
+close cursor to avoid mysql error:
+
+Exception _mysql_exceptions.OperationalError: (2013, 'Lost connection to MySQL server during query') in <bound method Cursor.__del__ of <MySQLdb.cursors.Cursor object at 0x104454a10>> ignored
+
 test edit report definition
 ====
 http://localhost:8080/editReport?reportId=37
@@ -72,10 +76,12 @@ hours
   * use usergroups in user table for permissions
   * change timeline post offset to -5 hours
   
-11/09/16: [10:00 - 11:00, 13:20 - ] ()
+11/09/16: [10:00 - 11:00, 13:30 - 18:00, ] ()
   * prod build
   * add commented out supervisor command in deploy script
   * add some spacing btwn tables on report def page
   * some template cleanup
   * create distrolist table in mysql dev database
+  * use mysql db for reports in dev environment
+  * close cursor object to avoid mysql exception
   * 
