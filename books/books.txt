@@ -83,7 +83,6 @@ Mr. Midshipman Hornblower, C. S. Forester
 Napoleon the Great, Andrew Roberts
 Nations on the Take, Wendell Potter
 Networks of New York, Ingrid Burrington
-NOS4A2, Joe Hill
 Notes From Underground, Fyodor Dostoyevsky
 Notorious RBG, Irin Carmon
 Not Without Peril, Nicholas Howe
@@ -435,3 +434,4 @@ The Secret History, Donna Tartt [x]
 Dark Territory: The Secret History of Cyber War, Fred Kaplan
 Harry Potter and the Cursed Child, J.K. Rowling
 Girl in a Band, Kim Gordon [x]
+NOS4A2, Joe Hill [x]
