@@ -35,7 +35,6 @@ Cypherpunks: Freedom and the Future of the Internet, Julian Assange
 Daring Greatly, Brené Brown
 Dark Money, Jane Mayer
 David Copperfield, Charles Dickens
-De humani corporis fabrica, Andreas Vesalius
 Discworld, Terry Pratchett
 Doctor Sleep, Stephen King
 Don Quixote, Miguel de Cervantes
@@ -97,7 +96,6 @@ Perdido Street Station, China Mieville
 Philosophy in the Bedroom, Marquis de Sade
 Plague Dogs, Richard Adams
 Player Piano, Kurt Vonnegut
-Please Kill Me, Legs McNeil
 Portnoy's Complaint, Philip Roth
 Rabid: A Cultural History of the World's Most Diabolical Virus, Bill Wasik
 Reamde, Neal Stephenson
@@ -152,7 +150,6 @@ The Good Earth, Pearl S. Buck
 The Good Soldiers, David Finkel
 The Great Bridge, David McCullough
 The Greater Journey, David McCullough
-The Illustrations from the Works of Andreas Vesalius
 The Immortal Life of Henrietta Lacks, Rebecca Skloot
 The Intelligent Investor, Benjamin Graham
 The Journalist and the Murderer, Janet Malcolm

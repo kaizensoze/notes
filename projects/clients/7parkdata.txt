@@ -5,6 +5,10 @@ ssh 7parkdata
 ps aux | grep -i python
 vim /tmp/supervisord.log
 
+
+reporting.7parkdata.com
+
+
 http://54.82.204.54:8080/
 distro-prod-870175581.us-east-1.elb.amazonaws.com
 
@@ -65,5 +69,6 @@ hours
   * use usergroups in user table for permissions
   * change timeline post offset to -5 hours
   
-11/09/16: [] ()
+11/09/16: [10:00 - ] ()
+  * prod build
   * 
