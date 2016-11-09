@@ -3,17 +3,6 @@ test edit report definition
 ====
 http://localhost:8080/editReport?reportId=37
 
-
-CREATE TABLE `distrolist` (
-  `entrydate` date,
-  `dataset` varchar(1000),
-  `reportname` varchar(1000),
-  `fundname` varchar(1000),
-  `email` varchar(1000)
-);
-
-change rsconn to conn
-
 check for (15 in project for distro-analyst usergroup
 clean up root level files
 
