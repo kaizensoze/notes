@@ -1,4 +1,21 @@
 
+test edit report definition
+====
+http://localhost:8080/editReport?reportId=37
+
+
+CREATE TABLE `distrolist` (
+  `entrydate` date,
+  `dataset` varchar(1000),
+  `reportname` varchar(1000),
+  `fundname` varchar(1000),
+  `email` varchar(1000)
+);
+
+change rsconn to conn
+
+check for (15 in project for distro-analyst usergroup
+clean up root level files
 
 prod server
 ====
@@ -66,7 +83,10 @@ hours
   * use usergroups in user table for permissions
   * change timeline post offset to -5 hours
   
-11/09/16: [10:00 - ] ()
+11/09/16: [10:00 - 11:00, 13:20 - ] ()
   * prod build
   * add commented out supervisor command in deploy script
+  * add some spacing btwn tables on report def page
+  * some template cleanup
+  * create distrolist table in mysql dev database
   * 
