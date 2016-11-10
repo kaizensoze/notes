@@ -1,9 +1,9 @@
 
-food
-7parkdata
+fix karabiner keyboard speed
+configure atom
+get vim working
 choose healthcare for 2017
-setup new laptop
-
+7parkdata
 guidepoint
 check livia's stuff in storage
 look into setting up tent
