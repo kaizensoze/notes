@@ -1,10 +1,13 @@
 
+message.set_from('7Park Data <data@7parkdata.com>')
+message.add_to('7Park Data <data@7parkdata.com>')
+
+update readme with db install commands
+clean up root level files
+
 test edit report definition
 ====
 http://localhost:8080/editReport?reportId=37
-
-check for (15 in project for distro-analyst usergroup
-clean up root level files
 
 prod server
 ====
@@ -71,7 +74,7 @@ hours
   * disable button if no client emails
   * use usergroups in user table for permissions
   * change timeline post offset to -5 hours
-  
+
 11/09/16: [10:00 - 11:00, 13:30 - 18:00, 19:00 - 19:30] (6)
   * prod build
   * add commented out supervisor command in deploy script

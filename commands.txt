@@ -1,7 +1,7 @@
 
 ack
   ack -i <pattern>
-  
+
 ag (silver searcher; ack clone)
   ag -i <pattern>
 
@@ -174,7 +174,7 @@ git
   git branch --track fork-master kaizensoze/master  # having multiple local master branches from different remotes
   git diff [-R] > patch-name.diff
   git apply pack-name.diff
-  git log -L 444,447 lib/routes.json
+  git log -L 444,+10:lib/routes.json  # get history of range of lines in file
 
 github
   curl -u kaizensoze:<token> https://api.github.com/rate_limit
@@ -362,7 +362,7 @@ postgres
 
   create database nooklyn_test with template nooklyn owner joegallo;
   select table_name from information_schema.columns where column_name like 'mate_post_id';
-  
+
   pg_restore --verbose --clean --no-acl --no-owner -h localhost -U joegallo -d nooklyn ~/Downloads/latest.dump  # import dump into existing database
   pg_dump -U joegallo nooklyn -f ~/Downloads/nooklyn.sql
   pg_restore -d newdb db.dump
@@ -370,7 +370,7 @@ postgres
 
   pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start  # start
   pg_ctl -D /usr/local/var/postgres stop -s -m fast  # stop
-  
+
   use case statement for switch for column
   use <datetime>::text like ''
   select generate_series('2012-10-01', '2012-10-31', '1 day'::interval) as ts  # get every day in a given month

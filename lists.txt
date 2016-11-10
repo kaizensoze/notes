@@ -1,9 +1,7 @@
 
-fix karabiner keyboard speed
-configure atom
-get vim working
-choose healthcare for 2017
+get messages working
 7parkdata
+choose healthcare for 2017
 guidepoint
 check livia's stuff in storage
 look into setting up tent
