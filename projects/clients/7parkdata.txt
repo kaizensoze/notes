@@ -1,13 +1,6 @@
 
-message.set_from('7Park Data <data@7parkdata.com>')
-message.add_to('7Park Data <data@7parkdata.com>')
-
-update readme with db install commands
-clean up root level files
-
-test edit report definition
-====
-http://localhost:8080/editReport?reportId=37
+CPRT 10/31
+instanceid: 7045
 
 prod server
 ====
@@ -27,6 +20,10 @@ release process
 ====
 merge develop into master
 push changes to master
+
+test edit report definition
+====
+http://localhost:8080/editReport?reportId=37
 
 test client emails
 ====
@@ -85,4 +82,9 @@ hours
   * close cursor object to avoid mysql exception
   * add distro-analyst usergroup permissions
 
-11/10/16: [] ()
+11/10/16: [10:00 - ] ()
+  * have send final send from/to data@7parkdata.com
+  * show client emails before send final
+  * add osx install mysql/postgres commands to readme
+  * add some helper notes to send functions
+  * log client emails on final send

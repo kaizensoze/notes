@@ -1,4 +1,6 @@
 
+install little snitch
+install objective see stuff
 get messages working
 7parkdata
 choose healthcare for 2017
