@@ -91,6 +91,7 @@ hours
   * look into some reports not getting to clients (google docs to db sync issue)
   * progress on report templates view
 
-11/11/16: [09:00 - ] ()
+11/11/16: [09:00 - 14:00] ()
   * report templates view
+  * move prod/test email from/to to app settings (decided against it after implementing)
   
