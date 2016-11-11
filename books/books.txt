@@ -104,7 +104,6 @@ Revenge of the Kremlin, Gérard de Villiers
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
 Seveneves, Neal Stephenson
-Sexus, Henry Miller
 Silence on the Wire, Michael Zalewski
 Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
@@ -432,3 +431,4 @@ Dark Territory: The Secret History of Cyber War, Fred Kaplan
 Harry Potter and the Cursed Child, J.K. Rowling
 Girl in a Band, Kim Gordon [x]
 NOS4A2, Joe Hill [x]
+Sexus, Henry Miller [x]
