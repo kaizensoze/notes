@@ -1,0 +1,4 @@
+for each repo
+  record languages used
+  average time for PR to be merged [in past 30 days]
+  average time for issue to be commented on [in past 30 days]
