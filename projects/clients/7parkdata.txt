@@ -1,6 +1,5 @@
 
-CPRT 10/31
-instanceid: 7045
+alvin_index_etsy
 
 prod server
 ====
@@ -82,9 +81,16 @@ hours
   * close cursor object to avoid mysql exception
   * add distro-analyst usergroup permissions
 
-11/10/16: [10:00 - ] ()
+11/10/16: [10:00 - 12:30, 15:00 - 19:00] (6.5)
   * have send final send from/to data@7parkdata.com
   * show client emails before send final
   * add osx install mysql/postgres commands to readme
   * add some helper notes to send functions
   * log client emails on final send
+  * move some top level files into wiki
+  * look into some reports not getting to clients (google docs to db sync issue)
+  * progress on report templates view
+
+11/11/16: [] ()
+  * 
+  
