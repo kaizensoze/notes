@@ -16,9 +16,9 @@ tv
   netflix
     Planet Earth
     Lie to Me S01E02
-  South Park S20E07
   Westworld S01E07 (11/13)
   Last Week Tonight S03E30 (11/13)
+  South Park S20E07 (11/16)
   Corner Gas
   Futurama
   Simpsons
@@ -26,6 +26,7 @@ tv
   Friends
 
 movies
+  Arrival
   Hacksaw Ridge
   Gimme Danger
   Oasis: Supersonic
@@ -33,7 +34,7 @@ movies
   Don't Think Twice (12/06)
 
 games (ps4)
-  dishonored 2 (11/11)
+  dishonored 2
   final fantasy XV (11/29)
   the last guardian (12/06)
   indigo prophecy

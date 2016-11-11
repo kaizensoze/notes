@@ -176,3 +176,6 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 2016-11-07:
   pushups: 50
   planks: 1:20
+  
+2016-11-11:
+  pushups: 50
