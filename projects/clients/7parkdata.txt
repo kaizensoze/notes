@@ -1,5 +1,5 @@
 
-alvin_index_etsy
+
 
 prod server
 ====
@@ -91,6 +91,6 @@ hours
   * look into some reports not getting to clients (google docs to db sync issue)
   * progress on report templates view
 
-11/11/16: [] ()
-  * 
+11/11/16: [09:00 - ] ()
+  * report templates view
   

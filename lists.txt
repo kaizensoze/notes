@@ -11,6 +11,7 @@ work
   decox
   collaborative free draw with cheap tablet pad (research existing solutions)
   revisit collaborative prototyping site idea
+  grading open source projects (github repos)
 
 tv
   netflix
