@@ -4,6 +4,7 @@ planet earth
 check livia's stuff in storage
 
 work
+  compare swift web frameworks (perfect, vapor, kitura)
   ricochet
   grading open source projects (github repos)
   hackrf
