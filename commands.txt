@@ -253,7 +253,8 @@ laravel
   php artisan serve
 
 launchctl
-
+  sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.atrun.plist
+  sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.atrun.plist
 
 letsencrypt
   ./certbot-auto renew

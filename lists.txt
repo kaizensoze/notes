@@ -1,20 +1,16 @@
 
 planet earth
-choose healthcare for 2017
 guidepoint
-github repo grading
-
 check livia's stuff in storage
-look into setting up tent
 
 work
   performance test comparing vapor (swift) and martini (go)
   ricochet
+  grading open source projects (github repos)
   hackrf
   decox
   collaborative free draw with cheap tablet pad (research existing solutions)
   revisit collaborative prototyping site idea
-  grading open source projects (github repos)
 
 tv
   netflix
