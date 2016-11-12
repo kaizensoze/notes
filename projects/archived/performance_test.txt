@@ -1,3 +1,76 @@
+updated test with $5 digitalocean server (ubuntu 16.04.1 x64)
+
+swift (vapor)
+===
+apt-get install -y aptitude libcurl4-openssl-dev siege
+apt-get update && apt-get upgrade -y && apt-get autoremove -y
+curl -sL swift.vapor.sh/ubuntu | bash
+logout and back in
+curl -sL check.vapor.sh | bash
+curl -sL toolbox.vapor.sh | bash
+vapor --help
+vapor self update
+vapor new Hello
+vim Sources/App/main.swift
+```
+drop.get("hello") { request in
+    return "Hello, world!"
+}
+```
+vapor build
+vapor run serve &
+162.243.187.168:8080/hello
+siege -c200 -b -t1M 162.243.187.168:8080/hello
+====
+Transactions:		       55992 hits
+Availability:		      100.00 %
+Elapsed time:		       59.50 secs
+Data transferred:	        0.69 MB
+Response time:		        0.21 secs
+Transaction rate:	      941.04 trans/sec
+Throughput:		        0.01 MB/sec
+Concurrency:		      199.46
+Successful transactions:       55992
+Failed transactions:	           0
+Longest transaction:	        0.54
+Shortest transaction:	        0.01
+====
+
+go (revel)
+====
+apt-get install -y aptitude siege
+apt-get update && apt-get upgrade -y && apt-get autoremove -y
+add-apt-repository ppa:ubuntu-lxc/lxd-stable
+apt-get update -y
+apt-get install golang -y
+mkdir ~/gocode
+export GOPATH=~/gocode
+echo export GOPATH=$GOPATH >> ~/.bash_profile
+go get github.com/revel/revel
+go get github.com/revel/cmd/revel
+export PATH="$PATH:$GOPATH/bin"
+revel help
+cd $GOPATH
+revel new myapp
+edit app/controllers/app.go to RenderText("Hello world!")
+revel run myapp &
+162.243.187.168:9000
+siege -c200 -b -t1M 162.243.187.168:9000
+====
+Transactions:		       42606 hits
+Availability:		      100.00 %
+Elapsed time:		       59.34 secs
+Data transferred:	        0.49 MB
+Response time:		        0.28 secs
+Transaction rate:	      718.00 trans/sec
+Throughput:		        0.01 MB/sec
+Concurrency:		      198.59
+Successful transactions:       42606
+Failed transactions:	           0
+Longest transaction:	        1.79
+Shortest transaction:	        0.00
+====
+
 cpus
   digitalocean: Intel(R) Xeon(R) CPU E5-2650L v3 @ 1.80GHz
   linode (kvm): Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz

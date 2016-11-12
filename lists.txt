@@ -1,10 +1,10 @@
 
 planet earth
-guidepoint
+performance test comparing vapor (swift) and revel (go)
+
 check livia's stuff in storage
 
 work
-  performance test comparing vapor (swift) and martini (go)
   ricochet
   grading open source projects (github repos)
   hackrf

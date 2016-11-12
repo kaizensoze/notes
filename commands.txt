@@ -426,6 +426,7 @@ screen
 
 siege
   siege -c200 -b -t3M -i -f urls.txt
+  siege -c200 -b -t3M 162.243.187.168:8080/hello
 
 smc
   ./smc -l | grep 'F0ID'
