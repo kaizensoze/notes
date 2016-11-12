@@ -1,6 +1,5 @@
 
 planet earth
-performance test comparing vapor (swift) and revel (go)
 
 check livia's stuff in storage
 
