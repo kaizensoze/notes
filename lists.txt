@@ -8,6 +8,7 @@ check livia's stuff in storage
 look into setting up tent
 
 work
+  performance test comparing vapor (swift) and martini (go)
   ricochet
   hackrf
   decox
@@ -27,6 +28,7 @@ tv
   Simpsons
   Seinfeld
   Friends
+  Serial (podcast)
 
 movies
   Arrival

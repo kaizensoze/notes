@@ -1,3 +1,4 @@
+A Thousand Naked Strangers, Kevin Hazzard
 Against All Enemies, Richard Clarke
 Alexander Hamilton, Ron Chernow
 Algorithms to Live By, Brian Christian
@@ -103,6 +104,7 @@ Rendezvous with Rama, Arthur C Clarke
 Revenge of the Kremlin, Gérard de Villiers
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
+Seinfeldia, Jennifer Armstrong
 Seveneves, Neal Stephenson
 Silence on the Wire, Michael Zalewski
 Solaris, Ray Bradbury
@@ -184,7 +186,9 @@ The Stand, Stephen King
 The Tales of Beedle the Bard, J.K. Rowling
 The Technology of Orgasm, Rachel Maines
 The Three-Body Problem, Liu Cixin
+The Trespasser, Tana French
 The Trouble With Testosterone, Robert Sapolsky
+The View from the Cheap Seats, Neil Gaiman
 The Vital Question, Nick Lane
 The WikiLeaks Files: The World According to US Empire, Julian Assange
 The Wise Men, Walter Isaacson
