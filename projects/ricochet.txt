@@ -3,7 +3,7 @@
 setup
   git clone https://github.com/ricochet-im/ricochet.git
   cd ricochet
-  brew install protobuf qt5
+  brew install protobuf qt5 tor
   /usr/local/opt/qt5/bin/qmake OPENSSLDIR=/usr/local/opt/openssl/ CONFIG+=debug
   make
   ./ricochet.app/Contents/MacOS/ricochet
