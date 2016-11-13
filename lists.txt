@@ -1,6 +1,9 @@
 
-planet earth
-
+ricochet ticket
+compare swift web frameworks (perfect, vapor, kitura)
+read book
+westworld
+last week tonight
 check livia's stuff in storage
 
 work
@@ -13,17 +16,14 @@ work
   revisit collaborative prototyping site idea
 
 tv
-  netflix
-    Planet Earth
-    Lie to Me S01E02
-  Westworld S01E07 (11/13)
-  Last Week Tonight S03E30 (11/13)
+  Westworld S01E07
+  Last Week Tonight S03E30
+  Planet Earth S02E02
+  Lie to Me S01E02
   South Park S20E07 (11/16)
+  Mysteries of the Unseen World
   Corner Gas
   Futurama
-  Simpsons
-  Seinfeld
-  Friends
   Serial (podcast)
 
 movies
@@ -35,9 +35,8 @@ movies
   Don't Think Twice (12/06)
 
 games (ps4)
-  dishonored 2
   final fantasy XV (11/29)
   the last guardian (12/06)
-  indigo prophecy
-  heavy rain
-  fallout 4
+  overwatch
+  axiom verge
+  life is strange
