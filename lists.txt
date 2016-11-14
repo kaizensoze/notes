@@ -17,11 +17,9 @@ tv
   Serial (podcast)
 
 movies
-  Beats, Rhymes & Life
   Arrival
   Hacksaw Ridge
   Gimme Danger
-  Oasis: Supersonic
   Traceroute
   Don't Think Twice (12/06)
 
