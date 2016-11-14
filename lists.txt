@@ -1,17 +1,10 @@
 
-ricochet ticket
-compare swift web frameworks (perfect, vapor, kitura)
-read book
-westworld
-last week tonight
 check livia's stuff in storage
 
 work
   compare swift web frameworks (perfect, vapor, kitura)
-  ricochet
   grading open source projects (github repos)
   hackrf
-  decox
   collaborative free draw with cheap tablet pad (research existing solutions)
   revisit collaborative prototyping site idea
 

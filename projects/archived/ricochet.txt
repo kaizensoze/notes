@@ -1,5 +1,4 @@
 
-
 setup
   git clone https://github.com/ricochet-im/ricochet.git
   cd ricochet
@@ -7,4 +6,3 @@ setup
   /usr/local/opt/qt5/bin/qmake OPENSSLDIR=/usr/local/opt/openssl/ CONFIG+=debug
   make
   ./ricochet.app/Contents/MacOS/ricochet
-  
