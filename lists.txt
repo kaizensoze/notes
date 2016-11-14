@@ -5,21 +5,20 @@ work
   compare swift web frameworks (perfect, vapor, kitura)
   grading open source projects (github repos)
   hackrf
-  collaborative free draw with cheap tablet pad (research existing solutions)
   revisit collaborative prototyping site idea
 
 tv
-  Westworld S01E07
-  Last Week Tonight S03E30
   Planet Earth S02E02
+  Mysteries of the Unseen World
   Lie to Me S01E02
   South Park S20E07 (11/16)
-  Mysteries of the Unseen World
+  Westworld S01E08 (11/20)
   Corner Gas
   Futurama
   Serial (podcast)
 
 movies
+  Beats, Rhymes & Life
   Arrival
   Hacksaw Ridge
   Gimme Danger
