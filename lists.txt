@@ -3,6 +3,7 @@ check livia's stuff in storage
 
 work
   compare swift web frameworks (perfect, vapor, kitura)
+  associate open editor tabs with git branch?
   grading open source projects (github repos)
   hackrf
   revisit collaborative prototyping site idea
