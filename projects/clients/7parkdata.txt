@@ -54,5 +54,5 @@ hours
   * dig into report builder code
   * have call about report builder
   * add currently set email provider to editInstance view
-  * look into reportrunners repo
+  * dig into reportrunners repo
   
