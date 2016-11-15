@@ -1,5 +1,5 @@
 
-find cli vpn that works
+
 
 * Each individual Advisor page should have buttons on the bottom.
     Accepted Advisor page should have following buttons: "Send to Client”, "Select Advisor”, "Schedule Call”
