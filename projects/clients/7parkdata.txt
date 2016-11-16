@@ -49,13 +49,5 @@ login: joe:DRUCKCZXPdiiPeHXcVKKyJxNDpYs36
 
 hours
 ====
-11/15/16: [10:00 - 13:30, 14:20 - 14:50, 16:30 - 17:00] (4.5)
-  * call
-  * update permissions wiki page
-  * have bcc'ed emails show with to: <To field>
-  * dig into report builder code
-  * have call about report builder
-  * add currently set email provider to editInstance view
-  * dig into reportrunners repo
-  * fix update report definition permissions logic
-  * report templates demo
+11/16/16: [11:00 - ] ()
+  * 
