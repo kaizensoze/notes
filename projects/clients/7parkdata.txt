@@ -1,6 +1,5 @@
 
-add columns to reports table
-  checkbox to also create report instances
+
 
 prod server
 ====
@@ -46,6 +45,8 @@ reportinstance
 
 hours
 ====
-11/16/16: [11:00 - 11:30, ] ()
+11/16/16: [11:00 - 16:00] ()
   * add client emails column to reports table in report templates view
+  * add create instance checkbox to reports table in report templates view
+  * create report instances before queueing report regen
   * 
