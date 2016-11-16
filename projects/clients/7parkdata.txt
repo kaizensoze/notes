@@ -1,6 +1,5 @@
 
 add columns to reports table
-  # client emails [associated with report] (see rsdistro table)
   checkbox to also create report instances
 
 prod server
@@ -43,11 +42,10 @@ report/rpt
 caveats
 ====
 reportinstance
-  report_id is really instance_id
-  report__id is report id
-login: joe:DRUCKCZXPdiiPeHXcVKKyJxNDpYs36
+  report_id is instance id (report__id is report id)
 
 hours
 ====
-11/16/16: [11:00 - ] ()
+11/16/16: [11:00 - 11:30, ] ()
+  * add client emails column to reports table in report templates view
   * 
