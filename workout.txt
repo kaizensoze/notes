@@ -183,3 +183,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 2016-11-15:
   finger pullups: 8
   planks: 01:30
+
+2016-11-16:
+  finger pullups: 8
+  
