@@ -45,8 +45,7 @@ reportinstance
 
 hours
 ====
-11/16/16: [11:00 - 16:00] ()
-  * add client emails column to reports table in report templates view
-  * add create instance checkbox to reports table in report templates view
-  * create report instances before queueing report regen
+11/17/16: [] ()
+  * further test and merge in create report instances changes
+  * add gunicorn logging
   * 
