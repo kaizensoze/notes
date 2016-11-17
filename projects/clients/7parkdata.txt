@@ -1,6 +1,6 @@
 
-work on mapping sql query to excel
-revamp rb report scheduling
+http://127.0.0.1:8080/editInstance?instanceId=773  # no writeup (missing download link though)
+http://127.0.0.1:8080/editInstance?instanceId=778  # writeup
 
 prod server
 ====
@@ -46,8 +46,11 @@ reportinstance
 
 hours
 ====
-11/17/16: [10:00 - 11:30] ()
+11/17/16: [10:00 - 11:30, 12:30 - 14:30, 14:45 - ] ()
   * further test and merge in create report instances changes
   * add gunicorn logging
   * call discussing next steps
+  * restrict add/edit rb report to superuser
+  * some report builder cleanup
+  * call to go over project timeline
   * 
