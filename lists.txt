@@ -1,10 +1,6 @@
 
-shower
-walk willy
-buy dog bed
+get vpn for guidepoint working
 check livia's stuff in storage
-engineering blogs
-camsoda/blowcast?
 
 work
   compare swift web frameworks (perfect, vapor, kitura)
@@ -23,8 +19,8 @@ tv
   Serial (podcast)
 
 movies
+  Fantastic Beasts
   Arrival
-  Hacksaw Ridge
   Gimme Danger
   Traceroute
   Don't Think Twice (12/06)
