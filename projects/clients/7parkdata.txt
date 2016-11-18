@@ -1,23 +1,18 @@
 
-test addPostToTimeline for report with no writeup
-11: do a release
-query to table prototype
 
-http://127.0.0.1:8080/editInstance?instanceId=781  # no writeup
-http://127.0.0.1:8080/editInstance?instanceId=778  # writeup
 
 prod server
 ====
+http://reporting.7parkdata.com/ (http://54.82.204.54:8080/)
 ssh 7parkdata
 ps aux | grep -i python
 vim /tmp/supervisord.log
 
-http://54.82.204.54:8080/
-reporting.7parkdata.com
-distro-prod-870175581.us-east-1.elb.amazonaws.com (52.70.96.12)
-
 run (local)
 ====
+export PROD_CONFIG=/Users/joegallo/dev/7parkdata/distro/distrib/settings_prod.py (optional)
+unset PROD_CONFIG
+echo $PROD_CONFIG
 python distrib/app.py
 
 release process
@@ -33,8 +28,10 @@ test client emails
 ====
 http://127.0.0.1:8080/editInstance?instanceId=797
 
-timeline
+test addPostToTimeline
 ====
+http://127.0.0.1:8080/editInstance?instanceId=781  # no writeup
+http://127.0.0.1:8080/editInstance?instanceId=778  # writeup
 http http://avenue-api.7parkdata.com/v2/timeline/posts "Authorization:Token 452ae83a7c4cae52afb40cb1ce5254def5a1e19b"
 
 3 main groups of tables
@@ -45,11 +42,10 @@ report/rpt
 
 caveats
 ====
-reportinstance
-  report_id is instance id (report__id is report id)
+reportinstance.report_id is instance id (report__id is report id)
+reportdefinitions.report_id is report definition id
 
 hours
 ====
-11/18/16: [10:00 - ] ()
-  * do more testing of addPostToTimeline for report with no writeup (instanceid=781)
+11/21/16: [] ()
   * 
