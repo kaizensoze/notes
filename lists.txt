@@ -1,5 +1,5 @@
 
-get vpn for guidepoint working
+guidepoint
 check livia's stuff in storage
 
 work
