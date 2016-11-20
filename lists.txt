@@ -2,7 +2,6 @@
 check livia's stuff in storage
 
 work
-  compare swift web frameworks (perfect, vapor, kitura)
   associate open editor tabs with git branch?
   grading open source projects (github repos)
   hackrf
@@ -18,15 +17,14 @@ tv
   Serial (podcast)
 
 movies
-  Fantastic Beasts
   Arrival
+  Fantastic Beasts
   Gimme Danger
   Traceroute
   Don't Think Twice (12/06)
 
 games (ps4)
+  the evil within
+  life is strange
   final fantasy XV (11/29)
   the last guardian (12/06)
-  overwatch
-  axiom verge
-  life is strange

@@ -1,7 +1,12 @@
 swift web framework comparison
 ====
-TODO: wrk -d 10 -t 4 -c 8 http://localhost:8090/plaintext
-
+perfect: 3628.17 req/sec
+kitura:  3428.79 req/sec
+vapor:   1179.77 req/sec
+    
+wrk -d 10 -t 4 -c 8 http://45.55.128.153:8090/
+wrk -d 10 -t 4 -c 8 http://45.55.128.153:8080/hello
+wrk -d 10 -t 4 -c 8 http://45.55.128.153:8181
 
 updated swift vs go test with $5 digitalocean server (ubuntu 16.04.1 x64)
 ====
