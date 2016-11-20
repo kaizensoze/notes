@@ -1,11 +1,12 @@
 
 check livia's stuff in storage
+schedule checkup for louie on 12/03
 
 work
-  associate open editor tabs with git branch?
   grading open source projects (github repos)
-  hackrf
   revisit collaborative prototyping site idea
+  associate open editor tabs with git branch?
+  hackrf
 
 tv
   Westworld S01E08 (11/20)
@@ -17,7 +18,6 @@ tv
   Serial (podcast)
 
 movies
-  Arrival
   Fantastic Beasts
   Gimme Danger
   Traceroute
