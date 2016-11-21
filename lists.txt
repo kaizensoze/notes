@@ -9,8 +9,8 @@ work
   hackrf
 
 tv
-  Westworld S01E08
   South Park S20E09 (11/23)
+  Westworld S01E09 (11/27)
   Lie to Me S01E03
   Planet Earth S02E02
   Corner Gas
