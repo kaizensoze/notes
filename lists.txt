@@ -9,7 +9,7 @@ work
   hackrf
 
 tv
-  Westworld S01E08 (11/20)
+  Westworld S01E08
   South Park S20E09 (11/23)
   Lie to Me S01E03
   Planet Earth S02E02
@@ -24,7 +24,6 @@ movies
   Don't Think Twice (12/06)
 
 games (ps4)
-  the evil within
-  life is strange
+  overwatch
   final fantasy XV (11/29)
   the last guardian (12/06)
