@@ -1,5 +1,5 @@
 
-getReportStats
+
 
 kibana
   https://search-sendgridevents-6fwo5scolykj3xpbfg7m476tk4.us-east-1.es.amazonaws.com/_plugin/kibana/?#/discover?_g=(refreshInterval:(display:Off,section:0,value:0),time:(from:now-90d,mode:quick,to:now))&_a=(columns:!(reportsubject,email,event),index:'cwl-*',interval:auto,query:(query_string:(analyze_wildcard:!t,query:'reportinstanceid:%205662%20AND%20event:%20click')),sort:!('@timestamp',desc)) 
@@ -24,10 +24,6 @@ release process
 merge develop into master
 push changes to master
 
-test edit report definition
-====
-http://localhost:8080/editReport?reportId=37
-
 test client emails
 ====
 http://127.0.0.1:8080/editInstance?instanceId=797
@@ -37,6 +33,10 @@ test addPostToTimeline
 http://127.0.0.1:8080/editInstance?instanceId=781  # no writeup
 http://127.0.0.1:8080/editInstance?instanceId=778  # writeup
 http http://avenue-api.7parkdata.com/v2/timeline/posts "Authorization:Token 452ae83a7c4cae52afb40cb1ce5254def5a1e19b"
+
+test edit report definition
+====
+http://localhost:8080/editReport?reportId=37
 
 3 main groups of tables
 ====
@@ -51,10 +51,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-11/21/16: [10:30 - 11:30, 13:00 - 15:30, ] ()
-  * remove postgres references in README
-  * addPostToTimeline adjustments
-  * call to go over some new tickets
-  * include ip in report stats
-  * adjustment for reportStats
+11/22/16: [] ()
   * 
