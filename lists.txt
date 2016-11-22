@@ -1,11 +1,7 @@
 
-buy dog bed
-westworld
-
+ups dropoff, pickup gyro
 schedule checkup for louie on 12/03
-1PM
-  ups dropoff, pickup gyro
-  library
+1PM: library
 check livia's stuff in storage
 
 work
@@ -24,7 +20,6 @@ tv
   Serial (podcast)
 
 movies
-  Fantastic Beasts
   Gimme Danger
   Traceroute
   Don't Think Twice (12/06)
