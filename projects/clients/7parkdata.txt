@@ -1,5 +1,6 @@
 
-
+add scheduling column in templates table?
+scheduling granularity?
 
 kibana
   https://search-sendgridevents-6fwo5scolykj3xpbfg7m476tk4.us-east-1.es.amazonaws.com/_plugin/kibana/?#/discover?_g=(refreshInterval:(display:Off,section:0,value:0),time:(from:now-90d,mode:quick,to:now))&_a=(columns:!(reportsubject,email,event),index:'cwl-*',interval:auto,query:(query_string:(analyze_wildcard:!t,query:'reportinstanceid:%205662%20AND%20event:%20click')),sort:!('@timestamp',desc)) 
@@ -51,5 +52,7 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-11/22/16: [] ()
-  * 
+11/22/16: [11:00 - 12:00] ()
+  * add datepicker to report stats inputs
+  * do some validation for report stats inputs
+  * research best approach for template scheduling ui
