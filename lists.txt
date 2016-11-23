@@ -1,5 +1,5 @@
 
-check livia's stuff in storage
+email pdf of harvest timesheets to maria (hfc)
 
 work
   grading open source projects (github repos)
@@ -8,7 +8,7 @@ work
   hackrf
 
 tv
-  South Park S20E09 (11/23)
+  South Park S20E09
   Westworld S01E09 (11/27)
   Lie to Me S01E03
   Planet Earth S02E02
