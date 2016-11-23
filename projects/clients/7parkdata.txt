@@ -1,11 +1,4 @@
 
-get scheduling inputs on one line each (instead of multiple each)
-start:
-every: day|week|month
-  SMTWTFS (week)
-  calendar (month)
-until: 
-
 ALTER TABLE reporttemplate ADD schedule VARCHAR(255) after name
 
 kibana
