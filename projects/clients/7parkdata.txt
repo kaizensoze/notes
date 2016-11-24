@@ -1,5 +1,5 @@
 
-ALTER TABLE reporttemplate ADD schedule VARCHAR(255) after name
+ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
 
 kibana
   https://search-sendgridevents-6fwo5scolykj3xpbfg7m476tk4.us-east-1.es.amazonaws.com/_plugin/kibana/?#/discover?_g=(refreshInterval:(display:Off,section:0,value:0),time:(from:now-90d,mode:quick,to:now))&_a=(columns:!(reportsubject,email,event),index:'cwl-*',interval:auto,query:(query_string:(analyze_wildcard:!t,query:'reportinstanceid:%205662%20AND%20event:%20click')),sort:!('@timestamp',desc)) 
@@ -51,6 +51,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-11/23/16: [10:30 - ] ()
-  * 
+11/25/16: [] ()
   

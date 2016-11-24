@@ -1,5 +1,5 @@
 
-email pdf of harvest timesheets to maria (hfc)
+
 
 work
   grading open source projects (github repos)
@@ -10,13 +10,15 @@ work
 tv
   South Park S20E09
   Westworld S01E09 (11/27)
+  Planet Earth S02E04 (11/27)
   Lie to Me S01E03
-  Planet Earth S02E02
+  The Jim Gaffigan Show S01E01
   Corner Gas
   Futurama
   Serial (podcast)
 
 movies
+  Waiting
   Gimme Danger
   Traceroute
   Don't Think Twice (12/06)
