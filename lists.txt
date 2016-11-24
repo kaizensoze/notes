@@ -18,7 +18,6 @@ tv
   Serial (podcast)
 
 movies
-  Waiting
   Gimme Danger
   Traceroute
   Don't Think Twice (12/06)
