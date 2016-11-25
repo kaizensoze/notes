@@ -1,5 +1,5 @@
 
-reminder: switch back to voice recorder
+
 
 work
   grading open source projects (github repos)
@@ -8,9 +8,9 @@ work
   hackrf
 
 tv
-  South Park S20E09
   Westworld S01E09 (11/27)
   Planet Earth S02E04 (11/27)
+  South Park S20E09 (11/30)
   Lie to Me S01E03
   The Jim Gaffigan Show S01E01
   Corner Gas
@@ -18,6 +18,14 @@ tv
   Serial (podcast)
 
 movies
+  E-Team
+  Looking for Richard
+  Phoenix
+  The Hunting Ground
+  On the Job
+  The Last of the Unjust
+  Eden
+  The Missing Picture
   Gimme Danger
   Traceroute
   Don't Think Twice (12/06)
