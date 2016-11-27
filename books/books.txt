@@ -25,6 +25,8 @@ Broken Markets, Sal L. Arnuk
 Business@The Speed of Thought, Bill Gates
 Chaos, James Gleick
 Chaos in Kabul, Gérard de Villiers
+Children of the New World, Alexander Weinstein
+City of Dreams, Tyler Anbinder
 Cloud Atlas, David Mitchell
 Confessions of an Economic Hit Man, John Perkins
 Contact, Carl Sagan
@@ -39,11 +41,13 @@ David Copperfield, Charles Dickens
 Discworld, Terry Pratchett
 Doctor Sleep, Stephen King
 Don Quixote, Miguel de Cervantes
+Don't Let My Baby Do Rodeo, Boris Fishman
 Dragonriders of Pern, Anne McCaffrey
 Einstein: His Life and Universe, Walter Isaacson
 End of Watch, Stephen King
 Enemies: A History of the FBI, Tim Weiner
 Exponential Organizations, Salim Ismail
+Everybody's Fool, Richard Russo
 Everything's Eventual, Stephen King
 Fahrenheit 451, Ray Bradbury
 Fermat's Enigma, Simon Singh
@@ -214,6 +218,7 @@ When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 Work Rules!, Laszlo Bock
 World Order, Henry Kissinger
+You'll Grow Out of It, Jessi Klein
 
 DONE
 A Short History of Nearly Everything, Bill Bryson
