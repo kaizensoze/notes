@@ -8,10 +8,10 @@ work
   hackrf
 
 tv
-  Westworld S01E09
   Planet Earth S02E04
   South Park S20E09 (11/30)
-  Lie to Me S01E03
+  Westworld S01E10 (12/04)
+  Lie to Me S01E06
   The Jim Gaffigan Show S01E04
   The Office (UK)
   Corner Gas

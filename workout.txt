@@ -238,7 +238,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   xertube - chest fly (foot): 1x3
   xertube - chest fly (pole): 1x10 # this exercise seems to work shoulder more than chest; discontinue
   cat vomit exercise (20s hold): 5
-  myotatic crunch: 80s, 80s, 80s
+  myotatic crunch: 80s, 80s, 80s, (start doing them correctly?) 20s, 20s, 30s
   
 2016-11-28:
   
