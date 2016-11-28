@@ -1,5 +1,5 @@
 
-
+look into pool table
 
 work
   grading open source projects (github repos)
@@ -8,6 +8,7 @@ work
   hackrf
 
 tv
+  3%
   Planet Earth S02E04
   South Park S20E09 (11/30)
   Westworld S01E10 (12/04)
