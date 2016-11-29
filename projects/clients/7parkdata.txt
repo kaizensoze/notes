@@ -1,4 +1,7 @@
 
+add checkbox to schedule modal to create instances
+get auto function running daily at a certain time
+
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
 
 kibana
@@ -51,5 +54,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-11/28/16: [12:00 - ] ()
+11/29/16: [] ()
   * 
