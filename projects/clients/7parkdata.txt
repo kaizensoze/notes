@@ -1,9 +1,4 @@
 
-create report if not exists
-test for /addReportsToGenerationQueue
-test for /schedule
-merge into dev
-let mike,ben test
 get auto function running daily at a certain time
 
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
@@ -59,4 +54,9 @@ reportdefinitions.report_id is report definition id
 hours
 ====
 11/29/16: [10:30 - ] ()
-  * 
+  * add create instances checkbox to scheduling ui
+  * create reports if needed before creating instances
+  * create report instances in /schedule
+  * look into scheduling permission restrictions
+  * merge scheduling stuff into develop for testing
+  
