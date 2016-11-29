@@ -53,7 +53,7 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-11/29/16: [10:30 - ] ()
+11/29/16: [10:30 - 14:00] ()
   * add create instances checkbox to scheduling ui
   * create reports if needed before creating instances
   * create report instances in /schedule
