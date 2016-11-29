@@ -1,5 +1,9 @@
 
-add checkbox to schedule modal to create instances
+create report if not exists
+test for /addReportsToGenerationQueue
+test for /schedule
+merge into dev
+let mike,ben test
 get auto function running daily at a certain time
 
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
@@ -54,5 +58,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-11/29/16: [] ()
+11/29/16: [10:30 - ] ()
   * 
