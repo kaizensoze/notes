@@ -53,6 +53,6 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-11/30/16: [14:00 - ] ()
-  * meeting to go over data delivery webapp
+12/01/16: [] ()
+  
   
