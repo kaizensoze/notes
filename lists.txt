@@ -1,8 +1,6 @@
 
-catch 7:23 floral park train (gets into penn at 8:09)
-start watching the late show regularly
+take out garbage
 clean carpet
-order pool table
 
 work
   grading open source projects (github repos)
@@ -22,6 +20,7 @@ tv
   Corner Gas
   Futurama
   Serial (podcast)
+  Late Show
 
 movies
   Nocturnal Animals

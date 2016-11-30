@@ -1,5 +1,5 @@
 
-get auto function running daily at a certain time
+
 
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
 
@@ -53,6 +53,6 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-11/30/16: [] ()
-  * 
+11/30/16: [14:00 - ] ()
+  * meeting to go over data delivery webapp
   
