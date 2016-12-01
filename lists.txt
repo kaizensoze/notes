@@ -1,6 +1,5 @@
 
-walk willy
-github
+
 
 work
   grading open source projects (github repos)
