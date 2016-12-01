@@ -1,4 +1,12 @@
 
+optimal workout
+  lower abs: lying leg raise
+  upper abs: myotatic crunch
+  chest: pec fly (machine), chest resistance band stretch
+  shoulders: pushups
+  forearms: finger pullups
+  triceps: floor press
+
 2015-03-02:
   the rock club
     4 V0, 3 V1, 3 V2
@@ -262,7 +270,9 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   lying leg raise (10s/notch): 1x4
   myotatic crunch: 2x60
   chest resistance band stretch: 10
-  lying leg raise (10s/notch): 1x5
+  lying leg raise (10s/notch): 1x5 (notches)
   
 2016-12-01:
+  lying leg raise (10s/notch): 1x8 (from now on make sure legs straight)
+  myotatic crunch: 1x60
   
