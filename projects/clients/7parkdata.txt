@@ -53,6 +53,8 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/01/16: [] ()
+12/01/16: [11:00 - ] ()
+  * drop old scheduling-related tables in report table
+  * 
   
   
