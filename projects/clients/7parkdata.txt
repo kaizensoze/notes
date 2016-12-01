@@ -1,5 +1,4 @@
 
-data catalog (aka delivery items)
 
 
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
@@ -54,11 +53,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/01/16: [11:00 - 14:00, 15:00 - ] ()
-  * drop old scheduling-related tables in report table
-  * remove redshift in settings files
-  * quick cleanup of views
-  * don't show any menu links if not logged in
-  * generate report stats for month of November and 11/28-12/1
-  * look into why report stats doesn't work on http://reporting.7parkdata.com/ (ip needed to be whitelisted for elasticsearch)
-
+12/02/16: [] ()
+  * 
