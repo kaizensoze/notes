@@ -1,7 +1,7 @@
 
-shampoo without sodium benzoate
 3%
 snowden
+shampoo without sodium benzoate
 
 work
   grading open source projects (github repos)
@@ -32,4 +32,3 @@ movies
 
 games (ps4)
   The Last Guardian (12/06)
-  The Keeper
