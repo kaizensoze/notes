@@ -252,7 +252,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   pushups: 60
   myotatic crunch: 50s, 50s
   finger pullups (on): 12
-  bicep curl (25 lbs): 10, 7, 4
+  bicep curl (25 lbs): 10, 7
   xertube - chest fly: 4
   wall press (outer): 50
   wall press (inner): 50
@@ -289,4 +289,6 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   pushups: 62
   
 2016-12-02:
-  
+  bicep curl (25 lbs): 10, 9
+  lying leg raise (10s/notch): 6
+  myotatic crunch: 80s
