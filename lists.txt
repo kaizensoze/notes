@@ -1,7 +1,5 @@
 
-3%
-snowden
-shampoo without sodium benzoate
+
 
 work
   grading open source projects (github repos)
@@ -10,18 +8,16 @@ work
   hackrf
 
 tv
-  3%
+  The Jim Gaffigan Show S01E06
   Planet Earth S02E04
-  South Park S20E09 (11/30)
   Westworld S01E10 (12/04)
+  South Park S20E10 (12/07)
   White Rabbit Project (12/09) [netflix]
   Lie to Me S01E06
-  The Jim Gaffigan Show S01E04
   The Office (UK)
   Corner Gas
   Futurama
   Serial (podcast)
-  Late Show
 
 movies
   Nocturnal Animals
