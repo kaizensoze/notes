@@ -53,5 +53,7 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/02/16: [] ()
+12/02/16: [11:00 - ] ()
+  * report generation for 11/28 - 12/02
+  * progress on data catalog
   * 
