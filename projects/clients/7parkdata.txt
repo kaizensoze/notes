@@ -1,5 +1,5 @@
 
-view account contacts modal
+
 
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
 
@@ -53,9 +53,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/02/16: [11:00 - 15:00] ()
-  * report generation for 11/28 - 12/02
-  * progress on data catalog
-  * partial data catalog filled
-  * add simple-salesforce to requirements
-  * initial clients table
+12/05/16: [] ()
+  * 

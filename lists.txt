@@ -1,8 +1,4 @@
 
-workout
-shower
-rental car
-7parkdata
 clean carpet
 jim gaffigan show
 
@@ -26,7 +22,6 @@ tv
 
 movies
   Nocturnal Animals
-  The Jacket
   Gimme Danger
   Traceroute
   Don't Think Twice (12/06)
