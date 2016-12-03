@@ -3,7 +3,6 @@ Against All Enemies, Richard Clarke
 Alexander Hamilton, Ron Chernow
 Algorithms to Live By, Brian Christian
 America, Jean Baudrillard
-Angela's Ashes, Frank McCourt
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
@@ -450,3 +449,4 @@ Girl in a Band, Kim Gordon [x]
 NOS4A2, Joe Hill [x]
 Sexus, Henry Miller [x]
 Reamde, Neal Stephenson [x]
+Angela's Ashes, Frank McCourt [x]

@@ -1,5 +1,8 @@
 
-
+animal shelter
+return rental car
+securedrop
+out for drinks
 
 work
   grading open source projects (github repos)
@@ -9,7 +12,7 @@ work
 
 tv
   The Jim Gaffigan Show S01E11
-  Lie to Me S01E06
+  Lie to Me S01E07
   Planet Earth S02E04
   Westworld S01E10 (12/04)
   South Park S20E10 (12/07)
