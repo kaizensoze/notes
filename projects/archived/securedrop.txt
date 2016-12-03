@@ -1,5 +1,4 @@
 
-https://github.com/freedomofpress/securedrop/issues/1233
 ansible deprecation warnings
 fix test errors
 
