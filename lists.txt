@@ -1,6 +1,5 @@
 
-clean carpet
-jim gaffigan show
+
 
 work
   grading open source projects (github repos)
@@ -9,7 +8,7 @@ work
   hackrf
 
 tv
-  The Jim Gaffigan Show S01E07
+  The Jim Gaffigan Show S01E11
   Lie to Me S01E06
   Planet Earth S02E04
   Westworld S01E10 (12/04)
