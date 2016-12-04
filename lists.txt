@@ -12,7 +12,7 @@ work
   hackrf
 
 tv
-  The Jim Gaffigan Show S01E11
+  The Jim Gaffigan Show S02E02
   Lie to Me S01E07
   Planet Earth S02E04
   Westworld S01E10 (12/04)
