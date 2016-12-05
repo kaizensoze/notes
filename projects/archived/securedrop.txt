@@ -3,9 +3,10 @@ ansible deprecation warnings
 fix test errors
 
 setup
-  pip install -U ansible
   git clone https://github.com/freedomofpress/securedrop.git
   cd securedrop
+  mkvirtualenv -p python2.7 securedrop
+  pip install ansible==1.8.4
 
 run
   vagrant up
