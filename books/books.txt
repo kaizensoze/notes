@@ -111,6 +111,7 @@ Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
 Seinfeldia, Jennifer Armstrong
 Seveneves, Neal Stephenson
+Shoe Dog, Phil Knight
 Silence on the Wire, Michael Zalewski
 Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
@@ -159,6 +160,7 @@ The Good Earth, Pearl S. Buck
 The Good Soldiers, David Finkel
 The Great Bridge, David McCullough
 The Greater Journey, David McCullough
+The Grid, Gretchen Bakke
 The Immortal Life of Henrietta Lacks, Rebecca Skloot
 The Intelligent Investor, Benjamin Graham
 The Journalist and the Murderer, Janet Malcolm
@@ -172,6 +174,7 @@ The Man Who Mistook His Wife For A Hat, Oliver Sacks
 The Master Switch: The Rise and Fall of Information Empires, Tim Wu
 The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
 The Mujahideen Poisons Handbook
+The Myth of the Strong Leader, Archie Brown
 The Name of the Wind, Patrick Rothfuss
 The Nightingale, Kristin Hannah
 The Once and Future King, T.H. White

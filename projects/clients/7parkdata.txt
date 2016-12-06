@@ -1,5 +1,5 @@
 
-
+fix reinitialization of contacts table
 
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
 
@@ -53,5 +53,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/05/16: [] ()
+12/06/16: [] ()
   * 
