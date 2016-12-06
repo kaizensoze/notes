@@ -1,13 +1,7 @@
 
-estimated taxes
-  bank
-  figure out estimated taxes
-walk willy
-tequila
+7parkdata
 workout
-
-animal shelter
-return rental car
+figure out estimated tax amounts to pay for Q4
 
 work
   grading open source projects (github repos)
