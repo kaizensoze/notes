@@ -301,6 +301,8 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   myotatic crunch: 50s
 
 2016-12-07:
-  finger pullups: 
-  pushups: 
+  pushups: 71
+  lying leg raise (10s/notch): 10
+  myotatic crunch: 90s
+  finger pullups: 13
   
