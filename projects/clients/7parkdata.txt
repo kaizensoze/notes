@@ -1,5 +1,41 @@
 
+tables (jquery)
+  data catalog
+    dataset input (autocomplete)
+    artifact input (autocomplete)
+    datastore input (autocomplete)
+    
+    autocomplete searches on any relevant text columns in table for that given input
+    on selecting an autocomplete result, expand out to all rows in that table with a divider/border between sections
+
+data catalog item
+  id dataset_id artifact_id datastore_id 
+
+data delivery view
+
 fix reinitialization of contacts table
+
+create table dd_artifact(
+	id int not null auto_increment primary key,
+	name varchar(255)
+);
+
+create table dd_datastore(
+	id int not null auto_increment primary key,
+  platform varchar(255)
+	name varchar(255),
+  location varchar(500)
+);
+
+create table dd_datacatalog(
+  id int not null auto_increment primary key,
+  dataset_id int,
+  artifact_id int,
+  datastore_id int,
+  FOREIGN KEY (dataset_id) REFERENCES distrodb.rptlob(id),
+  FOREIGN KEY (artifact_id) REFERENCES distrodb.dd_artifact(id),
+  FOREIGN KEY (datastore_id) REFERENCES distrodb.dd_datastore(id)
+);
 
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
 
