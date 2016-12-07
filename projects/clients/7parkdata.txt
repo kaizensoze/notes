@@ -1,20 +1,15 @@
 
-tables (jquery)
-  data catalog
-    dataset input (autocomplete)
-    artifact input (autocomplete)
-    datastore input (autocomplete)
-    
-    autocomplete searches on any relevant text columns in table for that given input
-    on selecting an autocomplete result, expand out to all rows in that table with a divider/border between sections
+update data catalog item
 
-data catalog item
-  id dataset_id artifact_id datastore_id 
+delivery items view
+  create new delivery item (client (optional primary contact), delivery_period, data catalog item)
+  update delivery item
+  get list of currently active delivery items
+  add data catalog item(s) to delivery item
 
-data delivery view
+scheduling of dropoff of data
 
-fix reinitialization of contacts table
-
+===============
 create table dd_artifact(
 	id int not null auto_increment primary key,
 	name varchar(255)
@@ -89,5 +84,7 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/06/16: [] ()
+12/06/16: [14:00 - ] ()
+  * revised datacatalog table + add datacatalog item; add datacatalog item uses typeahead
+  * remove debug restriction on templates view
   * 
