@@ -1,5 +1,5 @@
 
-update data catalog item
+consider denormalizing data_catalog into single table
 
 delivery items view
   create new delivery item (client (optional primary contact), delivery_period, data catalog item)
