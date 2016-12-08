@@ -98,5 +98,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/08/16: [12:00 - ] ()
+12/08/16: [] ()
   * 
