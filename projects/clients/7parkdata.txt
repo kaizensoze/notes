@@ -1,4 +1,20 @@
 
+add client
+update client
+
+show delivery items for client
+add delivery item
+update delivery item
+
+dd_datacatalog
+  id product_line dataset artifact platform env_or_bucket location
+
+dd_client
+  id salesforce_account_id primary_contact_id
+
+dd_delivery_item
+  id client_id datacatalog_item_id start_date end_date delivery_location
+
 delivery items view
   create new delivery item (client (optional primary contact), delivery_period, data catalog item)
   update delivery item
@@ -44,6 +60,25 @@ create table dd_datacatalog(
   platform varchar(255),
   env_or_bucket varchar(255),
   location varchar(500)
+);
+
+create table dd_client(
+  id int not null auto_increment primary key,
+  name varchar(1000),
+  salesforce_account_id varchar(500),
+  primary_contact_id varchar(500),
+  primary_contact_name varchar(1000)
+);
+
+create table dd_datadelivery(
+  id int not null auto_increment primary key,
+  client_id int,
+  datacatalog_id int,
+  start_date datetime,
+  end_date datetime,
+  delivery_location varchar(1000),
+  FOREIGN KEY (client_id) REFERENCES distrodb.dd_client(id),
+  FOREIGN KEY (datacatalog_id) REFERENCES distrodb.dd_datacatalog(id)
 );
 
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
@@ -98,5 +133,6 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/08/16: [] ()
-  * 
+12/08/16: [17:00 - ] ()
+  * create dd_client db table
+  * create dd_delivery_item db table

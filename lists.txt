@@ -1,10 +1,8 @@
 
-shower
-order food
-place freshdirect order
-walk willy
 7parkdata
+videogames/read
 
+try hoodie; return if too big
 ups dropoff
 setup bike
 visit home
@@ -14,14 +12,14 @@ haircut
 
 request blue petwatch tag instead of pink
 
-work
+projects
+  hackrf
   grading open source projects (github repos)
   revisit collaborative prototyping site idea
   associate open editor tabs with git branch?
-  hackrf
 
 tv
-  South Park S20E10 (12/07)
+  South Park S20E10
   White Rabbit Project (12/09) [netflix]
   Homeland (01/15)
   Masters of Sex S01E01
