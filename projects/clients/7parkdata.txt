@@ -120,9 +120,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/08/16: [17:00 - 22] (5)
-  * create dd_client db table
-  * create dd_delivery_item db table
-  * basic version of data delivery view
-  * all clients modal
-  * progress on contacts modal
+12/09/16: [] ()
+  * 
