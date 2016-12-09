@@ -1,5 +1,4 @@
 
-south park
 7parkdata
 shower
 walk willy
@@ -21,8 +20,8 @@ projects
   associate open editor tabs with git branch?
 
 tv
-  South Park S20E10
   White Rabbit Project [netflix]
+  South Park S20E11 (12/14)
   Homeland (01/15)
   Masters of Sex S01E01
   Lie to Me S01E07 [netflix]

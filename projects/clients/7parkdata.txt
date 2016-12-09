@@ -1,9 +1,11 @@
 
-select a primary contact (optional)
-check available contact fields
+fix modal swap bug:
+  show client modal
+  show contact modal
+  click off to dismiss contact modal
+  show client modal (it quickly shows and then disappears)
+edit client
 
-add client
-update client
 show delivery items for client
 add delivery item
 update delivery item
@@ -52,7 +54,7 @@ create table dd_datacatalog(
 create table dd_client(
   id int not null auto_increment primary key,
   name varchar(1000),
-  salesforce_account_id varchar(500),
+  salesforce_account_id varchar(500) unique,
   primary_contact_id varchar(500),
   primary_contact_name varchar(1000)
 );
@@ -120,5 +122,6 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/09/16: [] ()
+12/09/16: [12:00 - ] ()
+  * add client [+ contact]
   * 
