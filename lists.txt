@@ -1,8 +1,7 @@
 
-7parkdata
-videogames/read
 
-try hoodie; return if too big
+
+do return for hoodie
 ups dropoff
 setup bike
 visit home

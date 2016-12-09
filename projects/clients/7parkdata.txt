@@ -1,30 +1,17 @@
 
+select a primary contact (optional)
+check available contact fields
+
 add client
 update client
-
 show delivery items for client
 add delivery item
 update delivery item
 
-dd_datacatalog
-  id product_line dataset artifact platform env_or_bucket location
-
-dd_client
-  id salesforce_account_id primary_contact_id
-
-dd_delivery_item
-  id client_id datacatalog_item_id start_date end_date delivery_location
-
-delivery items view
-  create new delivery item (client (optional primary contact), delivery_period, data catalog item)
-  update delivery item
-  get list of currently active delivery items
-  add data catalog item(s) to delivery item
-
-scheduling of dropoff of data
-
 data collection audit table
 data collection change history table
+
+part 2: scheduling of dropoff of data
 
 ===============
 create table dd_artifact(
@@ -133,6 +120,9 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/08/16: [17:00 - ] ()
+12/08/16: [17:00 - 22] (5)
   * create dd_client db table
   * create dd_delivery_item db table
+  * basic version of data delivery view
+  * all clients modal
+  * progress on contacts modal
