@@ -1,6 +1,4 @@
 
-fix double add and then on third time client view not showing
-
 show delivery items for client
 add delivery item
 update delivery item
@@ -117,5 +115,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/10/16: [] ()
+12/10/16: [17:00 - ] ()
   * 
