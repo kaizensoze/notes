@@ -1,13 +1,10 @@
 
-setup bike
-
 ups dropoff
+finish setting up bike
 visit home
   ask dad about legalzoom
   ask dad about taxes
-listen to recordings
 haircut
-
 request blue petwatch tag instead of pink
 
 projects
