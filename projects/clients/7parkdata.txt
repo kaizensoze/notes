@@ -1,10 +1,5 @@
 
-fix modal swap bug:
-  show client modal
-  show contact modal
-  click off to dismiss contact modal
-  show client modal (it quickly shows and then disappears)
-edit client
+fix double add and then on third time client view not showing
 
 show delivery items for client
 add delivery item
@@ -122,6 +117,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/09/16: [12:00 - ] ()
-  * add client [+ contact]
+12/10/16: [] ()
   * 

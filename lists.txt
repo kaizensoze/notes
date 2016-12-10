@@ -1,10 +1,7 @@
 
-7parkdata
-shower
-walk willy
-ups dropoff
 setup bike
 
+ups dropoff
 visit home
   ask dad about legalzoom
   ask dad about taxes
