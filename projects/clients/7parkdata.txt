@@ -1,5 +1,8 @@
 
-show delivery items for client
+add fields for add delivery item:
+  start_date
+  end_date
+
 add delivery item
 update delivery item
 
@@ -115,5 +118,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/12/16: [] ()
+12/12/16: [14:30 - ] ()
   * 
