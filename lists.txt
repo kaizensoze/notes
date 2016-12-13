@@ -1,12 +1,16 @@
 
+shower
 7parkdata
 guidepoint
-rewatch rick & morty
+
+haircut
+post office
+  return
+  drop off rent
+okc date?
 
 finish setting up bike
-haircut
-pay rent
-ask dad about taxes
+stop by home, ask dad about taxes
 request blue petwatch tag instead of pink
 
 projects
@@ -16,6 +20,7 @@ projects
   associate open editor tabs with git branch?
 
 tv
+  rick & morty
   White Rabbit Project [netflix]
   South Park S20E11 (12/14)
   Homeland (01/15)
