@@ -1,8 +1,4 @@
 
-update delivery item
-  start_date
-  end_date
-
 data collection audit table
 data collection change history table
 
@@ -115,5 +111,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/13/16: [] ()
-  * 
+12/13/16: [11:00 - 15:40] ()
+  * update delivery item
