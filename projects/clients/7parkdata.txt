@@ -1,10 +1,7 @@
 
-add fields for add delivery item:
+update delivery item
   start_date
   end_date
-
-add delivery item
-update delivery item
 
 data collection audit table
 data collection change history table
@@ -118,5 +115,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/12/16: [14:30 - ] ()
+12/13/16: [] ()
   * 
