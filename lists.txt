@@ -1,7 +1,4 @@
 
-drop off rent
-
-7parkdata
 guidepoint
 
 haircut

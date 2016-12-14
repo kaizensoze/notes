@@ -1,6 +1,6 @@
 
-data collection audit table
-data collection change history table
+audit info
+add Objects/Names Contained field to data_catalog table
 
 part 2: scheduling of dropoff of data
 
@@ -59,6 +59,14 @@ create table dd_datadelivery(
   FOREIGN KEY (datacatalog_id) REFERENCES distrodb.dd_datacatalog(id)
 );
 
+create table dd_change_history(
+  id int not null auto_increment primary key,
+  date datetime,
+  user_id int,
+  message varchar(1000),
+  FOREIGN KEY (user_id) REFERENCES distrodb.user(id)
+);
+
 ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
 
 kibana
@@ -111,5 +119,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/13/16: [] ()
+12/14/16: [] ()
   * 
