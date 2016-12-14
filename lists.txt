@@ -1,7 +1,6 @@
 
 7parkdata
 guidepoint
-shower
 
 haircut
 post office
