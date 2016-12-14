@@ -111,5 +111,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/13/16: [11:00 - 15:40] ()
-  * update delivery item
+12/13/16: [] ()
+  * 

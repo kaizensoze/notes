@@ -53,6 +53,7 @@ ABROAD
   Lviv
   Kiev
   Sheffield
+  Blackpool
 
 AVOID
   Estonia
