@@ -1,7 +1,5 @@
 
-post office
-  return
-  drop off rent
+drop off rent
 
 7parkdata
 guidepoint
