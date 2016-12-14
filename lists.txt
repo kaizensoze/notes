@@ -2,11 +2,10 @@
 7parkdata
 guidepoint
 
-haircut
 post office
   return
   drop off rent
-okc date?
+haircut
 
 finish setting up bike
 stop by home, ask dad about taxes
