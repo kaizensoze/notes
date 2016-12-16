@@ -27,6 +27,7 @@ tv
   Serial (podcast)
 
 movies
+  The Thinning
   Nocturnal Animals
   Gimme Danger
   Traceroute
