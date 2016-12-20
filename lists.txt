@@ -2,11 +2,9 @@
 7parkdata
 guidepoint
 
-haircut
-
 finish setting up bike
-stop by home, ask dad about taxes
-request blue petwatch tag instead of pink
+taxes
+setup vet appt
 
 projects
   hackrf
