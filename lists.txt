@@ -15,11 +15,10 @@ projects
   associate open editor tabs with git branch?
 
 tv
+  Masters of Sex S01E01
   rick & morty
-  White Rabbit Project [netflix]
   South Park S20E11
   Homeland (01/15)
-  Masters of Sex S01E01
   Lie to Me S01E07 [netflix]
   Futurama [netflix]
   Planet Earth S02E04

@@ -339,8 +339,5 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   floor press (25 lbs): 3x12
   lying leg raise (10s/notch): 10
 
-2016-12-15:
-  pushups: 
-  finger pullups: 
-  lying leg raise (10s/notch): 
-  myotatic crunch: 
+2016-12-19:
+  finger pullups: 10
