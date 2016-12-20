@@ -2,9 +2,9 @@
 7parkdata
 guidepoint
 
+setup vet appt
 finish setting up bike
 taxes
-setup vet appt
 
 projects
   hackrf
