@@ -24,6 +24,7 @@ tv
   Serial (podcast)
 
 movies
+  Rogue One: A Star Wars Story
   The Thinning
   Nocturnal Animals
   Gimme Danger
