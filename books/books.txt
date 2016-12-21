@@ -10,7 +10,6 @@ A Bug Hunter's Diary, Tobias Klein
 A Man Called Ove, Fredrik Backman
 A Tale of Two Cities, Charles Dickens
 A Thousand Splendid Suns, Khaled Hosseini
-A Tree Grows in Brooklyn, Betty Smith
 Basic Economics, Thomas Sowell, page: 38
 Being Mortal: Medicine and What Matters in the End, Atul Gawande
 Benjamin Franklin: An American Life, Walter Isaacson
@@ -454,3 +453,4 @@ NOS4A2, Joe Hill [x]
 Sexus, Henry Miller [x]
 Reamde, Neal Stephenson [x]
 Angela's Ashes, Frank McCourt [x]
+A Tree Grows in Brooklyn, Betty Smith [x]
