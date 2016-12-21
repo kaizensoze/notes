@@ -1,5 +1,4 @@
 A Thousand Naked Strangers, Kevin Hazzard
-Against All Enemies, Richard Clarke
 Alexander Hamilton, Ron Chernow
 Algorithms to Live By, Brian Christian
 America, Jean Baudrillard
@@ -454,3 +453,4 @@ Sexus, Henry Miller [x]
 Reamde, Neal Stephenson [x]
 Angela's Ashes, Frank McCourt [x]
 A Tree Grows in Brooklyn, Betty Smith [x]
+Against All Enemies, Richard Clarke [x]
