@@ -1,5 +1,4 @@
 
-deploy to server
 go through changes in email
 
 audit info
@@ -57,7 +56,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/21/16: [13:00 - 13:30, 15:30 - ] ()
-  * call going over datadelivery webapp
-  * document datadelivery db queries in wiki
-  * 
+12/22/16: [] ()
+  
