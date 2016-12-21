@@ -1,74 +1,12 @@
 
+deploy to server
+go through changes in email
+
 audit info
 add Objects/Names Contained field to data_catalog table
 
 part 2: scheduling of dropoff of data
-
 ===============
-create table dd_artifact(
-	id int not null auto_increment primary key,
-	name varchar(255)
-);
-
-create table dd_datastore(
-	id int not null auto_increment primary key,
-  platform varchar(255)
-	name varchar(255),
-  location varchar(500)
-);
-
-create table dd_datacatalog(
-  id int not null auto_increment primary key,
-  dataset_id int,
-  artifact_id int,
-  datastore_id int,
-  FOREIGN KEY (dataset_id) REFERENCES distrodb.rptlob(id),
-  FOREIGN KEY (artifact_id) REFERENCES distrodb.dd_artifact(id),
-  FOREIGN KEY (datastore_id) REFERENCES distrodb.dd_datastore(id)
-);
-
-drop table dd_datacatalog;
-drop table dd_artifact;
-drop table dd_datastore;
-create table dd_datacatalog(
-  id int not null auto_increment primary key,
-  product_line varchar(250),
-  dataset varchar(250),
-  artifact varchar(255),
-  platform varchar(255),
-  env_or_bucket varchar(255),
-  location varchar(500)
-);
-
-create table dd_client(
-  id int not null auto_increment primary key,
-  name varchar(1000),
-  salesforce_account_id varchar(500) unique,
-  primary_contact_id varchar(500),
-  primary_contact_name varchar(1000)
-);
-
-create table dd_datadelivery(
-  id int not null auto_increment primary key,
-  client_id int,
-  datacatalog_id int,
-  start_date datetime,
-  end_date datetime,
-  delivery_location varchar(1000),
-  FOREIGN KEY (client_id) REFERENCES distrodb.dd_client(id),
-  FOREIGN KEY (datacatalog_id) REFERENCES distrodb.dd_datacatalog(id)
-);
-
-create table dd_change_history(
-  id int not null auto_increment primary key,
-  date datetime,
-  user_id int,
-  message varchar(1000),
-  FOREIGN KEY (user_id) REFERENCES distrodb.user(id)
-);
-
-ALTER TABLE reporttemplate ADD schedule VARCHAR(500) after name
-
 kibana
   https://search-sendgridevents-6fwo5scolykj3xpbfg7m476tk4.us-east-1.es.amazonaws.com/_plugin/kibana/?#/discover?_g=(refreshInterval:(display:Off,section:0,value:0),time:(from:now-90d,mode:quick,to:now))&_a=(columns:!(reportsubject,email,event),index:'cwl-*',interval:auto,query:(query_string:(analyze_wildcard:!t,query:'reportinstanceid:%205662%20AND%20event:%20click')),sort:!('@timestamp',desc)) 
   https://search-sendgridevents-6fwo5scolykj3xpbfg7m476tk4.us-east-1.es.amazonaws.com/_plugin/kibana/?#/discover?_g=(refreshInterval:(display:Off,section:0,value:0),time:(from:now-7d,mode:quick,to:now))&_a=(columns:!(reportsubject,email,event),index:%27cwl-*%27,interval:auto,query:(query_string:(analyze_wildcard:!t,query:%27*%27)),sort:!(%27@timestamp%27,desc))
@@ -119,5 +57,7 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/14/16: [] ()
+12/21/16: [13:00 - 13:30, 15:30 - ] ()
+  * call going over datadelivery webapp
+  * document datadelivery db queries in wiki
   * 
