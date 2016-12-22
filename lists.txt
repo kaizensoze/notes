@@ -1,8 +1,7 @@
 
-guidepoint
-read
-
+zucker hillside: provide insurance info
 7parkdata
+guidepoint
 
 setup vet appt
 finish setting up bike
