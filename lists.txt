@@ -15,9 +15,7 @@ projects
 
 tv
   Fleabag
-  Masters of Sex S01E01
   rick & morty
-  South Park S20E11
   Homeland (01/15)
   Lie to Me S01E07 [netflix]
   Futurama [netflix]
@@ -26,7 +24,6 @@ tv
   Serial (podcast)
 
 movies
-  Rogue One: A Star Wars Story
   Nocturnal Animals
   Gimme Danger
   Traceroute
