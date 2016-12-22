@@ -1,6 +1,8 @@
 
-7parkdata
 guidepoint
+read
+
+7parkdata
 
 setup vet appt
 finish setting up bike
@@ -13,6 +15,7 @@ projects
   associate open editor tabs with git branch?
 
 tv
+  Fleabag
   Masters of Sex S01E01
   rick & morty
   South Park S20E11

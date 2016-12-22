@@ -1,7 +1,6 @@
 A Thousand Naked Strangers, Kevin Hazzard
 Alexander Hamilton, Ron Chernow
 Algorithms to Live By, Brian Christian
-America, Jean Baudrillard
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
@@ -454,3 +453,4 @@ Reamde, Neal Stephenson [x]
 Angela's Ashes, Frank McCourt [x]
 A Tree Grows in Brooklyn, Betty Smith [x]
 Against All Enemies, Richard Clarke [x]
+America, Jean Baudrillard [x]
