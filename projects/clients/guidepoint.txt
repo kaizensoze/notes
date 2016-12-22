@@ -21,7 +21,6 @@ manager
 	welcome
 client
 	chris.carroll@wmpartners.com
-	c.Tkac@lek.com
 	a
 
 Client.storyboard
@@ -170,25 +169,11 @@ sslvpn link: https://74.212.183.100/sslvpn
 sonicwall mobile connect: 74.212.183.100:4433
 
 hours	
-	11-01-16 (0)
-	
-	11-02-16
-		* manager storyboard fixes
-    * widen login fields
-    * client storyboard fixes
-    * edit subsections on client detail view
-    * edit subsections on advisor detail view
+	12-22-16 (0.5)
+		* some updates
+		* update Alamofire
+		* look into client design updates
 
-  11-03-16
-    * storyboard adjustments
-		* increase height of tabbar
-		* update account tab
-		* remove old preferences tab
-		* remove unused notifications tab
-		* update calls tab icon
-		* update projects tab icon
-		* make availability subsection more like regular subsection
-		* adjust login views
-		* send on advisors view goes to mail compose vc
-
+	12-23-16
+		* 
 	
