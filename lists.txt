@@ -7,6 +7,7 @@ setup vet appt
 taxes
 
 projects
+  spot-the-fed
   gather intel on in-q-tel companies
   grading open source projects (github repos)
   revisit collaborative prototyping site idea
