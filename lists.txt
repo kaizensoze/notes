@@ -7,7 +7,6 @@ setup vet appt
 taxes
 
 projects
-  hackrf
   grading open source projects (github repos)
   revisit collaborative prototyping site idea
   associate open editor tabs with git branch?

@@ -215,7 +215,6 @@ Vengeance, George Jonas
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 What If?, Randall Munroe
-When Breath Becomes Air, Paul Kalanithi
 When Google Met Wikileaks, Julian Assange
 When the Killing's Done, T.C. Boyle
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
@@ -454,3 +453,4 @@ Angela's Ashes, Frank McCourt [x]
 A Tree Grows in Brooklyn, Betty Smith [x]
 Against All Enemies, Richard Clarke [x]
 America, Jean Baudrillard [x]
+When Breath Becomes Air, Paul Kalanithi
