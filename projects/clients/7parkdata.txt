@@ -1,6 +1,4 @@
 
-go through changes in email
-
 audit info
 add Objects/Names Contained field to data_catalog table
 
@@ -57,4 +55,3 @@ reportdefinitions.report_id is report definition id
 hours
 ====
 12/22/16: [] ()
-  
