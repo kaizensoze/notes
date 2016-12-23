@@ -1,7 +1,8 @@
 
-pick up prescription
 7parkdata
 guidepoint
+
+pick up prescription
 
 bike from glen oaks to franklin square
 setup vet appt
