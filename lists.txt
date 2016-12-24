@@ -11,12 +11,12 @@ projects
   revisit collaborative prototyping site idea
 
 tv
+  Serial (podcast)
+  Futurama [netflix]
+  Lie to Me S01E08 [netflix]
   Homeland (01/15)
   Planet Earth S02E04
   Corner Gas
-  Lie to Me S01E07 [netflix]
-  Futurama [netflix]
-  Serial (podcast)
 
 movies
   Nocturnal Animals
