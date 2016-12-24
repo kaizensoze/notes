@@ -6,7 +6,6 @@ setup vet appt
 taxes
 
 projects
-  spot-the-fed
   kali linux tools
   grading open source projects (github repos)
   revisit collaborative prototyping site idea
