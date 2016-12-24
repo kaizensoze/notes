@@ -11,8 +11,8 @@ projects
   revisit collaborative prototyping site idea
 
 tv
-  Serial (podcast)
   Futurama [netflix]
+  The OA [netflix]
   Lie to Me S01E08 [netflix]
   Homeland (01/15)
   Planet Earth S02E04
