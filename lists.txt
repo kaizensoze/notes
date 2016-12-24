@@ -7,13 +7,10 @@ taxes
 
 projects
   spot-the-fed
-  gather intel on in-q-tel companies
   grading open source projects (github repos)
   revisit collaborative prototyping site idea
-  associate open editor tabs with git branch?
 
 tv
-  Fleabag
   Homeland (01/15)
   Planet Earth S02E04
   Corner Gas
