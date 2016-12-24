@@ -6,7 +6,7 @@ setup vet appt
 taxes
 
 projects
-  kali linux tools
+  kali linux tools (eh)
   grading open source projects (github repos)
   revisit collaborative prototyping site idea
 
