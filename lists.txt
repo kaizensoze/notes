@@ -1,7 +1,4 @@
 
-7parkdata
-guidepoint
-
 pick up prescription
 
 bike from glen oaks to franklin square
@@ -17,12 +14,11 @@ projects
 
 tv
   Fleabag
-  rick & morty
   Homeland (01/15)
-  Lie to Me S01E07 [netflix]
-  Futurama [netflix]
   Planet Earth S02E04
   Corner Gas
+  Lie to Me S01E07 [netflix]
+  Futurama [netflix]
   Serial (podcast)
 
 movies
