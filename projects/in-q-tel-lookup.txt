@@ -1,0 +1,1 @@
+run primary source in batches per hour
