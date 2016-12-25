@@ -419,6 +419,9 @@ rsync
 ruby-install
   ruby-install --latest
 
+scp
+  scp foobar.txt your_username@remotehost.edu:/some/remote/directory
+
 screen
   rename window:  C-a A
   reorder window: C-a :number n
