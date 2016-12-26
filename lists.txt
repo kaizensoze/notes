@@ -1,9 +1,7 @@
 
-shower
-pick up poop
-pick up prescription
-setup vet appt
 work
+setup vet appt
+cia book
 taxes
 
 projects
