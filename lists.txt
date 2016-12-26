@@ -1,6 +1,5 @@
 
 setup vet appt
-guidepoint
 read
 taxes
 
@@ -18,6 +17,5 @@ tv
   Corner Gas
 
 movies
-  Nocturnal Animals
   Gimme Danger
   Traceroute
