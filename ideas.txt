@@ -1,4 +1,39 @@
 
+interview assignment
+====
+two parts
+
+1) build
+grab json from a url you have control over
+load it into a collection view
+specify layout specs that would require overriding collection view layout methods (minimumInter...)
+tapping into collection view shows very basic detail view
+
+2) debug
+change some of the code they submit
+change some of the json returned by the url
+
+key things to mention on giving the assignment:
+  "Treat this as the beginning of a large project as opposed to a one-off assignment."
+
+company/startup thoughts
+====
+our attention spans are so short these days we might want to rethink the way we launch websites/products
+examples
+    pokemon go
+    draw something
+
+mind over matter until your mind doesn't matter
+
+deception in reporting
+====
+man crys after jeter hits a home run
+"after" implies "because" or "due to" but technically it's simply two sequential [but not necessarily connected] events
+
+cop: What are you doing?
+me: I'm hunting for schizophrenics.
+(cop looks in the back of the car, sees a butterfly net and a backpack containing a carton of cigarettes)
+
 It's difficult to have a sincere conversation when there's money involved.
 
 I feel like whenever I'm in an office environment I'm competing in a game of repression and insincerity.

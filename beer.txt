@@ -7,4 +7,4 @@ lagunitas ipa
 peroni
 sam adams cherry wheat
 sam adams octoberfest
-stella artois *
+stella artois
