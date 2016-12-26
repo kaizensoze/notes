@@ -4,13 +4,12 @@ read
 taxes
 
 projects
-  kali linux tools (eh)
   grading open source projects (github repos)
   revisit collaborative prototyping site idea
 
 tv
-  Futurama [netflix]
   The OA [netflix]
+  Futurama [netflix]
   Lie to Me S01E08 [netflix]
   Homeland (01/15)
   Planet Earth S02E04
