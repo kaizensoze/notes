@@ -53,4 +53,4 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/26/16: [] ()
+12/27/16: [12:00 - ] ()

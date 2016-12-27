@@ -3,6 +3,8 @@
 jgallo
 9YUspZyYGVNDockJPuEp2qJoBBcX
 
+SEND TO CLIENT, SELECT ADVISOR, SCHEDULE CALL
+
 * Each individual Advisor page should have buttons on the bottom.
     Accepted Advisor page should have following buttons: "Send to Client”, "Select Advisor”, "Schedule Call”
     Sent Advisor page should have following buttons: "Send to Client”, "Select Advisor”, "Schedule Call”
@@ -18,7 +20,7 @@ jgallo
 
 manager
 	jbarker@guidepointglobal.com
-	welcome
+	welcome1
 client
 	chris.carroll@wmpartners.com
 	a
@@ -174,6 +176,6 @@ hours
 		* update Alamofire
 		* look into client design updates
 
-	12-23-16
+	12-27-16
 		* 
 	
