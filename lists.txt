@@ -1,7 +1,6 @@
 
-walk willy
-setup bike
-shower
+33c3
+finish laundry
 read
 guidepoint/7parkdata
 lunch
