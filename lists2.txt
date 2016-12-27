@@ -39,7 +39,7 @@ Advanced Persistent Threats (APTS)
       Grayfish
   Unit 8200 (Israel)
   Ajax Security Team / Flying Kitten (Iran)
-  Sofacy Group / APT28 / Pawn Storm (Russia)
+  Sofacy Group / APT28 / Fancy Bear / Pawn Storm (Russia)
   Bureau 121 (North Korea)
   Dragonfly / Energetic Bear (Eastern Europe)
   Unit 61398 / Comment Crew / Putter Panda (China)
