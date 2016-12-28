@@ -1,4 +1,6 @@
 
+update advisor detail view on selecting action
+
 74.212.183.100:4433
 jgallo
 9YUspZyYGVNDockJPuEp2qJoBBcX
@@ -176,6 +178,9 @@ hours
 		* update Alamofire
 		* look into client design updates
 
-	12-27-16
+	12-27-16 (0.5)
+		* action bar on advisor detail view
+	
+	12-28-16
 		* 
 	
