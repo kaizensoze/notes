@@ -1,6 +1,6 @@
 
-add # data items col
-audit and quality info table
+ask if any things to knock out outside of datadelivery since it's mostly done except for audit/quality info table and actual scheduling
+ask about interaction for audit/scheduling
 
 part 2: scheduling of dropoff of data
 ===============
@@ -55,3 +55,4 @@ reportdefinitions.report_id is report definition id
 hours
 ====
 12/27/16: [12:00 - ] ()
+  * look at hotfix for uploadCVStoS3
