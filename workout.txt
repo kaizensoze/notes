@@ -318,7 +318,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   lying leg raise (10s/notch): 10
   myotatic crunch: 70s
   finger pullups: 15, 9
-
+  
 2016-12-10:
   bicep curl (25 lbs): 3x10
   chest resistance band stretch: 3x10
@@ -331,14 +331,14 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   finger pullups: 15
   lying leg raise (10s/notch): 10
   myotatic crunch: 110s
-
+  
 2016-12-13:
   bicep curl (25 lbs): 3x10
   chest resistance band stretch: 3x10
   myotatic crunch: 80s
   floor press (25 lbs): 3x12
   lying leg raise (10s/notch): 10
-
+  
 2016-12-19:
   finger pullups: 10
   
@@ -362,3 +362,8 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   finger pullups: 7
   lying leg raise (10s/notch): 10
   myotatic crunch: 7
+  
+2016-12-26:
+  lying leg raise (10s/notch): 11
+  bicep curl (25 lbs): 3x10, 1x6
+  myotatic crunch: 90

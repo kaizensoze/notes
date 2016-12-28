@@ -1,6 +1,6 @@
 
-find replacement for guidepoint project
 7parkdata
+find replacement for guidepoint project
 13:00 cc talk
 read
 
@@ -11,7 +11,7 @@ island rock with alec
 taxes
 
 projects
-  grading open source projects (github repos)
+  learn tensorflow [to out sex trafficking]
   revisit collaborative prototyping site idea
 
 tv
@@ -23,5 +23,8 @@ tv
   Corner Gas
 
 movies
+  20th Century Women
+  Fences
+  La La Land
   Gimme Danger
   Traceroute

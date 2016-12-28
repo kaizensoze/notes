@@ -54,5 +54,11 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/27/16: [12:00 - ] ()
+12/27/16: [12:00 - 12:30, 15:00 - ] ()
   * look at hotfix for uploadCVStoS3
+  * update datadelivery deploy
+  * productline/dataset dropdown fixes for data catalog
+  * fix # items val on add/update client
+  * change productline/dataset to dropdown on deliv items
+  * fix dataset dropdown update for datacatalog/deliveryitems
+  * 
