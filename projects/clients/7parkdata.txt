@@ -1,6 +1,5 @@
 
-ask if any things to knock out outside of datadelivery since it's mostly done except for audit/quality info table and actual scheduling
-ask about interaction for audit/scheduling
+
 
 part 2: scheduling of dropoff of data
 ===============
@@ -61,4 +60,5 @@ hours
   * fix # items val on add/update client
   * change productline/dataset to dropdown on deliv items
   * fix dataset dropdown update for datacatalog/deliveryitems
-  * 
+  * get distinct clients
+  * update datadelivery deploy

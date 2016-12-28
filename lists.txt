@@ -1,7 +1,6 @@
 
 7parkdata
 find replacement for guidepoint project
-13:00 cc talk
 read
 
 ask to add livia to lease
