@@ -1,0 +1,13 @@
+use tensorflow
+
+go through data sources with images with known ages (dating sites et. al)
+
+train to predict age based on image
+
+accommodate for age-influencing factors (can machine learning detect these?)
+  smoking
+  alcohol
+  exposure to sun
+  modifications (botox, etc.)
+  hair dyed gray
+  genetics
