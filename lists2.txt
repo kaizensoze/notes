@@ -309,6 +309,7 @@ conferences
   (09/22) appsec
   (09/26) .conf
   (10/21) toorcon
+  (10/??) hacker halted
   (12/27) chaos communication congress (C3)
 
 noteworthy books
