@@ -162,6 +162,7 @@ The Good Soldiers, David Finkel
 The Great Bridge, David McCullough
 The Greater Journey, David McCullough
 The Grid, Gretchen Bakke
+The Hardware Hacker, Andrew Huang
 The Immortal Life of Henrietta Lacks, Rebecca Skloot
 The Intelligent Investor, Benjamin Graham
 The Journalist and the Murderer, Janet Malcolm
