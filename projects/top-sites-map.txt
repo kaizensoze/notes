@@ -1,2 +1,3 @@
 
+cluster out markers on same point
 http://www.alexa.com/topsites/global
