@@ -13,6 +13,7 @@ island rock with alec
 taxes
 
 projects
+  map locations of alexa most popular sites
   learn tensorflow [to out sex trafficking]
   revisit collaborative prototyping site idea
 
