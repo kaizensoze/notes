@@ -244,6 +244,7 @@ iptables
 
 jq
   jq -r '.SecurityGroups[] | select(.Description == "default group") | .GroupId
+  cat data.json | jq -r '.[] | .host'
 
 laravel
   php artisan init
