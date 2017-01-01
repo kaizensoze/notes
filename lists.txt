@@ -11,7 +11,8 @@ setup vet appt
 island rock with alec
 taxes
 
-projects
+thought experiments
+  getting rid of scopolamine (is there a beneficial use for it?)
   learn tensorflow [to out sex trafficking]
   iot device rating system
   revisit collaborative prototyping site idea
