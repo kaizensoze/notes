@@ -1,5 +1,4 @@
 
-project
 read
 best attire for krav maga
 krav maga: https://www.yelp.com/biz/krav-maga-academy-new-york
@@ -12,9 +11,8 @@ island rock with alec
 taxes
 
 projects
-  map locations of alexa most popular sites
-  iot device rating system
   learn tensorflow [to out sex trafficking]
+  iot device rating system
   revisit collaborative prototyping site idea
 
 tv

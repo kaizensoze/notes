@@ -1,7 +1,0 @@
-
-change map to a table
-curl -s "http://maps.googleapis.com/maps/api/geocode/json?latlng=40.714224,-73.961452&sensor=false"
-http://www.alexa.com/topsites/global
-
-
-curl -s "http://maps.googleapis.com/maps/api/geocode/json?latlng=55.7485,37.6184&sensor=false"
