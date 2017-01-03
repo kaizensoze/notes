@@ -1,15 +1,15 @@
 
-
-
-brooklyn boulders
+sell some rock climbing gear
 patel brothers
-krav maga: https://www.yelp.com/biz/krav-maga-academy-new-york
-
-sell rock climbing gear
 ask to add livia to lease
+setup vet appt
 videos of most recent hope conference
 
-setup vet appt
+activities
+  biking
+  brooklyn boulders (lic)
+  krav maga: https://www.yelp.com/biz/krav-maga-academy-new-york
+  shooting range: https://www.yelp.com/biz/west-side-rifle-and-pistol-range-new-york?osq=shooting+range
 
 thought experiments
   learn tensorflow
