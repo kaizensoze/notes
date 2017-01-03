@@ -87,6 +87,56 @@ microdots and other reduced-image techniques represented a third from of secret 
 a microdot was an optical reduction of a page of text or photographic negative to a size that was illegible without intense magnification
 the macrodot was much less secure
 dots were usually a last choice since they required the equipment to read them and placing the dot was time consuming
+another reduced-image technique involved photography that used a sensitive, fragile emulsion layer of film
+the plastic wrap-like substance could be separated from the thicker cellulose base of some types of film
+called "soft film" by the KGB, it was one of the most usable methods for clandestine communication even before World War II and saw extensive use throughout the Cold War
+Kalvar, a commercial product developed as an alternative to traditional microfilm, represented one of the OTS's most successful special films for reduced-image photography
+advantage of Kalvar was that it could be handled and processed in normal room light, did not require special chemicals, and was developed in boiling water
+water-soluble paper and flash paper, a form of nitrocellulose, were ways of carrying easily destroyable notes
+in the early 1970s OTS developed a secure system that would allow a case officer or tech to record and store operational notes on a tape recorder
+the tape recorder had a "third track" recording head
+when an agent wanted to record notes, he activated a switch built into the recorder and turned on the secret recording head for the third track
+one-time pads (OTPs) used for ciphers
+the one-way voice link (OWVL) described a covert communication system that transmitted messages to an agent's unmodified short-wave radio using the high-frequency shortwave bands between 3 and 30 MHz at a predetermined time, date, and frequency
+in the late 1970s, OWVL upgraded with development of interim one-way link (IOWL)
+used same broadcast stations and network as OWVL but the agent's commercial short-wave radio was replaced by a dedicated IOWL receiver
+the self-contained miniature piece of spy gear was a black box about the size of a pack of cigarettes and half as deep, including the internal battery
+primary benefit to the agent was the speed of receiving a message; messages that had required listening/transcribing for an hour took ten minutes
+short-range agent communications (SRAC systems) represented technical revolution for covcom in 1970s
+SRAC enabled agent and case officer to exchange information without being required to come into close proximity
+agent carried pocket-sized SRAC in his coat and shot message at designated locations at any time, day or night
+vulnerable to signal interception if an opposition service was monitoring the SRAC frequency in the area
+CIA recognized potential for using satellites as early as mid-1960s
+agent with a small handset could beam info to an orbiting satellite which would relay data to receiving site
+by combining satellite-send system with his OWVL, agent could transmit and receive secret intelligence inside home country without personal contact with CIA officer
+capability, first deployed in late 1960s under codename BIRDBOOK, used low-earth-orbit satellites as "bent-pipe" relays for agents' messages
+agents had only five-to-seven-minute window to shoot the message to satellite and required clear line-of-sight transmission path and precise orientation and positioning of the transmit antenna
+opposition developed means to intercept signal and triangulate the agent's position using direction-finding techniques
+early CIA version of the flying device from 1976, called the Isectothopter
+Phil Zimmerman developed the first version of a public encryption program, PGP, in 1991
+advanced version of PGP discovered in September of 2001 during search of apartment of Ana Belen Montes, a Defense Intelligence Agency analyst for Cuban affairs and spy for the Cuban intelligence service
+Appendix:
+1942: OSS established with William J. Donovan as Director; OSS establishes Research & Development Branch under Stanley P. Lovell
+1947: National Security Act establishes CIA
+1951: CIA Technical Services Staff (TSS) created under James H. "Trapper" Drum
+1956: First U-2 recon flight over Soviet Union
+1959: Cornerstone laid for CIA Original Headquarters Building at Langley, Virginia
+1960: First satellite photos of Soviet Union recovered. TSS renamed Technical Services Division (TSD); 3 TSD audio techs arrested in Havana
+1961: Invasion of Cuba by CIA-supported Cuban exiles
+1962: Seymour Russell appointed Chief, TSD; Oleg Penkovsky arrested; Cuban Missile Crisis
+1963: TSD audio techs released from Cuban jail
+1966: Dr. Sidney Gottlieb appointed Chief, TSD; TSD relocated to former CIA headquarters at 2430 E Street, NW, Washington, D.C.
+1973: TSD renamed Office of Technical Service (OTS) and transferred from the Directorate of Operations to the Directorate of Science and Technology
+1975: President Gerald Ford creates "Commission on CIA Activities within the United States" (Rockefeller Commission); Senate establishes a Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Chruch Committee)
+1978: OTS assigned responsibility for all CIA covert communications
+1985: Cornerstone laid for CIA's New Headquarters Building
+1988: OTS moves from E Street to CIA's New Headquarters Building
+1989: Berlin Wall destroyed
+1991: Collapse of Soviet Union; nation of Russia restored
+1996: Responsibility for clandestine audio operations transferred from OTS to the Clandestine Information Technology Office
+1997: CIAs 50th anniversary; OTS officers honored as CIA Trailblazers
+2001: OTS's fiftieth anniversary; 9/11 occurs
+
 
 
 Dark Territory, Fred Kaplan

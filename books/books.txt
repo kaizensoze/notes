@@ -119,7 +119,6 @@ Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
 Sophie's World, Jostein Gaarder
 Spy Catcher, Peter Wright
-Spycraft, Robert Wallace
 Spy the Lie, Philip Houston
 St. Marks Is Dead, Ada Calhoun
 Superforecasting, Philip E. Tetlock
@@ -463,3 +462,4 @@ A Tree Grows in Brooklyn, Betty Smith [x]
 Against All Enemies, Richard Clarke [x]
 America, Jean Baudrillard [x]
 When Breath Becomes Air, Paul Kalanithi
+Spycraft, Robert Wallace
