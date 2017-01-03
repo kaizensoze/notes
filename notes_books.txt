@@ -50,6 +50,43 @@ benjamin franklin forged letter from Germany's Frederick II to King George III a
 KGB inherited an appreciation and expertise for disinformation from its predecessor organizat, the Okhrana, which in 1903 published The Protocols of the Elders of Zion
 fabrication claimed existence of worldwide Jewish conspiracy to create an "intensified centralization of government" and monopolies and "revealed" practice of ritual sacrifice of Christian children in religious ceremonies
 in 1959, KGB forgers were consolidated into their own organization when First Chief Directorate created Department D (dezinformatsiya)
+KGB used "spydust" (NPPD) to track people
+commercial microphones developed in latter quarter of nineteenth century after Emile Berliner sold microphone patent to Bell Telephone Company
+world's first electronic eavesdropping system, the Turner Dictograph introdued in 1915, contained a carbon microphone, battery, and earphone
+contact microphones are effective in capturing sound waves from room audio that cause every hard surface in the room to vibrate
+special type of contact microphone, the accelerometer, could detect vibrations of room conversation or movement through solid concrete walls up to 18 inches thich
+vibro-acoustic microphone, designed to be affixed to a reinforcing steel rod or bar inside a concrete column during a building construction could later be connected to concealed wiring that would run to a listening post
+pinhole mics were popular
+fiber-optical microphone operated using only light waves transmitted to it along a cable thinner than a human hair
+directional mics designed for operations to pick up a selected conversation from individuals standing together
+rifle mic used in outdoor seating or smoking areas
+audio/video surveillance consisted of three main components: collection device, transmission link, listening/observation post
+radio-frequency transmitter became the most frequently used device for sending a stolen signal out of a target location
+laser microphones worked on the principle that a laser beam directed at an angle toward a glass window was reflected and could be captured at a listening post, compared with the original signal, and demodulated to recover audio
+in the 1980s, OTS engineers embedded a small prism inside window glass in key targets, increasing the sensitivity of the laser microphone
+a passive resonator concealed inside a wall or piece of furniture can be targeted with a radarlike signal transmitted from an exterior post (The Thing)
+robotic catfish used
+early in the 1970s, OTS engineers created tiny body-worn receivers to intercept the radio transmissions of Soviet surveillance teams
+every agent required his own tailored covcom that fit the circumstances and information involved
+every covcom system consisted of three segments: the field set, the transmission backbone, and the receiving element
+in 1958, the CIA Chief of Station in Prague, Haviland Smith, developed the brush pass technique
+moving-car delivery technique
+dead drops are the most commonly used and most secure form of impersonal communication
+signal sites were used to initiate a communications sequence between the agent and handler; signals were used to precede or conclude an operation and were normally linked to a specific meeting place or dead drop location
+wet systems were a form of secret writing (ex: lemon juice writing revealed by heat from electric light bulb)
+two weaknesses of wet systems were requirement of possessing special ink and near impossibility of removing all traces of damage to paper's fibers
+dry systems began appearing in 1950s as a variation of carbon typing paper
+chemists impregnated special papers with small amounts of chemicals and bound them into common items like journals
+the agent would sandwich three pieces of bond paper on top of a piece of glass
+top and bottom papers were blank while the middle page was the special carbon paper
+agent wrong the message on the top paper and secret chemicals were transferred onto the bottom page
+you toss the top and carbon paper(?) and deliver the bottom page to someone
+the bottom page is later wet to reveal a message
+dry systems quickly became the preferred method of secret writing in the 1960s
+microdots and other reduced-image techniques represented a third from of secret writing
+a microdot was an optical reduction of a page of text or photographic negative to a size that was illegible without intense magnification
+the macrodot was much less secure
+dots were usually a last choice since they required the equipment to read them and placing the dot was time consuming
 
 
 Dark Territory, Fred Kaplan
