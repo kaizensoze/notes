@@ -1,11 +1,9 @@
 
-workout
 read
-7parkdata
-get rid of guidepoint project
-shower
 finish up taxes
-brooklyn boulders (lic)
+7parkdata
+shower
+collaborative contribution brainstorm
 
 sell some rock climbing gear
 patel brothers
@@ -13,17 +11,19 @@ ask to add livia to lease
 setup vet appt
 videos of most recent hope conference
 
+thought experiments
+  another server-side swift performance comparison on aws (t2.micro)
+  github api wrapper in swift
+  learn tensorflow
+  collaborative open source contribution platform
+  iot device rating system
+
 activities
   brooklyn boulders (lic)
   biking
   tech meetup
   krav maga: https://www.yelp.com/biz/krav-maga-academy-new-york
   shooting range: https://www.yelp.com/biz/west-side-rifle-and-pistol-range-new-york?osq=shooting+range
-
-thought experiments
-  learn tensorflow
-  collaborative open source contribution platform
-  iot device rating system
 
 tv
   Futurama [netflix]
