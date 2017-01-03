@@ -53,4 +53,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-12/29/16: [] ()
+01/03/17: [13:00 - 14:00, ] ()
+  * fix templates dropdown on /addReportDefinition
