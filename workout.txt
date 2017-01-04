@@ -404,3 +404,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   finger pullups: 12
   chest resistance band stretch: 10, 8
   myotatic crunch: 120
+
+2017-01-04:
+  myotatic crunch: 180
+  lying leg raise (10s/notch): 18
