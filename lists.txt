@@ -2,6 +2,9 @@
 movie
 read
 
+33C3 2016 videos
+
+schedule vet appt for friday morning
 ask dad about taxes
 programming
 7parkdata
@@ -10,8 +13,6 @@ collaborative contribution brainstorm
 sell some rock climbing gear
 patel brothers
 ask to add livia to lease
-setup vet appt
-videos of most recent hope conference
 
 thought experiments
   another server-side swift performance comparison on aws (t2.micro)
