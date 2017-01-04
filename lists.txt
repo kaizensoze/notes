@@ -2,8 +2,6 @@
 movie
 read
 
-33C3 2016 videos
-
 schedule vet appt for friday morning
 ask dad about taxes
 programming
@@ -15,6 +13,7 @@ patel brothers
 ask to add livia to lease
 
 thought experiments
+  brave
   another server-side swift performance comparison on aws (t2.micro)
   github api wrapper in swift
   learn tensorflow
