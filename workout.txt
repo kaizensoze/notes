@@ -411,6 +411,6 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   rock climbing
 
 2016-01-05:
-  lying leg raise (10s/notch): 
-  myotatic crunch: 
-  pushups: 
+  lying leg raise (10s/notch): 20
+  myotatic crunch: 100 (keep hands further back)
+  pushups: 90
