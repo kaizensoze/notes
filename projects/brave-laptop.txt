@@ -1,0 +1,12 @@
+setup
+  git clone https://github.com/brave/browser-laptop
+  cd browser-laptop
+  npm install
+  
+run
+  npm run watch (tab 1)
+  npm start (tab 2)
+
+test
+  npm run watch-test (tab 1)
+  npm test (tab 2)

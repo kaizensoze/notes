@@ -1,9 +1,10 @@
 
-shower
-brooklyn boulders (lic)
-patel brothers
 brave
-look into remote project manager
+
+assemble bench
+workout
+rma dumbbells
+patel brothers
 
 sell some rock climbing gear
 
@@ -11,27 +12,25 @@ thought experiments
   brave
   another server-side swift performance comparison on aws (t2.micro)
   github api wrapper in swift
-  learn tensorflow
   collaborative open source contribution platform
-  iot device rating system
+  learn tensorflow
+  iot inventory
 
 activities
-  brooklyn boulders (lic)
-  biking
-  tech meetup
+  the cliffs
   krav maga: https://www.yelp.com/biz/krav-maga-academy-new-york
   shooting range: https://www.yelp.com/biz/west-side-rifle-and-pistol-range-new-york?osq=shooting+range
+  tech meetup
+  biking
 
 tv
   Futurama [netflix]
   Lie to Me S01E08 [netflix]
-  Homeland (01/15)
   Planet Earth S02E04
-  Corner Gas
+  Homeland (01/15)
 
 movies
   20th Century Women
-  Fences
   La La Land
   Paterson
   Silence

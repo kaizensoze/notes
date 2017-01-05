@@ -1,0 +1,7 @@
+
+name
+default_user
+default_password
+category
+upgrade_url
+security_rating
