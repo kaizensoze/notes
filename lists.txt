@@ -1,6 +1,4 @@
 
-brave
-
 assemble bench
 workout
 rma dumbbells
