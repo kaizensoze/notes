@@ -159,7 +159,6 @@ The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
 The Gene: An Intimate History, Siddhartha Mukherjee
 The Girl Next Door, Jack Ketchum
-The Girl on the Train, Paula Hawkins
 The Girl with All the Gifts, M.R. Carey
 The Good Earth, Pearl S. Buck
 The Good Soldiers, David Finkel
@@ -467,3 +466,4 @@ America, Jean Baudrillard [x]
 When Breath Becomes Air, Paul Kalanithi
 Spycraft, Robert Wallace
 The Vital Question, Nick Lane [x]
+The Girl on the Train, Paula Hawkins
