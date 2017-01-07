@@ -1,10 +1,6 @@
 
-shower
-library
-rma dumbbells
-pick up small bag of dog food
-gyro
 read
+library [if cartel book really sucks]
 listen to recording
 guidepoint
 7parkdata
@@ -56,7 +52,7 @@ health stack
   steel cut oats (chew and spit out)
   CLA [naturewise CLA 1250]
   fish oil [dr. tobias]
-  cliff shots
+  cliff shots (chocolate cherry)
   workout
   rock climbing
   biking
