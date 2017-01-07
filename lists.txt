@@ -1,9 +1,10 @@
 
+workout
+read
 shower
-rock climbing
 library
 rma dumbbells
-read
+pick up small bag of dog food
 guidepoint
 7parkdata
 okcupid date
@@ -49,3 +50,13 @@ movies
   The Edge of Seventeen
   Stretch & Bobbito: Radio That Changed Lives
   Christine
+
+health stack
+  CLA [naturewise CLA 1250]
+  fish oil [dr. tobias]
+  cliff shots
+  workout
+  rock climbing
+  biking
+  masturbate
+  melatonin [NatureMade] (small bite)
