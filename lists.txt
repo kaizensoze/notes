@@ -1,8 +1,9 @@
 
-workout
+listen to recording
 read
 shower
 library
+gyro
 rma dumbbells
 pick up small bag of dog food
 guidepoint
@@ -52,6 +53,7 @@ movies
   Christine
 
 health stack
+  steel cut oats (chew and spit out)
   CLA [naturewise CLA 1250]
   fish oil [dr. tobias]
   cliff shots
