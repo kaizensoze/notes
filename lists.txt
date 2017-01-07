@@ -1,11 +1,11 @@
 
-read
-library [if cartel book really sucks]
-listen to recording
-guidepoint
-7parkdata
+library
+books
 okcupid date
 
+guidepoint
+7parkdata
+listen to recording
 go to house to get pictures of livia
 try medication
 
