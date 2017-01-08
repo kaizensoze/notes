@@ -122,7 +122,6 @@ Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
 Sophie's World, Jostein Gaarder
 Spy Catcher, Peter Wright
-Spy the Lie, Philip Houston
 St. Marks Is Dead, Ada Calhoun
 Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
@@ -468,3 +467,4 @@ When Breath Becomes Air, Paul Kalanithi
 Spycraft, Robert Wallace
 The Vital Question, Nick Lane [x]
 The Girl on the Train, Paula Hawkins
+Spy the Lie, Philip Houston
