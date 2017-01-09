@@ -1,5 +1,8 @@
 
-
+change artifact to dropdown
+change platform to dropdown
+change env/bucket to dropdown
+change location to dropdown
 
 part 2: scheduling of dropoff of data
 ===============
@@ -53,5 +56,7 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/03/17: [13:00 - 14:00, ] ()
-  * fix templates dropdown on /addReportDefinition
+01/08/17: [21:30 - ] ()
+  * fix salesforce clients not showing up in datadelivery on prod
+  * change data catalog portion of delivery items to dropdowns
+  * 
