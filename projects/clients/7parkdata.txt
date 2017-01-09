@@ -1,8 +1,7 @@
 
-change artifact to dropdown
-change platform to dropdown
-change env/bucket to dropdown
-change location to dropdown
+make edit data catalog item a modal
+make edit delivery item a modal
+work on scheduling
 
 part 2: scheduling of dropoff of data
 ===============
@@ -57,6 +56,4 @@ reportdefinitions.report_id is report definition id
 hours
 ====
 01/08/17: [21:30 - ] ()
-  * fix salesforce clients not showing up in datadelivery on prod
-  * change data catalog portion of delivery items to dropdowns
   * 
