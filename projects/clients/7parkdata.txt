@@ -1,6 +1,4 @@
 
-make edit data catalog item a modal
-make edit delivery item a modal
 work on scheduling
 
 part 2: scheduling of dropoff of data
@@ -55,5 +53,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/08/17: [21:30 - ] ()
+01/10/17: [] ()
   * 
