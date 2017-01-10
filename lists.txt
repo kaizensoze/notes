@@ -1,5 +1,5 @@
 
-
+read
 
 rock climbing
 pick up cliff shot chocolate cherry at cvs
@@ -44,9 +44,8 @@ movies
   Christine
 
 health stack
-  steel cut oats (chew and spit out)
+  steel cut oats
   CLA [naturewise CLA 1250]
-  fish oil [dr. tobias]
   D3 w/ olive oil (on days staying in)
   cliff shots (chocolate cherry)
   workout
