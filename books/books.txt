@@ -27,7 +27,6 @@ Children of the New World, Alexander Weinstein
 City of Dreams, Tyler Anbinder
 Cloud Atlas, David Mitchell
 Columbine, Dave Cullen
-Confessions of an Economic Hit Man, John Perkins
 Contact, Carl Sagan
 Cosmos, Carl Sagan
 Coup d'État: A Practical Handbook, Edward N. Luttwak
@@ -42,7 +41,6 @@ Deep Work, Cal Newport
 Discworld, Terry Pratchett
 Doctor Sleep, Stephen King
 Don Quixote, Miguel de Cervantes
-Don't Let My Baby Do Rodeo, Boris Fishman
 Dragonriders of Pern, Anne McCaffrey
 Dreamland, Sam Quinones
 Einstein: His Life and Universe, Walter Isaacson
@@ -55,7 +53,6 @@ Fahrenheit 451, Ray Bradbury
 Fermat's Enigma, Simon Singh
 Finders Keepers, Stephen King
 Full Dark No Stars, Stephen King
-Furiously Happy, Jenny Lawson
 Futuristic Violence and Fancy Suits, David Wong
 Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
@@ -101,7 +98,6 @@ Odyssey, Homer
 Of Human Bondage, W. Somerset Maugham
 Oliver Twist, Charles Dickens
 On Killing, Dave Grossman
-Our Band Could Be Your Life, Michael Azerrad
 Overcomplicated, Samuel Arbesman
 Penpal, Dathan Auerbach
 Perdido Street Station, China Mieville
@@ -118,7 +114,7 @@ Sandman Slim, Richard Kadrey
 Seinfeldia, Jennifer Armstrong
 Seveneves, Neal Stephenson
 Shoe Dog, Phil Knight
-Silence on the Wire, Michael Zalewski
+Silence on the Wire, Michal Zalewski
 Solaris, Ray Bradbury
 Something Wicked This Way Comes, Ray Bradbury
 Sophie's World, Jostein Gaarder
@@ -164,7 +160,6 @@ The Good Earth, Pearl S. Buck
 The Good Soldiers, David Finkel
 The Great Bridge, David McCullough
 The Greater Journey, David McCullough
-The Grid, Gretchen Bakke
 The Hardware Hacker, Andrew Huang
 The Immortal Life of Henrietta Lacks, Rebecca Skloot
 The Intelligent Investor, Benjamin Graham
@@ -201,7 +196,6 @@ The Society of Mind, Marvin Minsky
 The Sovereign Individual, James Dale Davidson
 The Spy Who Came in from the Cold, John le Carre
 The Stand, Stephen King
-The Subtle Art of Not Giving a F*ck, Mark Manson
 The Tales of Beedle the Bard, J.K. Rowling
 The Technology of Orgasm, Rachel Maines
 The Three-Body Problem, Liu Cixin
@@ -215,7 +209,6 @@ This Book Is Full of Spiders, David Wong
 This Will Change Everything, John Brockman
 Time Warp Trio series, Jon Scieszka
 Tinker, Tailor, Soldier, Spy, John le Carre
-Tools of Titans, Tim Ferriss
 Tribe: On Homecoming and Belonging
 Tubes, Andrew Blum
 Twenty Thousand Leagues Under the Sea, Jules Verne
@@ -460,6 +453,7 @@ Girl in a Band, Kim Gordon [x]
 NOS4A2, Joe Hill [x]
 Sexus, Henry Miller [x]
 Reamde, Neal Stephenson [x]
+Confessions of an Economic Hit Man, John Perkins
 Angela's Ashes, Frank McCourt [x]
 A Tree Grows in Brooklyn, Betty Smith [x]
 Against All Enemies, Richard Clarke [x]
@@ -469,3 +463,5 @@ Spycraft, Robert Wallace
 The Vital Question, Nick Lane [x]
 The Girl on the Train, Paula Hawkins
 Spy the Lie, Philip Houston
+Tools of Titans, Tim Ferriss [x]
+Furiously Happy, Jenny Lawson [x]

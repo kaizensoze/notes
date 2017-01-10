@@ -1,10 +1,6 @@
 
-read
-
-rock climbing
-pick up cliff shot chocolate cherry at cvs
 7parkdata
-hack manhattan meetup
+pick up cliff shot chocolate cherry at cvs
 call emblemhealth about in-network providers for dentist
 
 wipe laptop and put livia's photos on it
@@ -25,6 +21,7 @@ activities
   biking
 
 tv
+  The Crown [netflix]
   Futurama [netflix]
   Lie to Me S01E08 [netflix]
   Planet Earth S02E04
