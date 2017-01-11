@@ -228,6 +228,7 @@ httpie
   http httpie.org
   http httpie.org --style autumn (other decent options: native, solarized)
   http -f POST example.org this="A" that="B"
+  http -v -f POST http://127.0.0.1:8080/setReportInstanceSubject reportInstanceId="800" subject="TESTREPORT"
 
 imagemagick
   identify -verbose [image]

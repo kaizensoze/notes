@@ -1,9 +1,5 @@
 
-http -v -f POST 127.0.0.1:8080/setReportInstanceSubject "reportInstanceId=800&subject='TESTENV: Product Intel: ATVI Monetization 4/1'"
-
-800, TESTREPORT
-
-distro: 54.82.204.54
+distro prod: 54.82.204.54
 
 work on scheduling
 
@@ -59,6 +55,7 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/11/17: [13:30 - ] ()
+01/11/17: [13:30 - 15:30] ()
   * slack call
+  * add /setReportInstanceSubject endpoint
   * 

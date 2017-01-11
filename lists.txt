@@ -1,5 +1,7 @@
 
+shower
 7parkdata
+ask about status of alpha lipoic acid
 
 rock climbing
 patel brothers run (roti, etc.)
@@ -9,7 +11,7 @@ wipe laptop and put livia's photos on it
 call emblemhealth about in-network providers for dentist
 
 thought experiments
-  brave
+  sendbird
   another server-side swift performance comparison on aws (t2.micro)
   github api wrapper in swift
   collaborative open source contribution platform
@@ -22,15 +24,6 @@ activities
   shooting range: https://www.yelp.com/biz/west-side-rifle-and-pistol-range-new-york?osq=shooting+range
   tech meetup
   biking
-
-tv
-  The Crown [netflix]
-  Futurama [netflix]
-  Lie to Me S01E08 [netflix]
-  Planet Earth S02E04
-  Homeland (01/15)
-  I'm Dying Up Here
-  sense8
 
 movies
   Cooked [netflix]
@@ -62,6 +55,15 @@ movies
   The Edge of Seventeen
   Stretch & Bobbito: Radio That Changed Lives
   Christine
+
+tv
+  The Crown [netflix]
+  Futurama [netflix]
+  Lie to Me S01E08 [netflix]
+  Planet Earth S02E04
+  Homeland (01/15)
+  I'm Dying Up Here
+  sense8
 
 health stack
   steel cut oats
