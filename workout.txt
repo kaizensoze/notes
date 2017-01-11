@@ -437,3 +437,9 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   pushups: 80
   chest resistance band stretch: 2x8
   myotatic crunch: 80
+
+2016-01-10:
+  lying leg raise (8s/notch): 30
+  bicep curl (30 lb): 2x8, 1x4
+  chest press (30 lb): 8, 8, 12
+  myotatic crunch: 200
