@@ -227,6 +227,7 @@ heroku
 httpie
   http httpie.org
   http httpie.org --style autumn (other decent options: native, solarized)
+  http -f POST example.org this="A" that="B"
 
 imagemagick
   identify -verbose [image]
