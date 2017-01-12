@@ -1,7 +1,9 @@
 
+7parkdata
+netflix
+
 rock climbing
 makey makey
-7parkdata
 
 start going to nerdy meetups
 wipe laptop and put livia's photos on it
@@ -38,7 +40,6 @@ movies
   Rats [netflix]
   Room 237 [netflix]
   Seymour: An Introduction [netflix]
-  Tig [netflix]
   Under the Sun [netflix]
   13th [netflix]
   The Witness [netflix]

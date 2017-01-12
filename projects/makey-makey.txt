@@ -1,4 +1,3 @@
-go through contract
 create google doc with results of research
 test raspbian
 test retropie
