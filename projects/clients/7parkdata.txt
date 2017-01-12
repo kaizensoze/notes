@@ -55,12 +55,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/11/17: [13:30 - 15:30, 18:30 - ] ()
-  * slack call
-  * add /setReportInstanceSubject endpoint
-  * have /uploadS3Report take reportInstanceId param
-  * if user is logged in, log uploadS3 action; allow uploading to S3 while not logged in to site
-  * log setReportInstanceSubject action if logged in
-  * small change to /getReportAttachmentsById
-  * fix mysql cursor error in /getCommentsByInstanceId
+01/12/17: [] ()
   * 

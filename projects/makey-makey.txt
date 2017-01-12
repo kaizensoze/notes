@@ -1,0 +1,3 @@
+go through contract
+order raspberry pi 3
+research best gui os to run on raspberry pi 3
