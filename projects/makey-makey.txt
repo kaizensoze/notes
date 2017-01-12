@@ -1,3 +1,13 @@
 go through contract
-order raspberry pi 3
-research best gui os to run on raspberry pi 3
+create google doc with results of research
+test raspbian
+test retropie
+test raspbian + kivy
+
+2017-01-12 [] ()
+  * 
+
+2017-01-11 [22:45 - 23:45] (1)
+  * research best os for raspberry pi 3 B
+  * research best programming language for raspberry pi
+  * research best gui library for raspberry pi
