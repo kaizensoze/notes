@@ -1,5 +1,8 @@
 
+workout
+book thief
 mail rent
+library
 7parkdata
 joybox research
 
@@ -31,14 +34,8 @@ activities
   biking
 
 movies
-  Lemmy [netflix]
-  Cooked [netflix]
-  Into the Inferno [netflix]
-  Seymour: An Introduction [netflix]
   Under the Sun [netflix]
-  The Witness [netflix]
   20th Century Women
-  La La Land
   A Monster Calls
   Paterson
   Silence
