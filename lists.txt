@@ -1,7 +1,5 @@
 
-read
-netflix
-
+mail rent
 7parkdata
 joybox research
 
