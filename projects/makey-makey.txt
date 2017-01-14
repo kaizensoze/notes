@@ -1,7 +1,7 @@
-create google doc with results of research
 test raspbian
 test retropie
 test raspbian + kivy
+test scratch 3 on all OS's
 
 2017-01-12 [] ()
   * 

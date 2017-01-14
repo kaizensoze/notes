@@ -1,15 +1,22 @@
 
-walk willy
+read
 netflix
 
-rock climbing
 7parkdata
-makey makey
+joybox research
 
+join the cliffs
+look into guitar
+freshdirect order
+patel brothers run
+
+pick up cotton balls
 start going to nerdy meetups
+schmoocon videos
 wipe laptop and put livia's photos on it
 call emblemhealth about in-network providers for dentist
 watch dogs 2
+network security assessment book
 
 thought experiments
   sendbird
@@ -20,29 +27,17 @@ thought experiments
   iot inventory
 
 activities
-  the cliffs
   krav maga: https://www.yelp.com/biz/krav-maga-academy-new-york
   shooting range: https://www.yelp.com/biz/west-side-rifle-and-pistol-range-new-york?osq=shooting+range
   tech meetup
   biking
 
 movies
-  Cooked [netflix]
-  Encounters at the End of the World [netflix]
-  Finding Vivian Maier [netflix]
-  How to Survive a Plague [netflix]
-  Into the Inferno [netflix]
-  Into the Abyss [netflix]
   Lemmy [netflix]
-  Marley [netflix]
-  My Beautiful Broken Brain [netflix]
-  The Overnighters [netflix]
-  Pervert Park [netflix]
-  Rats [netflix]
-  Room 237 [netflix]
+  Cooked [netflix]
+  Into the Inferno [netflix]
   Seymour: An Introduction [netflix]
   Under the Sun [netflix]
-  13th [netflix]
   The Witness [netflix]
   20th Century Women
   La La Land
@@ -58,6 +53,7 @@ movies
 
 tv
   The Crown [netflix]
+  Dirk Gently's Holistic Detective Agency
   Futurama [netflix]
   Lie to Me S01E08 [netflix]
   Planet Earth S02E04
