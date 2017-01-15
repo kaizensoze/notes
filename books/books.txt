@@ -136,7 +136,6 @@ The Better Angels of Our Nature, Steven Pinker
 The Billion Dollar Spy, David E. Hoffman
 The Bonfire of the Vanities, Tom Wolfe
 The Book, Alan Watts
-The Book Thief, Markus Zusak
 The Brothers Karamazov, Fyodor Dostoevsky
 The Cartel: A novel, Don Winslow
 The City of Tomorrow, Carlo Ratti
@@ -468,3 +467,4 @@ The Girl on the Train, Paula Hawkins
 Spy the Lie, Philip Houston
 Tools of Titans, Tim Ferriss [x]
 Furiously Happy, Jenny Lawson [x]
+The Book Thief, Markus Zusak
