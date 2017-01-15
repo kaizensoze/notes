@@ -6,6 +6,7 @@ Algorithms to Live By, Brian Christian
 Anna Karenina, Leo Tolstoy
 Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford Pickover
 Atlas Shrugged, Ayn Rand
+Auschwitz: A Doctor's Eyewitness Account, Miklos Nyiszli
 A Bug Hunter's Diary, Tobias Klein
 A Man Called Ove, Fredrik Backman
 A Tale of Two Cities, Charles Dickens
@@ -41,6 +42,7 @@ David Copperfield, Charles Dickens
 Deep Work, Cal Newport
 Discworld, Terry Pratchett
 Doctor Sleep, Stephen King
+Doctors from Hell, Vivien Spitz
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
 Dreamland, Sam Quinones
@@ -67,6 +69,7 @@ Hacking: The Art of Exploitation, Jon Erickson
 Hillbilly Elegy, J. D. Vance
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
+Home Workshop Explosives, Uncle Fester
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
 Hunger, Knut Hamsun
 Hyperbole and a Half, Allie Brosh
@@ -103,11 +106,14 @@ Of Human Bondage, W. Somerset Maugham
 Oliver Twist, Charles Dickens
 On Killing, Dave Grossman
 Overcomplicated, Samuel Arbesman
+Operation Nemesis, Eric Bogosian
 Penpal, Dathan Auerbach
 Perdido Street Station, China Mieville
 Philosophy in the Bedroom, Marquis de Sade
 Plague Dogs, Richard Adams
 Player Piano, Kurt Vonnegut
+Poison, Dr. Mark Siddall
+Poisons, Peter Macinnis
 Portnoy's Complaint, Philip Roth
 Rabid: A Cultural History of the World's Most Diabolical Virus, Bill Wasik
 Regenesis, George M. Church
@@ -140,6 +146,7 @@ The Book, Alan Watts
 The Brothers Karamazov, Fyodor Dostoevsky
 The Cartel: A novel, Don Winslow
 The Center Cannot Hold, Elyn R. Saks
+The Chemistry of Powder and Explosives, Tenney L. Davis
 The City of Tomorrow, Carlo Ratti
 The Corpse Reader, Antonio Garrido
 The Corrections, Jonathan Franzen
@@ -185,6 +192,7 @@ The Once and Future King, T.H. White
 The Panda's Thumb, Stephen Jay Gould
 The Pentagon's Brain, Annie Jacobsen
 The Pigeon Tunnel, John le Carre
+The Poisoner's Handbook, Deborah Blum
 The Power Broker, Robert A. Caro, page: 25
 The Power of your Subconscious Mind, Joseph Murphy
 The Promise of a Pencil, Adam Braun
@@ -216,6 +224,7 @@ Tinker, Tailor, Soldier, Spy, John le Carre
 Tribe: On Homecoming and Belonging
 Tubes, Andrew Blum
 Twenty Thousand Leagues Under the Sea, Jules Verne
+U.S. Army Improvised Munitions Handbook, Mr. Army
 Valley of the Dolls, Jacqueline Susann
 Vengeance, George Jonas
 War and Peace, Leo Tolstoy
@@ -225,6 +234,7 @@ When Google Met Wikileaks, Julian Assange
 When the Killing's Done, T.C. Boyle
 Whiplash: How to Survive Our Faster Future, Joi Ito
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
+Wicked Plants, Amy Stewart
 Work Rules!, Laszlo Bock
 World Order, Henry Kissinger
 You'll Grow Out of It, Jessi Klein
