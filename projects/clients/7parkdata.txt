@@ -1,7 +1,7 @@
 
-distro prod: 54.82.204.54
+add Time field to scheduling UI
 
-work on scheduling
+distro prod: 54.82.204.54
 
 part 2: scheduling of dropoff of data
 ===============
@@ -55,5 +55,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/12/17: [] ()
+01/17/17: [] ()
   * 
