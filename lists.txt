@@ -1,12 +1,13 @@
 
-patel brothers run
+shower
 7parkdata
 joybox research
 
-look into guitar
-start going to nerdy meetups
 schmoocon videos
+krav maga
 wipe laptop and put livia's photos on it
+start going to nerdy meetups
+look into guitar
 call emblemhealth about in-network providers for dentist
 watch dogs 2
 network security assessment book
@@ -20,9 +21,8 @@ thought experiments
   iot inventory
 
 activities
-  krav maga: https://www.yelp.com/biz/krav-maga-academy-new-york
-  shooting range: https://www.yelp.com/biz/west-side-rifle-and-pistol-range-new-york?osq=shooting+range
-  tech meetup
+  krav maga
+  shooting range
   biking
 
 movies
@@ -52,7 +52,6 @@ tv
 health stack
   muscle milk (make sure no soy lecithin)
   steel cut oats
-  D3 w/ olive oil (on days staying in)
   cliff shots (chocolate cherry)
   workout
   rock climbing
