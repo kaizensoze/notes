@@ -1,6 +1,6 @@
 
-workout
 7parkdata
+freshdirect
 joybox research
 
 7parkdata
@@ -49,6 +49,7 @@ tv
   Dirk Gently's Holistic Detective Agency
   Portlandia S07E03 (01/19)
   Homeland S06E01 (01/22)
+  Last Week Tonight (02/12)
   Lie to Me S01E08 [netflix]
   Planet Earth S02E04
   I'm Dying Up Here

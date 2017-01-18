@@ -478,8 +478,8 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   rock climbing (5.10, 5.10, V3 cave, 2xV4 45 deg attempts)
   
 2016-01-18:
-  lying leg raise (8s/notch): 
-  myotatic crunch (8s/rep): 
-  chest press (30 lb): 
-  chest fly (30 lb): 
-  bicep curl (30 lb): 
+  chest press (30 lb): 4x12
+  chest fly (30 lb): 3x12, 16
+  bicep curl (30 lb): 8, 8, 7
+  lying leg raise (8s/notch): 20
+  myotatic crunch (8s/rep): 12
