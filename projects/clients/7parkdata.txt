@@ -1,5 +1,4 @@
 
-have add/update/schedule delivery item add data attributes for start/end
 fix dataset select in edit delivery item form
 
 distro prod: 54.82.204.54
@@ -56,5 +55,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/19/17: [13:00 - ] ()
+01/20/17: [] ()
   * 
