@@ -1,5 +1,6 @@
 
-add Time field to scheduling UI
+have add/update/schedule delivery item add data attributes for start/end
+fix dataset select in edit delivery item form
 
 distro prod: 54.82.204.54
 
@@ -55,5 +56,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/17/17: [] ()
+01/19/17: [] ()
   * 
