@@ -1,6 +1,4 @@
 
-read
-
 7parkdata
 guidepoint
 rock climbing
