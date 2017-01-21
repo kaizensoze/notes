@@ -497,7 +497,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   start weight: 
   chest press (30 lb): 3x16
   chest fly (30 lb): 3x15
-  bicep curl (30 lb): 
-  lying leg raise (8s/notch): ?
-  myotatic crunch (8s/rep): ?
+  bicep curl (30 lb): 3x8
+  lying leg raise (8s/notch): 30
+  myotatic crunch (8s/rep): x
   end weight: 
