@@ -1,12 +1,10 @@
 
-7parkdata
+wipe laptop and put livia's photos on it
+scan hfc 1099
 guidepoint
-rock climbing
 joybox
 
 krav maga
-
-wipe laptop and put livia's photos on it
 
 schmoocon videos
 start going to nerdy meetups
@@ -22,11 +20,6 @@ thought experiments
   collaborative open source contribution platform
   learn tensorflow
   iot inventory
-
-activities
-  krav maga
-  shooting range
-  biking
 
 movies
   Under the Sun [netflix]
@@ -45,8 +38,8 @@ tv
   Futurama [netflix]
   The Crown [netflix]
   Dirk Gently's Holistic Detective Agency
-  Portlandia S07E03 (01/19)
   Homeland S06E01 (01/22)
+  Portlandia S07E03 (01/26)
   Last Week Tonight (02/12)
   Lie to Me S01E08 [netflix]
   Planet Earth S02E04
