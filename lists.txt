@@ -24,7 +24,6 @@ thought experiments
 movies
   Under the Sun [netflix]
   20th Century Women
-  A Monster Calls
   Paterson
   Silence
   Gimme Danger
@@ -33,13 +32,14 @@ movies
   The Edge of Seventeen
   Stretch & Bobbito: Radio That Changed Lives
   Christine
+  Split
 
 tv
   Futurama [netflix]
   The Crown [netflix]
   Dirk Gently's Holistic Detective Agency
   Homeland S06E01 (01/22)
-  Portlandia S07E03 (01/26)
+  Portlandia S07E04 (01/26)
   Last Week Tonight (02/12)
   Lie to Me S01E08 [netflix]
   Planet Earth S02E04
