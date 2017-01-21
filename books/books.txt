@@ -238,7 +238,6 @@ Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 Wicked Plants, Amy Stewart
 Work Rules!, Laszlo Bock
 World Order, Henry Kissinger
-You'll Grow Out of It, Jessi Klein
 
 DONE
 A Short History of Nearly Everything, Bill Bryson
@@ -483,3 +482,4 @@ The Book Thief, Markus Zusak
 They Can't Kill Us All, Wesley Lowery [x]
 St. Marks Is Dead, Ada Calhoun
 The Once and Future King, T.H. White [x]
+You'll Grow Out of It, Jessi Klein [x]

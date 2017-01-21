@@ -494,7 +494,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   end weight: 140
 
 2016-01-21:
-  start weight: 
+  start weight: 139
   chest press (30 lb): 3x16
   chest fly (30 lb): 3x15
   bicep curl (30 lb): 3x8
