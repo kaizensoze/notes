@@ -504,4 +504,12 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 2016-01-22:
   start weight: 139
   rock climbing
+
+2016-01-23:
+  start weight: 138
+  chest press (30 lb): 
+  chest fly (30 lb): 
+  bicep curl (30 lb): 
+  lying leg raise (8s/notch): 
+  myotatic crunch (8s/rep): 
   

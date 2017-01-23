@@ -1,11 +1,11 @@
 https://www.vehiclehistory.com/licence-plate-search/licence-plate.php
 422YAH
-ZCK3623 (doesn't show in database lookup)
+ZCK3623 (doesn't show in database lookup; now does)
 FXM8301 or FLM8301 (latter doesn't show in database lookup)
 EWX4610
 DYN9939 -> ACH9907 (why get a new plate?)
 ACH9907 (marist sticker on rear window; irrelevant)
-HDU5239 (new infiniti)
 BDG6491
 CYN4517 (red car outside house with black corolla (BDG6491))
-HDU5239 (new car, check again)
+HDU5239 (new infiniti)
+BKU1433 (agoraphobics)
