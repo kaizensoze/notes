@@ -1,21 +1,22 @@
 
-send thank you card with shitty stale fruitcake
+7parkdata
+guidepoint
+
+rock climbing
+pick up fruit cake from patel brothers
   National Security Agency
   9800 Savage Rd., Suite 6272
   Ft. George G. Meade, MD 20755-6000
+calculate depressingly high monthly costs of renting a house
 
-guidepoint
-joybox
-
-krav maga
 guitar (Rudy's Music (461 Broome St))
+krav maga
 schmoocon videos
 start going to nerdy meetups
 call emblemhealth about in-network providers for dentist
 network security assessment book
 
 thought experiments
-  sendbird
   another server-side swift performance comparison on aws (t2.micro)
   github api wrapper in swift
   collaborative open source contribution platform
