@@ -1,8 +1,7 @@
 
 fix dataset select in edit delivery item form
-check github tickets
 
-distro prod: 54.82.204.54
+distro prod: http://54.82.204.54:8080/
 
 part 2: scheduling of dropoff of data
 ===============
@@ -56,5 +55,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/20/17: [] ()
+01/25/17: [] ()
   * 
