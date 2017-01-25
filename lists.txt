@@ -1,9 +1,7 @@
 
 7parkdata
-shower
-library
 guidepoint
-okcupid date
+okcupid date (leave by 17:00)
 
 rock climbing
 pick up fruit cake
@@ -12,9 +10,12 @@ pick up fruit cake
   Ft. George G. Meade, MD 20755-6000
 
 guitar (Rudy's Music (461 Broome St))
+
+look around for project manager jobs
+
+start going to nerdy meetups
 krav maga
 schmoocon videos
-start going to nerdy meetups
 call emblemhealth about in-network providers for dentist
 network security assessment book
 

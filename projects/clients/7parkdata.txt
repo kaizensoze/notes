@@ -55,5 +55,7 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/25/17: [10:30 - ] ()
+01/25/17: [10:30 - 14:00, 15:00 - ] ()
+  * only add ungenerated report instances to reportque
+  * manually merge develop into master and resolve conflicts
   * 
