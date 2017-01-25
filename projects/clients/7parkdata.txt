@@ -1,5 +1,5 @@
 
-fix dataset select in edit delivery item form
+
 
 distro prod: http://54.82.204.54:8080/
 
@@ -58,4 +58,6 @@ hours
 01/25/17: [10:30 - 14:00, 15:00 - ] ()
   * only add ungenerated report instances to reportque
   * manually merge develop into master and resolve conflicts
+  * look into dataset select in edit delivery item form
+  * add todo to implement /deliverScheduledItems
   * 
