@@ -3,7 +3,7 @@ just a friendly reminder:
   build him up and tear him down
   you are naturally happy and infuriatingly annoying to those who shall not be named
 
-(some of this humor is in really poor taste retrspectively)
+(some of this humor is in really poor taste retrospectively)
 
 Hi, I was looking to buy this oven and I was just wondering how many Jewish people it fits.
 
@@ -21,6 +21,7 @@ modules
   general manipulation
   refeathering
   substitution
+  reset
 
 [In]dominus Rex
 Rabinus Rex
