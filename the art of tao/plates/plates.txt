@@ -12,7 +12,7 @@ PLATES (random comments of note; I'm sure some of these are red herrings)
 ZCK3623 PA
 FXM8301 (or FLM8301)
 EWX4610
-DYN9939 -> ACH9907 -> HLX6252
+DYN9939 -> ACH9907 [-> HLX6252]
 BDG6491
 CYN4517 (red car outside house with black corolla (BDG6491))
 HDU5239 (new infiniti)
@@ -24,5 +24,6 @@ JZB3979 PA
 EMG5422
 AJH3841
 ECB7145
+HLX6252
 
-does nsa have a deal with infiniti?
+does nsa have an affinity for infiniti?
