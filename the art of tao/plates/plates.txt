@@ -1,12 +1,23 @@
-https://www.vehiclehistory.com/licence-plate-search/licence-plate.php
-422YAH
-ZCK3623 (doesn't show in database lookup; now does)
-FXM8301 or FLM8301 (latter doesn't show in database lookup)
+some license plates of suspicious cars I've spotted at some point in time
+
+(NY unless otherwise stated)
+
+use https://www.vehiclehistory.com/licence-plate-search/licence-plate.php
+
+you need to look up the plate right after spotting it. they recycle it to civvies and it'll show up at a later time.
+
+422YAH (fed)
+ZCK3623 PA
+FXM8301 (or FLM8301)
 EWX4610
-DYN9939 -> ACH9907 (why get a new plate?)
+DYN9939 -> ACH9907
 ACH9907 (marist sticker on rear window; irrelevant)
 BDG6491
 CYN4517 (red car outside house with black corolla (BDG6491))
 HDU5239 (new infiniti)
 BKU1433 (agoraphobics)
-CYN298[89] (2 iranian girls)
+CYN2989 (or CYN2988, not sure) (2 iranian girls)
+EPJ6820
+JZB3979 PA
+EMG5422
+AJH3841
