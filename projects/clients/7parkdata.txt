@@ -1,6 +1,4 @@
 
-
-
 distro prod: http://54.82.204.54:8080/
 
 part 2: scheduling of dropoff of data
