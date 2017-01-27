@@ -1,4 +1,7 @@
 
+add those two functions to every fucking file
+add lines to generateReport
+
 distro prod: http://54.82.204.54:8080/
 
 part 2: scheduling of dropoff of data
@@ -53,5 +56,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-01/26/17: [] ()
+01/27/17: [08:30 - ] ()
   * 
