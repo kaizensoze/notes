@@ -18,7 +18,9 @@ modules
   earworm
   pheromone
   refeathering
+  blurry vision
   repetition
+  "mom, you're embarrassing me"
   movement detected
   target acquired
   opposite
