@@ -12,14 +12,17 @@ Customer Service: How so?
 Me: Well I can't fit any Jewish people in it.
 
 modules
-  target acquired
-  earworm
-  repetition
   relationships
-  opposite
+  delayed input
+  ocd
+  earworm
   pheromone
-  general manipulation
   refeathering
+  repetition
+  movement detected
+  target acquired
+  opposite
+  general manipulation
   substitution
   reset
 
