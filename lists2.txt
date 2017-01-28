@@ -1,4 +1,6 @@
 
+(obviously all material for a ridiculous sci fi book below)
+
 modules
   relationships
   delayed input
@@ -21,6 +23,31 @@ modules
   general manipulation
   substitution
   reset
+
+briefly turn off heat
+briefly turn off hot water
+mess up your phone connection so other person can't understand you and gets annoyed
+intercept uber ride
+hijack pheromones
+control digestion (metabolism) [can maintain certain weight]
+have people around you not understand you and/or forget things
+have people around you talk really loudly trying to embarrass you so others hear
+have people hear something different than what you're saying (reverse earworm) [unconfirmed]
+remote control for hackable things like sensor lights
+wake you up at certain times
+control arousal
+adjust body temperature or perception thereof
+control sweating
+locomotive control (facial expressions, laugh, smile, raise eyebrows, etc.)
+control behavior (depressed, want to cry, giddy, etc.)
+hack electronics
+prevent things from going through (phone calls, emails, skype calls, signal, you get the idea)
+leaving stale bread on your garden hose
+throwing shit in your backyard for your dog to eat as a psych-out
+reverse tailing
+cars driving around
+random new cars parked around your house/apartment/whatever
+
 
 rent
 ====
