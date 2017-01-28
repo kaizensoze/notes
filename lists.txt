@@ -1,6 +1,5 @@
 
 pick up bottle of abilify
-guitar (Rudy's Music (461 Broome St))
 
 7parkdata
 guidepoint
@@ -27,7 +26,6 @@ movies
   Paterson
   Silence
   Gimme Danger
-  Manchester By the Sea
   Traceroute
   The Edge of Seventeen
   Stretch & Bobbito: Radio That Changed Lives
@@ -47,7 +45,6 @@ tv
   sense8
 
 health stack
-  muscle milk (make sure no soy lecithin)
   steel cut oats
   cliff shots (chocolate cherry)
   workout
