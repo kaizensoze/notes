@@ -54,6 +54,7 @@ general persuasion like wanting to talk out loud, sign, etc.
 confusion
 hunger/appetite
 hydration
+concentration
 
 rent
 ====
