@@ -12,6 +12,7 @@ modules
   repetition
   "mom, you're embarrassing me"
   "can't stop sneezing"
+  dissociation
   movement detected
   target acquired
   opposite
