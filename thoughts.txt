@@ -26,6 +26,7 @@ modules
   blurry vision
   repetition
   "mom, you're embarrassing me"
+  "can't stop sneezing"
   movement detected
   target acquired
   opposite
