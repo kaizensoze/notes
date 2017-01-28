@@ -16,24 +16,6 @@ Me: Hi, I ordered this easy bake oven and it seems defective.
 Customer Service: How so?
 Me: Well I can't fit any Jewish people in it.
 
-modules
-  relationships
-  delayed input
-  ocd
-  earworm
-  pheromone
-  refeathering
-  blurry vision
-  repetition
-  "mom, you're embarrassing me"
-  "can't stop sneezing"
-  movement detected
-  target acquired
-  opposite
-  general manipulation
-  substitution
-  reset
-
 [In]dominus Rex
 Rabinus Rex
 

@@ -1,4 +1,23 @@
 
+modules
+  relationships
+  delayed input
+  ocd
+  earworm
+  pheromone
+  refeathering
+  word salad
+  blurry vision
+  repetition
+  "mom, you're embarrassing me"
+  "can't stop sneezing"
+  movement detected
+  target acquired
+  opposite
+  general manipulation
+  substitution
+  reset
+
 rent
 ====
 2600 rent
