@@ -24,7 +24,6 @@ movies
   Under the Sun [netflix]
   20th Century Women
   Paterson
-  Silence
   Gimme Danger
   Traceroute
   The Edge of Seventeen

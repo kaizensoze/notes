@@ -55,6 +55,7 @@ confusion
 hunger/appetite
 hydration
 concentration
+boxing ears (block hearing)
 
 rent
 ====
