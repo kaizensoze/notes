@@ -32,8 +32,8 @@ movies
 tv
   Futurama [netflix]
   The Crown [netflix]
-  Homeland S06E03 (01/29)
   Portlandia S07E05 (02/02)
+  Homeland S06E04 (02/05)
   Last Week Tonight (02/12)
   Lie to Me S01E08 [netflix]
   Planet Earth S02E04
