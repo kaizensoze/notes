@@ -14,6 +14,7 @@ Basic Economics, Thomas Sowell, page: 38
 Being Mortal: Medicine and What Matters in the End, Atul Gawande
 Benjamin Franklin: An American Life, Walter Isaacson
 Black Flags: The Rise of ISIS, Joby Warrick
+Blackwater, Jeremy Scahill
 Bleeding Edge, Thomas Pynchon
 Blitzed: Drugs in the Third Reich, Norman Ohler
 Body of Secrets, James Bamford
@@ -39,6 +40,7 @@ Daring Greatly, Brené Brown
 Dark Money, Jane Mayer
 David Copperfield, Charles Dickens
 Deep Work, Cal Newport
+Dirty Wars: The World Is a Battlefield, Jeremy Scahill
 Discworld, Terry Pratchett
 Doctor Sleep, Stephen King
 Doctors from Hell, Vivien Spitz
@@ -57,7 +59,6 @@ Fearless, Eric Blehm
 Fermat's Enigma, Simon Singh
 Finders Keepers, Stephen King
 Full Dark No Stars, Stephen King
-Futuristic Violence and Fancy Suits, David Wong
 Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Get in the Van, Henry Rollins
@@ -139,6 +140,7 @@ Team of Rivals, Doris Kearns Goodwin
 Tesla: Inventor of the Electrical Age, W. Bernard Carlson
 The Alienist, Caleb Carr
 The Amazing Adventures of Kavalier & Clay, Michael Chabon
+The Assassination Complex, Jeremy Scahill
 The Bell Jar, Sylvia Plath
 The Best Democracy Money Can Buy, Greg Palast
 The Better Angels of Our Nature, Steven Pinker
@@ -219,7 +221,6 @@ The Trouble With Testosterone, Robert Sapolsky
 The View from the Cheap Seats, Neil Gaiman
 The WikiLeaks Files: The World According to US Empire, Julian Assange
 The Wise Men, Walter Isaacson
-This Book Is Full of Spiders, David Wong
 This Will Change Everything, John Brockman
 Time Warp Trio series, Jon Scieszka
 Tinker, Tailor, Soldier, Spy, John le Carre
@@ -485,3 +486,5 @@ St. Marks Is Dead, Ada Calhoun
 The Once and Future King, T.H. White [x]
 You'll Grow Out of It, Jessi Klein [x]
 A Thousand Splendid Suns, Khaled Hosseini [x]
+This Book Is Full of Spiders, David Wong [x]
+Futuristic Violence and Fancy Suits, David Wong [x]
