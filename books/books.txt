@@ -10,7 +10,6 @@ Auschwitz: A Doctor's Eyewitness Account, Miklos Nyiszli
 A Bug Hunter's Diary, Tobias Klein
 A Man Called Ove, Fredrik Backman
 A Tale of Two Cities, Charles Dickens
-A Thousand Splendid Suns, Khaled Hosseini
 Basic Economics, Thomas Sowell, page: 38
 Being Mortal: Medicine and What Matters in the End, Atul Gawande
 Benjamin Franklin: An American Life, Walter Isaacson
@@ -485,3 +484,4 @@ They Can't Kill Us All, Wesley Lowery [x]
 St. Marks Is Dead, Ada Calhoun
 The Once and Future King, T.H. White [x]
 You'll Grow Out of It, Jessi Klein [x]
+A Thousand Splendid Suns, Khaled Hosseini [x]
