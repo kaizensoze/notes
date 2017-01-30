@@ -1,5 +1,6 @@
 13 Hours, Mitchell Zuckoff
 A Mother's Reckoning, Sue Klebold
+A Problem from Hell, Samantha Power
 A Thousand Naked Strangers, Kevin Hazzard
 Alexander Hamilton, Ron Chernow
 Algorithms to Live By, Brian Christian
@@ -121,6 +122,7 @@ Portnoy's Complaint, Philip Roth
 Rabid: A Cultural History of the World's Most Diabolical Virus, Bill Wasik
 Regenesis, George M. Church
 Rendezvous with Rama, Arthur C Clarke
+Relentless Strike, Sean Naylor
 Revenge of the Kremlin, Gérard de Villiers
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
@@ -137,6 +139,7 @@ Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
 Team of Rivals, Doris Kearns Goodwin
+Team of Teams, Stanley McChrystal 
 Tesla: Inventor of the Electrical Age, W. Bernard Carlson
 The Alienist, Caleb Carr
 The Amazing Adventures of Kavalier & Clay, Michael Chabon
