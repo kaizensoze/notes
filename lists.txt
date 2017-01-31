@@ -1,18 +1,15 @@
 
+7parkdata
+
+rock climbing
 
 tonic water
-
 guidepoint
 dog park (70-33 260th St, Glen Oaks, NY 11004)
 
-get mole checked out
-look around for project manager jobs
-
 start going to nerdy meetups
 krav maga
-schmoocon videos
-call emblemhealth about in-network providers for dentist
-network security assessment book
+schedule dentist appt
 
 thought experiments
   another server-side swift performance comparison on aws (t2.micro)
@@ -22,11 +19,11 @@ thought experiments
   iot inventory
 
 movies
-  20th Century Women
   Split
-  Gimme Danger
-  Stretch & Bobbito: Radio That Changed Lives
   Paterson
+  20th Century Women
+  Gimme Danger
+  Stretch and Bobbito: Radio That Changed Lives
   Traceroute
 
 tv
@@ -42,8 +39,8 @@ tv
 
 health stack
   steel cut oats
-  cliff shots (chocolate cherry)
-  workout
+  hot oatmeal
   rock climbing
+  workout
   biking
   masturbate
