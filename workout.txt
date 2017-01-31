@@ -554,4 +554,5 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   chest resistance band stretch: 3x8
 
 2016-01-31:
+  start weight: 138.4
   
