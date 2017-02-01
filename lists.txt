@@ -1,6 +1,5 @@
 
-movies
-krava maga videos
+netflix
 
 rock climbing
 
@@ -9,7 +8,6 @@ guidepoint
 dog park (70-33 260th St, Glen Oaks, NY 11004)
 
 start going to nerdy meetups
-krav maga
 schedule dentist appt
 
 thought experiments
@@ -20,8 +18,6 @@ thought experiments
   iot inventory
 
 movies
-  Split
-  Paterson
   20th Century Women
   Gimme Danger
   Stretch and Bobbito: Radio That Changed Lives
@@ -30,13 +26,12 @@ movies
 tv
   Futurama [netflix]
   The Crown [netflix]
+  sense8 [netflix]
+  Lie to Me S01E08 [netflix]
   Portlandia S07E05 (02/02)
   Homeland S06E04 (02/05)
   Last Week Tonight (02/12)
-  Lie to Me S01E08 [netflix]
   Planet Earth S02E04
-  I'm Dying Up Here
-  sense8
 
 health stack
   steel cut oats
