@@ -1,6 +1,5 @@
 
 7parkdata
-find pcp
 schedule dermatologist appt
 schedule dentist appt
 rock climbing
