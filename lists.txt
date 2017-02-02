@@ -26,6 +26,7 @@ tv
   The Crown [netflix]
   sense8 [netflix]
   Lie to Me S01E08 [netflix]
+  Bill Maher S015E01
   Portlandia S07E05 (02/02)
   Homeland S06E04 (02/05)
   Last Week Tonight (02/12)
