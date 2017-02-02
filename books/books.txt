@@ -63,7 +63,7 @@ Full Dark No Stars, Stephen King
 Galileo's Middle Finger, Alice Dreger
 Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Get in the Van, Henry Rollins
-The Ghost in the Machine, Arthur Koestler
+Gosnell, Ann McElhinney
 Great Expectations, Charles Dickens
 Green River Killer, Jeff Jensen
 Grunt, Mary Roach
@@ -75,6 +75,7 @@ Home Workshop Explosives, Uncle Fester
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
 Hunger, Knut Hamsun
 Hyperbole and a Half, Allie Brosh
+I Am Not A Serial Killer, Dan Wells
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
 Inside Isis, Benjamin Hall
 Inside Terrorism, Bruce Hoffman
@@ -155,6 +156,7 @@ The Brothers Karamazov, Fyodor Dostoevsky
 The Cartel: A novel, Don Winslow
 The Center Cannot Hold, Elyn R. Saks
 The Chemistry of Powder and Explosives, Tenney L. Davis
+The Complete Jack the Ripper, Donald Rumbelow
 The Corpse Reader, Antonio Garrido
 The Corrections, Jonathan Franzen
 The Count of Monte Cristo, Alexandre Dumas
@@ -171,6 +173,7 @@ The Forever War, Joe Haldeman
 The Foundation Saga, Isaac Asimov
 The Fountainhead, Ayn Rand
 The Gene: An Intimate History, Siddhartha Mukherjee
+The Ghost in the Machine, Arthur Koestler
 The Girl Next Door, Jack Ketchum
 The Girl with All the Gifts, M.R. Carey
 The Good Earth, Pearl S. Buck
@@ -243,6 +246,7 @@ Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 Wicked Plants, Amy Stewart
 Work Rules!, Laszlo Bock
 World Order, Henry Kissinger
+Zodiac, Robert Graysmith
 
 DONE
 A Short History of Nearly Everything, Bill Bryson

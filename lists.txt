@@ -1,12 +1,12 @@
 
-rock climbing
-
-tonic water
-guidepoint
-dog park (70-33 260th St, Glen Oaks, NY 11004)
-
-start going to nerdy meetups
+7parkdata
+find pcp
+schedule dermatologist appt
 schedule dentist appt
+rock climbing
+guidepoint
+start going to nerdy meetups
+dog park (70-33 260th St, Glen Oaks, NY 11004)
 
 thought experiments
   another server-side swift performance comparison on aws (t2.micro)
