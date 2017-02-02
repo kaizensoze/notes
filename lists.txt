@@ -1,9 +1,10 @@
 
+guidepoint
+
 7parkdata
+rock climbing
 schedule dermatologist appt
 schedule dentist appt
-rock climbing
-guidepoint
 start going to nerdy meetups
 dog park (70-33 260th St, Glen Oaks, NY 11004)
 
@@ -25,8 +26,8 @@ tv
   The Crown [netflix]
   sense8 [netflix]
   Lie to Me S01E08 [netflix]
-  Bill Maher S015E01
   Portlandia S07E05 (02/02)
+  Real Time with Bill Maher (02/03)
   Homeland S06E04 (02/05)
   Last Week Tonight (02/12)
   Planet Earth S02E04
