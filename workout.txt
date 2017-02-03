@@ -573,8 +573,8 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   start weight: 200
   chest press (35 lb): 3x8
   chest fly (35 lb): 3x8
-  myotatic crunch (8s/rep): x
-  lying leg raise (8s/notch): x (head down), x (head up)
+  myotatic crunch (8s/rep): 100
+  lying leg raise (8s/notch): 30 (head down), 0 (head up)
 
 2016-02-04:
   
