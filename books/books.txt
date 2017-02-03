@@ -150,7 +150,7 @@ The Billion Dollar Spy, David E. Hoffman
 The Bonfire of the Vanities, Tom Wolfe
 The Book, Alan Watts
 The Brothers Karamazov, Fyodor Dostoevsky
-The Cartel: A novel, Don Winslow
+The Cartel, Don Winslow
 The Center Cannot Hold, Elyn R. Saks
 The Chemistry of Powder and Explosives, Tenney L. Davis
 The Complete Jack the Ripper, Donald Rumbelow
@@ -195,7 +195,7 @@ The Mujahideen Poisons Handbook
 The Myth of the Strong Leader, Archie Brown
 The Name of the Wind, Patrick Rothfuss
 The Nightingale, Kristin Hannah
-The Nix: A novel, Nathan Hill
+The Nix, Nathan Hill
 The Panda's Thumb, Stephen Jay Gould
 The Pentagon's Brain, Annie Jacobsen
 The Pigeon Tunnel, John le Carre
@@ -226,6 +226,7 @@ The Wise Men, Walter Isaacson
 This Will Change Everything, John Brockman
 Time Warp Trio series, Jon Scieszka
 Tinker, Tailor, Soldier, Spy, John le Carre
+To Hell and Back, Audie Murphy
 Tribe: On Homecoming and Belonging
 Tubes, Andrew Blum
 Twenty Thousand Leagues Under the Sea, Jules Verne
@@ -237,8 +238,6 @@ War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 What If?, Randall Munroe
 When Google Met Wikileaks, Julian Assange
-When the Killing's Done, T.C. Boyle
-Whiplash: How to Survive Our Faster Future, Joi Ito
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 Wicked Plants, Amy Stewart
 Work Rules!, Laszlo Bock

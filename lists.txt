@@ -1,12 +1,13 @@
 
-library
-7parkdata
-guidepoint
 freshdirect
 
 rock climbing
+library
 stop by home
 pick up abilify refill
+
+guidepoint
+7parkdata
 
 schedule dermatologist appt
 schedule dentist appt
@@ -18,7 +19,6 @@ thought experiments
   github api wrapper in swift
   collaborative open source contribution platform
   learn tensorflow
-  iot inventory
 
 movies
   20th Century Women
