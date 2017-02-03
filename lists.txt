@@ -1,8 +1,13 @@
 
-guidepoint
-
-7parkdata
 rock climbing
+library
+7parkdata
+guidepoint
+freshdirect
+
+stop by home
+pick up abilify refill
+
 schedule dermatologist appt
 schedule dentist appt
 start going to nerdy meetups
@@ -22,13 +27,13 @@ movies
   Traceroute
 
 tv
-  Futurama [netflix]
-  The Crown [netflix]
   sense8 [netflix]
+  Futurama [netflix]
   Lie to Me S01E08 [netflix]
-  Portlandia S07E05 (02/02)
-  Real Time with Bill Maher (02/03)
+  The Crown [netflix]
   Homeland S06E04 (02/05)
+  Always Sunny In Philadelphia S12E06 (02/08)
+  Portlandia S07E06 (02/09)
   Last Week Tonight (02/12)
   Planet Earth S02E04
 
