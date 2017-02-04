@@ -72,7 +72,6 @@ History of Western Philosophy, Bertrand Russell
 Home Workshop Explosives, Uncle Fester
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
 Hunger, Knut Hamsun
-Hyperbole and a Half, Allie Brosh
 I Am Not A Serial Killer, Dan Wells
 Infections and Inequalities: The Modern Plagues, Updated with a New Preface, Paul Farmer
 Inside Isis, Benjamin Hall
@@ -492,3 +491,4 @@ A Thousand Splendid Suns, Khaled Hosseini [x]
 This Book Is Full of Spiders, David Wong [x]
 Futuristic Violence and Fancy Suits, David Wong [x]
 Mr. Mercedes, Stephen King [x]
+Hyperbole and a Half, Allie Brosh
