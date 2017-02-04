@@ -236,7 +236,6 @@ Vengeance, George Jonas
 War and Peace, Leo Tolstoy
 Watership Down, Richard Adams
 What If?, Randall Munroe
-When Google Met Wikileaks, Julian Assange
 Why Zebras Don't Get Ulcers, Robert Sapolsky, page: 37
 Wicked Plants, Amy Stewart
 Work Rules!, Laszlo Bock
@@ -492,3 +491,4 @@ This Book Is Full of Spiders, David Wong [x]
 Futuristic Violence and Fancy Suits, David Wong [x]
 Mr. Mercedes, Stephen King [x]
 Hyperbole and a Half, Allie Brosh
+When Google Met Wikileaks, Julian Assange
