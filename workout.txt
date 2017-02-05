@@ -570,15 +570,20 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   pushups: 50 normal, 30 wide
 
 2016-02-03:
-  start weight: 200
-  chest press (35 lb): 3x8
-  chest fly (35 lb): 3x8
+  chest press (30 lb): 3x8
+  chest fly (30 lb): 3x8
   myotatic crunch (8s/rep): 100
   lying leg raise (8s/notch): 30 (head down), 0 (head up)
 
 2016-02-04:
-  chest press (35 lb): 3x8
-  chest fly (35 lb): 3x8
+  chest press (30 lb): 3x8
+  chest fly (30 lb): 3x8
 
 2016-02-05:
+  chest press (30 lb): 3x8
+  chest fly (30 lb): 3x8
+  bicep curl (30 lb): 1x8
+  
+2016-02-06:
+  start weight: 
   
