@@ -1,10 +1,13 @@
 
 cartel book
-library
-dhs project?
-guidepoint
 
+doctor
+library
 schedule dermatologist appt
+guidepoint
+check out project manager roles
+atlanta
+
 schedule dentist appt
 start going to nerdy meetups
 dog park (70-33 260th St, Glen Oaks, NY 11004)
@@ -21,16 +24,14 @@ movies
   Traceroute
 
 tv
-  sense8 [netflix]
-  Futurama [netflix]
-  Lie to Me S02E01s [netflix]
   Always Sunny In Philadelphia S12E06 (02/08)
   Portlandia S07E06 (02/09)
   Last Week Tonight (02/12)
   Homeland S06E04 (02/12)
+  Futurama S01E03 [netflix]
+  Lie to Me S02E03 [netflix]
+  Atlanta S01E01
   Planet Earth S02E04
-  The Americans
-  Atlanta
 
 health stack
   steel cut oats
