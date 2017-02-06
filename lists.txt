@@ -1,10 +1,10 @@
 
-guidepoint
 cartel book
 
 rock climbing
 dhs project?
 library
+guidepoint
 
 schedule dermatologist appt
 schedule dentist appt
@@ -19,19 +19,20 @@ thought experiments
 
 movies
   20th Century Women
-  Gimme Danger
   Stretch and Bobbito: Radio That Changed Lives
   Traceroute
 
 tv
   sense8 [netflix]
   Futurama [netflix]
-  Lie to Me S01E08 [netflix]
-  Homeland S06E04 (02/05)
+  Lie to Me S02E01s [netflix]
   Always Sunny In Philadelphia S12E06 (02/08)
   Portlandia S07E06 (02/09)
   Last Week Tonight (02/12)
+  Homeland S06E04 (02/12)
   Planet Earth S02E04
+  The Americans
+  Atlanta
 
 health stack
   steel cut oats
