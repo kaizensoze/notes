@@ -4,10 +4,10 @@ pay rent to:
   230 W 55th Street Apt 25A
   New York, NY 10019 
 
-Raina, Rajesh, MD
-25710 Union Tpke
-Glen Oaks,NY 11004
-718-347-3500
+Pandya, Himanshu, M., MD
+25720 Hillside Ave
+Floral Park, NY 11004
+718-831-6600
 
 livia
   143 BLEECKER ST APT 2R, Brooklyn, NY 11221
@@ -15,7 +15,3 @@ livia
 
 animal shelter
   3320 Beltagh Avenue, wantagh, ny
-
-National Security Agency (Clown School)
-9800 Savage Rd., Suite 6272
-Ft. George G. Meade, MD 20755-6000
