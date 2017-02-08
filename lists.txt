@@ -23,15 +23,15 @@ thought experiments
   learn tensorflow
 
 movies
+  John Wick: Chapter 2
+  20th Century Women
   [netflix]
-    Imperial Dreams 
     Clouds of Sils Maria
     Girlfriend's Day
-    Before I Go To Sleep
     I Don't Feel at home in this world
     Ultimate Beastmaster
     Michael Birbiglia
-  20th Century Women
+  Nobody Speak
   Stretch and Bobbito: Radio That Changed Lives
   Traceroute
 
