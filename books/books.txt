@@ -95,7 +95,6 @@ Moby Dick, Herman Melville
 Moral Tribes, Joshua Greene
 Mossad, Michael Bar-Zohar
 Mr. Midshipman Hornblower, C. S. Forester
-My Custom Van, Michael Ian Black
 Napoleon the Great, Andrew Roberts
 Narconomics: How to Run a Drug Cartel
 Nations on the Take, Wendell Potter
@@ -494,3 +493,4 @@ Mr. Mercedes, Stephen King [x]
 Hyperbole and a Half, Allie Brosh
 When Google Met Wikileaks, Julian Assange
 Navel Gazing, Michael Ian Black
+My Custom Van, Michael Ian Black
