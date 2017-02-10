@@ -1,6 +1,8 @@
 
-reschedule doctor appt
+shower
+shovel
 vacuum
+reschedule doctor appt
 shovel snow
 guidepoint
 7parkdata
