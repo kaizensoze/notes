@@ -1,6 +1,5 @@
 
-rock climbing
-doctor appt
+reschedule doctor appt
 roti run
 guidepoint
 check out project manager roles
