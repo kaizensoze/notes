@@ -68,7 +68,6 @@ Great Expectations, Charles Dickens
 Green River Killer, Jeff Jensen
 Grunt, Mary Roach
 Hacking: The Art of Exploitation, Jon Erickson
-Hillbilly Elegy, J. D. Vance
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
 Home Workshop Explosives, Uncle Fester
@@ -494,3 +493,4 @@ Hyperbole and a Half, Allie Brosh
 When Google Met Wikileaks, Julian Assange
 Navel Gazing, Michael Ian Black
 My Custom Van, Michael Ian Black
+Hillbilly Elegy, J. D. Vance
