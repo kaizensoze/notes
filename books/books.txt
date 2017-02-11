@@ -1,7 +1,6 @@
 13 Hours, Mitchell Zuckoff
 A Mother's Reckoning, Sue Klebold
 A Problem from Hell, Samantha Power
-A Thousand Naked Strangers, Kevin Hazzard
 Alexander Hamilton, Ron Chernow
 Algorithms to Live By, Brian Christian
 Anna Karenina, Leo Tolstoy
@@ -494,3 +493,4 @@ When Google Met Wikileaks, Julian Assange
 Navel Gazing, Michael Ian Black
 My Custom Van, Michael Ian Black
 Hillbilly Elegy, J. D. Vance
+A Thousand Naked Strangers, Kevin Hazzard
