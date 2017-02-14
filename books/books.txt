@@ -8,7 +8,6 @@ Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford
 Atlas Shrugged, Ayn Rand
 Auschwitz: A Doctor's Eyewitness Account, Miklos Nyiszli
 A Bug Hunter's Diary, Tobias Klein
-A Man Called Ove, Fredrik Backman
 A Tale of Two Cities, Charles Dickens
 Basic Economics, Thomas Sowell, page: 38
 Being Mortal: Medicine and What Matters in the End, Atul Gawande
@@ -494,3 +493,4 @@ Navel Gazing, Michael Ian Black
 My Custom Van, Michael Ian Black
 Hillbilly Elegy, J. D. Vance
 A Thousand Naked Strangers, Kevin Hazzard
+A Man Called Ove, Fredrik Backman
