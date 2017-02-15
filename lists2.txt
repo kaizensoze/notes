@@ -4,6 +4,20 @@ shoes to try
   instinct vs
   genius
 
+thought experiments
+  another server-side swift performance comparison on aws (t2.micro)
+  github api wrapper in swift
+  collaborative open source contribution platform
+  learn tensorflow
+
+health stack
+  steel cut oats
+  hot oatmeal
+  rock climbing
+  workout
+  biking
+  masturbate
+
 (obviously all material for a ridiculous sci fi book below)
 
 modules

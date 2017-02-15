@@ -1,5 +1,4 @@
 
-github node issue: https://github.com/mikedeboer/node-github/issues/497
 heat
 read
 
@@ -17,7 +16,6 @@ buy car
 volunteer at animal shelter
 
 movies
-  Girlfriend's Day
   John Wick: Chapter 2
   I Don't Feel at home in this world (02/24)
   Ultimate Beastmaster (02/24)
@@ -39,17 +37,3 @@ tv
   Lie to Me S02E03 [netflix]
   Better Call Saul (04/10)
   Silicon Valley (04/23)
-
-thought experiments
-  another server-side swift performance comparison on aws (t2.micro)
-  github api wrapper in swift
-  collaborative open source contribution platform
-  learn tensorflow
-
-health stack
-  steel cut oats
-  hot oatmeal
-  rock climbing
-  workout
-  biking
-  masturbate
