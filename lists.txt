@@ -1,23 +1,20 @@
 
-reply to mike
-reschedule doctor appt
-set up appt with Instinct Dog Training
-check out project manager roles
-research list of professions you can switch to for under 10K
-guidepoint
-7parkdata
+github node issue: https://github.com/mikedeboer/node-github/issues/497
+heat
+read
 
-schedule dermatologist appt
-schedule dentist appt
+schedule dermatologist
+schedule dentist
+7parkdata
+guidepoint
+
+look into emt training material for fun
 look into [semi-]acoustic guitar
+change pcp
 pay medical bill
 dog park (70-33 260th St, Glen Oaks, NY 11004)
-
-thought experiments
-  another server-side swift performance comparison on aws (t2.micro)
-  github api wrapper in swift
-  collaborative open source contribution platform
-  learn tensorflow
+buy car
+volunteer at animal shelter
 
 movies
   Girlfriend's Day
@@ -42,6 +39,12 @@ tv
   Lie to Me S02E03 [netflix]
   Better Call Saul (04/10)
   Silicon Valley (04/23)
+
+thought experiments
+  another server-side swift performance comparison on aws (t2.micro)
+  github api wrapper in swift
+  collaborative open source contribution platform
+  learn tensorflow
 
 health stack
   steel cut oats
