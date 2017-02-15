@@ -1,15 +1,15 @@
 
-heat
+node-github
+shower
+7parkdata
+tv shows
 read
 
-schedule dermatologist
-schedule dentist
-7parkdata
 guidepoint
-
 look into emt training material for fun
 look into [semi-]acoustic guitar
 change pcp
+schedule dentist
 pay medical bill
 dog park (70-33 260th St, Glen Oaks, NY 11004)
 buy car
@@ -27,13 +27,13 @@ movies
 
 tv
   SNL
-  Always Sunny In Philadelphia S12E07 (02/15)
-  Legion S01E02 (02/15)
+  Always Sunny In Philadelphia S12E07
+  Legion S01E02
   Portlandia S07E07 (02/16)
   Homeland S06E05 (02/19)
   Last Week Tonight S04E02 (02/19)
+  Better Call Saul (04/10)
+  Silicon Valley (04/23)
   The Young Pope S01E01 [netflix]
   Futurama S01E03 [netflix]
   Lie to Me S02E03 [netflix]
-  Better Call Saul (04/10)
-  Silicon Valley (04/23)

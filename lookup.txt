@@ -4,10 +4,17 @@ pay rent to:
   230 W 55th Street Apt 25A
   New York, NY 10019 
 
-Pandya, Himanshu, M., MD
-25720 Hillside Ave
-Floral Park, NY 11004
-718-831-6600
+pcp
+  Pandya, Himanshu, M., MD
+  25720 Hillside Ave
+  Floral Park, NY 11004
+  718-831-6600
+
+dermatologist
+  2001 Marcus Ave
+  Ste E130
+  New Hyde Park,NY 11042
+  516-352-2700
 
 livia
   143 BLEECKER ST APT 2R, Brooklyn, NY 11221
