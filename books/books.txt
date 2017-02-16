@@ -48,7 +48,6 @@ Doctors from Hell, Vivien Spitz
 Don Quixote, Miguel de Cervantes
 Dragonriders of Pern, Anne McCaffrey
 Dreamland, Sam Quinones
-Dry, Augusten Burroughs
 Einstein: His Life and Universe, Walter Isaacson
 Enemies: A History of the FBI, Tim Weiner
 Exponential Organizations, Salim Ismail
@@ -495,3 +494,4 @@ My Custom Van, Michael Ian Black
 Hillbilly Elegy, J. D. Vance
 A Thousand Naked Strangers, Kevin Hazzard
 A Man Called Ove, Fredrik Backman
+Dry, Augusten Burroughs

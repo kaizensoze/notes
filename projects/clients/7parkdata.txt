@@ -1,4 +1,7 @@
 
+get all scheduled templates
+get all scheduled reports
+
 distro prod: http://54.82.204.54:8080/
 
 part 2: scheduling of dropoff of data
@@ -53,5 +56,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-02/06/17: [] ()
+02/16/17: [11:00 - ] ()
   * 

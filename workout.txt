@@ -95,18 +95,18 @@ the cliffs: various auto-belay, bouldering (weekends suck)
     crimp (mid): 32s
 
 2016-07-24:
-  planks: 02:00
+  planks: 2m
   pushups: 60
 
 2016-07-25:
   pullups: 2x16 IUH (IUH = inside underhand)
 
 2016-07-26:
-  planks: 02:30
+  planks: 2m30s
   pushups: 65
 
 2016-07-28:
-  planks: 02:45
+  planks: 2m45s
   pushups: 70
 
 2016-07-31:
@@ -447,7 +447,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 2016-01-11:
   lying leg raise (8s/notch): 40
   pushups: 50 normal, 10 wide, 3 military, 3 diamond (start doing different types of pushups)
-  myotatic crunch (8s/rep): 12 (change to reps)
+  myotatic crunch (8s/rep): 12
 
 2016-01-12:
   bicep curl (30 lb): 8, 8, 6
@@ -468,8 +468,6 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   rock climbing
 
 2016-01-16:
-  lying leg raise (8s/notch): x
-  myotatic crunch (8s/rep): x
   chest press (30 lb): 3x10
   chest fly (30 lb): 3x12
   bicep curl (30 lb): 3x8
@@ -499,7 +497,6 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   chest fly (30 lb): 3x15
   bicep curl (30 lb): 3x8
   lying leg raise (8s/notch): 30
-  myotatic crunch (8s/rep): x
 
 2016-01-22:
   start weight: 139
@@ -512,7 +509,6 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   bicep curl (30 lb): 3x8
   chest resistance band stretch: 3x8
   lying leg raise (8s/notch): 20
-  myotatic crunch (8s/rep): x
 
 2016-01-24:
   start weight: 137.5
@@ -528,7 +524,6 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   bicep curl (30 lb): 2x8
   chest resistance band stretch: 3x8
   lying leg raise (8s/notch): 15 (head down), 20 (head up)
-  myotatic crunch (8s/rep): x
 
 2016-01-27:
   start weight: 136.4
@@ -583,10 +578,10 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   chest press (30 lb): 3x8
   chest fly (30 lb): 3x8
   bicep curl (30 lb): 1x8
-  
+
 2016-02-06: 
   rock climbing
-  
+
 2016-02-09:
   start weight: 139.4
   rock climbing
@@ -596,15 +591,36 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 2016-02-10:
   start weight: 140.2
   pull ups (20 underhand, 20 overhand, 10 wide, 20 side)
-  
+
 2016-02-11:
   pull ups
-  planks: 2:00
-  
+  planks: 2m
+
 2016-02-12:
   pull ups
-  
+
 2016-02-13:
   pull ups
   rock climbing
 
+2016-02-14:
+  nada
+
+2016-02-15:
+  pull ups
+  bicep curls (30 lb): 2x8
+
+2016-02-16:
+  start weight: 138.8
+  pushups: 60 standard, 10 military
+  chest press (30 lb): 3x10
+  chest fly (30 lb): 3x10
+  chest press incline (30 lb): 8, 6
+  lying leg raise (10s/notch down, 8s/notch up): 2x20 (head down), 2x20 (head up)
+  chest resistance band stretch: 3x8
+  pull ups (12 each)
+  planks: 2m20s
+
+2016-02-16:
+  
+  
