@@ -1,6 +1,5 @@
 
-get all scheduled templates
-get all scheduled reports
+
 
 distro prod: http://54.82.204.54:8080/
 
@@ -56,5 +55,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-02/16/17: [11:00 - ] ()
+02/16/17: [] ()
   * 
