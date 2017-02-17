@@ -1,7 +1,4 @@
 
-tv shows
-read
-
 7parkdata
 laundry
 guidepoint
@@ -26,12 +23,12 @@ movies
   Traceroute
 
 tv
-  Always Sunny In Philadelphia S12E07
-  Legion S01E02
-  Portlandia S07E07
   SNL (02/18)
   Homeland S06E05 (02/19)
   Last Week Tonight S04E02 (02/19)
+  Always Sunny In Philadelphia S12E08 (02/22)
+  Legion S01E03 (02/22)
+  Portlandia S07E08 (02/23)
   Better Call Saul (04/10)
   Silicon Valley (04/23)
   The Young Pope S01E01 [netflix]
