@@ -1,6 +1,12 @@
 
-laundry
 dark souls
+laundry
+shower
+protein shake run
+willy's appt
+write letter for livia
+
+stop by house
 
 7parkdata
 guidepoint
@@ -25,13 +31,13 @@ movies
   Traceroute
 
 tv
-  The Young Pope S01E01
   SNL (02/18)
   Homeland S06E05 (02/19)
   Last Week Tonight S04E02 (02/19)
   Always Sunny In Philadelphia S12E08 (02/22)
   Legion S01E03 (02/22)
   Portlandia S07E08 (02/23)
+  Real Time with Bill Maher (02/24)
   Better Call Saul (04/10)
   Silicon Valley (04/23)
   Futurama S01E03 [netflix]
