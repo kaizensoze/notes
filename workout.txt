@@ -627,5 +627,8 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 2016-02-18:
   start weight: 138.8
 
-2016-02-18:
+2016-02-19:
   start weight: 139.2
+  planks: 2m30s
+  lying leg raise (8s/notch up): 20 (head down), 10 (head up)
+  
