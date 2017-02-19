@@ -626,4 +626,6 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 
 2016-02-18:
   start weight: 138.8
-  
+
+2016-02-18:
+  start weight: 139.2
