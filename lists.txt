@@ -37,7 +37,6 @@ movies
   Traceroute
 
 tv
-  SNL (02/18)
   Homeland S06E05
   Last Week Tonight S04E02
   =====
@@ -45,6 +44,7 @@ tv
   Legion S01E03 (02/22)
   Portlandia S07E08 (02/23)
   Real Time with Bill Maher (02/24)
+  SNL (02/25)
   Better Call Saul (04/10)
   Silicon Valley (04/23)
   Futurama S01E03 [netflix]
