@@ -1,12 +1,19 @@
 
-listen to recordings
-dark souls
-shower
-amazon return
-12:30 - 1 internal meeting
-2 - 3:30 ios project client meeting
 3:45 - dermatologist appt
-pay medical bill
+write up email proposing app infrastructure
+  alamofire
+  carthage [over cocoapods]
+  adopting existing boiler plate code for
+    storing json into custom objects
+    caching data where desired to disk
+go through 7parkdata docs
+freshdirect
+clean willy's ears
+dark souls
+read
+
+amazon return
+
 schedule vet appt
   things to check: hips, feet, sensitivity to noise
 
@@ -15,6 +22,8 @@ call mom about needing letters for livia
 
 7parkdata
 guidepoint
+new glasses
+look into switching to steep rock bouldering
 look into emt training material for fun
 look into [semi-]acoustic guitar
 change pcp
