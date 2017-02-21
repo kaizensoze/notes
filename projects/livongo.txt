@@ -9,5 +9,6 @@ android app login
 
 ask for test user account
 
-02/21/17: [14:00 - 15:30] (1.5)
+02/22/17: [] ()
   * livongo kickoff meeting
+  * write up email with proposal of dev plan
