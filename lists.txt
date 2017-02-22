@@ -1,23 +1,26 @@
 
-read
-
+schedule dentist appt
 schedule vet appt
   things to check: hips, feet, sensitivity to noise
+livongo
+bloodborne
+read
 
-write letter for livia
+the cliffs
+livongo
 call mom about needing letters for livia
+get details on letters from livia
+write letter for livia
 
 7parkdata
-guidepoint
+sell rock climbing shoes
 new glasses
-look into switching to steep rock bouldering
+switch to steep rock bouldering
 look into emt training material for fun
-look into [semi-]acoustic guitar
-change pcp
-schedule dentist
 dog park (70-33 260th St, Glen Oaks, NY 11004)
 buy car
 volunteer at animal shelter
+guidepoint
 
 movies
   I Don't Feel at home in this world (02/24)
@@ -42,3 +45,7 @@ tv
   Silicon Valley (04/23)
   Futurama S01E03 [netflix]
   Lie to Me S02E03 [netflix]
+
+games
+  nioh
+  horizon zero dawn
