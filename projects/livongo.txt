@@ -1,14 +1,10 @@
-look into [login] form library
-look into [line] graphing library
 look into show more library
 look into new posts library
 
-android app login
+login
   ben@happyfuncorp.com
   Happiness4u
 
-ask for test user account
+iphone 7: 375 x 667
 
-02/22/17: [] ()
-  * livongo kickoff meeting
-  * write up email with proposal of dev plan
+02/23/17: [] ()

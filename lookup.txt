@@ -16,6 +16,14 @@ dermatologist
   New Hyde Park,NY 11042
   516-352-2700
 
+dentist
+  David B Kanner DDS
+  26075 Union Tpke Glen Oaks, NY 11004
+
+vet
+  249-36 Horace Harding Expy
+  Little Neck, NY 11362
+
 livia
   143 BLEECKER ST APT 2R, Brooklyn, NY 11221
   door code: 1025

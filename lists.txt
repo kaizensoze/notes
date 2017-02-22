@@ -1,18 +1,20 @@
 
-schedule dentist appt
-schedule vet appt
-  things to check: hips, feet, sensitivity to noise
-livongo
+livongo/7parkdata
 bloodborne
 read
 
 the cliffs
-livongo
-call mom about needing letters for livia
+schedule dentist appt
+schedule vet appt
+  hip displasia?
+  bump on foot
+  sensitivity to noise
+  loss of appetite
+livongo/7parkdata
 get details on letters from livia
-write letter for livia
+call mom about needing letters for livia
 
-7parkdata
+write letter for livia
 sell rock climbing shoes
 new glasses
 switch to steep rock bouldering

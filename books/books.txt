@@ -69,6 +69,7 @@ Hacking: The Art of Exploitation, Jon Erickson
 His Dark Materials Trilogy, Philip Pullman
 History of Western Philosophy, Bertrand Russell
 Home Workshop Explosives, Uncle Fester
+Homo Deus: A Brief History of Tomorrow, Yuval Noah Harari
 Human Anatomy: A Visual History from the Renaissance to the Digital Age
 Hunger, Knut Hamsun
 I Am Not A Serial Killer, Dan Wells
@@ -120,7 +121,6 @@ Relentless Strike, Sean Naylor
 Revenge of the Kremlin, Gérard de Villiers
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
-Seinfeldia, Jennifer Armstrong
 Seveneves, Neal Stephenson
 Shoe Dog, Phil Knight
 Silence on the Wire, Michal Zalewski
@@ -496,3 +496,4 @@ Hillbilly Elegy, J. D. Vance
 A Thousand Naked Strangers, Kevin Hazzard
 A Man Called Ove, Fredrik Backman
 Dry, Augusten Burroughs
+Seinfeldia, Jennifer Armstrong
