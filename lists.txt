@@ -1,5 +1,3 @@
-  
-livongo/7parkdata
 
 get details on letters from livia
 call mom about needing letters for livia
@@ -16,11 +14,12 @@ volunteer at animal shelter
 guidepoint
 
 movies
+  John Wick: Chapter 2
   I Don't Feel at home in this world (02/24)
   Ultimate Beastmaster (02/24)
   Thank God for Jokes (02/28)
+  Logan (03/03)
   Ghost in the Shell (03/31)
-  John Wick: Chapter 2
   Land of Mine
   Nobody Speak
   Stretch and Bobbito: Radio That Changed Lives
@@ -28,7 +27,7 @@ movies
 
 tv
   The Walking Dead (??)
-  Portlandia S07E08 (02/23)
+  Portlandia S07E08
   Real Time with Bill Maher (02/24)
   SNL (02/25)
   Homeland S06E06 (02/26)

@@ -53,5 +53,8 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-02/23/17: [11:00 - ] ()
-  * 
+02/23/17: [11:00 - 14:00] ()
+  * increase width of report list table
+  * restrict schedule data edit based on type
+  * meeting going over distro tracker changes
+  * add new report status labels
