@@ -1,6 +1,35 @@
 
 distro prod: http://54.82.204.54:8080/
 
+show create procedure sp_GetWeeklyUnsentReports;
+
+drop procedure if exists sp_GetWeeklyUnsentReports;
+
+DELIMITER $$
+CREATE DEFINER=`distrodbusr`@`%` PROCEDURE `sp_GetWeeklyUnsentReports`(
+)
+BEGIN
+    select
+      ri.report_id,
+      lob.internalline,
+      lob.externalline,
+      ri.report_subject,
+      ri.report_body,
+      ri.report_assigneduser,
+      ri.report_lastmodified,
+      ri.report_file_path,
+      rs.status,
+      (select comment_body from reportcomments where instance_id = ri.report_id order by activity_time desc limit 1)
+    from
+      reportinstance ri
+      left outer join reportstatus rs on ri.report_status = rs.id
+      left outer join rptlob lob on ri.lobid = lob.id
+    where
+      ri.report_status <> 8
+      and ri.report_status <> 9;
+END $$
+DELIMITER ;
+
 part 2: scheduling of dropoff of data
 ===============
 kibana
@@ -53,8 +82,5 @@ reportdefinitions.report_id is report definition id
 
 hours
 ====
-02/23/17: [11:00 - 14:00] ()
-  * increase width of report list table
-  * restrict schedule data edit based on type
-  * meeting going over distro tracker changes
-  * add new report status labels
+02/24/17: [] ()
+  
