@@ -28,7 +28,7 @@ modules
   pheromone
   refeathering
   word salad
-  memory loss
+  temporary memory loss
   blurry vision
   horrible coincidence
   false empathy
@@ -42,7 +42,8 @@ modules
   general manipulation
   substitution
   reset
-  full moon (build up)
+  build up -> tear down
+  fuck with phone call quality (cutting out -> annoying other person on the other end of the call)
 
 briefly turn off heat
 briefly turn off hot water

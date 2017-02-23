@@ -23,6 +23,8 @@ dentist
 vet
   249-36 Horace Harding Expy
   Little Neck, NY 11362
+  718-281-0800
+  https://www.yelp.com/biz/veterinary-care-group-little-neck-3
 
 livia
   143 BLEECKER ST APT 2R, Brooklyn, NY 11221
