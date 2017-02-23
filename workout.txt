@@ -644,3 +644,9 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   planks: 2m30s
   lying leg raise (8s/notch): 15 (head down)
   pullups: 5x8
+
+2016-02-23:
+  chest press (30 lb): 3x10
+  chest fly (30 lb): 3x10
+  bicep curls (30 lb): 1x8
+  
