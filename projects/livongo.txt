@@ -1,3 +1,16 @@
+
+* clarification on device id association and if we absolutely cannot start from scratch with swift
+
+A.) What technologies they are and aren’t using now. Realm / SQL Lite, et al
+B.) What data they have now to persist logins  and make it clear its not possible to do this if they don’t have the token to device IDs on the server..
+C.) What exactly would need to be ported or not from the legacy codebase
+D.) How we’re going to handle the data layer and data caching approach.
+
+after meeting
+1.) Whether we still recommend starting from scratch?  (I think we will)
+2.) Whether we have solutions to meet their requirements?  (In some cases we may not)
+3.) Whether its all in scope or not.
+
 look into show more library
 look into new posts library
 
@@ -7,4 +20,4 @@ login
 
 iphone 7: 375 x 667
 
-02/23/17: [] ()
+02/24/17: [] ()
