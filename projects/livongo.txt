@@ -8,10 +8,6 @@ LVLoginTempTokenUserConfigKey = @"LVUserConfigLoginTempToken"
 LVAuthRefreshTempTokenConfigKey = @"LVAuthRefreshTempTokenConfigKey"
 
 https://my.integration.livongo.com/#/login
-
-hfc1@test.com
-Hfc12345
-
 hfc2@test.com
 Hfc12345
 
