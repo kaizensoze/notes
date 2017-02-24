@@ -1,17 +1,19 @@
 
-* clarification on device id association and if we absolutely cannot start from scratch with swift
+LVUserConfig
+  LVLoginTokenUserConfigKey
 
-A.) What technologies they are and aren’t using now. Realm / SQL Lite, et al
-B.) What data they have now to persist logins  and make it clear its not possible to do this if they don’t have the token to device IDs on the server..
-C.) What exactly would need to be ported or not from the legacy codebase
-D.) How we’re going to handle the data layer and data caching approach.
+LVLoginTokenUserConfigKey = @"LVUserConfigLoginToken"
+LVAuthRefreshTokenConfigKey = @"LVAuthRefreshTokenConfigKey"
+LVLoginTempTokenUserConfigKey = @"LVUserConfigLoginTempToken"
+LVAuthRefreshTempTokenConfigKey = @"LVAuthRefreshTempTokenConfigKey"
 
-automaton
+https://my.integration.livongo.com/#/login
 
-after meeting
-1.) Whether we still recommend starting from scratch?  (I think we will)
-2.) Whether we have solutions to meet their requirements?  (In some cases we may not)
-3.) Whether its all in scope or not.
+hfc1@test.com
+Hfc12345
+
+hfc2@test.com
+Hfc12345
 
 look into show more library
 look into new posts library
@@ -22,6 +24,6 @@ login
 
 iphone 7: 375 x 667
 
-02/24/17: [13:00 - 13:30] ()
+02/24/17: [13:00 - 16:00] ()
   * meeting with ming clarifying tech kickoff details
-  * 
+  * work on minimal test logging into old app then installing new app as upgrade and accessing token on device
