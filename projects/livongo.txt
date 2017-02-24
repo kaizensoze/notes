@@ -6,6 +6,8 @@ B.) What data they have now to persist logins  and make it clear its not possibl
 C.) What exactly would need to be ported or not from the legacy codebase
 D.) How we’re going to handle the data layer and data caching approach.
 
+automaton
+
 after meeting
 1.) Whether we still recommend starting from scratch?  (I think we will)
 2.) Whether we have solutions to meet their requirements?  (In some cases we may not)
@@ -20,4 +22,6 @@ login
 
 iphone 7: 375 x 667
 
-02/24/17: [] ()
+02/24/17: [13:00 - 13:30] ()
+  * meeting with ming clarifying tech kickoff details
+  * 
