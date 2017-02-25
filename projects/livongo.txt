@@ -1,13 +1,23 @@
 
-LVUserConfig
-  LVLoginTokenUserConfigKey
-
 LVLoginTokenUserConfigKey = @"LVUserConfigLoginToken"
-LVAuthRefreshTokenConfigKey = @"LVAuthRefreshTokenConfigKey"
-LVLoginTempTokenUserConfigKey = @"LVUserConfigLoginTempToken"
-LVAuthRefreshTempTokenConfigKey = @"LVAuthRefreshTempTokenConfigKey"
+
+NSString *rootPath = [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0];
+NSString *userConfigPath = [rootPath stringByAppendingPathComponent:@"LVUserConfig.plist"];
+NSData *plistXML = [[NSFileManager defaultManager] contentsAtPath:userConfigPath];
+NSMutableDictionary userConfigContents = [NSPropertyListSerialization propertyListWithData:plistXML
+                                                                      options:NSPropertyListMutableContainersAndLeaves
+                                                                     format:&format
+                                                                      error:&errorDesc];
+NSData *encryptedValue = [self.userConfigContents objectForKey:defaultName]
+if (encryptedValue) {
+    NSData *valueData = [LVEncryption decryptedDataForData:encryptedValue];
+    if (valueData) {
+        value = [NSKeyedUnarchiver unarchiveObjectWithData:valueData];
+    }
+}
 
 https://my.integration.livongo.com/#/login
+hfc1@test.com
 hfc2@test.com
 Hfc12345
 
@@ -20,6 +30,5 @@ login
 
 iphone 7: 375 x 667
 
-02/24/17: [13:00 - 16:00] ()
-  * meeting with ming clarifying tech kickoff details
-  * work on minimal test logging into old app then installing new app as upgrade and accessing token on device
+02/24/17: [] ()
+  * 
