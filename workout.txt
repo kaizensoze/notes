@@ -656,3 +656,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   chest fly (30 lb): 3x8
   pullups: 4x12
   planks: 2:00
+
+2016-02-26:
+  start weight: 137.2
+
