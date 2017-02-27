@@ -27,11 +27,11 @@ movies
   Traceroute
 
 tv
-  Real Time with Bill Maher
   Homeland S06E06
   Last Week Tonight S04E03
   Always Sunny In Philadelphia S12E09 (03/01)
   Portlandia S07E09 (03/02)
+  Real Time with Bill Maher (03/03)
   Saturday Night Live S42E15 (03/04)
   Feud S01E01 (03/07)
   Better Call Saul (04/10)
