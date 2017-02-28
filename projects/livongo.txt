@@ -1,7 +1,8 @@
 
-custom text fields
-bottom picture
-1pm: meeting
+add navigation controller with clear navigation bar
+add sign in bar button item
+change email/password text fields
+figure out why SF font isn't showing up in xcode
 
 LVLoginTokenUserConfigKey = @"LVUserConfigLoginToken"
 
@@ -34,5 +35,5 @@ login
 
 iphone 7: 375 x 667
 
-02/27/17: [16:00 - ] ()
+02/28/17: [13:00 - 15:30, ] ()
   * 
