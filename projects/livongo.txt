@@ -1,4 +1,7 @@
 
+custom text fields
+bottom picture
+
 LVLoginTokenUserConfigKey = @"LVUserConfigLoginToken"
 
 NSString *rootPath = [NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) objectAtIndex:0];
