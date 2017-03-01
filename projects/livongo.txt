@@ -1,7 +1,5 @@
 
-add navigation controller with clear navigation bar
-add sign in bar button item
-change email/password text fields
+birthday text date picker
 figure out why SF font isn't showing up in xcode
 
 LVLoginTokenUserConfigKey = @"LVUserConfigLoginToken"

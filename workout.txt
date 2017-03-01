@@ -668,4 +668,6 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 
 2016-02-28:
   pullups: 7x12
-  
+
+2016-03-01:
+  pullups: 3x12
