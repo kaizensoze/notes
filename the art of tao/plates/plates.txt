@@ -16,7 +16,7 @@ DYN9939 -> ACH9907 [-> HLX6252]
 BDG6491
 CYN4517 (red car outside house with black corolla (BDG6491))
 HDU5239 (new infiniti)
-BKU1433 (agoraphobics)
+BKU1433
 1DEEJAY
 CYN2989 (or CYN2988, not sure) (2 iranian girls)
 EPJ6820
@@ -26,7 +26,7 @@ AJH3841
 ECB7145
 HLX6252
 ACT2349 (Mr. Ermahgermantrout)
-CFE5287 (Christian ISIS dude)
+CFE5287 (Christian ISIS dude[?] (probably not))
 BIGMEEK7
 HAM1200 PA
 HKX7771
