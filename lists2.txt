@@ -55,6 +55,9 @@ modules
   making you think neighbors are hearing you say something else [when wifi is on]
   real-time talking/typing on command
   gotcha
+  body temperature
+  blood flow
+  hormones
 
 briefly turn off heat
 briefly turn off hot water
