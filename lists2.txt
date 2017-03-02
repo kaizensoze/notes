@@ -54,6 +54,7 @@ modules
   "you gotta burp charlie it's the only way!"
   making you think neighbors are hearing you say something else [when wifi is on]
   real-time talking/typing on command
+  gotcha
 
 briefly turn off heat
 briefly turn off hot water
