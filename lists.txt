@@ -19,7 +19,7 @@ movies
 
 tv
   Always Sunny In Philadelphia S12E09
-  Portlandia S07E09 (03/02)
+  Portlandia S07E09
   Real Time with Bill Maher (03/03)
   Saturday Night Live S42E15 (03/04)
   Homeland S06E07 (03/05)
