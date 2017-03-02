@@ -51,6 +51,7 @@ modules
   angina
   shortness of breath
   saccade
+  "you gotta burp charlie it's the only way!"
 
 briefly turn off heat
 briefly turn off hot water
