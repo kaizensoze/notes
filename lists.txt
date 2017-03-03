@@ -19,7 +19,7 @@ movies
 
 tv
   Portlandia S07E09
-  Real Time with Bill Maher (03/03)
+  Real Time with Bill Maher
   Saturday Night Live S42E15 (03/04)
   Homeland S06E07 (03/05)
   Last Week Tonight S04E05 (03/05)
