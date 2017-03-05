@@ -1,5 +1,4 @@
 
-1: livongo call
 schedule vet
 new glasses
 sell rock climbing shoes
@@ -10,7 +9,7 @@ dog park (70-33 260th St, Glen Oaks, NY 11004)
 livongo
 
 movies
-  Logan (03/03)
+  Logan
   Ghost in the Shell (03/31)
   Get Out
   Land of Mine
@@ -21,7 +20,7 @@ movies
 tv
   Portlandia S07E09
   Real Time with Bill Maher
-  Saturday Night Live S42E15 (03/04)
+  Saturday Night Live S42E15
   Homeland S06E07 (03/05)
   Last Week Tonight S04E05 (03/05)
   Feud S01E01 (03/07)
