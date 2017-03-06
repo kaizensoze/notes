@@ -1,0 +1,19 @@
+satcom
+id     C6428035
+serial 13768829
+
+[operation?] darkstar
+
+mentats
+  operation deathstrike
+  operation laserstrike -> lasermike
+  operation madrigal -> 
+  operation thunderknave
+  
+#fuckthetralfamadorians
+
+joe gallo: neuromancer -> gully foyle
+lisa kudrow: wintermute -> mona murtle
+
+03/31/17: 
+
