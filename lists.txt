@@ -1,12 +1,5 @@
 
-schedule vet
-new glasses
-sell rock climbing shoes
-look into emt training material for fun
 guidepoint
-dog park (70-33 260th St, Glen Oaks, NY 11004)
-
-livongo
 
 movies
   Logan
@@ -18,13 +11,13 @@ movies
   Traceroute
 
 tv
+  Feud S01E01
   Real Time with Bill Maher
   Saturday Night Live S42E15
-  Portlandia S07E10 (03/03)
-  Homeland S06E07 (03/05)
-  Last Week Tonight S04E05 (03/05)
-  Feud S01E01 (03/07)
-  Always Sunny In Philadelphia S12E10 (03/08)
+  Homeland S06E07 (03/12)
+  Last Week Tonight S04E05 (03/12)
+  Always Sunny In Philadelphia S12E12 (03/15)
+  Portlandia S07E10 (03/16)
   Better Call Saul (04/10)
   Silicon Valley (04/23)
   The Walking Dead (??)
