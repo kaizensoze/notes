@@ -12,12 +12,12 @@ movies
   Traceroute
 
 tv
-  Real Time with Bill Maher
-  Last Week Tonight S04E05
   Always Sunny In Philadelphia S12E12 (03/15)
   Portlandia S07E10 (03/16)
+  Real Time with Bill Maher S15E08 (03/17)
   Saturday Night Live S42E16 (03/17)
   Homeland S06E08 (03/19)
+  Last Week Tonight S04E06 (03/19)
   Better Call Saul (04/10)
   Silicon Valley (04/23)
   The Walking Dead (??)
@@ -26,4 +26,4 @@ tv
   Lie to Me S02E03 [netflix]
 
 games
-  horizon zero dawn
+  
