@@ -9,7 +9,6 @@ Archimedes to Hawking: Laws of Science and the Great Minds Behind Them, Clifford
 Atlas Shrugged, Ayn Rand
 Auschwitz: A Doctor's Eyewitness Account, Miklos Nyiszli
 A Bug Hunter's Diary, Tobias Klein
-A Tale of Two Cities, Charles Dickens
 Basic Economics, Thomas Sowell, page: 38
 Being Mortal: Medicine and What Matters in the End, Atul Gawande
 Benjamin Franklin: An American Life, Walter Isaacson
@@ -62,7 +61,6 @@ Genome: The Autobiography of a Species in 23 Chapters, Matt Ridley
 Get in the Van, Henry Rollins
 Ghettoside, Jill Leovy
 Gosnell, Ann McElhinney
-Great Expectations, Charles Dickens
 Green River Killer, Jeff Jensen
 Grunt, Mary Roach
 Hacking: The Art of Exploitation, Jon Erickson
@@ -104,7 +102,6 @@ Notorious RBG, Irin Carmon
 Not Without Peril, Nicholas Howe
 Odyssey, Homer
 Of Human Bondage, W. Somerset Maugham
-Oliver Twist, Charles Dickens
 On Killing, Dave Grossman
 Operation Nemesis, Eric Bogosian
 Penpal, Dathan Auerbach
@@ -190,7 +187,6 @@ The Master Switch: The Rise and Fall of Information Empires, Tim Wu
 The Morbid Anatomy of Some of the Most Important Parts of the Human Body, Matthew Baillie
 The Mujahideen Poisons Handbook
 The Myth of the Strong Leader, Archie Brown
-The Name of the Wind, Patrick Rothfuss
 The Nightingale, Kristin Hannah
 The Nix, Nathan Hill
 The Panda's Thumb, Stephen Jay Gould
@@ -498,3 +494,5 @@ A Thousand Naked Strangers, Kevin Hazzard
 A Man Called Ove, Fredrik Backman
 Dry, Augusten Burroughs
 Seinfeldia, Jennifer Armstrong
+A Tale of Two Cities, Charles Dickens [x]
+The Name of the Wind, Patrick Rothfuss [x]
