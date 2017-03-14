@@ -3,10 +3,8 @@ mail rent
 guidepoint
 
 movies
-  Logan
+  The Devil's Candy (03/17)
   Ghost in the Shell (03/31)
-  Get Out
-  Land of Mine
   Nobody Speak
   Stretch and Bobbito: Radio That Changed Lives
   Traceroute
@@ -22,6 +20,7 @@ tv
   Silicon Valley (04/23)
   The Walking Dead (??)
   Girls (04/16)
+  Game of Thrones (07/16)
   Futurama S01E03 [netflix]
   Lie to Me S02E03 [netflix]
 
