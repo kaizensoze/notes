@@ -10,16 +10,14 @@ movies
   Traceroute
 
 tv
-  Always Sunny In Philadelphia S12E12 (03/15)
-  Portlandia S07E10 (03/16)
+  The Walking Dead
+  Girls
   Real Time with Bill Maher S15E08 (03/17)
-  Saturday Night Live S42E16 (03/17)
+  Saturday Night Live S42E16 (03/18)
   Homeland S06E08 (03/19)
   Last Week Tonight S04E06 (03/19)
   Better Call Saul (04/10)
   Silicon Valley (04/23)
-  The Walking Dead (??)
-  Girls (04/16)
   Game of Thrones (07/16)
   Futurama S01E03 [netflix]
   Lie to Me S02E03 [netflix]
