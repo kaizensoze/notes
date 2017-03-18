@@ -1,9 +1,12 @@
 
-mail rent
+shower
+walk willy
+pen
+mail rent check
 guidepoint
 
 movies
-  The Devil's Candy (03/17)
+  The Devil's Candy
   Ghost in the Shell (03/31)
   Nobody Speak
   Stretch and Bobbito: Radio That Changed Lives
@@ -12,7 +15,7 @@ movies
 tv
   The Walking Dead
   Girls
-  Real Time with Bill Maher S15E08 (03/17)
+  Real Time with Bill Maher S15E08
   Saturday Night Live S42E16 (03/18)
   Homeland S06E08 (03/19)
   Last Week Tonight S04E06 (03/19)
