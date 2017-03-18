@@ -1,8 +1,12 @@
 
 shower
 walk willy
-pen
+pen, soap
 mail rent check
+
+tv shows
+return books
+
 guidepoint
 
 movies
