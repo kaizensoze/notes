@@ -1,7 +1,4 @@
 
-library
-food shopping
-pen, soap, toothpaste
 mail rent check
 haircut
 guidepoint
