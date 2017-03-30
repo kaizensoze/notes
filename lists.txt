@@ -1,9 +1,8 @@
 
-mail rent check
 haircut
-guidepoint
 
 movies
+  Logan
   The Devil's Candy
   Ghost in the Shell (03/31)
   Nobody Speak
@@ -11,7 +10,6 @@ movies
   Traceroute
 
 tv
-  The Walking Dead
   Girls
   Real Time with Bill Maher S15E08
   Saturday Night Live S42E16
@@ -24,4 +22,4 @@ tv
   Lie to Me S02E03 [netflix]
 
 games
-  
+  Horizon: Zero Dawn
