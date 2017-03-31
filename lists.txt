@@ -2,7 +2,6 @@
 haircut
 
 movies
-  Logan
   The Devil's Candy
   Ghost in the Shell (03/31)
   Nobody Speak
