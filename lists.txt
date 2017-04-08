@@ -1,9 +1,11 @@
 
 haircut
+phone
+watch
 
 movies
   The Devil's Candy
-  Ghost in the Shell (03/31)
+  Ghost in the Shell
   Nobody Speak
   Stretch and Bobbito: Radio That Changed Lives
   Traceroute
