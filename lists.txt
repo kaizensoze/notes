@@ -1,7 +1,5 @@
 
 haircut
-phone
-watch
 
 movies
   The Devil's Candy
