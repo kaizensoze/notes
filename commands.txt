@@ -126,6 +126,9 @@ dd
 diskutil
   diskutil secureErase freespace 0 /Volumes/sparta
 
+dns
+  sudo dscacheutil -flushcache && sudo killall -HUP mDNSResponder
+
 ffmpeg
   for x (*.flac); do ffmpeg -i $x -ab 196k -ac 2 -ar 48000 "${x:r}.mp3"; done
 
