@@ -1,13 +1,9 @@
 
-walmart
-  backpack
-  green hoodie
 get check -> mail check
-green hoodie
-backpack?
 food
 post everything on craigslist
-jeans
+green hoodie, jeans
+cancel coned, verizon service
 
 movies
   Traceroute
@@ -18,7 +14,6 @@ tv
   Silicon Valley S04E02 (04/30)
   Last Week Tonight S04E08 (04/30)
   Better Call Saul S03E04 (05/01)
-  
   Game of Thrones (07/16)
 
 games
