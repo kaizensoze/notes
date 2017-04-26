@@ -1,25 +1,13 @@
 
-paper towels
-tv/movies
-update notes
-take out garbage
-return library books
-haircut
-sell things
-verizon
-clean house
-return willy
-rent car
-pay dc area a visit
-
 movies
   Traceroute
-  Ghost in the Shell
+  The Lost City of Z
 
 tv
-  Last Week Tonight S04E08
-  Better Call Saul (04/10)
-  Silicon Valley (04/23)
+  Rick and Morty S03E01 (04/29)
+  Silicon Valley S04E02 (04/30)
+  Last Week Tonight S04E08 (04/30)
+  Better Call Saul S03E04 (05/01)
   Game of Thrones (07/16)
 
 games
