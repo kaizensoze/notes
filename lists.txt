@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 movies
   The Lost City of Z
 
@@ -7,6 +8,20 @@ tv
   Silicon Valley S04E07 (06/04
   Better Call Saul S03E08 (06/05
   Last Week Tonight S04E14 (06/04)
+=======
+yellowstone (amtrak to Salt Lake City, UT) [train or plane]
+back to ny
+  pick up mail
+  rifle range
+
+movies
+
+
+tv
+  Silicon Valley S04E08 (06/18)
+  Last Week Tonight S04E16 (06/18)
+  Better Call Saul S03E10 (06/19)
+>>>>>>> dd2c90515f135b56f0b3cac61eeae1d1c0607107
   Game of Thrones (07/16)
   Rick and Morty S03E02
 

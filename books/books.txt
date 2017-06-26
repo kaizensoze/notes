@@ -118,6 +118,7 @@ Relentless Strike, Sean Naylor
 Revenge of the Kremlin, Gérard de Villiers
 Rtfm: Red Team Field Manual, Ben Clark
 Sandman Slim, Richard Kadrey
+Sapiens: A Brief History of Humankind, Yuval Noah Harari
 Seveneves, Neal Stephenson
 Shoe Dog, Phil Knight
 Silence on the Wire, Michal Zalewski
@@ -130,7 +131,7 @@ Superforecasting, Philip E. Tetlock
 Superintelligence: Paths, Dangers, Strategies, Nick Bostrom
 Swan song, Robert McCammon
 Team of Rivals, Doris Kearns Goodwin
-Team of Teams, Stanley McChrystal 
+Team of Teams, Stanley McChrystal
 Tesla: Inventor of the Electrical Age, W. Bernard Carlson
 The Art of Invisibility, Kevin Mitnick
 The Alienist, Caleb Carr
@@ -176,6 +177,7 @@ The Immortal Life of Henrietta Lacks, Rebecca Skloot
 The Intelligent Investor, Benjamin Graham
 The ISIS Apocalypse, William McCants
 The Journalist and the Murderer, Janet Malcolm
+The Lathe of Heaven, Ursula K. Le Guin
 The Laws of Medicine, Siddhartha Mukherjee
 The Looming Tower, Lawrence Wright
 The Madmen of Benghazi, Gérard de Villiers
@@ -496,3 +498,6 @@ Dry, Augusten Burroughs
 Seinfeldia, Jennifer Armstrong
 A Tale of Two Cities, Charles Dickens [x]
 The Name of the Wind, Patrick Rothfuss [x]
+Blitzed, Norman Ohler
+On Killing, Dave Grossman
+The Dark Net, Jamie Bartlett
