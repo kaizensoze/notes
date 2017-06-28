@@ -4,31 +4,9 @@ pay rent to:
   230 W 55th Street Apt 25A
   New York, NY 10019 
 
-pcp
-  Pandya, Himanshu, M., MD
-  25720 Hillside Ave
-  Floral Park, NY 11004
-  718-831-6600
-
-dermatologist
-  2001 Marcus Ave
-  Ste E130
-  New Hyde Park,NY 11042
-  516-352-2700
-
 dentist
   All Bright Dental PC
   26309 Union Tpke Floral Park, NY 11004
-
-vet
-  249-36 Horace Harding Expy
-  Little Neck, NY 11362
-  718-281-0800
-  https://www.yelp.com/biz/veterinary-care-group-little-neck-3
-
-livia
-  143 BLEECKER ST APT 2R, Brooklyn, NY 11221
-  door code: 1025
 
 Town of Hempstead Animal Shelter
   3320 Beltagh Avenue, wantagh, ny
