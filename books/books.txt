@@ -15,7 +15,6 @@ Benjamin Franklin: An American Life, Walter Isaacson
 Black Flags: The Rise of ISIS, Joby Warrick
 Blackwater, Jeremy Scahill
 Bleeding Edge, Thomas Pynchon
-Blitzed: Drugs in the Third Reich, Norman Ohler
 Body of Secrets, James Bamford
 Book of the New Sun, Gene Wolfe
 Book of Numbers, Joshua Cohen
@@ -102,7 +101,6 @@ Notorious RBG, Irin Carmon
 Not Without Peril, Nicholas Howe
 Odyssey, Homer
 Of Human Bondage, W. Somerset Maugham
-On Killing, Dave Grossman
 Operation Nemesis, Eric Bogosian
 Penpal, Dathan Auerbach
 Perdido Street Station, China Mieville
@@ -498,6 +496,7 @@ Dry, Augusten Burroughs
 Seinfeldia, Jennifer Armstrong
 A Tale of Two Cities, Charles Dickens [x]
 The Name of the Wind, Patrick Rothfuss [x]
-Blitzed, Norman Ohler
-On Killing, Dave Grossman
 The Dark Net, Jamie Bartlett
+Blitzed: Drugs in the Third Reich, Norman Ohler
+On Killing, Dave Grossman
+Into the Water, Paula Hawkins
