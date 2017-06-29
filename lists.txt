@@ -1,4 +1,7 @@
 
+go through email
+go through github
+
 2001: a Space Odyssey
 2010: Odyssey Two
 2061: Odyssey Three
