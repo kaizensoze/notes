@@ -74,7 +74,7 @@ Melkor ->
   Dragons
   Trolls
   Orcs (Corrupted Elves)
-  
+
 Game of Thrones
 ====
 Prince Rhaegar Targaryen abducts Lyanna Stark
@@ -85,10 +85,11 @@ Houses
   Tyrell
     Redwyne
 
-chase balance minimum
-====
-personal savings: 15,000
-business checking: 1,500
+Children of Forest
+First Men (wildlings?)
+=== wall ===
+Andals
+How (if at all) do children of forest create white walkers?
 
 CRISPR (https://www.youtube.com/watch?v=jAhjPd4uNFY&feature=youtu.be)
 ====
@@ -229,7 +230,7 @@ Ruy Lopez [Exchange] (black)
 
 Ruy Lopez [Main Line] (white, black)
 
-3 ... a6 4 Ba4 Nf6 5 0-0 
+3 ... a6 4 Ba4 Nf6 5 0-0
 
 Ruy Lopez [Open] (white)
 
@@ -350,7 +351,7 @@ damascenone: roses
 amino acid catabolism
 protein hyrolysis
 
-iambic pentameter 
+iambic pentameter
 da-DAH da-DAH da-DAH da-DAH da-DAH
 5 DAHs (penta)
 short in front, tall in back; stress second syllable (iambic)
@@ -411,7 +412,7 @@ scales:
     -X-X
 
     Natural Minor
-    -X--- 
+    -X---
     -XX-X
     XX-X-
     -X-X-
@@ -421,7 +422,7 @@ scales:
     Harmonic Minor
     XX---
     -XX--
-    XX-X- 
+    XX-X-
     --XX-
     -X-XX
     -X-XX
@@ -433,11 +434,11 @@ scales:
     -X-X-
     -X-X-
     -X-X-
-    
+
     Pentatonic Major
     -X--
     -X-X
-    X-X-    
+    X-X-
     X--X
     X--X
     -X-X
@@ -457,7 +458,7 @@ scales:
     X-X-
     XXX-
     X--X
-        
+
     Dorian
     -X---
     -X-XX
@@ -467,7 +468,7 @@ scales:
     -X-XX
 
     Phrygian
-    X---    
+    X---
     XX-X
     X-X-
     X-XX
@@ -554,13 +555,13 @@ struct Point {
     let x: Double
     let y: Double
     let z: Double
-    
+
     init(_ x: Double, _ y: Double, _ z: Double) {
         self.x = x
         self.y = y
         self.z = z
     }
-    
+
     func toDict() -> NSDictionary {
         let dict = [
             "x": x,
@@ -569,7 +570,7 @@ struct Point {
         ]
         return dict
     }
-    
+
     static func fromDict(dict: NSDictionary) -> Point? {
         guard let x = dict["x"] as? Double, y = dict["y"] as? Double, z = dict["z"] as? Double else {
             return nil
