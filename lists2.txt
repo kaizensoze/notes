@@ -9,6 +9,9 @@ thought experiments
   github api wrapper in swift
   collaborative open source contribution platform
   learn tensorflow
+  pedopriest project based on # reassignments
+  	name, church, position, entry_date
+  	check every two weeks
 
 health stack
   steel cut oats
@@ -125,7 +128,7 @@ Donald Trump Jr
 Eric Trump
 Ivanka Trump
 RNC Chairman Reince Priebus
-Trump Campaign CEO Stephen K Bannon 
+Trump Campaign CEO Stephen K Bannon
 
 Advanced Persistent Threats (APTS)
 ====
@@ -353,13 +356,13 @@ overthewire
   http://natas11.natas.labs.overthewire.org/
   U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
   /etc/natas_webpass/natas11
-  
+
 estimated tax deadlines
   Q1 April 15, 2014
   Q2 June 15, 2014
   Q3 September 15, 2014
   Q4 January 15, 2015
-  
+
 places
   bakery
     Bakeri
@@ -391,7 +394,7 @@ techorgs
   braindump
   alpha one labs
   nycresistor
-  
+
 conferences
   (01/16) shmoocon
   (01/25) usenix enigma
@@ -449,7 +452,7 @@ noteworthy books
   Unbroken, Laura Hillenbrand
   Voltaire's Bastards, John Ralston Saul
   Wired for War, P.W. Singer
-  
+
 
 noteworthy movies
   Idiocracy
@@ -481,7 +484,7 @@ donuts
     Guru Donuts
   Des Moines, IA
     Donut Hut
-    
+
 music
   65daysofstatic
   animals as leaders
@@ -560,7 +563,7 @@ music
   tristeza
   VNV Nation
   wumpscut
-  
+
 geologic periods
   cambrian
   ordovician
