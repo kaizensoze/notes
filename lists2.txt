@@ -12,6 +12,8 @@ thought experiments
   pedopriest project based on # reassignments
   	name, church, position, entry_date
   	check every two weeks
+  improve in-q-tel lookup
+  host gitpop on github pages
 
 health stack
   steel cut oats
