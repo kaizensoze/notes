@@ -1,22 +1,24 @@
 
-passport
-books
-
-2001: a Space Odyssey
-2010: Odyssey Two
-2061: Odyssey Three
-3001: The Final Odyssey
-The Garden of Rama
-
 movies
-
+  Dark Tower
+  Get Shorty
+  Detroit
+  Baby Driver
+  Baraka
+  Valerian
+  Sargasso
 
 tv
-  Silicon Valley S04E11 (07/02)
-  Last Week Tonight S04E18 (07/02)
-  Game of Thrones (07/16)
+  Game of Thrones S07E06 (08/20)
+  Rick and Morty S0305 (08/20)
+  Narcos S03E01 (09/01)
+  American Horror Story S07E01 (09/05)
+  South Park S21E01 (09/13)
+  Curb Your Enthusiasm S0?E0? (?)
+  Twin Peaks S01E01 (05/21)
 
 games
+  Observer
   Horizon: Zero Dawn
   Nier: Automata
   What Remains of Edith Finch

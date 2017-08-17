@@ -1,31 +1,30 @@
 
-Bread and Puppet Museum – Glover, VT
-house -> Quebec City (9 hours)
-Quebec City -> Montreal (3 hours)
-Montreal -> Ottawa (2 hours)
-Ottawa -> house (7.5 hours)
-
-EXTRAS
-  Montreal
-  Quebec City
-  Ottawa
-  
-  Hawaii
-  
-  Zion National Park, UT
-  Jackson, WY
-  Grand Tetons National Park, WY
-  Yellowstone National Park, WY
-  Rocky Mountain National Park, CO
-  
-  Charleston, SC
+ALTERNATE (Amtrak)
+  [Charleston, SC]
   Atlanta, GA (REVISIT)
-  Miami, FL
-  Everglades, FL
-  Blue Springs State Park, FL
-  
-  Mammoth Cave, KY
-  
+  New Orleans, LA (REVISIT)
+  Chicago
+
+Charleston, SC
+Atlanta, GA (REVISIT)
+Miami, FL
+Everglades, FL
+Blue Springs State Park, FL
+
+Montreal
+Quebec City
+Ottawa
+
+Hawaii
+
+Zion National Park, UT
+Jackson, WY
+Grand Tetons National Park, WY
+Yellowstone National Park, WY
+Rocky Mountain National Park, CO
+
+Mammoth Cave, KY
+
 REVISIT
   New Orleans, LA
   Nashville, TN

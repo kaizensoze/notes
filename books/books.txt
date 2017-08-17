@@ -102,6 +102,7 @@ Not Without Peril, Nicholas Howe
 Odyssey, Homer
 Of Human Bondage, W. Somerset Maugham
 Operation Nemesis, Eric Bogosian
+Philip K. Dick, *
 Penpal, Dathan Auerbach
 Perdido Street Station, China Mieville
 Plague Dogs, Richard Adams
@@ -149,9 +150,7 @@ The Chemistry of Powder and Explosives, Tenney L. Davis
 The Complete Jack the Ripper, Donald Rumbelow
 The Corpse Reader, Antonio Garrido
 The Corrections, Jonathan Franzen
-The Count of Monte Cristo, Alexandre Dumas
 The Craft of Intelligence, Allen Dulles
-The Dark Tower, Stephen King
 The Devil's Chessboard, David Talbot
 The Drunken Botanist, Amy Stewart
 The Electric Kool-Aid Acid Test, Tom Wolfe
@@ -196,7 +195,6 @@ The Plot to Hack America, Malcolm Nance
 The Poisoner's Handbook, Deborah Blum
 The Power Broker, Robert A. Caro, page: 25
 The Power of your Subconscious Mind, Joseph Murphy
-The Promise of a Pencil, Adam Braun
 The Puzzle Palace, James Bamford
 The Restaurant at the End of the Universe, Douglas Adams
 The Right Stuff, Tom Wolfe
@@ -211,7 +209,6 @@ The Spy Who Came in from the Cold, John le Carre
 The Stand, Stephen King
 The Tales of Beedle the Bard, J.K. Rowling
 The Technology of Orgasm, Rachel Maines
-The Three-Body Problem, Liu Cixin
 The Trespasser, Tana French
 The Trouble With Testosterone, Robert Sapolsky
 The View from the Cheap Seats, Neil Gaiman
@@ -499,3 +496,16 @@ The Dark Net, Jamie Bartlett
 Blitzed: Drugs in the Third Reich, Norman Ohler
 On Killing, Dave Grossman
 Into the Water, Paula Hawkins
+Neuromancer, William Gibson
+To Repair the World, Paul Farmer
+Razor Girl, Carl Hiaasen [x]
+The Promise of a Pencil, Adam Braun
+On Writing, Stephen King
+The Elements of Style, William Strunk Jr.
+Armada, Ernest Cline
+2001: a Space Odyssey, Arthur C. Clarke
+2010: Odyssey Two, Arthur C. Clarke
+Robert Kirkman's The Walking Dead: Descent
+The Dark Tower series + bonus book, Stephen King
+The Three-Body Problem, Liu Cixin [x]
+The Count of Monte Cristo, Alexandre Dumas [x]

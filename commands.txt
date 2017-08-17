@@ -311,6 +311,8 @@ netstat (netstat sucks in osx)
   sudo netstat -atp tcp | grep -i LISTEN  # use lsof instead
 
 nginx
+  sudo service nginx stop
+  sudo service nginx start
   sudo nginx -t
   sudo nginx -s reload
 

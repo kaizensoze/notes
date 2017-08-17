@@ -60,7 +60,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   gym: 4.5h (cliffs)
   deadhangs
     sloper: 55s, 32s, 43s
-    crimp (mid - changed): 15s 
+    crimp (mid - changed): 15s
   pushups: 40, 50
   sloper transitions
 
@@ -81,7 +81,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 
 2015-03-27
   bike: to/:from gym
-  gym: 1.5 hours 
+  gym: 1.5 hours
   finger pushups: 12
   pushups: 30
   deadhangs
@@ -112,12 +112,12 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 2016-07-31:
   pushups: 68 (X)
   planks: 02:00 (X)
-  pullups: 
+  pullups:
 
 2016-08-02:
   pushups: 70
   planks: 02:00 (X) (need to do planks before pullups)
-  
+
 2016-08-09:
   planks: 02:45
   pushups: 50 (X)
@@ -126,10 +126,10 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 
 2016-08-19:
   pushups: 40
-  
+
 2016-08-22:
   pushups: 50
-  
+
 2016-08-25:
   pushups: 54
 
@@ -138,56 +138,56 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 
 2016-08-30:
   planks: 02:10
-  
+
 2016-08-31:
   pushups: 51
-  
+
 2016-09-01:
   planks: 01:30
-  
+
 2016-09-04:
   pushups: 50
 
 2016-09-12:
   finger pullups: 10
   pushups: 43
-  
+
 2016-09-21:
   pushups: 50
 
 2016-09-23:
   2x6 pullups
-  
+
 2016-09-24:
   planks: 02:30
-  
+
 2016-09-26:
   finger pullups: 10
 
 2016-09-27:
   pushups: 60
-  
+
 2016-09-29:
   pushups: 60
   planks: 02:00
-  
+
 2016-10-03:
   finger pullups: 10
   pushups: 50
-  
+
 2016-10-10:
   pushups: 60
-  
+
 2016-10-20:
   pushups: 60
-  
+
 2016-11-07:
   pushups: 50
   planks: 1:20
-  
+
 2016-11-11:
   pushups: 50
-  
+
 2016-11-15:
   finger pullups: 8
   planks: 01:30
@@ -204,16 +204,16 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 
 2016-11-20:
   pushups: 57
-  
+
 2016-11-21
   finger pullups: 10
-  
+
 2016-11-22:
   pushups: 70
   finger pullups (shoes on): 10
   wall press (outer): 70
   wall press (inner): 80
-  
+
 2016-11-23: (start recording ab exercises)
   finger pullups (shoes on): 9, 4
   floor press (25 lbs): 3x10
@@ -227,10 +227,10 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 2016-11-24:
   bicep curl (25 lbs, together): 1x10
   finger pullups: 7
-  
+
 2016-11-25:
   pushups: 60
-  
+
 2016-11-26:
   bicep curl (25 lbs, together): 1x13
   cat vomit exercise (10s hold): 2
@@ -247,7 +247,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   xertube - chest fly (pole): 1x10 # this exercise seems to work shoulder more than chest; discontinue
   cat vomit exercise (20s hold): 5
   myotatic crunch: 80s, 80s, 80s, 20s, 20s, 30s
-  
+
 2016-11-28:
   pushups: 60
   myotatic crunch: 50s, 50s
@@ -258,20 +258,20 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   wall press (inner): 50
   floor press (25 lbs): 3x10
   myotatic crunch: 50s, 60s
-  
+
 2016-11-29:
   myotatic crunch: 3x50
   finger pullups (on): too tired, not counting...
   dumbbell fly (25 lbs): 2x10
   myotatic crunch: 2x60
-  
+
 2016-11-30:
   planks: 02:30
   lying leg raise (10s/notch): 1x4
   myotatic crunch: 2x60
   chest resistance band stretch: 10
   lying leg raise (10s/notch): 1x5 (notches)
-  
+
 2016-12-01:
   lying leg raise (10s/notch): 1x8 (from now on make sure legs straight)
   myotatic crunch: 1x60
@@ -410,17 +410,17 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   lying leg raise (10s/notch): 18
   rock climbing
 
-2016-01-05:
+2017-01-05:
   lying leg raise (10s/notch): 20
   myotatic crunch: 100 (keep hands further back)
   pushups: 90
 
-2016-01-06:
+2017-01-06:
   finger pullups: 8 (clothes and shoes on)
   lying leg raise (10s/notch): 20
   myotatic crunch: 100
 
-2016-01-07:
+2017-01-07:
   lying leg raise (8s/notch): 24 (lift head a bit)
   bicep curl (30 lb): 1x8, 1x3
   chest press (neutral grip) (30 lb): 3x8 (using chair in lowest position)
@@ -428,81 +428,81 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   chest fly (30 lb): 3x8
   myotatic crunch: 120
 
-2016-01-08:
+2017-01-08:
   lying leg raise (8s/notch): 30
   myotatic crunch: 150
 
-2016-01-09:
+2017-01-09:
   lying leg raise (8s/notch): 25
   pushups: 80
   chest resistance band stretch: 2x8
   myotatic crunch: 80
 
-2016-01-10:
+2017-01-10:
   lying leg raise (8s/notch): 30
   bicep curl (30 lb): 2x8, 1x4
   chest press (30 lb): 8, 8, 12
   myotatic crunch: 200
 
-2016-01-11:
+2017-01-11:
   lying leg raise (8s/notch): 40
   pushups: 50 normal, 10 wide, 3 military, 3 diamond (start doing different types of pushups)
   myotatic crunch (8s/rep): 12
 
-2016-01-12:
+2017-01-12:
   bicep curl (30 lb): 8, 8, 6
   chest press (30 lb): 3x12
   chest fly (30 lb): 3x8
-  
-2016-01-13:
+
+2017-01-13:
   rock climbing
-  
-2016-01-14:
+
+2017-01-14:
   lying leg raise (8s/notch): 35
   myotatic crunch (8s/rep): 12
   chest press (30 lb): 3x12
   chest fly (30 lb): 3x8
   bicep curl (30 lb): 3x8
-  
-2016-01-15:
+
+2017-01-15:
   rock climbing
 
-2016-01-16:
+2017-01-16:
   chest press (30 lb): 3x10
   chest fly (30 lb): 3x12
   bicep curl (30 lb): 3x8
 
-2016-01-17:
+2017-01-17:
   rock climbing (5.10, 5.10, V3 cave, 2xV4 45 deg attempts)
-  
-2016-01-18:
+
+2017-01-18:
   chest press (30 lb): 4x12
   chest fly (30 lb): 3x12, 16
   bicep curl (30 lb): 8, 8, 7
   lying leg raise (8s/notch): 20
   myotatic crunch (8s/rep): 12
 
-2016-01-19:
+2017-01-19:
   lying leg raise (8s/notch): 20
   myotatic crunch (8s/rep): 15
-  
-2016-01-20:
+
+2017-01-20:
   start weight: N/A
   rock climbing
   end weight: 140
 
-2016-01-21:
+2017-01-21:
   start weight: 139
   chest press (30 lb): 3x16
   chest fly (30 lb): 3x15
   bicep curl (30 lb): 3x8
   lying leg raise (8s/notch): 30
 
-2016-01-22:
+2017-01-22:
   start weight: 139
   rock climbing
 
-2016-01-23:
+2017-01-23:
   start weight: 138
   chest press (30 lb): 3x8
   chest fly (30 lb): 3x8
@@ -510,14 +510,14 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   chest resistance band stretch: 3x8
   lying leg raise (8s/notch): 20
 
-2016-01-24:
+2017-01-24:
   start weight: 137.5
   rock climbing
 
-2016-01-25:
+2017-01-25:
   start weight: 137.5
 
-2016-01-26:
+2017-01-26:
   start weight: 137.4
   chest press (30 lb): 3x8
   chest fly (30 lb): 3x8
@@ -525,92 +525,92 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   chest resistance band stretch: 3x8
   lying leg raise (8s/notch): 15 (head down), 20 (head up)
 
-2016-01-27:
+2017-01-27:
   start weight: 136.4
   rock climbing
   chest press (30 lb): 3x8
   chest fly (30 lb): 3x8
   chest resistance band stretch: 3x8
 
-2016-01-28:
+2017-01-28:
   start weight: 136.4
 
-2016-01-29:
+2017-01-29:
   start weight: 136.4
   rock climbing
   chest press (30 lb): 3x10
   chest fly (30 lb): 3x8
 
-2016-01-30:
+2017-01-30:
   start weight: 138.4
   rock climbing
   chest press (30 lb): 3x10
   chest fly (30 lb): 3x8
   chest resistance band stretch: 3x8
 
-2016-01-31:
+2017-01-31:
   start weight: 138.4
   lying leg raise (8s/notch): 20 (head down), 12 (head up)
 
-2016-02-01:
+2017-02-01:
   start weight: 137.5
   rock climbing
   chest press (35 lb): 3x8
   chest fly (35 lb): 3x8
   bicep curl (30 lb): 3x8
 
-2016-02-02:
+2017-02-02:
   start weight: 137.5
   lying leg raise (8s/notch): 30 (head down), 15 (head up)
   pushups: 50 normal, 30 wide
 
-2016-02-03:
+2017-02-03:
   chest press (30 lb): 3x8
   chest fly (30 lb): 3x8
   myotatic crunch (8s/rep): 100
   lying leg raise (8s/notch): 30 (head down), 0 (head up)
 
-2016-02-04:
+2017-02-04:
   chest press (30 lb): 3x8
   chest fly (30 lb): 3x8
 
-2016-02-05:
+2017-02-05:
   chest press (30 lb): 3x8
   chest fly (30 lb): 3x8
   bicep curl (30 lb): 1x8
 
-2016-02-06: 
+2017-02-06:
   rock climbing
 
-2016-02-09:
+2017-02-09:
   start weight: 139.4
   rock climbing
   chest press (40 lb): 3x8
   chest fly (40 lb): 3x8
 
-2016-02-10:
+2017-02-10:
   start weight: 140.2
   pull ups (20 underhand, 20 overhand, 10 wide, 20 side)
 
-2016-02-11:
+2017-02-11:
   pull ups
   planks: 2m
 
-2016-02-12:
+2017-02-12:
   pull ups
 
-2016-02-13:
+2017-02-13:
   pull ups
   rock climbing
 
-2016-02-14:
+2017-02-14:
   nada
 
-2016-02-15:
+2017-02-15:
   pull ups
   bicep curls (30 lb): 2x8
 
-2016-02-16:
+2017-02-16:
   start weight: 138.8
   pushups: 60 standard, 10 military
   chest press (30 lb): 3x10
@@ -621,22 +621,22 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   pull ups (12 each)
   planks: 2m20s
 
-2016-02-17:
+2017-02-17:
   rock climbing
 
-2016-02-18:
+2017-02-18:
   start weight: 138.8
 
-2016-02-19:
+2017-02-19:
   start weight: 139.2
   planks: 2m30s
   lying leg raise (8s/notch): 20 (head down), 10 (head up)
 
-2016-02-20:
+2017-02-20:
   start weight: 138
   bouldering (steep rock bouldering)
 
-2016-02-21:
+2017-02-21:
   start weight: 136.2
   chest press (30 lb): 3x8
   chest fly (30 lb): 3x8
@@ -645,36 +645,38 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   lying leg raise (8s/notch): 15 (head down)
   pullups: 5x8
 
-2016-02-23:
+2017-02-23:
   chest press (30 lb): 3x10
   chest fly (30 lb): 3x10
   bicep curls (30 lb): 1x8
 
-2016-02-25:
+2017-02-25:
   rock climbing
   chest press (30 lb): 3x10
   chest fly (30 lb): 3x8
   pullups: 4x12
   planks: 2:00
 
-2016-02-26:
+2017-02-26:
   start weight: 137.2
 
-2016-02-27:
+2017-02-27:
   chest press (30 lb): 4x10
   chest fly (30 lb): 3x8
   planks: 1:30
   pullups: 3x12
 
-2016-02-28:
+2017-02-28:
   pullups: 7x12
 
-2016-03-01:
+2017-03-01:
   pullups: 3x12
 
-2016-03-22:
+2017-03-22:
   chest press (30 lb): 3x8
   chest fly (30 lb): 3x12
   lying leg raise (8s/notch): 30 (head down), 12 (head up)
-  pullups: 
-  
+
+2017-08-16
+  chest press (25 lb): 10,10,12
+  chest fly (25 lb): 10,8,8
