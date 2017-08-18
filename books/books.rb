@@ -14,7 +14,7 @@ File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
 
     puts search_term
 
-    url = "http://www.goodreads.com/search?utf8=%E2%9C%93&query=#{search_term}"
+    url = "https://www.goodreads.com/search?utf8=%E2%9C%93&query=#{search_term}"
     escaped_url = URI.escape(url)
 
     # get first result with an image
@@ -27,13 +27,14 @@ File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
 
       list_item_image_url = list_item.css('td')[0].css('img').attr('src').to_s
       list_item_num_ratings = list_item.css('td')[1].css('span.minirating').text.match(/— (.+) rating.?/)[1].tr(',', '').to_i
+
       list_item_index += 1
       break if !list_item_image_url.include?('nophoto') && list_item_num_ratings >= 200
     end
 
     # get book details
     if !list_item.nil?
-      list_item_url = "http://www.goodreads.com#{list_item.css('td')[0].css('a')[0]['href']}"
+      list_item_url = "https://www.goodreads.com#{list_item.css('td')[0].css('a')[0]['href']}"
 
       book_page = Nokogiri::HTML(open(list_item_url))
       title = book_page.css('h1.bookTitle').text.strip.gsub(/\s\s+/, ' ').tr(',', '')
