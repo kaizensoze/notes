@@ -1,12 +1,6 @@
 
 movies
-  Dark Tower
-  Get Shorty
-  Detroit
-  Baby Driver
-  Baraka
-  Valerian
-  Sargasso
+
 
 tv
   Game of Thrones S07E06 (08/20)
@@ -14,8 +8,9 @@ tv
   Narcos S03E01 (09/01)
   American Horror Story S07E01 (09/05)
   South Park S21E01 (09/13)
-  Curb Your Enthusiasm S0?E0? (?)
+  Curb Your Enthusiasm S09E01 (??/??)
   Twin Peaks S01E01 (05/21)
+  Mr Robot S03E01 (10/??)
 
 games
   Observer
