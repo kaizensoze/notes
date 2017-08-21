@@ -1,5 +1,6 @@
 
 movies
+  The Signal
   Dunkirk
   Spider-Man: Homecoming
 
@@ -11,8 +12,8 @@ tv
   American Horror Story S07E01 (09/05)
   South Park S21E01 (09/13)
   Curb Your Enthusiasm S09E01 (??/??)
-  Twin Peaks S01E01 (05/21)
   Mr Robot S03E01 (10/??)
+  Twin Peaks S01E01 (05/21)
 
 games
   Observer
