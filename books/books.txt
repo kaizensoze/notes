@@ -1,35 +1,27 @@
-Abdel Bari Atwan, Islamic State: The Digital Caliphate
 Alan Watts, The Book
+Alexander Klimburg, The Darkening Web
 Alexander Weinstein, Children of the New World
 Alfred Bester, The Demolished Man
 Alice Dreger, Galileo's Middle Finger
 Allen Dulles, The Craft of Intelligence
 Amy Stewart, The Drunken Botanist
 Amy Stewart, Wicked Plants
-Andrew Blum, Tubes
-Andrew Huang, The Hardware Hacker
 Andrew Roberts, Napoleon the Great
-Ann McElhinney, Gosnell
 Anne Garrels, Putin Country: A Journey into the Real Russia
-Anne McCaffrey, Dragonriders of Pern
 Annie Jacobsen, The Pentagon's Brain
 Antonio Garrido, The Corpse Reader
-Archie Brown, The Myth of the Strong Leader
-Arthur C Clarke, Rendezvous with Rama
 Arthur Koestler, The Ghost in the Machine
 Atul Gawande, Being Mortal: Medicine and What Matters in the End
 Ayn Rand, Atlas Shrugged
 Ayn Rand, The Fountainhead
 Ben Clark, Rtfm: Red Team Field Manual
 Benjamin Graham, The Intelligent Investor
-Benjamin Hall, Inside Isis
 Benjamin Percy, The Dark Net
 Bertrand Russell, History of Western Philosophy
 Bill Gates, Business@The Speed of Thought
 Bill Wasik, Rabid: A Cultural History of the World's Most Diabolical Virus
 Bren̩ Brown, Daring Greatly
 Brian Christian, Algorithms to Live By
-Bruce Hoffman, Inside Terrorism
 C. S. Forester, Mr. Midshipman Hornblower
 Caitlin Doughty, Smoke Gets in Your Eyes
 Cal Newport, Deep Work
@@ -138,16 +130,14 @@ Matt Ridley, Genome: The Autobiography of a Species in 23 Chapters
 Matthew Baillie, The Morbid Anatomy of Some of the Most Important Parts of the Human Body
 Matthew M. Aid, The Secret Sentry
 Micah White, The End of Protest
-Michael Bar-Zohar, Mossad
 Michael Chabon, The Amazing Adventures of Kavalier & Clay
-Michael Weiss, ISIS: Inside the Army of Terror
 Michal Zalewski, Silence on the Wire
 Michel Foucault, Madness and Civilization
 Miguel de Cervantes, Don Quixote
 Miklos Nyiszli, Auschwitz: A Doctor's Eyewitness Account
 Mitchell Zuckoff, 13 Hours
 Moises Naim, The End of Power
-Mr. Army, U.S. Army Improvised Munitions Handbook
+Naomi Klein, No is not enough
 Nathan Hill, The Nix
 Neal Stephenson, Seveneves
 Neil Gaiman, The View from the Cheap Seats
@@ -155,6 +145,7 @@ Nelson Mandela, Long Walk to Freedom
 Nicholas Howe, Not Without Peril
 Oliver Sacks, Hallucinations
 Oliver Sacks, The Man Who Mistook His Wife For A Hat
+Olivia Laing, The Lonely City
 Paul Neilan, Apathy and Other Small Victories
 Pearl S. Buck, The Good Earth
 Peter Macinnis, Poisons
@@ -184,10 +175,12 @@ Robert Sapolsky, Why Zebras Don't Get Ulcers
 Roger Penrose, The Emperor's New Mind
 Roger Penrose, The Road to Reality: A Complete Guide to the Laws of the Universe
 Ron Chernow, Alexander Hamilton
+Ruth Ware, "In a Dark, Dark Wood"
 Sal L. Arnuk, Broken Markets
 Salim Ismail, Exponential Organizations
 Sam Quinones, Dreamland
 Samantha Power, A Problem from Hell
+Sari Botton, Goodbye to All That
 Scott Nearing, The Making of a Radical
 Sean Naylor, Relentless Strike
 Sebastian Junger, Tribe: On Homecoming and Belonging
@@ -204,7 +197,6 @@ Steven Pinker, The Better Angels of Our Nature
 Sue Klebold, A Mother's Reckoning
 Sylvia Plath, The Bell Jar
 Tana French, The Trespasser
-Tenney L. Davis, The Chemistry of Powder and Explosives
 Tep Koppel, Lights Out
 Terry Pratchett, Discworld
 Thomas Pynchon, Bleeding Edge
@@ -218,7 +210,6 @@ Tom Wolfe, The Bonfire of the Vanities
 Tom Wolfe, The Electric Kool-Aid Acid Test
 Tom Wolfe, The Right Stuff
 Tyler Anbinder, City of Dreams
-Uncle Fester, Home Workshop Explosives
 Ursula K. Le Guin, The Lathe of Heaven
 Victor Davis Hanson, The Savior Generals
 Victor Hugo, The Man Who Laughs
@@ -230,8 +221,6 @@ Walter Isaacson, Benjamin Franklin: An American Life
 Walter Isaacson, Einstein: His Life and Universe
 Walter Isaacson, Kissinger: A Biography
 Walter Isaacson, The Wise Men
-Wendell Potter, Nations on the Take
-William McCants, The ISIS Apocalypse
 William Stevenson, Man Called Intrepid
 Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
 Yuval Noah Harari, Sapiens: A Brief History of Humankind
