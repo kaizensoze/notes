@@ -9,13 +9,15 @@ output_file.puts ['title', 'author', 'num_pages', 'num_ratings', 'rating'].join(
 
 File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
   file.each_line do |line|
-    search_term = line.strip
+    search_term = "#{line.strip.split(/, /)[1]} by #{line.strip.split(/, /)[0]}"
     break if search_term == "DONE" || search_term.empty?
 
     puts search_term
 
     url = "https://www.goodreads.com/search?utf8=%E2%9C%93&query=#{search_term}"
+    puts url
     escaped_url = URI.escape(url)
+
 
     # get first result with an image
     results_page = Nokogiri::HTML(open(escaped_url))
@@ -35,15 +37,17 @@ File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
     # get book details
     if !list_item.nil?
       list_item_url = "https://www.goodreads.com#{list_item.css('td')[0].css('a')[0]['href']}"
+      puts list_item_url
 
       book_page = Nokogiri::HTML(open(list_item_url))
       title = book_page.css('h1.bookTitle').text.strip.gsub(/\s\s+/, ' ').tr(',', '')
       author = book_page.css('a.authorName')[0].css('span').text.strip
       num_pages = book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)[1].tr(',', '') if book_page.css('span[itemprop="numberOfPages"]').text.match(/(\d+) pages/)
-      num_ratings = book_page.css('span[itemprop="ratingCount"]').text.match(/(.*)? [Rr]ating./)[1].tr(',', '')
-      rating = book_page.css('span[itemprop="ratingValue"]').text
-
-      output_file.puts [title, author, num_pages, num_ratings, rating].join(', ')
+      num_ratings = book_page.at('meta[itemprop="ratingCount"]')['content']
+      num_ratings = book_page.css('span.count').text.match(/(.*)? [Rr]ating./)[1].tr(',', '')
+      # rating = book_page.css('span[itemprop="ratingValue"]').text
+      #
+      # output_file.puts [title, author, num_pages, num_ratings, rating].join(', ')
     end
   end
 end
