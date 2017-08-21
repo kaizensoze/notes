@@ -10,7 +10,7 @@ output_file.puts ['author', 'title', 'num_pages', 'num_ratings', 'rating'].join(
 File.open("#{Dir.home}/Dropbox/documents/txt/books/books.txt", "r") do |file|
   file.each_line do |line|
     search_term = "#{line.strip.split(/, /)[1]} by #{line.strip.split(/, /)[0]}"
-    break if search_term == "DONE" || search_term.empty?
+    break if line.strip == "DONE" || line.strip.empty?
 
     puts search_term
 

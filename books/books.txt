@@ -70,7 +70,6 @@ Gerard de Villiers, Chaos in Kabul
 Gerard de Villiers, Revenge of the Kremlin
 Gerard de Villiers, The Madmen of Benghazi
 Greg Palast, The Best Democracy Money Can Buy
-Henry Kissinger, World Order
 Henry Rollins, Get in the Van
 Herman Melville, Moby Dick
 Homer, Odyssey
@@ -175,7 +174,7 @@ Robert Sapolsky, Why Zebras Don't Get Ulcers
 Roger Penrose, The Emperor's New Mind
 Roger Penrose, The Road to Reality: A Complete Guide to the Laws of the Universe
 Ron Chernow, Alexander Hamilton
-Ruth Ware, "In a Dark, Dark Wood"
+Ruth Ware, In a Dark Dark Wood
 Sal L. Arnuk, Broken Markets
 Salim Ismail, Exponential Organizations
 Sam Quinones, Dreamland
@@ -224,7 +223,7 @@ Walter Isaacson, The Wise Men
 William Stevenson, Man Called Intrepid
 Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
 Yuval Noah Harari, Sapiens: A Brief History of Humankind
-Andrew McAfee + Erik Brynjolfsson, "Machine, Platform, Crowd"
+Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
 
 DONE
 Bill Bryson, A Short History of Nearly Everything
@@ -274,7 +273,7 @@ Anthony Bourdain, Medium Raw
 Jake Adelstein, Tokyo Vice
 Kieron Gillen, The Wicked + The Divine
 George Takei, Oh Myyy!: There Goes The Internet
-Elizabeth Wurtzel, "More, Now, Again"
+Elizabeth Wurtzel, More Now Again
 Jon Kabat-Zinn, Wherever you go there you are
 Carmen M. Reinhart, This Time is Different
 Scott Stossel, My Age of Anxiety
