@@ -32,6 +32,7 @@ Catherine Lacey, The Answers: A Novel
 Charles Dickens, David Copperfield
 China Mieville, Perdido Street Station
 China Mieville, The Scar
+Chris Guillebeau, The Happiness of Pursuit
 Chris McNab, Network Security Assessment
 Chuck Klosterman, Chuck Klosterman X
 Clifford Pickover, Archimedes to Hawking: Laws of Science and the Great Minds Behind Them
@@ -227,6 +228,7 @@ Walter Isaacson, The Wise Men
 William Stevenson, Man Called Intrepid
 Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
 Yuval Noah Harari, Sapiens: A Brief History of Humankind
+Yvon Chouinard, Let My People Go Surfing
 Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
 
 DONE
