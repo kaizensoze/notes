@@ -10,6 +10,7 @@ Andrew Roberts, Napoleon the Great
 Anne Garrels, Putin Country: A Journey into the Real Russia
 Annie Jacobsen, The Pentagon's Brain
 Antonio Garrido, The Corpse Reader
+Arthur Koestler, Darkness at Noon
 Arthur Koestler, The Ghost in the Machine
 Atul Gawande, Being Mortal: Medicine and What Matters in the End
 Ayn Rand, Atlas Shrugged
@@ -110,6 +111,8 @@ Jostein Gaarder, Sophie's World
 Jules Verne, Twenty Thousand Leagues Under the Sea
 Julian Assange, Cypherpunks: Freedom and the Future of the Internet
 Julian Assange, The WikiLeaks Files: The World According to US Empire
+Kevin Kelly, Cool Tools
+Kevin Kelly, The Inevitable
 Kevin Mitnick, The Art of Invisibility
 Knut Hamsun, Hunger
 Kristin Hannah, The Nightingale
@@ -145,6 +148,7 @@ Neal Stephenson, Seveneves
 Neil Gaiman, The View from the Cheap Seats
 Nelson Mandela, Long Walk to Freedom
 Nicholas Howe, Not Without Peril
+Nir Eyal, Hooked
 Oliver Sacks, Hallucinations
 Oliver Sacks, The Man Who Mistook His Wife For A Hat
 Olivia Laing, The Lonely City
