@@ -6,6 +6,7 @@ Alice Dreger, Galileo's Middle Finger
 Allen Dulles, The Craft of Intelligence
 Amy Stewart, The Drunken Botanist
 Amy Stewart, Wicked Plants
+Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
 Andrew Roberts, Napoleon the Great
 Anne Garrels, Putin Country: A Journey into the Real Russia
 Annie Jacobsen, The Pentagon's Brain
@@ -233,7 +234,6 @@ William Stevenson, Man Called Intrepid
 Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
 Yuval Noah Harari, Sapiens: A Brief History of Humankind
 Yvon Chouinard, Let My People Go Surfing
-Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
 
 DONE
 Bill Bryson, A Short History of Nearly Everything
