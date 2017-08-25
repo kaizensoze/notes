@@ -1,3 +1,4 @@
+Alan T. Norman, Mastering Bitcoin for Dummies
 Alan Watts, The Book
 Alexander Klimburg, The Darkening Web
 Alexander Weinstein, Children of the New World
@@ -147,7 +148,7 @@ Nir Eyal, Hooked
 Oliver Sacks, Hallucinations
 Olivia Laing, The Lonely City
 Paul Neilan, Apathy and Other Small Victories
-Pearl S. Buck, The Good Earth
+Paul Vigna, The Age of Cryptocurrency
 Peter Macinnis, Poisons
 Peter Wright, Spy Catcher
 Phil Knight, Shoe Dog
@@ -205,7 +206,6 @@ Tom Wolfe, The Electric Kool-Aid Acid Test
 Tom Wolfe, The Right Stuff
 Ursula K. Le Guin, The Lathe of Heaven
 Victor Davis Hanson, The Savior Generals
-Victor Hugo, The Man Who Laughs
 Vladimir Nabokov, Lolita
 W. Bernard Carlson, Tesla: Inventor of the Electrical Age
 Walter Isaacson, Benjamin Franklin: An American Life
