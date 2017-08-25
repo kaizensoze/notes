@@ -2,7 +2,6 @@ Alan Watts, The Book
 Alexander Klimburg, The Darkening Web
 Alexander Weinstein, Children of the New World
 Alfred Bester, The Demolished Man
-Alice Dreger, Galileo's Middle Finger
 Allen Dulles, The Craft of Intelligence
 Amy Stewart, The Drunken Botanist
 Amy Stewart, Wicked Plants
@@ -87,8 +86,6 @@ James Corey, Leviathan Wakes
 James Dale Davidson, The Sovereign Individual
 James Gleick, Chaos
 Jane Mayer, Dark Money
-Janet Malcolm, The Journalist and the Murderer
-Jeff Jensen, Green River Killer
 Jeremy Scahill, Blackwater
 Jeremy Scahill, Dirty Wars: The World Is a Battlefield
 Jeremy Scahill, The Assassination Complex
@@ -96,7 +93,6 @@ Jill Leovy, Ghettoside
 Joby Warrick, Black Flags: The Rise of ISIS
 Joe Haldeman, The Forever War
 John Brockman, This Will Change Everything
-John Darnielle, Universal Harvester
 John Green, The Fault in Our Stars
 John le Carre, Call for the Dead
 John le Carre, The Pigeon Tunnel
@@ -110,8 +106,6 @@ Joshua Cohen, Book of Numbers
 Joshua Greene, Moral Tribes
 Jostein Gaarder, Sophie's World
 Jules Verne, Twenty Thousand Leagues Under the Sea
-Julian Assange, Cypherpunks: Freedom and the Future of the Internet
-Julian Assange, The WikiLeaks Files: The World According to US Empire
 Kevin Kelly, Cool Tools
 Kevin Kelly, The Inevitable
 Kevin Mitnick, The Art of Invisibility
@@ -151,20 +145,16 @@ Nelson Mandela, Long Walk to Freedom
 Nicholas Howe, Not Without Peril
 Nir Eyal, Hooked
 Oliver Sacks, Hallucinations
-Oliver Sacks, The Man Who Mistook His Wife For A Hat
 Olivia Laing, The Lonely City
 Paul Neilan, Apathy and Other Small Victories
 Pearl S. Buck, The Good Earth
 Peter Macinnis, Poisons
 Peter Wright, Spy Catcher
 Phil Knight, Shoe Dog
-Philip E. Tetlock, Superforecasting
 Philip K. Dick, The Man in the High Castle
 Philip Pullman, His Dark Materials Trilogy
 Philip Roth, Portnoy's Complaint
 Rachel Maines, The Technology of Orgasm
-Randall Munroe, What If?
-Ray Bradbury, Fahrenheit 451
 Ray Bradbury, Solaris
 Ray Bradbury, Something Wicked This Way Comes
 Ray Bradbury, The Martian Chronicles
@@ -181,13 +171,9 @@ Robert Sapolsky, The Trouble With Testosterone
 Robert Sapolsky, Why Zebras Don't Get Ulcers
 Roger Penrose, The Emperor's New Mind
 Roger Penrose, The Road to Reality: A Complete Guide to the Laws of the Universe
-Ron Chernow, Alexander Hamilton
 Rupi Kaur, Milk and Honey
 Ruth Ware, In a Dark Dark Wood
-Sal L. Arnuk, Broken Markets
-Salim Ismail, Exponential Organizations
 Sam Quinones, Dreamland
-Samantha Power, A Problem from Hell
 Sari Botton, Goodbye to All That
 Scott Nearing, The Making of a Radical
 Sean Naylor, Relentless Strike
@@ -209,7 +195,6 @@ Tep Koppel, Lights Out
 Terry Pratchett, Discworld
 Thomas Pynchon, Bleeding Edge
 Thomas Sowell, Basic Economics
-Timothy Ferriss, Tools of Titans
 Tim Weiner, Enemies: A History of the FBI
 Tim Wu, The Master Switch: The Rise and Fall of Information Empires
 Timur Vermes, Look Who's Back
@@ -218,17 +203,13 @@ Tom Wainwright, Narconomics: How to Run a Drug Cartel
 Tom Wolfe, The Bonfire of the Vanities
 Tom Wolfe, The Electric Kool-Aid Acid Test
 Tom Wolfe, The Right Stuff
-Tyler Anbinder, City of Dreams
 Ursula K. Le Guin, The Lathe of Heaven
 Victor Davis Hanson, The Savior Generals
 Victor Hugo, The Man Who Laughs
-Vivien Spitz, Doctors from Hell
 Vladimir Nabokov, Lolita
 W. Bernard Carlson, Tesla: Inventor of the Electrical Age
-W. Somerset Maugham, Of Human Bondage
 Walter Isaacson, Benjamin Franklin: An American Life
 Walter Isaacson, Einstein: His Life and Universe
-Walter Isaacson, Kissinger: A Biography
 Walter Isaacson, The Wise Men
 William Stevenson, Man Called Intrepid
 Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
@@ -512,3 +493,6 @@ Liu Cixin, The Three-Body Problem [x]
 Alexandre Dumas, The Count of Monte Cristo [x]
 Jacqueline Susann, Valley of the Dolls [x]
 Mary Roach, Grunt [x]
+Oliver Sacks, The Man Who Mistook His Wife For A Hat
+Ray Bradbury, Fahrenheit 451
+Timothy Ferriss, Tools of Titans [x]
