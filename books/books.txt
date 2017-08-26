@@ -6,7 +6,6 @@ Alfred Bester, The Demolished Man
 Allen Dulles, The Craft of Intelligence
 Amy Stewart, The Drunken Botanist
 Amy Stewart, Wicked Plants
-Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
 Andrew Roberts, Napoleon the Great
 Anne Garrels, Putin Country: A Journey into the Real Russia
 Annie Jacobsen, The Pentagon's Brain
@@ -496,3 +495,4 @@ Mary Roach, Grunt [x]
 Oliver Sacks, The Man Who Mistook His Wife For A Hat
 Ray Bradbury, Fahrenheit 451
 Timothy Ferriss, Tools of Titans [x]
+Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
