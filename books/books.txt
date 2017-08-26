@@ -92,7 +92,6 @@ Jeremy Scahill, The Assassination Complex
 Jill Leovy, Ghettoside
 Joby Warrick, Black Flags: The Rise of ISIS
 Joe Haldeman, The Forever War
-John Brockman, This Will Change Everything
 John Green, The Fault in Our Stars
 John le Carre, Call for the Dead
 John le Carre, The Pigeon Tunnel
@@ -496,3 +495,4 @@ Ray Bradbury, Fahrenheit 451
 Timothy Ferriss, Tools of Titans [x]
 Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
 Rupi Kaur, Milk and Honey
+John Brockman, This Will Change Everything [x]
