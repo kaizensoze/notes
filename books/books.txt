@@ -171,7 +171,6 @@ Robert Sapolsky, The Trouble With Testosterone
 Robert Sapolsky, Why Zebras Don't Get Ulcers
 Roger Penrose, The Emperor's New Mind
 Roger Penrose, The Road to Reality: A Complete Guide to the Laws of the Universe
-Rupi Kaur, Milk and Honey
 Ruth Ware, In a Dark Dark Wood
 Sam Quinones, Dreamland
 Sari Botton, Goodbye to All That
@@ -496,3 +495,4 @@ Oliver Sacks, The Man Who Mistook His Wife For A Hat
 Ray Bradbury, Fahrenheit 451
 Timothy Ferriss, Tools of Titans [x]
 Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
+Rupi Kaur, Milk and Honey
