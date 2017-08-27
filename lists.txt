@@ -3,6 +3,8 @@ movies
   The Signal
   Dunkirk
   Spider-Man: Homecoming
+  Ingrid Goes West
+  Good Time
 
 tv
   Game of Thrones S07E06 (08/20)
