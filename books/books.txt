@@ -120,7 +120,6 @@ M.R. Carey, The Girl with All the Gifts
 Malcolm Gladwell, David and Goliath
 Malcolm Nance, The Plot to Hack America
 Margaret Atwood, The Handmaid's Tale
-Mark Manson, The Subtle Art of Not Giving a F*ck
 Mark Owen, No Hero
 Martin Blaser, Missing Microbes
 Marvin Minsky, The Society of Mind
@@ -497,3 +496,4 @@ Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
 Rupi Kaur, Milk and Honey
 John Brockman, This Will Change Everything [x]
 Philip K. Dick, The Man in the High Castle [x]
+Mark Manson, The Subtle Art of Not Giving a F*ck [x]
