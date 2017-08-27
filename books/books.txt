@@ -150,7 +150,6 @@ Paul Vigna, The Age of Cryptocurrency
 Peter Macinnis, Poisons
 Peter Wright, Spy Catcher
 Phil Knight, Shoe Dog
-Philip K. Dick, The Man in the High Castle
 Philip Pullman, His Dark Materials Trilogy
 Philip Roth, Portnoy's Complaint
 Rachel Maines, The Technology of Orgasm
@@ -496,3 +495,4 @@ Timothy Ferriss, Tools of Titans [x]
 Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
 Rupi Kaur, Milk and Honey
 John Brockman, This Will Change Everything [x]
+Philip K. Dick, The Man in the High Castle [x]
