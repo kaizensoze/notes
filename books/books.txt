@@ -123,7 +123,6 @@ Margaret Atwood, The Handmaid's Tale
 Mark Owen, No Hero
 Martin Blaser, Missing Microbes
 Marvin Minsky, The Society of Mind
-Masha Gessen, The Man Without a Face
 Matt Ridley, Genome: The Autobiography of a Species in 23 Chapters
 Matthew Baillie, The Morbid Anatomy of Some of the Most Important Parts of the Human Body
 Matthew M. Aid, The Secret Sentry
@@ -497,3 +496,4 @@ Rupi Kaur, Milk and Honey
 John Brockman, This Will Change Everything [x]
 Philip K. Dick, The Man in the High Castle [x]
 Mark Manson, The Subtle Art of Not Giving a F*ck [x]
+Masha Gessen, The Man Without a Face
