@@ -1,7 +1,6 @@
 
 movies
   The Signal
-  Dunkirk
   Spider-Man: Homecoming
   Ingrid Goes West
   Good Time
@@ -20,7 +19,6 @@ tv
   Sneaky Pete S01E01 (amazon prime)
 
 games
-  Observer
-  Horizon: Zero Dawn
   Nier: Automata
+  Horizon: Zero Dawn
   What Remains of Edith Finch
