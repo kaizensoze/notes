@@ -1,6 +1,5 @@
 
 movies
-  The Signal
   Spider-Man: Homecoming
   Ingrid Goes West
   Good Time
@@ -15,8 +14,7 @@ tv
   Curb Your Enthusiasm S09E01 (10/01)
   Mr Robot S03E01 (10/??)
   Stranger Things S02E01 (10/27)
-  The Tick S01E01 (amazon prime)
-  Sneaky Pete S01E01 (amazon prime)
+  The Tick S01E07 (amazon prime)
 
 games
   Nier: Automata
