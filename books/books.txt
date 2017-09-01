@@ -143,7 +143,6 @@ Nelson Mandela, Long Walk to Freedom
 Nicholas Howe, Not Without Peril
 Nir Eyal, Hooked
 Oliver Sacks, Hallucinations
-Olivia Laing, The Lonely City
 Paul Neilan, Apathy and Other Small Victories
 Paul Vigna, The Age of Cryptocurrency
 Peter Macinnis, Poisons
@@ -497,3 +496,4 @@ John Brockman, This Will Change Everything [x]
 Philip K. Dick, The Man in the High Castle [x]
 Mark Manson, The Subtle Art of Not Giving a F*ck [x]
 Masha Gessen, The Man Without a Face
+Olivia Laing, The Lonely City
