@@ -3,6 +3,7 @@ movies
   Spider-Man: Homecoming
   Ingrid Goes West
   Good Time
+  Blade Runner (10/06)
 
 tv
   Rick and Morty S0305 (08/20)
