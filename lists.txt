@@ -1,8 +1,9 @@
 
-go through github repos
+update inqtel using r2
+okcupid rounds
 gym
 pizza
-update inqtel using r2
+
 fix gitpop
 chip's challenge using moon
 company app using react native
