@@ -1,12 +1,10 @@
 
-update inqtel using r2
 okcupid rounds
 gym
-pizza
+narcos
 
-fix gitpop
 chip's challenge using moon
-company app using react native
+to whom it may concern using react native
 
 movies
   Spider-Man: Homecoming
