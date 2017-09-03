@@ -72,7 +72,6 @@ Gerard de Villiers, Chaos in Kabul
 Gerard de Villiers, Revenge of the Kremlin
 Gerard de Villiers, The Madmen of Benghazi
 Greg Palast, The Best Democracy Money Can Buy
-Henry Rollins, Get in the Van
 Herman Melville, Moby Dick
 Homer, Odyssey
 Ingrid Burrington, Networks of New York
@@ -491,3 +490,4 @@ Philip K. Dick, The Man in the High Castle [x]
 Mark Manson, The Subtle Art of Not Giving a F*ck [x]
 Masha Gessen, The Man Without a Face
 Olivia Laing, The Lonely City
+Henry Rollins, Get in the Van
