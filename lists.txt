@@ -1,7 +1,6 @@
 
-okcupid rounds
-gym
 narcos
+hnhiring search
 
 chip's challenge using moon
 to whom it may concern using react native
