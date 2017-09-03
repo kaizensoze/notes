@@ -1,6 +1,7 @@
 
-go through text files
 go through github repos
+gym
+pizza
 update inqtel using r2
 fix gitpop
 chip's challenge using moon

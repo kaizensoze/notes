@@ -5,112 +5,11 @@ coworking spacese
   https://www.wix.com/lounge/new-york
   https://www.spacious.com/
 
-shoes to try
-  skwama
-  instinct vs
-  genius
-
-thought experiments
-  another server-side swift performance comparison on aws (t2.micro)
-  github api wrapper in swift
-  collaborative open source contribution platform
-  learn tensorflow
+projects/ideas
+  improve in-q-tel lookup
   pedopriest project based on # reassignments
   	name, church, position, entry_date
   	check every two weeks
-  improve in-q-tel lookup
-  host gitpop on github pages
-
-health stack
-  steel cut oats
-  hot oatmeal
-  rock climbing
-  workout
-  biking
-  masturbate
-
-(obviously all material for a ridiculous sci fi book below)
-
-modules
-  relationships
-  delayed input
-  ocd
-  earworm
-  pheromone
-  refeathering
-  word salad
-  temporary memory loss
-  blurry vision
-  horrible coincidence
-  false empathy
-  repetition
-  "mom, you're embarrassing me"
-  "can't stop sneezing"
-  dissociation
-  movement detected
-  target acquired
-  opposite
-  general manipulation
-  substitution
-  reset
-  build up -> tear down
-  fuck with phone call quality (cutting out -> annoying other person on the other end of the call)
-  hijacking uber
-  retrograde ejaculation
-  nocturnal emission
-  "you will become it"
-  angina
-  shortness of breath
-  saccade
-  "you gotta burp charlie it's the only way!"
-  making you think neighbors are hearing you say something else [when wifi is on]
-  real-time talking/typing on command
-  gotcha
-  body temperature
-  blood flow
-  hormones
-
-briefly turn off heat
-briefly turn off hot water
-mess up your phone connection so other person can't understand you and gets annoyed
-intercept uber ride
-hijack pheromones
-control digestion (metabolism) [can maintain certain weight] macrobiotic nanoparticles
-have people around you not understand you and/or forget things
-have people around you talk really loudly trying to embarrass you so others hear
-have people hear something different than what you're saying (reverse earworm) [unconfirmed]
-remote control for hackable things like sensor lights
-wake you up at certain times
-control arousal
-adjust body temperature or perception thereof
-control sweating
-locomotive control (facial expressions, laugh, smile, raise eyebrows, etc.)
-control behavior (depressed, want to cry, giddy, etc.)
-hack electronics
-prevent things from going through (phone calls, emails, skype calls, signal, you get the idea)
-leaving stale bread on your garden hose
-throwing shit in your backyard for your dog to eat as a psych-out
-reverse tailing
-cars driving around
-random new cars parked around your house/apartment/whatever
-general paranoia
-insecurity
-general persuasion like wanting to talk out loud, sign, etc.
-confusion
-hunger/appetite
-hydration
-concentration
-boxing ears (block hearing)
-having medications have random effects
-hacking pheromones so people want to get really touchy with you
-
-rent
-====
-2600 rent
- 200 electric
- 100 phone
- 100 internet
-3400 fuck this
 
 Presidential Transition Team Executive Committee
 ====
@@ -278,65 +177,26 @@ In theory IMSI catchers can pinpoint only the location of 3G/4G phones so the tr
 
 Quotes
 ====
-"I feel like my main quest is a side quest."
-
 “It is good to have an end to journey towards; but it is the journey that matters, in the end.”
 Ursula K. Le Guin. “The Left Hand of Darkness.”
+
+"Most people shoot for happiness but feel formed through suffering."
+The Road to Character - David Brooks
+
+"I feel like my main quest is a side quest."
+
+"It is the good fortune of many to live distant from the scene of sorrow.”
+Thomas Paine. “Common Sense.”
 
 "This tasteless cover is a good indication of the lack of musical invention within. The musical growth rate of this band cannot even be charted. They are treading water in a sea of retarded sexuality and bad poetry." - This Is Spinal Tap
 
 "I know you gentlemen have been through a lot, but when you find the time, I'd rather not spend the rest of this winter tied to this fucking couch." - The Thing
 
-"He who has a why to live for can bear with almost any how."
-Nietzsche
-
-"It is the good fortune of many to live distant from the scene of sorrow.”
-Thomas Paine. “Common Sense.”
-
-"Don't you do it, Hitler. Don't you dare fall in love with me." - Parks and Recreation S05E08
-
-"Most people shoot for happiness but feel formed through suffering."
-The Road to Character - David Brooks
-
 "A date is an experience you have with another person that makes you appreciate being alone."
 Larry David
 
-“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”
-
-Excerpt From: Charles Bukowski. “Women.” iBooks.
-
-"I don't know what you're doing below 14th street, but it doesn't' matter." (You can't hide behind art.)
-Lorne Michaels
-
 "Sarcastically, I'm in charge."
 Black Dynamite
-
-fully anonymous messaging (doesn't require phone number)
-  ricochet
-  threema
-
-linux security
-  SELinux
-  AppArmor
-  Grsecurity
-
-food shopping
-  Whole Foods (2101 Northern Blvd, Manhasset, NY 11030) [10PM]
-
-places with arctic zero ice cream
-  King Kullen (1430 Northern Blvd, Manhasset, NY 11040) [12AM]
-  Natural Food (140 7th St, Garden City, NY 11530)
-  King Kullen (1430 Northern Blvd, Manhasset, NY 11040)
-  King Kullen (231 w merrick rd)
-
-arctic zero ice cream
-  cake batter
-  orange dream
-
-24 hour long island places
-  king kullen (231 w merrick rd) [weekdays only]
-  king kullen (127 sunrise hwy) [weekdays only]
-  desi food (351 North Central Avenue)
 
 interesting eleventh hope talks
   Security Options for High Risk Travelers
@@ -460,7 +320,6 @@ noteworthy books
   Unbroken, Laura Hillenbrand
   Voltaire's Bastards, John Ralston Saul
   Wired for War, P.W. Singer
-
 
 noteworthy movies
   Idiocracy
