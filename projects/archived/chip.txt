@@ -1,4 +1,37 @@
 
+TODO: replace jquery with ES2016
+
+move -> interactions -> tile
+
+states
+	currentLevel
+
+
+Tile
+	source (filename)
+	type (chip, key, enemy, ground, item)
+	orientation (up|down|left|right)
+
+Chip
+	onMove (arrow key):
+		get current position of Map
+
+Level
+	number
+	chips
+	startTime
+	password
+	Map
+
+Map
+	data ([Tile])
+	render
+
+Interaction
+	interact()
+		[Tile] -> Tile
+		set Tile in Map
+
 splash
 enemy movement
 

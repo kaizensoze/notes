@@ -1,14 +1,13 @@
 Chris Guillebeau, The Happiness of Pursuit
-Bren̩ Brown, Daring Greatly
-Cal Newport, Deep Work
 Caitlin Doughty, Smoke Gets in Your Eyes
 Yuval Noah Harari, Sapiens: A Brief History of Humankind
 Alexander Klimburg, The Darkening Web
 Alexander Weinstein, Children of the New World
 Anne Garrels, Putin Country: A Journey into the Real Russia
 Neil Gaiman, The View from the Cheap Seats
-
 Alfred Bester, The Demolished Man
+Yvon Chouinard, Let My People Go Surfing
+
 Arthur Koestler, Darkness at Noon
 Arthur Koestler, The Ghost in the Machine
 Alan T. Norman, Mastering Bitcoin for Dummies
@@ -201,7 +200,6 @@ Walter Isaacson, Benjamin Franklin: An American Life
 Walter Isaacson, Einstein: His Life and Universe
 William Stevenson, Man Called Intrepid
 Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
-Yvon Chouinard, Let My People Go Surfing
 
 DONE
 Bill Bryson, A Short History of Nearly Everything
@@ -491,3 +489,4 @@ Mark Manson, The Subtle Art of Not Giving a F*ck [x]
 Masha Gessen, The Man Without a Face
 Olivia Laing, The Lonely City
 Henry Rollins, Get in the Van
+Cal Newport, Deep Work
