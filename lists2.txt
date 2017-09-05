@@ -6,7 +6,7 @@ coworking spacese
   https://www.spacious.com/
 
 projects/ideas
-  improve in-q-tel lookup
+  to whom it may concern using react native
   pedopriest project based on # reassignments
   	name, church, position, entry_date
   	check every two weeks
