@@ -1,8 +1,13 @@
 
 movies
-  Spider-Man: Homecoming
-  Ingrid Goes West
+  Brigsby Bear
   Good Time
+  Ingrid Goes West
+  Spider-Man: Homecoming
+  It Comes at Night
+  Landline
+  Logan Lucky
+  Valerian
   I'm Not There
   It
   Reel Rock 11
