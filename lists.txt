@@ -28,6 +28,7 @@ games
   Nier: Automata
   Horizon: Zero Dawn
   What Remains of Edith Finch
+  South Park: The Fractured But Whole
 
 jobs
   https://news.ycombinator.com/item?id=14904704
