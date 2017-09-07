@@ -25,6 +25,8 @@ Ben Clark, Rtfm: Red Team Field Manual
 Benjamin Graham, The Intelligent Investor
 Benjamin Percy, The Dark Net
 Bertrand Russell, History of Western Philosophy
+Bertrand Russell, The Conquest of Happiness
+Bertrand Russell, The Problems of Philosophy
 Bill Gates, Business@The Speed of Thought
 Bill Wasik, Rabid: A Cultural History of the World's Most Diabolical Virus
 Brian Christian, Algorithms to Live By
@@ -180,6 +182,7 @@ Sylvia Plath, The Bell Jar
 Tana French, The Trespasser
 Tep Koppel, Lights Out
 Terry Pratchett, Discworld
+The Philosophy Book, Will Buckingham
 Thomas Sowell, Basic Economics
 Tim Weiner, Enemies: A History of the FBI
 Tim Wu, The Master Switch: The Rise and Fall of Information Empires
