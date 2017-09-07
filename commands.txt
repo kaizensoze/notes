@@ -264,7 +264,7 @@ launchctl
   sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.atrun.plist
 
 letsencrypt
-  ./certbot-auto renew
+  sudo ./certbot-auto renew
   ./letsencrypt-auto certonly -d brassafrax.com -d www.brassafrax.com -d alpha.brassafrax.com
 
 lsof
