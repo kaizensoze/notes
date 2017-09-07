@@ -5,11 +5,11 @@ movies
   Good Time
   I'm Not There
   Blade Runner (10/06)
-  Reel Rock 10
   Reel Rock 11
   Reel Rock 12 (11/??)
 
 tv
+  Twin Peaks S01E01
   Get Shorty S01E06 (09/10)
   Rick and Morty S0307 (09/10)
   South Park S21E01 (09/13)
@@ -17,7 +17,6 @@ tv
   Curb Your Enthusiasm S09E01 (10/01)
   Stranger Things S02E01 (10/27)
   Mr Robot S03E01 (10/??)
-  Twin Peaks S01E01 (05/21)
 
 games
   Nier: Automata
