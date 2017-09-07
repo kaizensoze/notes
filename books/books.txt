@@ -1,11 +1,8 @@
-Chris Guillebeau, The Happiness of Pursuit
-Chris Guillebeau, The $100 Startup
-Catherine Lacey, The Answers
+Catherine Lacey, Nobody Is Ever Missing
 Caitlin Doughty, Smoke Gets in Your Eyes
 Yuval Noah Harari, Sapiens: A Brief History of Humankind
 Alexander Klimburg, The Darkening Web
 Alexander Weinstein, Children of the New World
-Anne Garrels, Putin Country: A Journey into the Real Russia
 Neil Gaiman, The View from the Cheap Seats
 Alfred Bester, The Demolished Man
 Bill Bryson, A Walk in the Woods
@@ -35,7 +32,6 @@ C. S. Forester, Mr. Midshipman Hornblower
 Caleb Carr, The Alienist
 Carl Sagan, Contact
 Carl Sagan, Cosmos
-Catherine Lacey, Nobody Is Ever Missing
 Charles Dickens, David Copperfield
 China Mieville, Perdido Street Station
 China Mieville, The Scar
@@ -490,3 +486,7 @@ Masha Gessen, The Man Without a Face
 Olivia Laing, The Lonely City
 Henry Rollins, Get in the Van
 Cal Newport, Deep Work
+Anne Garrels, Putin Country: A Journey into the Real Russia
+Yvon Chouinard, Let My People Go Surfing
+Chris Guillebeau, The $100 Startup [x]
+Chris Guillebeau, The Happiness of Pursuit [x]
