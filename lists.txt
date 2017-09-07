@@ -12,7 +12,6 @@ movies
 tv
   Get Shorty S01E06 (09/10)
   Rick and Morty S0307 (09/10)
-  American Horror Story S07E02 (09/12)
   South Park S21E01 (09/13)
   The Good Doctor S01E01 (09/25)
   Curb Your Enthusiasm S09E01 (10/01)
