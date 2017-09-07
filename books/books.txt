@@ -1,4 +1,6 @@
 Chris Guillebeau, The Happiness of Pursuit
+Chris Guillebeau, The $100 Startup
+Catherine Lacey, The Answers
 Caitlin Doughty, Smoke Gets in Your Eyes
 Yuval Noah Harari, Sapiens: A Brief History of Humankind
 Alexander Klimburg, The Darkening Web
@@ -7,7 +9,6 @@ Anne Garrels, Putin Country: A Journey into the Real Russia
 Neil Gaiman, The View from the Cheap Seats
 Alfred Bester, The Demolished Man
 Bill Bryson, A Walk in the Woods
-Catherine Lacey, The Answers
 Dathan Auerbach, Penpal
 
 Arthur Koestler, Darkness at Noon
