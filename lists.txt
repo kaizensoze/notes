@@ -1,15 +1,15 @@
 
 movies
-  Brigsby Bear
-  Good Time
-  Ingrid Goes West
-  Spider-Man: Homecoming
-  It Comes at Night
-  Landline
   Logan Lucky
   Valerian
-  I'm Not There
+  Good Time
+  Ingrid Goes West
+  Landline
   It
+  Spider-Man: Homecoming
+  It Comes at Night
+  Brigsby Bear
+  I'm Not There
   Reel Rock 11
   Blade Runner (10/06)
   Reel Rock 12 (11/??)
@@ -31,10 +31,5 @@ games
   South Park: The Fractured But Whole
 
 jobs
-  https://news.ycombinator.com/item?id=14904704
   https://news.ycombinator.com/item?id=14904223
-  https://news.ycombinator.com/item?id=14903193
-  https://news.ycombinator.com/item?id=14903090
-  https://news.ycombinator.com/item?id=14903051
-  https://news.ycombinator.com/item?id=14902294
   https://news.ycombinator.com/item?id=14901535
