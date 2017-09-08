@@ -1,5 +1,5 @@
+Michael Lewis, Boomerang
 Oliver Sacks, Hallucinations
-Naomi Klein, No is not enough
 Oliver Sacks, On the Move
 Catherine Lacey, Nobody Is Ever Missing
 Caitlin Doughty, Smoke Gets in Your Eyes
@@ -11,6 +11,7 @@ Alfred Bester, The Demolished Man
 Bill Bryson, A Walk in the Woods
 Dathan Auerbach, Penpal
 
+Al Franken, Giant of the Senate
 Arthur Koestler, Darkness at Noon
 Arthur Koestler, The Ghost in the Machine
 Alan T. Norman, Mastering Bitcoin for Dummies
@@ -168,6 +169,7 @@ Sebastian Junger, Tribe: On Homecoming and Belonging
 Siddhartha Mukherjee, The Gene: An Intimate History
 Siddhartha Mukherjee, The Laws of Medicine
 Simon Singh, Fermat's Enigma
+Sinclair Lewis, It Can't Happen Here
 Stanley McChrystal, Team of Teams
 Stephen Jay Gould, The Panda's Thumb
 Stephen King, Doctor Sleep
@@ -491,3 +493,4 @@ Anne Garrels, Putin Country: A Journey into the Real Russia
 Yvon Chouinard, Let My People Go Surfing
 Chris Guillebeau, The $100 Startup [x]
 Chris Guillebeau, The Happiness of Pursuit [x]
+Naomi Klein, No is not enough
