@@ -1,6 +1,7 @@
 
 projects/ideas
   writing experiments
+  write story
   to whom it may concern using react native
   pedopriest project based on # reassignments
   	name, church, position, entry_date
