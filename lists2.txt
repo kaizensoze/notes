@@ -1,15 +1,16 @@
 
+projects/ideas
+  writing experiments
+  to whom it may concern using react native
+  pedopriest project based on # reassignments
+  	name, church, position, entry_date
+  	check every two weeks
+
 coworking spacese
   https://www.wework.com/l/new-york-city--NY
   https://fueled.com/coworking-space-nyc/
   https://www.wix.com/lounge/new-york
   https://www.spacious.com/
-
-projects/ideas
-  to whom it may concern using react native
-  pedopriest project based on # reassignments
-  	name, church, position, entry_date
-  	check every two weeks
 
 Presidential Transition Team Executive Committee
 ====
