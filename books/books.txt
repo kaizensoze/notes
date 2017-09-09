@@ -1,4 +1,3 @@
-Michael Lewis, Boomerang
 Oliver Sacks, Hallucinations
 Oliver Sacks, On the Move
 Catherine Lacey, Nobody Is Ever Missing
@@ -183,7 +182,7 @@ Sylvia Plath, The Bell Jar
 Tana French, The Trespasser
 Tep Koppel, Lights Out
 Terry Pratchett, Discworld
-The Philosophy Book, Will Buckingham
+Will Buckingham, The Philosophy Book
 Thomas Sowell, Basic Economics
 Tim Weiner, Enemies: A History of the FBI
 Tim Wu, The Master Switch: The Rise and Fall of Information Empires
@@ -494,3 +493,4 @@ Yvon Chouinard, Let My People Go Surfing
 Chris Guillebeau, The $100 Startup [x]
 Chris Guillebeau, The Happiness of Pursuit [x]
 Naomi Klein, No is not enough
+Michael Lewis, Boomerang
