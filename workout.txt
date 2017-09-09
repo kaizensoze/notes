@@ -697,4 +697,4 @@ the cliffs: various auto-belay, bouldering (weekends suck)
 2017-09-10:
   lying leg raise (head down):
   lying leg raise (head up):
-  pushups:
+  pushups: 

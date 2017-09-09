@@ -1,7 +1,5 @@
 
 movies
-  It Comes at Night
-  Valerian
   It
   Anti Matter
   Good Time
