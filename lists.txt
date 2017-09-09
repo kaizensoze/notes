@@ -1,6 +1,6 @@
 
 movies
-  Logan Lucky
+  It Comes at Night
   Valerian
   It
   Anti Matter
@@ -8,7 +8,6 @@ movies
   Ingrid Goes West
   Landline
   Spider-Man: Homecoming
-  It Comes at Night
   Brigsby Bear
   I'm Not There
   Reel Rock 11
