@@ -3,17 +3,29 @@ Hawaii
 
 ABROAD (pick one)
   Spain: Barcelona
+  Amsterdam
   France: Paris, Lyon
+  Japan:
+  New Zealand: ...
+  South America
+    Machu Picchu (Peru)
+    Galapagos Islands (Ecuador)
+    Buenos Aires (Argentina)
+    Rio de Janeiro (Brazil)
+    Salvador (Brazil)
   Germany: Berlin, Munich, Hamburg
   Portugal: Lisbon, Porto
   Prague
   Vienna
-  Amsterdam
   Italy: Rome, Florence, Positano
   Istanbul
   Lviv
   Bulgaria
   Beirut
+
+  Australia: Great Barrier Reef, Melbourne, Sydney
+  Mexico: Mexico City [+Teotihuacan], Guadalajara
+  Canada: Montreal, Ottawa, Quebec City
 
 Charleston, SC
 Atlanta, GA (REVISIT)
@@ -27,10 +39,6 @@ Jackson, WY
 Grand Tetons National Park, WY
 Yellowstone National Park, WY
 Rocky Mountain National Park, CO
-
-Montreal
-Quebec City
-Ottawa
 
 DONE
   road trip 1: New England
