@@ -1,16 +1,7 @@
-Alfred Bester, The Demolished Man
-Oliver Sacks, On the Move
-Oliver Sacks, Hallucinations
-Catherine Lacey, Nobody Is Ever Missing
-Caitlin Doughty, Smoke Gets in Your Eyes
-Yuval Noah Harari, Sapiens: A Brief History of Humankind
+Al Franken, Giant of the Senate
 Alexander Klimburg, The Darkening Web
 Alexander Weinstein, Children of the New World
-Neil Gaiman, The View from the Cheap Seats
-Bill Bryson, A Walk in the Woods
-Dathan Auerbach, Penpal
-
-Al Franken, Giant of the Senate
+Alfred Bester, The Demolished Man
 Arthur Koestler, Darkness at Noon
 Arthur Koestler, The Ghost in the Machine
 Alan T. Norman, Mastering Bitcoin for Dummies
@@ -28,13 +19,16 @@ Benjamin Percy, The Dark Net
 Bertrand Russell, History of Western Philosophy
 Bertrand Russell, The Conquest of Happiness
 Bertrand Russell, The Problems of Philosophy
+Bill Bryson, A Walk in the Woods
 Bill Gates, Business@The Speed of Thought
 Bill Wasik, Rabid: A Cultural History of the World's Most Diabolical Virus
 Brian Christian, Algorithms to Live By
 C. S. Forester, Mr. Midshipman Hornblower
+Caitlin Doughty, Smoke Gets in Your Eyes
 Caleb Carr, The Alienist
 Carl Sagan, Contact
 Carl Sagan, Cosmos
+Catherine Lacey, Nobody Is Ever Missing
 Charles Dickens, David Copperfield
 China Mieville, Perdido Street Station
 China Mieville, The Scar
@@ -44,6 +38,7 @@ Clifford Stoll, The Cuckoo's Egg
 Dan Wells, I Am Not A Serial Killer
 Dangers, Superintelligence
 Daniel Quinn, Ishmael
+Dathan Auerbach, Penpal
 Dave Cullen, Columbine
 David E. Hoffman, The Billion Dollar Spy
 David Finkel, The Good Soldiers
@@ -136,9 +131,12 @@ Mitchell Zuckoff, 13 Hours
 Moises Naim, The End of Power
 Nathan Hill, The Nix
 Neal Stephenson, Seveneves
+Neil Gaiman, The View from the Cheap Seats
 Nelson Mandela, Long Walk to Freedom
 Nicholas Howe, Not Without Peril
 Nir Eyal, Hooked
+Oliver Sacks, Hallucinations
+Oliver Sacks, On the Move
 Paul Neilan, Apathy and Other Small Victories
 Paul Vigna, The Age of Cryptocurrency
 Peter Macinnis, Poisons
@@ -193,11 +191,13 @@ Tom Wolfe, The Electric Kool-Aid Acid Test
 Ursula K. Le Guin, The Lathe of Heaven
 Victor Davis Hanson, The Savior Generals
 Vladimir Nabokov, Lolita
+Voltaire, Candide
 W. Bernard Carlson, Tesla: Inventor of the Electrical Age
 Walter Isaacson, Benjamin Franklin: An American Life
 Walter Isaacson, Einstein: His Life and Universe
 William Stevenson, Man Called Intrepid
 Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
+Yuval Noah Harari, Sapiens: A Brief History of Humankind
 
 DONE
 Bill Bryson, A Short History of Nearly Everything
