@@ -1,21 +1,11 @@
 
-ALTERNATE (Amtrak)
-  [Charleston, SC]
-  Atlanta, GA (REVISIT)
-  New Orleans, LA (REVISIT)
-  Chicago
-
-Charleston, SC
-Atlanta, GA (REVISIT)
-Miami, FL
-Everglades, FL
-Blue Springs State Park, FL
-
 Montreal
 Quebec City
 Ottawa
 
 Hawaii
+
+Mammoth Cave, KY
 
 Zion National Park, UT
 Jackson, WY
@@ -23,16 +13,11 @@ Grand Tetons National Park, WY
 Yellowstone National Park, WY
 Rocky Mountain National Park, CO
 
-Mammoth Cave, KY
-
-REVISIT
-  New Orleans, LA
-  Nashville, TN
-  Pittsburgh, PA
-  Milwaukie, WI
-
-ITEMS
-  New Orleans: Drive-thru Daiquiri
+Charleston, SC
+Atlanta, GA (REVISIT)
+Miami, FL
+Everglades, FL
+Blue Springs State Park, FL
 
 ABROAD
   Paris
