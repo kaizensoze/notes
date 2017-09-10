@@ -1,17 +1,19 @@
 
-Montreal
-Quebec City
-Ottawa
-
 Hawaii
 
-Mammoth Cave, KY
-
-Zion National Park, UT
-Jackson, WY
-Grand Tetons National Park, WY
-Yellowstone National Park, WY
-Rocky Mountain National Park, CO
+ABROAD (pick one)
+  Spain: Barcelona
+  France: Paris, Lyon
+  Germany: Berlin, Munich, Hamburg
+  Portugal: Lisbon, Porto
+  Prague
+  Vienna
+  Amsterdam
+  Italy: Rome, Florence, Positano
+  Istanbul
+  Lviv
+  Bulgaria
+  Beirut
 
 Charleston, SC
 Atlanta, GA (REVISIT)
@@ -19,36 +21,16 @@ Miami, FL
 Everglades, FL
 Blue Springs State Park, FL
 
-ABROAD
-  Paris
-  Berlin
-  Monaco
-  Vienna
-  Lisbon
-  Barcelona
-  Salzburg
-  Amsterdam
-  Naples
-  Rome
-  Prague
-  Reykjavik
-  Beirut
-  Istanbul
-  Lviv
-  Kiev
-  Sheffield
-  Blackpool
+(May - September)
+Zion National Park, UT
+Jackson, WY
+Grand Tetons National Park, WY
+Yellowstone National Park, WY
+Rocky Mountain National Park, CO
 
-AVOID
-  Estonia
-  Latvia
-  Belarus
-  Ukraine
-  Moldova
-  Romania
-  Bulgaria
-  Philippines
-  Indonesia
+Montreal
+Quebec City
+Ottawa
 
 DONE
   road trip 1: New England
