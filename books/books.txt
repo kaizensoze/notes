@@ -43,6 +43,7 @@ Dave Cullen, Columbine
 David E. Hoffman, The Billion Dollar Spy
 David Finkel, The Good Soldiers
 David Icke, The Biggest Secret
+David Kushner, Alligator Candy
 David McCullough, The Great Bridge
 David McCullough, The Greater Journey
 David Michael Stoddart, The Scented Ape
@@ -116,6 +117,7 @@ M.R. Carey, The Girl with All the Gifts
 Malcolm Gladwell, David and Goliath
 Malcolm Nance, The Plot to Hack America
 Margaret Atwood, The Handmaid's Tale
+Mark Frost, The Secret History of Twin Peaks: A Novel
 Mark Owen, No Hero
 Martin Blaser, Missing Microbes
 Marvin Minsky, The Society of Mind
@@ -180,7 +182,6 @@ Sylvia Plath, The Bell Jar
 Tana French, The Trespasser
 Tep Koppel, Lights Out
 Terry Pratchett, Discworld
-Will Buckingham, The Philosophy Book
 Thomas Sowell, Basic Economics
 Tim Weiner, Enemies: A History of the FBI
 Tim Wu, The Master Switch: The Rise and Fall of Information Empires
@@ -196,6 +197,7 @@ W. Bernard Carlson, Tesla: Inventor of the Electrical Age
 Walter Isaacson, Benjamin Franklin: An American Life
 Walter Isaacson, Einstein: His Life and Universe
 William Stevenson, Man Called Intrepid
+Will Buckingham, The Philosophy Book
 Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
 Yuval Noah Harari, Sapiens: A Brief History of Humankind
 
