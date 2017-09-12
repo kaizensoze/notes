@@ -1,13 +1,9 @@
 todo
   tv/movies
-  deep learning
-
-  Gasoline alley coffee
-  Irving farm
-  Argo tea
-
   hack manhattan
-
+  deep learning
+  buy running shoes
+  iwatch workout app
   hire own legal aid for oct court hearing
 
 movies
