@@ -1,5 +1,6 @@
 
 movies
+  Wild
   Anti Matter
   Good Time
   Ingrid Goes West
@@ -12,7 +13,6 @@ movies
   Reel Rock 12 (11/??)
 
 tv
-  Twin Peaks S01E01
   Get Shorty S01E06 (09/10)
   Rick and Morty S0307 (09/10)
   South Park S21E01 (09/13)
@@ -21,6 +21,7 @@ tv
   Stranger Things S02E01 (10/27)
   Mr Robot S03E01 (10/??)
   Samurai Jack
+  Twin Peaks S01E01
 
 games
   Nier: Automata

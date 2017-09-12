@@ -703,9 +703,9 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   pullups: 10
 
 2017-09-12:
-  lying leg raise (head down):
-  lying leg raise (head up):
-  pushups:
-  chest press (35 lb):
-  chest fly (25 lb):
-  pullups:
+  lying leg raise (head down): 01:51 [not very effective this way]
+  lying leg raise (head down) (8sec): 12, 12
+  lying leg raise (head up) (8sec): 12
+  pushups: 90
+  chest press (40 lb): 3x8
+  pullups: 12
