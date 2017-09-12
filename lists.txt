@@ -1,4 +1,7 @@
 todo
+  tv/movies
+  deep learning
+
   Gasoline alley coffee
   Irving farm
   Argo tea
@@ -43,6 +46,7 @@ jobs
   https://news.ycombinator.com/item?id=14901535
 
 projects/ideas
+  iwatch workout app
   writing experiments
   rent a mutant
   write story

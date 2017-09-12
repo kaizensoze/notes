@@ -1,0 +1,8 @@
+create workout routine
+schedule workout routine
+load workout routine
+count workout reps using accelerometer [optional]
+store/update workout routine results
+export workout routine results (json, email, dropbox, etc)
+
+calorie tracking
