@@ -1,4 +1,3 @@
-
 movies
   Wild
   Anti Matter
@@ -13,9 +12,10 @@ movies
   Reel Rock 12 (11/??)
 
 tv
-  Get Shorty S01E06 (09/10)
-  Rick and Morty S0307 (09/10)
   South Park S21E01 (09/13)
+  Get Shorty S01E07 (09/17)
+  Rick and Morty S0308 (09/17)
+  Last Week Tonight S04E24 (09/24)
   The Good Doctor S01E01 (09/25)
   Curb Your Enthusiasm S09E01 (10/01)
   Stranger Things S02E01 (10/27)
@@ -32,3 +32,18 @@ games
 jobs
   https://news.ycombinator.com/item?id=14904223
   https://news.ycombinator.com/item?id=14901535
+
+projects/ideas
+  writing experiments
+  rent a mutant
+  write story
+  to whom it may concern using react native
+  pedopriest project based on # reassignments
+  	name, church, position, entry_date
+  	check every two weeks
+
+places
+  Ghenet Brooklyn
+  Wolf and Deer
+  Bogota Latin Bistro
+  Comfort zone eldridge gaming cafe
