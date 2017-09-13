@@ -1,8 +1,6 @@
 todo
-  size shoes
-  order shoes
-  deep learning
-  tv/movies
+  test running in normal shoes
+  order running shoes
   iwatch workout app
   hire own legal aid for oct court hearing
 
