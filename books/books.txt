@@ -1,7 +1,6 @@
 Al Franken, Giant of the Senate
 Alexander Klimburg, The Darkening Web
 Alexander Weinstein, Children of the New World
-Alfred Bester, The Demolished Man
 Arthur Koestler, Darkness at Noon
 Arthur Koestler, The Ghost in the Machine
 Alan T. Norman, Mastering Bitcoin for Dummies
@@ -500,3 +499,4 @@ Chris Guillebeau, The $100 Startup [x]
 Chris Guillebeau, The Happiness of Pursuit [x]
 Naomi Klein, No is not enough
 Michael Lewis, Boomerang
+Alfred Bester, The Demolished Man
