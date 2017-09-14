@@ -1,3 +1,4 @@
+
 todo
   upwork
   test running in normal shoes
@@ -15,15 +16,14 @@ movies
   Reel Rock 12 (11/??)
 
 tv
-  South Park S21E01 (09/13)
   Get Shorty S01E07 (09/17)
   Rick and Morty S0308 (09/17)
+  South Park S21E02 (09/20)
   Last Week Tonight S04E24 (09/24)
   The Good Doctor S01E01 (09/25)
   Curb Your Enthusiasm S09E01 (10/01)
   Stranger Things S02E01 (10/27)
   Mr Robot S03E01 (10/??)
-  Samurai Jack
   Twin Peaks S01E01
 
 games
