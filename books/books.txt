@@ -120,7 +120,6 @@ Margaret Atwood, The Handmaid's Tale
 Mark Frost, The Secret History of Twin Peaks: A Novel
 Mark Owen, No Hero
 Mark Vonnegut, Just Like Someone Without Mental Illness Only More So
-Mark Vonnegut, The Eden Express
 Martin Blaser, Missing Microbes
 Marvin Minsky, The Society of Mind
 Matt Ridley, Genome: The Autobiography of a Species in 23 Chapters
@@ -145,7 +144,6 @@ Paul Neilan, Apathy and Other Small Victories
 Paul Vigna, The Age of Cryptocurrency
 Peter Macinnis, Poisons
 Peter Wright, Spy Catcher
-Phil Knight, Shoe Dog
 Philip Pullman, His Dark Materials Trilogy
 Philip Roth, Portnoy's Complaint
 Rachel Maines, The Technology of Orgasm
@@ -501,3 +499,5 @@ Chris Guillebeau, The Happiness of Pursuit [x]
 Naomi Klein, No is not enough
 Michael Lewis, Boomerang
 Alfred Bester, The Demolished Man
+Phil Knight, Shoe Dog
+Mark Vonnegut, The Eden Express
