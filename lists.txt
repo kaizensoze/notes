@@ -1,6 +1,5 @@
 
 todo
-  read
   date
 
   workout
