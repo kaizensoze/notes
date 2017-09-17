@@ -1,7 +1,11 @@
 
 todo
-  deep learning
   read
+  date
+
+  workout
+  deep learning
+  upwork
 
   hire own legal aid for oct court hearing
 
