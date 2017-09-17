@@ -1,8 +1,7 @@
 
 todo
-  read
-  
-  deep learning
+  read: 10:30 - 11:30
+  deep learning: 11:30 - 12:30
 
   hire own legal aid for oct court hearing
 

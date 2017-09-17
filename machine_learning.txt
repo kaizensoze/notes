@@ -1,0 +1,28 @@
+week 1
+======
+train/dev/test
+Convolutional Neural Networks (CNN)
+Recurrent Neural Network (RNN)
+RNNs better for
+ReLU function
+    Rectified (taking max of 0)
+    Linear
+    Unit
+Supervised Learning
+
+standard NN for basic structured data
+CNN for something like photo tagging
+RNN for sequence data like over time sequence (Audio, Language)
+
+structured data vs unstructured data (audio, image, text)
+
+the more data the better the performance of the algorithm
+amount of labeled data is m
+you can say the number of samples or the sample size is m
+
+algorithm switched from a sigmoid function to a ReLU function
+
+interview with Geoffrey Hinton
+
+week 2
+======
