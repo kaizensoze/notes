@@ -26,3 +26,76 @@ interview with Geoffrey Hinton
 
 week 2
 ======
+binary classification
+x values into feature vector x
+n_x = size of feature vector
+(x,y), x in R^(n_x), y in {0,1}
+m training samples: {(x^(1),y^(1)), (x^(2),y^(2)), (x^(m),y^(m))}
+m = m_train
+m_test = # test examples
+X = [x^(1) x^(2) ... x^(m)] (height of matrix is n_x)
+X in R^(n_x x m)
+X shape = (n_x,m)
+Y = [y^(1) y^(2) ... y^(m)]
+Y in R^(1xm)
+Y shape = (1,m)
+
+given x, want y^^ = P(y=1 | x)      y^^ = "y hat"
+x in R^n_x
+parameters: w in R^n_x, b in R
+y^^ = sigmoid(w^Tx + b)
+w^Tx + b = z
+sigmoid(z) = 1/(1+e^-z)
+if z very large, sigmoid(z) close to 1
+if z very small or large negative number, sigmoid(z) close to 0
+given m training samples, you want y^^(i) roughly = y^(i)
+Loss (error) function: L(y^^, y) = 1/2(y^^-y)^2  (not the best approach)
+L(y^^, y) = -(y log y^^ + (1-y)log(1-y^^))
+Cost function: J(w,b) = 1/m Sigma(from i=1 to m)(L(y^^^(i), y^(i)))
+cost function is an average of the loss
+
+gradient descent
+w := w - alpha dw
+J(w,b)
+   w := w - alpha (dJ(w,b) / dw)
+   b := b - alpha (dJ(w,b) / db)
+alpha is the learning rate
+
+(dFinalOutputVar / dvar) -> "dvar"
+dvar represents the derivative of a final output variable with respect to various intermediate quantities
+
+z = w^Tx + b
+y^^ = a = sigmoid(z)
+L(a,y) = -(y log(a) + (1-y)log(1-a))
+x1, w1, x2, w2, b => z = w1x1 + w2x2 + b -> y^^ = a = sigmoid(z) -> L(a,y)
+dz = a - y
+
+vectorizing logistic regression
+z = np.dot(w^T, x) + b
+A = sigmoid(z)
+
+dz = A - Y
+
+dw = 0
+dw += x^(1)dz^(1)
+dw += x^(2)dz^(2)
+dw /= m
+
+db = 0
+db += dz^(1)
+db += dz^(2)
+db += dz^(m)
+db /= m
+
+db = (1/m)np.sum(dz)
+dw = (1/m)Xdz^T
+
+w = w - alpha * dw
+b = b - alpha * db
+
+logistic regression cost function
+if y = 1, p(y|x) = y^^
+if y = 0, p(y|x) = 1-y^^
+p(y|x) = y^^^y (1-y^^)^((1-y))
+
+to flatten matrix X, use: X_flatten = X.reshape(X.shape[0], -1).T
