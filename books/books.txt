@@ -119,9 +119,9 @@ Malcolm Nance, The Plot to Hack America
 Margaret Atwood, The Handmaid's Tale
 Mark Frost, The Secret History of Twin Peaks: A Novel
 Mark Owen, No Hero
-Mark Vonnegut, Just Like Someone Without Mental Illness Only More So
 Martin Blaser, Missing Microbes
 Marvin Minsky, The Society of Mind
+Matthew Josephson, The Robber Barons
 Matt Ridley, Genome: The Autobiography of a Species in 23 Chapters
 Matthew Baillie, The Morbid Anatomy of Some of the Most Important Parts of the Human Body
 Matthew M. Aid, The Secret Sentry
@@ -152,7 +152,6 @@ Rebecca Skloot, The Immortal Life of Henrietta Lacks
 Richard Adams, Plague Dogs
 Richard Adams, Watership Down
 Richard Clarke, Cyber War
-Richard Kadrey, Sandman Slim
 Richard Russo, Everybody's Fool
 Robert A. Caro, The Power Broker
 Robert Graysmith, Zodiac
@@ -178,6 +177,7 @@ Stephen King, It
 Stephen King, The Stand
 Steven Pinker, The Better Angels of Our Nature
 Sue Klebold, A Mother's Reckoning
+Susan O'Malley, Advice from my 80-year-old self
 Sylvia Plath, The Bell Jar
 Tana French, The Trespasser
 Tep Koppel, Lights Out
@@ -500,4 +500,6 @@ Naomi Klein, No is not enough
 Michael Lewis, Boomerang
 Alfred Bester, The Demolished Man
 Phil Knight, Shoe Dog
-Mark Vonnegut, The Eden Express
+Mark Vonnegut, The Eden Express [x]
+Mark Vonnegut, Just Like Someone Without Mental Illness Only More So [x]
+Richard Kadrey, Sandman Slim [x]
