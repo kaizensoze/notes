@@ -734,3 +734,8 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   lying leg raise (head down) (8sec): 18
   lying leg raise (head up) (8sec): 18
   
+pushups: 100
+lying leg raise (head down) (8sec): 20
+lying leg raise (head up) (8sec): 20
+chest press (50): 3x8
+pullups: 15, 15
