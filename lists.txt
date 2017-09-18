@@ -1,7 +1,5 @@
 
 todo
-  date
-
   workout
   deep learning
   upwork
