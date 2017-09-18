@@ -71,7 +71,8 @@ x1, w1, x2, w2, b => z = w1x1 + w2x2 + b -> y^^ = a = sigmoid(z) -> L(a,y)
 dz = a - y
 
 vectorizing logistic regression
-z = np.dot(w^T, x) + b
+z = w^Tx + b
+z = np.dot(w, x) + b
 A = sigmoid(z)
 
 dz = A - Y
