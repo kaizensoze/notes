@@ -1,16 +1,22 @@
 
 todo
-  deep learning
-
   hire own legal aid for oct court hearing
 
-Hi,
+templates
+  Hi,
 
-I know this is a little direct, but would you want to grab a drink sometime next week?
+  I know this is a little direct, but would you want to grab a drink sometime next week?
 
-Joe
+  Joe
+  ------------
+  Hi,
 
-Feel free to take a look at my resume at https://joegallo.nyc/ and let me know if you think it'd be a good fit.
+  I'm very interested in the position. You can find my resume at https://joegallo.nyc/.
+
+  Best,
+  Joe
+  ------------
+  Feel free to take a look at my resume at https://joegallo.nyc/ and let me know if you think it'd be a good fit.
 
 movies
   Good Time

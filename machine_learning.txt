@@ -72,7 +72,7 @@ dz = a - y
 
 vectorizing logistic regression
 z = w^Tx + b
-z = np.dot(w, x) + b
+z = np.dot(w, x) + b OR(?) z = np.dot(w.T, x)
 A = sigmoid(z)
 
 dz = A - Y
@@ -100,3 +100,6 @@ if y = 0, p(y|x) = 1-y^^
 p(y|x) = y^^^y (1-y^^)^((1-y))
 
 to flatten matrix X, use: X_flatten = X.reshape(X.shape[0], -1).T
+
+week 3
+======
