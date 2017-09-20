@@ -1,7 +1,7 @@
 
 todo
-  craigslist software jobs
-  craigslist et cetera jobs
+  craigslist etc jobs
+  craigslist part-time jobs
   upwork jobs
   book
   deeplearning
@@ -13,15 +13,15 @@ Hi,
 I know this is a little direct, but would you want to grab a coffee sometime next week?
 
 Joe
-  ------------
-  Hi,
+------------
+Hi,
 
-  I'm very interested in the position. You can find my resume at https://joegallo.nyc/.
+I'm very interested in the position. You can find my resume at https://joegallo.nyc/.
 
-  Best,
-  Joe
-  ------------
-  Feel free to take a look at my resume at https://joegallo.nyc/ and let me know if you think it'd be a good fit.
+Best,
+Joe
+------------
+Feel free to take a look at my resume at https://joegallo.nyc/ and let me know if you think it'd be a good fit.
 
 movies
   Good Time
