@@ -1,12 +1,13 @@
 
 todo
-  craigslist part-time jobs
-  upwork jobs
-  book
-  deeplearning
+  data science
+  deep learning
+  ken kesey book
+  meet aunt jo for dinner
+  squarespace test
+
   hire own legal aid for oct court hearing
 
-templates
 Hi,
 
 I know this is a little direct, but would you want to grab a coffee sometime next week?
@@ -19,10 +20,18 @@ I'm very interested in the position. You can find my resume at https://joegallo.
 
 Best,
 Joe
+
+Hi,
+
+I'm very interested in the project. You can find my resume at https://joegallo.nyc/.
+
+Best,
+Joe
 ------------
 Feel free to take a look at my resume at https://joegallo.nyc/ and let me know if you think it'd be a good fit.
 
 movies
+  Jerry Before Seinfeld
   Good Time
   Ingrid Goes West
   Landline
