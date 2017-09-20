@@ -1,13 +1,18 @@
 
 todo
+  craigslist software jobs
+  craigslist et cetera jobs
+  upwork jobs
+  book
+  deeplearning
   hire own legal aid for oct court hearing
 
 templates
-  Hi,
+Hi,
 
-  I know this is a little direct, but would you want to grab a drink sometime next week?
+I know this is a little direct, but would you want to grab a coffee sometime next week?
 
-  Joe
+Joe
   ------------
   Hi,
 

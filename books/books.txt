@@ -36,6 +36,7 @@ Catherine Lacey, Nobody Is Ever Missing
 Charles Dickens, David Copperfield
 China Mieville, Perdido Street Station
 China Mieville, The Scar
+Chinua Achebe, Things Fall Apart
 Chris McNab, Network Security Assessment
 Clifford Pickover, Archimedes to Hawking: Laws of Science and the Great Minds Behind Them
 Clifford Stoll, The Cuckoo's Egg
@@ -210,7 +211,6 @@ Yuval Noah Harari, Sapiens: A Brief History of Humankind
 
 DONE
 Bill Bryson, A Short History of Nearly Everything
-John Markoff, What the Doormouse Said
 Steven Levy, Hackers
 Michael Lewis, Flash Boys
 John Kennedy Toole, A Confederacy of Dunces
@@ -240,8 +240,7 @@ Radley Balko, Rise of the Warrior Cop: The Militarization of America�۪s Polic
 Edward O. Wilson, The Meaning of Human Existence
 Aleksandr Solzhenitsyn, One Day in the Life of Ivan Denisovich
 Siddhartha Mukherjee, The Emperor of all Maladies
-Joseph Conrad, Heart of Darkness
-Voltaire, Candide
+Joseph Conrad, Heart of Darkness [x]
 George Packer, The Unwinding
 Ken Follett, The Pillars of the Earth
 John Steinbeck, The Grapes of Wrath
@@ -261,7 +260,6 @@ Jon Kabat-Zinn, Wherever you go there you are
 Carmen M. Reinhart, This Time is Different
 Scott Stossel, My Age of Anxiety
 Viktor Frankl, Man's Search for Meaning
-Chinua Achebe, Things Fall Apart
 Ursula K. Le Guin, The Lathe of Heaven
 Mark Haddon, The Curious Incident of the Dog in the Nightime
 Stephen Colbert, America Again
@@ -410,7 +408,7 @@ John Grisham, The Racketeer
 Clayton M. Christensen, The Innovator's Dilemma
 Ed Stafford, Walking the Amazon
 Ryan Holiday, The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
-Ursula K. Le Guin, A Wizard of Earthsea
+Ursula K. Le Guin, A Wizard of Earthsea [x]
 Alfred Bester, The Stars My Destination
 Leonard Mlodinow, The Drunkard's Walk: How Randomness Rules Our Lives
 Neil Peart, Ghost Rider: Travels on the Healing Road
