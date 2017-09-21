@@ -103,3 +103,23 @@ to flatten matrix X, use: X_flatten = X.reshape(X.shape[0], -1).T
 
 week 3
 ======
+neural networks overview
+square bracket refers to layer of neural network
+z^[1] = W^[1]x + b^[1]
+
+neural network representation
+input layer -> hidden layer -> output layer -> y^^
+a^[0] = x
+2 layer NN (input layer not counted)
+
+computing neural network's output
+a_i^[l]; l = layer, i = node in layer
+(vectorization display to proceed)
+a_i^([l](i)); _i = node in layer, l = layer, ^i = sample number
+
+activation functions
+tanh is superior to sigmoid
+y^^ = a = g(z) = tanh(z) = (e^z - e^-z) / (e^z + e^-z)
+sigmoid better for binary classification
+activation vs deactivation function/layer
+default most commonly used activation function is ReLU
