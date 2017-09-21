@@ -196,7 +196,6 @@ Tim Wu, The Master Switch: The Rise and Fall of Information Empires
 Timur Vermes, Look Who's Back
 Tobias Klein, A Bug Hunter's Diary
 Tom Wainwright, Narconomics: How to Run a Drug Cartel
-Tom Wolfe, The Electric Kool-Aid Acid Test
 Victor Davis Hanson, The Savior Generals
 Vladimir Nabokov, Lolita
 Voltaire, Candide
@@ -506,3 +505,4 @@ Phil Knight, Shoe Dog
 Mark Vonnegut, The Eden Express [x]
 Mark Vonnegut, Just Like Someone Without Mental Illness Only More So [x]
 Richard Kadrey, Sandman Slim [x]
+Tom Wolfe, The Electric Kool-Aid Acid Test
