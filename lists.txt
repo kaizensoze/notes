@@ -1,6 +1,5 @@
 
 todo
-  watch tv
   ken kesey book
 
   workout
@@ -9,7 +8,7 @@ todo
   ken kesey book
 
   squarespace test
-  
+
   hire own legal aid for oct court hearing
 
 Hi,
@@ -35,7 +34,6 @@ Joe
 Feel free to take a look at my resume at https://joegallo.nyc/ and let me know if you think it'd be a good fit.
 
 movies
-  Jerry Before Seinfeld
   Good Time
   Ingrid Goes West
   Landline
@@ -45,9 +43,9 @@ movies
   Reel Rock 12 (11/??)
 
 tv
-  Get Shorty S01E07 (09/17)
-  Rick and Morty S0308 (09/17)
   South Park S21E02 (09/20)
+  Get Shorty S01E08 (09/24)
+  Rick and Morty S0309 (09/24)
   Last Week Tonight S04E24 (09/24)
   The Good Doctor S01E01 (09/25)
   Curb Your Enthusiasm S09E01 (10/01)
