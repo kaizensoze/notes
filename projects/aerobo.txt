@@ -13,3 +13,6 @@ ios device paired with controller
 
 industry city
 flying field
+
+
+figure out if socket server is required or
