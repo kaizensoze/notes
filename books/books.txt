@@ -154,7 +154,6 @@ Peter Wright, Spy Catcher
 Philip Pullman, His Dark Materials Trilogy
 Philip Roth, Portnoy's Complaint
 Rachel Maines, The Technology of Orgasm
-Ray Bradbury, The Martian Chronicles
 Rebecca Skloot, The Immortal Life of Henrietta Lacks
 Richard Adams, Plague Dogs
 Richard Adams, Watership Down
@@ -506,3 +505,4 @@ Mark Vonnegut, The Eden Express [x]
 Mark Vonnegut, Just Like Someone Without Mental Illness Only More So [x]
 Richard Kadrey, Sandman Slim [x]
 Tom Wolfe, The Electric Kool-Aid Acid Test
+Ray Bradbury, The Martian Chronicles

@@ -1,7 +1,5 @@
 
 todo
-  ups
-  food
   martian chronicles
 
   squarespace test
