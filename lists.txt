@@ -1,6 +1,5 @@
 
 todo
-  squarespace test
   deep learning
   call shansmack
 
