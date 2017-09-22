@@ -1,7 +1,5 @@
 
 todo
-  martian chronicles
-
   squarespace test
   deep learning
   call shansmack
