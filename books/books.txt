@@ -147,7 +147,6 @@ Nelson Mandela, Long Walk to Freedom
 Nicholas Howe, Not Without Peril
 Nir Eyal, Hooked
 Oliver Sacks, Hallucinations
-Oliver Sacks, On the Move
 Paul Neilan, Apathy and Other Small Victories
 Paul Vigna, The Age of Cryptocurrency
 Peter Macinnis, Poisons
@@ -507,3 +506,4 @@ Mark Vonnegut, Just Like Someone Without Mental Illness Only More So [x]
 Richard Kadrey, Sandman Slim [x]
 Tom Wolfe, The Electric Kool-Aid Acid Test
 Ray Bradbury, The Martian Chronicles
+Oliver Sacks, On the Move
