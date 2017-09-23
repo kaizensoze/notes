@@ -123,3 +123,28 @@ y^^ = a = g(z) = tanh(z) = (e^z - e^-z) / (e^z + e^-z)
 sigmoid better for binary classification
 activation vs deactivation function/layer
 default most commonly used activation function is ReLU
+
+non-linear activation functions
+a = g(z) = z "linear activation function"
+linear hidden layer is pretty much useless because the composition of two linear functions is a linear function
+linear activation function can be useful if you are doing machine learning on a regression problem
+
+derivatives of activation functions
+
+gradient descent for neural networks
+forward: z = w^Tx + b -> a = sigmoid(z) -> L(a,y)
+backward:    dz       <-     da         <-
+da = d/da L(a,y) = -y log a - (1-y)log(1-a) = -(y/a) + (1-y)/(1-a)
+dz = da * g'(z) where g(z) = sigmoid(z)
+dL/dz = dL/da * da/dz
+da/dz = d/dz g(z) = g'(z)
+dw = dz*x
+db = dz
+
+summary of gradient descent
+dz^[2] = a^[2] - y
+dW^[2] = dz^[2]*a^([1]^T)
+db^[2] = dz^[2]
+dz^[1] = W^[2]T*dz^[2]*g^[1]'(z^[1])
+dW^[1] = dz^[1]x^T
+db^[1] = dz^[1]

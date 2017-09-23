@@ -14,7 +14,6 @@ Ayn Rand, Atlas Shrugged
 Ayn Rand, The Fountainhead
 Ben Clark, Rtfm: Red Team Field Manual
 Benjamin Graham, The Intelligent Investor
-Benjamin Percy, The Dark Net
 Bertrand Russell, History of Western Philosophy
 Bertrand Russell, The Conquest of Happiness
 Bertrand Russell, The Problems of Philosophy
@@ -507,3 +506,4 @@ Richard Kadrey, Sandman Slim [x]
 Tom Wolfe, The Electric Kool-Aid Acid Test
 Ray Bradbury, The Martian Chronicles
 Oliver Sacks, On the Move
+Benjamin Percy, The Dark Net [x]
