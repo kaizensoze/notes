@@ -754,3 +754,7 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   ab: 8x70, 8x90, 8x110
   pullups: 12, 12, 12
   chest fly (40): 3x8
+  pushups: 110
+
+2017-09-25
+  

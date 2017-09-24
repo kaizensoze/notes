@@ -76,6 +76,7 @@ Gerard de Villiers, Chaos in Kabul
 Gerard de Villiers, Revenge of the Kremlin
 Gerard de Villiers, The Madmen of Benghazi
 Greg Palast, The Best Democracy Money Can Buy
+Hanya Yanagihara, A Little Life
 Herman Melville, Moby Dick
 Hillary Rodham Clinton, What Happened
 Homer, Odyssey
@@ -185,7 +186,6 @@ Stephen King, The Stand
 Steven Pinker, The Better Angels of Our Nature
 Sue Klebold, A Mother's Reckoning
 Susan O'Malley, Advice from my 80-year-old self
-Sylvia Plath, The Bell Jar
 Tana French, The Trespasser
 Tep Koppel, Lights Out
 Terry Pratchett, Discworld
@@ -509,3 +509,4 @@ Tom Wolfe, The Electric Kool-Aid Acid Test
 Ray Bradbury, The Martian Chronicles
 Oliver Sacks, On the Move
 Benjamin Percy, The Dark Net [x]
+Sylvia Plath, The Bell Jar[x]
