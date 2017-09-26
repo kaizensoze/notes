@@ -1,10 +1,7 @@
 
 todo
-  iced coffee
-  seatgeek call
-  sangria
-  a little life
   deep learning
+  a little life
 
   hire own legal aid for oct court hearing
 
