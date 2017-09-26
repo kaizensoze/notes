@@ -38,11 +38,11 @@ movies
   Reel Rock 12 (11/??)
 
 tv
-  Get Shorty S01E08 (09/24)
-  Rick and Morty S0309 (09/24)
-  Last Week Tonight S04E24 (09/24)
   The Good Doctor S01E01 (09/25)
   South Park S21E03 (09/27)
+  Get Shorty S01E09 (10/01)
+  Rick and Morty S0310 (10/01)
+  Last Week Tonight S04E25 (10/01)
   Curb Your Enthusiasm S09E01 (10/01)
   Stranger Things S02E01 (10/27)
   Mr Robot S03E01 (10/??)
