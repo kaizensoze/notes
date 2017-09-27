@@ -1,4 +1,11 @@
 
+1 u = 1.6x10^-24 g
+1 g = 6.022x10^23 u = avogadro number of units = 1 mol * u
+mass of silver atom = 108 u
+mass of 1 mol of silver atom = 108 g
+# silver atoms in 108 g pile of silver = 1 mol atoms
+mass of 0.5 mol of silver atoms = 54 g
+
 2 hex characters = 1 byte
 
 butte < mesa < plateau
