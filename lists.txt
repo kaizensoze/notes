@@ -1,8 +1,5 @@
 
 todo
-  deep learning
-  a little life
-
   hire own legal aid for oct court hearing
 
 Hi,
@@ -34,6 +31,7 @@ movies
   Landline
   Brigsby Bear
   I'm Not There
+  American Made
   Blade Runner (10/06)
   Reel Rock 12 (11/??)
 
