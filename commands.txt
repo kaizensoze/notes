@@ -484,6 +484,16 @@ supervisor
   supervisorctl -c <config> reload
   supervisorctl -c <config> restart gunicorn
 
+systemctl
+  systemctl start nginx
+  systemctl stop nginx
+  systemctl try-restart nginx
+  systemctl reload nginx
+  systemctl reload-or-restart nginx
+  systemctl status nginx
+  systemctl enable nginx
+  systemctl disable nginx
+
 tcpdump
   sudo tcpdump -nS
   sudo tcpdump -nnvvS
@@ -511,6 +521,12 @@ tugboat
   tugboat ssh <droplet>
   tugboat restart <droplet>
   tugboat destroy <droplet>
+
+ufw
+  sudo ufw app list
+  sudo ufw allow OpenSSH
+  sudo ufw enable
+  sudo ufw status
 
 vim
   :%s/\r/\r/g
