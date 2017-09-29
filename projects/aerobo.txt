@@ -5,13 +5,12 @@ target 'AugNav' do
 end
 
 TODO
-make nginx a reverse proxy for nodejs
-test: 67.205.189.70
-have server running in background (forever, pm2, etc.)
-
+create sample json file
 upload json file
 store json file in database
-    best database to store json files
+    best database to store json files?
+get back json files
+get back certain json file
 
 mobile app
     stick to cocoapods, try again
@@ -43,3 +42,4 @@ server
 
 node/express
     https://stackoverflow.com/a/23281401/2827402
+    https://mrvautin.com/running-nodejs-applications-in-production-forever-vs-supervisord-vs-pm2/
