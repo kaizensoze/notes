@@ -1,18 +1,13 @@
+
+TODO
+go through previous messages in slack just to get a feel for company
+best language for socket server
+where to put server?
+
 what's the current setup/process?
 how do you usually control the drone
 how would you normally change to manual mode?
 how do you specify where to have the drone send data?
 
-aerobo
-
 camera should be flying the drone
-
 ios device paired with controller
-
-2 month
-
-industry city
-flying field
-
-
-figure out if socket server is required or
