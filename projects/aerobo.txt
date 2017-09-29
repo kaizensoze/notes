@@ -1,7 +1,20 @@
+# platform :ios, '9.0'
+
+target 'AugNav' do
+    pod 'DJI-SDK-iOS', '~> 4.3.1'
+end
 
 TODO
+basic setup of droplet
+    67.205.189.70
+    root:01d7a9aa3d7ecb91757595dfa8
+    aerobo:AugNav333
+
 mobile app
-    bring in dji mobile sdk and start playing around with it
+    stick to cocoapods, try again
+    get sample app working
+    sample mission
+    sample mission from parsing sample json file
 socket server
     use socket.io
     make a rest and socket server
