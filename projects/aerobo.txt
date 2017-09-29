@@ -1,8 +1,11 @@
 
 TODO
-go through previous messages in slack just to get a feel for company
-best language for socket server
-where to put server?
+mobile app
+    bring in dji mobile sdk and start playing around with it
+socket server
+    use socket.io
+    make a rest and socket server
+    where to put server?
 
 what's the current setup/process?
 how do you usually control the drone
