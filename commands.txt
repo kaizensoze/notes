@@ -369,6 +369,14 @@ pipe
   ls ~ > f 2> e
   ls ~ > f 2>&1
 
+pm2
+  pm2 start index.js -n "augnav" --watch --ignore-watch="uploads"
+  pm2 list
+  pm2 stop all
+  pm2 restart all
+  pm2 reload all
+  pm2 delete all
+
 postgres
   \l # list databases
   \c <db> # connect to database

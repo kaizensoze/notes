@@ -4,9 +4,14 @@ target 'AugNav' do
     pod 'DJI-SDK-iOS', '~> 4.3.1'
 end
 
+test.json
+{
+    "A": 1,
+    "B": 2,
+    "C": 3
+}
+
 TODO
-create sample json file
-upload json file
 store json file in database
     best database to store json files?
 get back json files
@@ -43,3 +48,4 @@ server
 node/express
     https://stackoverflow.com/a/23281401/2827402
     https://mrvautin.com/running-nodejs-applications-in-production-forever-vs-supervisord-vs-pm2/
+    https://github.com/expressjs/multer#usage
