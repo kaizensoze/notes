@@ -771,5 +771,14 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   head down: 30 (changed to reps)
   head up: 23 (changed to reps)
 
-2017-09-29
+2017-09-30
+  pushups: 100
+  head down: 40
+  head up: 30
+  pec fly: 10x90, 12x100, 12x110
+  pullups: 12, 12
+  bicep curl: 
+
+  (keep head up for pushups)
+  (start doing squats)
   
