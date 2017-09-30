@@ -14,7 +14,6 @@ test.json
 TODO
 store json file in database (mongodb)
 /missions endpoint returns mission json files
-get back json files
 get back certain json file
 
 mobile app
