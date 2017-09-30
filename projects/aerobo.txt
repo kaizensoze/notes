@@ -12,8 +12,8 @@ test.json
 }
 
 TODO
-store json file in database
-    best database to store json files?
+store json file in database (mongodb)
+/missions endpoint returns mission json files
 get back json files
 get back certain json file
 
@@ -46,6 +46,5 @@ server
     https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04
 
 node/express
-    https://stackoverflow.com/a/23281401/2827402
     https://mrvautin.com/running-nodejs-applications-in-production-forever-vs-supervisord-vs-pm2/
     https://github.com/expressjs/multer#usage
