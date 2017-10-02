@@ -1,8 +1,3 @@
-# platform :ios, '9.0'
-
-target 'AugNav' do
-    pod 'DJI-SDK-iOS', '~> 4.3.1'
-end
 
 test.json
 {
@@ -32,6 +27,8 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
+test Mobile-SDK-iOS swift sample app with drone
+test
 run example swift app
 
 mobile app
@@ -42,6 +39,9 @@ mobile app
 
 camera should be flying the drone
 ios device paired with controller
+
+DJI Developer
+    brian@aerobo.com:AugNav107
 
 server
     67.205.189.70
