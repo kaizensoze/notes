@@ -301,8 +301,9 @@ microsoft word (not excel)
   Layout > Data > Formula: edit formula
 
 mongodb
-  sudo service mongod start
-  sudo service mongod status
+  sudo systemctl start mongod
+  sudo systemctl status mongod
+  mongo -u aerobo -p --authenticationDatabase admin
   mongo karass
   show collections
   db.users.find({})
@@ -370,12 +371,14 @@ pipe
   ls ~ > f 2>&1
 
 pm2
-  pm2 start index.js -n "augnav" --watch --ignore-watch="uploads"
+  pm2 start ~/augnav/index.js -n "augnav" --watch --ignore-watch="uploads"
   pm2 list
   pm2 stop all
   pm2 restart all
   pm2 reload all
   pm2 delete all
+  pm2 startup
+  pm2 unstartup systemd
 
 postgres
   \l # list databases
