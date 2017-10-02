@@ -28,8 +28,7 @@ db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
 test Mobile-SDK-iOS swift sample app with drone
-test
-run example swift app
+test Mobile-UILibrary-iOS swift sample app with drone
 
 mobile app
     stick to cocoapods, try again
