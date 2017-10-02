@@ -4,24 +4,25 @@ target 'AugNav' do
     pod 'DJI-SDK-iOS', '~> 4.3.1'
 end
 
-test.json
+test2.json
 {
-    "A": 1,
-    "B": 2,
-    "C": 3
+    "A": 2,
+    "B": 3,
+    "C": 4,
+    "title": "test2"
 }
+db.missions.remove({})
+db.missions.count()
 db.missions.insert({ a: 1, b: 2, c: 3 })
 db.missions.count()
 db.missions.find()
+db.missions.update({ a: 1}, { $set: { title: "test" } })
+db.missions.find()
 
 TODO
-manually place mission record
-/missions endpoint returns mission json files
-
 add json [contents] to database
 delete uploaded file
-
-get back certain mission [by title]
+push code to github
 
 mobile app
     stick to cocoapods, try again
