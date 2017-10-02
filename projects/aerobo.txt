@@ -30,15 +30,6 @@ TODO
 test Mobile-SDK-iOS swift sample app with drone
 test Mobile-UILibrary-iOS swift sample app with drone
 
-mobile app
-    stick to cocoapods, try again
-    get sample app working
-    sample mission
-    sample mission from parsing sample json file
-
-camera should be flying the drone
-ios device paired with controller
-
 DJI Developer
     brian@aerobo.com:AugNav107
 
