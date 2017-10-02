@@ -22,8 +22,6 @@ test2.json
 http -f POST 67.205.189.70/upload mission@test.json
 http -f POST 67.205.189.70/upload mission@test2.json
 
-http -f POST 67.205.189.70/upload mission=@'{ "title": "test", "A": 1, "B": 2, "C": 3 }'
-
 db.missions.remove({})
 db.missions.count()
 db.missions.insert({ title: "test", a: 1, b: 2, c: 3 })
@@ -34,9 +32,6 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-command line using httpie doing file upload
-command line using httpie doing file upload content
-try to format /missions output (newline after each document)
 add readme
 
 mobile app
