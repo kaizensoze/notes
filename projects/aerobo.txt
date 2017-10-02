@@ -12,9 +12,11 @@ test.json
 }
 
 TODO
-store json file in database (mongodb)
+install mongodb
+add json [contents] to database
+delete uploaded file after
 /missions endpoint returns mission json files
-get back certain json file
+get back certain mission [by title]
 
 mobile app
     stick to cocoapods, try again
