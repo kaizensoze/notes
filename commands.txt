@@ -230,6 +230,8 @@ httpie
   http httpie.org
   http httpie.org --style autumn (other decent options: native, solarized)
   http -f POST example.org this="A" that="B"
+  http -f POST example.org/upload file@test.pdf
+  http -f POST 67.205.189.70/upload mission=@test.json
   http -v -f POST http://127.0.0.1:8080/setReportInstanceSubject reportInstanceId="800" subject="TESTREPORT"
   http httpie.org 'Authorization: token TOKEN'
 
