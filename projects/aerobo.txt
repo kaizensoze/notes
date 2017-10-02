@@ -13,16 +13,16 @@ test2.json
 }
 db.missions.remove({})
 db.missions.count()
-db.missions.insert({ a: 1, b: 2, c: 3 })
+db.missions.insert({ title: "test", a: 1, b: 2, c: 3 })
 db.missions.count()
 db.missions.find()
-db.missions.update({ a: 1}, { $set: { title: "test" } })
+db.missions.update({ title: "test"}, { $set: { d: 4 } }, { upsert: true })
 db.missions.find()
+db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
+test upload with memory storage
 add json [contents] to database
-delete uploaded file
-push code to github
 
 mobile app
     stick to cocoapods, try again
