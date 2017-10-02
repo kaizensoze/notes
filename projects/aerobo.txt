@@ -32,22 +32,13 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-add readme
+run example swift app
 
 mobile app
     stick to cocoapods, try again
     get sample app working
     sample mission
     sample mission from parsing sample json file
-socket server
-    use socket.io
-    make a rest and socket server
-    where to put server?
-
-what's the current setup/process?
-how do you usually control the drone
-how would you normally change to manual mode?
-how do you specify where to have the drone send data?
 
 camera should be flying the drone
 ios device paired with controller
@@ -69,4 +60,4 @@ node/express
 
 mongodb
     https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-mongodb-on-ubuntu-16-04
-    https://docs.mongodb.com/manual/reference/mongo-shell/
+    https://docs.mongodb.com/manual/reference/method/
