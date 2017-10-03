@@ -17,6 +17,8 @@ test2.json
 http -f POST 67.205.189.70/upload mission@test.json
 http -f POST 67.205.189.70/upload mission@test2.json
 
+http -f DELETE 67.205.189.70/missions/59d3b92e7d4fc28ad34372ed
+
 db.missions.remove({})
 db.missions.count()
 db.missions.insert({ title: "test", a: 1, b: 2, c: 3 })
