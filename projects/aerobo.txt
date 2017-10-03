@@ -1,6 +1,4 @@
 
-figma and zeplin
-
 test.json
 {
     "title": "test"
