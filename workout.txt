@@ -783,15 +783,15 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   (start doing squats)
 
 2017-10-03
-  pushups:
-  head down:
-  head up:
-  pec fly:
-  squats:
+  pushups: 88
+  head down: 45
+  head up: 35
+  pec fly: 10x110, 8x120, 8x120
+  chest press: 8x40, 8x40
 
 2017-10-05
   pushups:
   head down:
   head up:
   pec fly:
-  bicep curl:
+  squat:
