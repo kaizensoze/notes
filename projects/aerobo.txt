@@ -1,4 +1,6 @@
 
+figma and zeplin
+
 test.json
 {
     "title": "test"
@@ -27,6 +29,7 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
+delete mission
 test Mobile-SDK-iOS swift sample app with drone
 test Mobile-UILibrary-iOS swift sample app with drone
 
