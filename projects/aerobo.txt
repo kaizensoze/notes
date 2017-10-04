@@ -14,13 +14,13 @@ test2.json
     "C": 4
 }
 
-http://67.205.189.70/missions/
-http://aeroboaugnav.com/missions
+https://67.205.189.70/missions/
+https://aeroboaugnav.com/missions
 
-http -f POST 67.205.189.70/upload mission@test.json
-http -f POST 67.205.189.70/upload mission@test2.json
+http -f POST https://aeroboaugnav.com/upload mission@test.json
+http -f POST https://aeroboaugnav.com/upload mission@test2.json
 
-http -f DELETE 67.205.189.70/missions/59d3b92e7d4fc28ad34372ed Authorization:AeroboDeleteAuthorization961
+http -f DELETE https://aeroboaugnav.com/missions/59d3b92e7d4fc28ad34372ed Authorization:AeroboDeleteAuthorization961
 
 db.missions.remove({})
 db.missions.count()
@@ -32,17 +32,10 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-wait for dns propagation
-test hostname
-let's encrypt
-update readme from ip to hostname
-write to error log
-video previewer
-manual button
+get VideoPreviewer import working
+show video feed
 move gimbal around
-
-simple mission control simulator test
-table view with list of missions
+write to error log
 
 DJI Developer
     brian@aerobo.com:AugNav107
