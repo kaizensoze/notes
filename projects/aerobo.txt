@@ -29,8 +29,9 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-reset local to remote
-rename app
+get app to not crash when connecting/disconnecting cable
+change deployment target?
+detect connected/disconnected without having to restart app or trigger viewWillAppear
 upload simple mission that makes the drone go up and down 3 times
 table view with list of missions
 
