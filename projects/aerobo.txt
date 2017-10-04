@@ -17,7 +17,7 @@ test2.json
 http -f POST 67.205.189.70/upload mission@test.json
 http -f POST 67.205.189.70/upload mission@test2.json
 
-http -f DELETE 67.205.189.70/missions/59d3b92e7d4fc28ad34372ed
+http -f DELETE 67.205.189.70/missions/59d3b92e7d4fc28ad34372ed Authorization:AeroboDeleteAuthorization961
 
 db.missions.remove({})
 db.missions.count()
@@ -29,10 +29,13 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-get app to not crash when connecting/disconnecting cable
-change deployment target?
-detect connected/disconnected without having to restart app or trigger viewWillAppear
-upload simple mission that makes the drone go up and down 3 times
+authorize delete
+switch to https without hostname?
+video previewer
+manual button
+move gimbal around
+
+simple mission control simulator test
 table view with list of missions
 
 DJI Developer

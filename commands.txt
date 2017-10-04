@@ -234,6 +234,7 @@ httpie
   http -f POST 67.205.189.70/upload mission=@test.json
   http -v -f POST http://127.0.0.1:8080/setReportInstanceSubject reportInstanceId="800" subject="TESTREPORT"
   http httpie.org 'Authorization: token TOKEN'
+  http -f DELETE 67.205.189.70/missions/59d3b92e7d4fc28ad34372ed Authorization:AeroboDeleteAuthorization961
 
 imagemagick
   identify -verbose [image]
