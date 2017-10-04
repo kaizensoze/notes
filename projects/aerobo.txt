@@ -14,6 +14,9 @@ test2.json
     "C": 4
 }
 
+http://67.205.189.70/missions/
+http://aeroboaugnav.com/missions
+
 http -f POST 67.205.189.70/upload mission@test.json
 http -f POST 67.205.189.70/upload mission@test2.json
 
@@ -29,8 +32,11 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-authorize delete
-switch to https without hostname?
+wait for dns propagation
+test hostname
+let's encrypt
+update readme from ip to hostname
+write to error log
 video previewer
 manual button
 move gimbal around
