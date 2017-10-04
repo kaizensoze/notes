@@ -39,13 +39,13 @@ movies
   Reel Rock 12 (11/??)
 
 tv
-  The Good Doctor S01E02
-  South Park S21E04 (10/04)
   Tales from the Tour Bus S01E02
+  South Park S21E04 (10/04)
   Get Shorty S01E10 (10/08)
   Rick and Morty S0310 (10/08)
-  Curb Your Enthusiasm S09E03
+  The Good Doctor S01E03 (10/09)
   Mr Robot S03E01 (10/11)
+  Curb Your Enthusiasm S09E03 (10/15)
   Stranger Things S02E01 (10/27)
   Twin Peaks S01E01
 
