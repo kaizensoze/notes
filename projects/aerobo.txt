@@ -32,7 +32,6 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-update readme
 dji assistant 2
 
 test altitude change in simulator
