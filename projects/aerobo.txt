@@ -32,9 +32,10 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-show video feed
+16:31:49.105 [38;5;197mERROR[0m ViewController.addMissionControlListener():82 - Error Domain=DJISDKMissionErrorDomain Code=10010 "(null)"
 move gimbal around
-write to error log
+get a simple up-down demo working outside [or inside?]
+NOTE: gimbal attitude doesn't even work for test app
 
 DJI Developer
     brian@aerobo.com:AugNav107
