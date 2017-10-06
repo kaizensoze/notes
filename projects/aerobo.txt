@@ -33,7 +33,7 @@ db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
 analyze original ios sample code for the nth time for comparison
-try go to action (field perimeter test)
+field perimeter test (place to start field test: 40.583531, -73.997474)
 
 DJI Developer
     brian@aerobo.com:AugNav107
