@@ -32,7 +32,6 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-try dji assistant 2
 test gimbal action change with simulator
 test gimbal action change without simulator
 test altitude change in simulator
