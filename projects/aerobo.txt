@@ -32,11 +32,10 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
-dji assistant 2
+try dji assistant 2
+test gimbal action change with simulator
+test gimbal action change without simulator
 test altitude change in simulator
-
-get a simple up-down demo working outside [or inside?]
-NOTE: gimbal attitude doesn't even work for test app
 
 DJI Developer
     brian@aerobo.com:AugNav107
