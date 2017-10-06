@@ -32,6 +32,7 @@ db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
 
 TODO
+analyze original ios sample code for the nth time for comparison
 try go to action (field perimeter test)
 
 DJI Developer
