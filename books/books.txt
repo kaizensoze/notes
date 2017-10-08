@@ -80,6 +80,7 @@ Hanya Yanagihara, A Little Life
 Herman Melville, Moby Dick
 Hillary Rodham Clinton, What Happened
 Homer, Odyssey
+Iain M. Banks, Consider Phlebas
 Ingrid Burrington, Networks of New York
 Irin Carmon, Notorious RBG
 Isaac Asimov, The Foundation Saga
@@ -197,6 +198,7 @@ Tim Wu, The Master Switch: The Rise and Fall of Information Empires
 Timur Vermes, Look Who's Back
 Tobias Klein, A Bug Hunter's Diary
 Tom Wainwright, Narconomics: How to Run a Drug Cartel
+Vernor Vinge, True Names
 Victor Davis Hanson, The Savior Generals
 Vladimir Nabokov, Lolita
 Voltaire, Candide
