@@ -1,7 +1,7 @@
 
 TODO
-grab json and store in table
 analyze original ios sample code for the nth time for comparison
+grab json and store in table
 field perimeter test (place to start field test: 40.583531, -73.997474)
 
 test.json
