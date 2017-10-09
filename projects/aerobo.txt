@@ -1,7 +1,9 @@
 
+
+
 TODO
-rename project
-grab json and store in table
+delete mission via app
+pull to refresh
 test gimbal attitude
 field perimeter test (place to start field test: 40.583531, -73.997474)
 
@@ -19,6 +21,13 @@ test2.json
     "B": 3,
     "C": 4
 }
+test3.json
+{
+    "title": "test3"
+    "A": 25,
+    "B": 26,
+    "C": 27
+}
 
 https://67.205.189.70/missions/
 https://aeroboaugnav.com/missions
@@ -30,12 +39,14 @@ http -f DELETE https://aeroboaugnav.com/missions/59d3b92e7d4fc28ad34372ed Author
 
 db.missions.remove({})
 db.missions.count()
-db.missions.insert({ title: "test", a: 1, b: 2, c: 3 })
+db.missions.insert({ title: "test", A: 1, B: 2, C: 3 })
 db.missions.count()
 db.missions.find()
-db.missions.update({ title: "test"}, { $set: { d: 4 } }, { upsert: true })
+db.missions.update({ title: "test"}, { $set: { D: 4 } }, { upsert: true })
 db.missions.find()
-db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
+db.missions.insert({ title: "test2", A: 2, B: 3, C: 4 })
+db.missions.insert({ title: "test3", A: 25, B: 26, C: 27 })
+db.missions.update({}, {$rename:{"a": "A", "b": "B", "c": "C"}}, false, true)
 
 DJI Developer
     brian@aerobo.com:AugNav107
