@@ -1,4 +1,9 @@
 
+TODO
+grab json and store in table
+analyze original ios sample code for the nth time for comparison
+field perimeter test (place to start field test: 40.583531, -73.997474)
+
 test.json
 {
     "title": "test"
@@ -30,10 +35,6 @@ db.missions.find()
 db.missions.update({ title: "test"}, { $set: { d: 4 } }, { upsert: true })
 db.missions.find()
 db.missions.insert({ title: "test2", a: 2, b: 3, c: 4 })
-
-TODO
-analyze original ios sample code for the nth time for comparison
-field perimeter test (place to start field test: 40.583531, -73.997474)
 
 DJI Developer
     brian@aerobo.com:AugNav107
