@@ -2,6 +2,7 @@
 
 
 TODO
+test run mission view connected to drone (comment out scheduled tasks)
 figure out time out issue for gimbal attitude: Execution of this process has timed out(code:-1003)
 field perimeter test (place to start field test: 40.583531, -73.997474)
 
@@ -45,6 +46,7 @@ db.missions.find()
 db.missions.insert({ title: "test2", A: 2, B: 3, C: 4 })
 db.missions.insert({ title: "test3", A: 25, B: 26, C: 27 })
 db.missions.update({}, {$rename:{"a": "A", "b": "B", "c": "C"}}, false, true)
+db.missions.insert({ title: "test5", x: 2 })
 
 DJI Developer
     brian@aerobo.com:AugNav107
