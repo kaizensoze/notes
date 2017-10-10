@@ -801,3 +801,12 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   chest press: 8x55, 8x55, 8x50
   head down: 55
   head up: 30
+
+2017-10-10
+  pushups: 100
+  head down: 40
+  head up: 20
+  pec fly: 8x120, 8x120, 8x120
+  bicep curl: 8x30
+
+2017-10-12
