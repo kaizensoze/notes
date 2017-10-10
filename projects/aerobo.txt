@@ -2,6 +2,7 @@
 
 
 TODO
+autorotate RunMissionView in landscape mode
 test run mission view connected to drone (comment out scheduled tasks)
 figure out time out issue for gimbal attitude: Execution of this process has timed out(code:-1003)
 field perimeter test (place to start field test: 40.583531, -73.997474)
