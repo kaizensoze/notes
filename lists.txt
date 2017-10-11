@@ -1,8 +1,7 @@
 
 todo
-  bail on interview (looking for remote)
-  call lawyer
   ask when ups store subscription expires
+  
   laundry
 
 movies
