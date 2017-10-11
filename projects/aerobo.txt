@@ -2,9 +2,10 @@
 
 
 TODO
-test flying drone manually for a bit
 gravesend field test (stand at: 40.583531, -73.997474)
 staten island field test (stand at: 40.571099, -74.164696)
+
+Alaska Place, Staten Island, NY
 
 test.json
 {
