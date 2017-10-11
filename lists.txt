@@ -1,34 +1,11 @@
 
 todo
-  wait last minute to cowardly bail out of in-person interview
-  hire own legal aid for oct court hearing
+  bail on interview (looking for remote)
+  call lawyer
   ask when ups store subscription expires
-  go through aliente caliente notes for sci-fi book
-
-Hi,
-
-I know this is a little direct, but would you want to grab a coffee sometime next week?
-
-Joe
-------------
-Hi,
-
-I'm very interested in the position. You can find my resume at https://joegallo.nyc/.
-
-Best,
-Joe
-
-Hi,
-
-I'm very interested in the project. You can find my resume at https://joegallo.nyc/.
-
-Best,
-Joe
-------------
-Feel free to take a look at my resume at https://joegallo.nyc/ and let me know if you think it'd be a good fit.
+  laundry
 
 movies
-
   Battle of the Sexes
   Good Time
   Ingrid Goes West
@@ -56,10 +33,6 @@ games
   Horizon: Zero Dawn
   What Remains of Edith Finch
   South Park: The Fractured But Whole
-
-jobs
-  https://news.ycombinator.com/item?id=14904223
-  https://news.ycombinator.com/item?id=14901535
 
 projects/ideas
   iwatch workout app
