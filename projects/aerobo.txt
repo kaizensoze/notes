@@ -2,7 +2,7 @@
 
 
 TODO
-double check if .product() is the best way to check connection
+restrict orientations of view controllers
 incorporate some code from test view to run mission view
 implement pause/resume on run mission view
 add Connected/Disconnected status to top left of run mission view

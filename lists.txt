@@ -1,9 +1,7 @@
 
 todo
-  ask when ups store subscription expires
   ask for payment from aerobo
-  laundry
-  get a hotel room to catch up on sleep?
+  ask when ups store subscription expires
 
 movies
   Battle of the Sexes
