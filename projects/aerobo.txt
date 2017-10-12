@@ -2,7 +2,6 @@
 
 
 TODO
-vary the altitude on either of the field tests (hold off til first json-parsed field test to see what it does)
 gravesend field test (stand at: 40.583531, -73.997474)
 staten island field test (stand at: 40.571099, -74.164696)
 
