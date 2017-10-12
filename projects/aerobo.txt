@@ -2,10 +2,6 @@
 
 
 TODO
-be able to rerun mission
-implement pause/resume on run mission view
-add Connected/Disconnected status to top left of run mission view
-
 gravesend field test (stand at: 40.583531, -73.997474)
 staten island field test (stand at: 40.571099, -74.164696)
 
