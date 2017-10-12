@@ -2,8 +2,7 @@
 
 
 TODO
-restrict orientations of view controllers
-incorporate some code from test view to run mission view
+be able to rerun mission
 implement pause/resume on run mission view
 add Connected/Disconnected status to top left of run mission view
 
