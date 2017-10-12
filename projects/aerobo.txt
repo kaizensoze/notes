@@ -2,6 +2,14 @@
 
 
 TODO
+uitableview left/right spacing
+round tableviewcell
+
+1066/1920
+image 56% view height
+
+include sample screenshot in json file
+
 gravesend field test (stand at: 40.583531, -73.997474)
 staten island field test (stand at: 40.571099, -74.164696)
 
