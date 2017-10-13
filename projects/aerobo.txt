@@ -2,12 +2,10 @@
 
 
 TODO
-fix missions table view select/deselect
-
 updatedLabel
 add created, updated timestamps to missions db table
-
 include sample screenshot in json file
+fix missions table view select/deselect (this is atrocious; SKIP)
 
 gravesend field test (stand at: 40.583531, -73.997474)
 staten island field test (stand at: 40.571099, -74.164696)
