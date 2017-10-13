@@ -2,8 +2,7 @@
 
 
 TODO
-uitableview left/right spacing
-round tableviewcell
+on select switch to selected bg
 
 1066/1920
 image 56% view height
