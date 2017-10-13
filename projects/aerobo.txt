@@ -2,9 +2,8 @@
 
 
 TODO
-fix border on selected image
-locationLabel
-add location to missions db table
+fix missions table view select/deselect
+
 updatedLabel
 add created, updated timestamps to missions db table
 
