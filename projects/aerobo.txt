@@ -2,10 +2,11 @@
 
 
 TODO
-on select switch to selected bg
-
-1066/1920
-image 56% view height
+fix border on selected image
+locationLabel
+add location to missions db table
+updatedLabel
+add created, updated timestamps to missions db table
 
 include sample screenshot in json file
 

@@ -1,7 +1,6 @@
 
 todo
-  ask for payment from aerobo
-  ask when ups store subscription expires
+  
 
 movies
   Battle of the Sexes

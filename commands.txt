@@ -358,6 +358,9 @@ pdf
   brew install poppler
   pdfunite in1.pdf in2.pdf out.pdf
 
+photoshop
+  
+
 php
   brew install homebrew/php/php70
   brew install homebrew/php/php70-pdo-pgsql
