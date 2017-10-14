@@ -150,7 +150,6 @@ Neil Gaiman, The View from the Cheap Seats
 Nelson Mandela, Long Walk to Freedom
 Nicholas Howe, Not Without Peril
 Nir Eyal, Hooked
-Oliver Sacks, Hallucinations
 Paul Neilan, Apathy and Other Small Victories
 Paul Vigna, The Age of Cryptocurrency
 Peter Macinnis, Poisons
@@ -513,3 +512,4 @@ Ray Bradbury, The Martian Chronicles
 Oliver Sacks, On the Move
 Benjamin Percy, The Dark Net [x]
 Sylvia Plath, The Bell Jar[x]
+Oliver Sacks, Hallucinations
