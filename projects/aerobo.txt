@@ -2,9 +2,12 @@
 
 
 TODO
+base64 encode sample image
+decode base64 image on app
+
 updatedLabel
 add created, updated timestamps to missions db table
-include sample screenshot in json file
+
 fix missions table view select/deselect (this is atrocious; SKIP)
 
 gravesend field test (stand at: 40.583531, -73.997474)

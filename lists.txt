@@ -15,10 +15,10 @@ movies
   Reel Rock 12 (11/??)
 
 tv
-  Curb Your Enthusiasm S09E03 (10/15)
   Mr Robot S03E02 (10/18)
   South Park S21E05 (10/18)
   Tales from the Tour Bus S01E04 (10/20)
+  Curb Your Enthusiasm S09E04 (10/22)
   Stranger Things S02E01 (10/27)
 
 games
