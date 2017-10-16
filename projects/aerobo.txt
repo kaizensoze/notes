@@ -2,8 +2,7 @@
 
 
 TODO
-test lock orientation
-switch out with actual data
+fix getMissions() encodable stuff
 test delete
 spiffy up RunMissionViewController
 
