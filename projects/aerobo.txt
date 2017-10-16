@@ -2,13 +2,16 @@
 
 
 TODO
+disclosure button
+disclosure button animation on select
+
+renderSelected(false) all cells before renderSelected(true) current cell
+
 take 3d model of brooklyn flying field
 
-change divider color on select
-createdAt label
-change createdAt label color on select
-
 fix missions table view select/deselect
+
+swap out with soleil fonts
 
 gravesend field test (stand at: 40.583531, -73.997474)
 staten island field test (stand at: 40.571099, -74.164696)
