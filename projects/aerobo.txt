@@ -2,13 +2,13 @@
 
 
 TODO
-base64 encode sample image
-decode base64 image on app
+take 3d model of brooklyn flying field
 
-updatedLabel
-add created, updated timestamps to missions db table
+change divider color on select
+createdAt label
+change createdAt label color on select
 
-fix missions table view select/deselect (this is atrocious; SKIP)
+fix missions table view select/deselect
 
 gravesend field test (stand at: 40.583531, -73.997474)
 staten island field test (stand at: 40.571099, -74.164696)
@@ -45,6 +45,7 @@ http -f POST https://aeroboaugnav.com/upload mission@test2.json
 
 http -f DELETE https://aeroboaugnav.com/missions/59d3b92e7d4fc28ad34372ed Authorization:AeroboDeleteAuthorization961
 
+use missions
 db.missions.remove({})
 db.missions.count()
 db.missions.insert({ title: "test", A: 1, B: 2, C: 3 })
