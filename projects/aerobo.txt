@@ -2,16 +2,17 @@
 
 
 TODO
-disclosure button
-disclosure button animation on select
+navigation item size: 13
+show publish menu
 
-renderSelected(false) all cells before renderSelected(true) current cell
+use Gotham font
+
+change navigation item font
 
 take 3d model of brooklyn flying field
 
+renderSelected(false) all cells before renderSelected(true) current cell
 fix missions table view select/deselect
-
-swap out with soleil fonts
 
 gravesend field test (stand at: 40.583531, -73.997474)
 staten island field test (stand at: 40.571099, -74.164696)
