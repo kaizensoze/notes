@@ -1,15 +1,7 @@
 
-so these devices can be turned off at any time and they're manned by humans
 
-
-L1 9
 
 TODO
-fix getMissions() encodable stuff
-test delete
-spiffy up RunMissionViewController
-
-take 3d model of brooklyn flying field
 
 gravesend field test (stand at: 40.583531, -73.997474)
 staten island field test (stand at: 40.571099, -74.164696)
