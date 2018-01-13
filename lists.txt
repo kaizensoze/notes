@@ -1,6 +1,6 @@
 
 todo
-
+  
 
 movies
   Battle of the Sexes
@@ -20,6 +20,13 @@ tv
   South Park S21E06 (11/01)
   Tales from the Tour Bus S01E06 (11/03)
   Curb Your Enthusiasm S09E05 (11/05)
+
+Hi,
+
+Very interested in working on the project. You can find my resume at https://joegallo.nyc.
+
+Best,
+Joe
 
 games
   Nier: Automata
