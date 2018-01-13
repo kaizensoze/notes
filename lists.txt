@@ -1,6 +1,9 @@
 
 todo
-  
+  alien stuff
+  add osquery to resume
+  apply to jobs
+  movies
 
 movies
   Battle of the Sexes
