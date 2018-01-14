@@ -9,20 +9,17 @@ glass container (x2) (https://www.amazon.com/Brabantia-Stackable-Glass-Storage-C
 plastic container (https://www.amazon.com/Certified-BPA-Free-Reusable-Microwavable-Containers/dp/B0128YT76S/ref=sr_1_8?s=kitchen&ie=UTF8&qid=1515929261&sr=1-8&keywords=tupperware)
 magnesium ribbon (https://www.amazon.com/Wrisky-1Rolls-99-95-Magnesium-Chemicals/dp/B01I9CDW50/ref=sr_1_fkmr0_2?ie=UTF8&qid=1515930464&sr=8-2-fkmr0&keywords=thermite+cord)
 
-30 ml acetone
-50 ml hydrogen peroxide
-combine into glass container, mix thoroughly
-take coffee can, fill halfway with water and salt
-place container into coffee can, cover can, and put in freezer; wait til -5 degrees C
-add 2.5 ml of sulfuric acid drop by drop; test temperature after each drop making sure it doesn't go past 10 degrees C
-stir and then place in fridge; let sit overnight
-take plastic container, cover with paper towel, pour solution from glass container over paper towel
-pour 3 spoonfuls of ice-cold water through the towel to remove acid; set paper towel to dry
-pour remaining crystals into plastic container; place magnesium ribbon; cover with lid
-light magnesium ribbon and run
+Combine 30 ml acetone and 50 ml hydrogen peroxide into glass container, mix thoroughly.
+Take coffee can, fill halfway with water and salt.
+Place container into coffee can, cover can, and put in freezer; wait til -5 degrees C.
+Add 2.5 ml of sulfuric acid drop by drop; test temperature after each drop making sure it doesn't go past 10 degrees C.
+Stir and then place in fridge; let sit overnight.
+Take plastic container, cover with paper towel, pour solution from glass container over paper towel.
+Pour 3 spoonfuls of ice-cold water through the towel to remove acid; set paper towel to dry.
+Pour remaining crystals into plastic container; place magnesium ribbon; cover with lid.
+Light magnesium ribbon and run.
 
 todo
-  alien stuff
   add osquery to resume
   apply to jobs
   movies
