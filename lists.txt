@@ -31,9 +31,8 @@ Mercury Fulminate
   ...
 
 todo
-  add osquery to resume
-  apply to jobs
   movies
+  apply to jobs
 
 movies
   Battle of the Sexes
