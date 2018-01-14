@@ -1,4 +1,26 @@
 
+acetone (https://www.amazon.com/Supernail-Pure-Acetone-Fluid-Ounce/dp/B003WS4AP8/ref=sr_1_8_s_it?s=beauty&ie=UTF8&qid=1515926711&sr=1-8&keywords=acetone)
+hydrogen peroxide (https://www.amazon.com/Swan-Hydrogen-Peroxide-Topical-Ounces/dp/B004Q2GEVW/ref=sr_1_2_a_it?ie=UTF8&qid=1515926737&sr=8-2&keywords=hydrogen+peroxide)
+sulfuric acid (https://www.homedepot.com/p/Buster-1-qt-Sulfuric-Acid-Drain-Opener-100916-505639/205137550)
+thermometer (https://www.amazon.com/Digital-Thermometer-Accurate-Children-Indicator/dp/B01A90FMHQ/ref=sr_1_18_a_it?ie=UTF8&qid=1515926943&sr=8-18&keywords=thermometer)
+dropper (https://www.amazon.com/Straight-Tip-Calibrated-Glass-Medicine-Dropper/dp/B0071S5Y46/ref=sr_1_3_a_it?ie=UTF8&qid=1515927728&sr=8-3&keywords=dropper)
+coffee can (https://www.amazon.com/dp/B0085SN7HC/ref=twister_B073HFWJXV?th=1)
+glass container (x2) (https://www.amazon.com/Brabantia-Stackable-Glass-Storage-Containers/dp/B00JFWP6EO/ref=sr_1_13?s=kitchen&ie=UTF8&qid=1515928226&sr=1-13&keywords=glass+container)
+plastic container (https://www.amazon.com/Certified-BPA-Free-Reusable-Microwavable-Containers/dp/B0128YT76S/ref=sr_1_8?s=kitchen&ie=UTF8&qid=1515929261&sr=1-8&keywords=tupperware)
+magnesium ribbon (https://www.amazon.com/Wrisky-1Rolls-99-95-Magnesium-Chemicals/dp/B01I9CDW50/ref=sr_1_fkmr0_2?ie=UTF8&qid=1515930464&sr=8-2-fkmr0&keywords=thermite+cord)
+
+30 ml acetone
+50 ml hydrogen peroxide
+combine into glass container, mix thoroughly
+take coffee can, fill halfway with water and salt
+place container into coffee can, cover can, and put in freezer; wait til -5 degrees C
+add 2.5 ml of sulfuric acid drop by drop; test temperature after each drop making sure it doesn't go past 10 degrees C
+stir and then place in fridge; let sit overnight
+take plastic container, cover with paper towel, pour solution from glass container over paper towel
+pour 3 spoonfuls of ice-cold water through the towel to remove acid; set paper towel to dry
+pour remaining crystals into plastic container; place magnesium ribbon; cover with lid
+light magnesium ribbon and run
+
 todo
   alien stuff
   add osquery to resume
