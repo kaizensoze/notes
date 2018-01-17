@@ -1,6 +1,5 @@
 
 todo
-  find job
   flight home
   get divorce and/or wife deported
 
@@ -25,7 +24,7 @@ tv
 
 Hi,
 
-Very interested in working on the project. You can find my resume at https://joegallo.nyc.
+I'm very interested in the iOS developer position. You can find my resume at https://joegallo.nyc.
 
 Best,
 Joe
