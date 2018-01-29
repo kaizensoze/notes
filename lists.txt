@@ -1,10 +1,10 @@
 
-Brussels
-Cologne
+Haarlem
+Leiden
 The Hague
 Rotterdam
-Leiden
-Haarlem
+Brussels
+Cologne
 Copenhagen
 
 todo
@@ -28,7 +28,7 @@ movies
 
 tv
   Stranger Things S02E01 (10/27)
-  South Park S21E06 (11/01)
+  South Park S21E09 (11/01)
 
 Hi,
 
