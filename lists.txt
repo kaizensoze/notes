@@ -7,6 +7,8 @@ Brussels
 Cologne
 Copenhagen
 
+.22 + Osprey Micro
+
 todo
   hack hotels for availability
   room card trick
