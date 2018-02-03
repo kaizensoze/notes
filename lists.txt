@@ -1,12 +1,4 @@
 
-Haarlem
-Leiden
-The Hague
-Rotterdam
-Brussels
-Cologne
-Copenhagen
-
 .22 + Osprey Micro
 
 todo
