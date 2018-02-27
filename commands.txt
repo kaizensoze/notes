@@ -253,7 +253,7 @@ iptables
 jq
   jq -r '.SecurityGroups[] | select(.Description == "default group") | .GroupId
   cat data.json | jq -r '.[] | .host'
-  curl -s --user "kaizensoze:416c1be9734dd620345b998d1e93e62e3d019988" "https://api.github.com/user/repos?per_page=100" | jq -r '.[] | select(.fork == false) | "\(.full_name)\t\(.clone_url)"' | sort | column -t
+  curl -s --user "kaizensoze:XXXXX" "https://api.github.com/user/repos?per_page=100" | jq -r '.[] | select(.fork == false) | "\(.full_name)\t\(.clone_url)"' | sort | column -t
 
 laravel
   php artisan init
