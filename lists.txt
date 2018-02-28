@@ -1,11 +1,4 @@
 
-.22 + Osprey Micro
-
-todo
-  hack hotels for availability
-  room card trick
-  tampons in gas tank
-
 movies
   Battle of the Sexes
   Good Time
