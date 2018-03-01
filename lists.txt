@@ -1,11 +1,6 @@
 
 movies
   Battle of the Sexes
-  Good Time
-  Ingrid Goes West
-  Landline
-  Brigsby Bear
-  I'm Not There
   Blade Runner
   Reel Rock 12 (11/??)
 
