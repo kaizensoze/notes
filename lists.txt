@@ -6,7 +6,6 @@ movies
 
 tv
   Stranger Things S02E01 (10/27)
-  South Park S21E09 (11/01)
 
 Hi,
 
@@ -14,6 +13,8 @@ I'm very interested in the iOS developer position. You can find my resume at htt
 
 Best,
 Joe
+
+Back from Amsterdam. Would tomorrow be a good time to talk?
 
 games
   Nier: Automata
