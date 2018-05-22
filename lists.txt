@@ -1,10 +1,14 @@
 
 movies
-  Battle of the Sexes
   Reel Rock 12 (11/??)
 
 tv
-  
+  Westworld (S02E01)
+  Game of Thrones (S07E01)
+  Better Call Saul (S04E01)
+  Legion (S01E01)
+  Atlanta: Robbin's Season
+  The Handmaid's Tale (S01E01)
 
 Hi,
 
