@@ -241,6 +241,7 @@ imagemagick
   exiftool -all= [image]
   convert *.jpg deposit_and_receipt.pdf
   convert -strip -quality 85% -colorspace gray -resize 1224x1632 a.jpg b.jpg '2015 personal return.pdf'
+  convert passport.png -depth 200 -units pixelsperinch passport2.png || convert -units PixelsPerInch passport.png -density 200 passport2.png  // convert image dpi to 200
 
 iptables
   sudo vim /etc/iptables.firewall.rules

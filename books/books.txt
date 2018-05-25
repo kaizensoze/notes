@@ -76,7 +76,6 @@ Gerard de Villiers, Chaos in Kabul
 Gerard de Villiers, Revenge of the Kremlin
 Gerard de Villiers, The Madmen of Benghazi
 Greg Palast, The Best Democracy Money Can Buy
-Hanya Yanagihara, A Little Life
 Herman Melville, Moby Dick
 Hillary Rodham Clinton, What Happened
 Homer, Odyssey
@@ -131,6 +130,7 @@ Mark Frost, The Secret History of Twin Peaks: A Novel
 Mark Owen, No Hero
 Martin Blaser, Missing Microbes
 Marvin Minsky, The Society of Mind
+Mary Frances Bowley, The White Umbrella
 Matthew Josephson, The Robber Barons
 Matt Ridley, Genome: The Autobiography of a Species in 23 Chapters
 Matthew Baillie, The Morbid Anatomy of Some of the Most Important Parts of the Human Body
@@ -209,6 +209,7 @@ Will Buckingham, The Philosophy Book
 Franklin Foer, World Without Mind
 Yuval Noah Harari, Homo Deus: A Brief History of Tomorrow
 Yuval Noah Harari, Sapiens: A Brief History of Humankind
+
 
 DONE
 Bill Bryson, A Short History of Nearly Everything

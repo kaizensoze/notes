@@ -1,14 +1,11 @@
 
 movies
-  Reel Rock 12 (11/??)
+  Disobedience
+  Reel Rock 12
+  The Post
 
 tv
-  Westworld (S02E01)
-  Game of Thrones (S07E01)
-  Better Call Saul (S04E01)
-  Legion (S01E01)
-  Atlanta: Robbin's Season
-  The Handmaid's Tale (S01E01)
+  The Handmaid's Tale S02E01
 
 Hi,
 
@@ -46,4 +43,4 @@ places
   Ghenet Brooklyn
   Wolf and Deer
   Bogota Latin Bistro
-  Comfort zone eldridge gaming cafe
+  Comfort Zone Eldridge Gaming Cafe
