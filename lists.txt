@@ -28,6 +28,7 @@ games
   South Park: The Fractured But Whole
   RiME
   Divinity: Original Sin 2
+  Vampyr
 
 projects/ideas
   iwatch workout app
