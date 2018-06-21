@@ -130,6 +130,7 @@ dns
   sudo dscacheutil -flushcache && sudo killall -HUP mDNSResponder
 
 ffmpeg
+  ffmpeg -i input.avi output.avi
   for x (*.flac); do ffmpeg -i $x -ab 196k -ac 2 -ar 48000 "${x:r}.mp3"; done
 
 gem
@@ -574,6 +575,10 @@ xcrun
 
 xmllint
   xmllint --format out.xml
+
+youtube-dl
+  youtube-dl -F https://www.youtube.com/watch?v=nSDgHBxUbVQ
+  youtube-dl -f 251 https://www.youtube.com/watch?v=nSDgHBxUbVQ
 
 zsh
   print -l ${(ok)functions}  # list functions
