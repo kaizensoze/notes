@@ -1,13 +1,12 @@
 
-torbrowser
-delete something
-
-research destination
+get myanonamouse ip working: 173.59.210.234
 movies
 
 Sunday
   amtrak to nyc
-  regroup
+  movies
+  explore tor
+  socks/boxer briefs/belt
 
 Monday
   65 pushups
