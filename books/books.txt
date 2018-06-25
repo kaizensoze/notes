@@ -67,6 +67,7 @@ Elizabeth Gilbert, Big Magic
 Elyn R. Saks, The Center Cannot Hold
 Eric Blehm, Fearless
 Eric Bogosian, Operation Nemesis
+Franklin Foer, World Without Mind
 Fyodor Dostoevsky, The Brothers Karamazov
 Fyodor Dostoyevsky, Notes From Underground
 Gary J. Byrne, Crisis of Character
@@ -160,6 +161,7 @@ Peter Macinnis, Poisons
 Peter Wright, Spy Catcher
 Philip Pullman, His Dark Materials Trilogy
 Philip Roth, Portnoy's Complaint
+R.J. Palacio, Wonder
 Rachel Maines, The Technology of Orgasm
 Rebecca Skloot, The Immortal Life of Henrietta Lacks
 Richard Adams, Plague Dogs
@@ -211,4 +213,3 @@ Walter Isaacson, Benjamin Franklin: An American Life
 Walter Isaacson, Einstein: His Life and Universe
 William Stevenson, Man Called Intrepid
 Will Buckingham, The Philosophy Book
-Franklin Foer, World Without Mind

@@ -8,6 +8,9 @@ ag (silver searcher; ack clone)
 apns
   apn push "<7db6d40a 79f083d0 f5d7ed4a 7392035b 022ef8ed 53d04b53 e998851b eddaea65>" -c ~/Downloads/dev.pem -m "Hello from the command line" -b 1 -s sosumi.aiff
 
+arp
+  arp -a  # list devices on network
+
 avconv
   avconv -i input.mkv -codec copy output.mp4
 
@@ -247,6 +250,9 @@ imagemagick
   convert -size 420x420 xc:transparent test2.png
   convert -size 420x420 xc:"rgb(218,69,142)" test2.png
 
+ipconfig
+  sudo ipconfig set en0 INFORM 173.59.210.234
+
 iptables
   sudo vim /etc/iptables.firewall.rules
   sudo iptables-restore < /etc/iptables.firewall.rules
@@ -278,8 +284,7 @@ letsencrypt
 lsof
   sudo lsof -i :17600
   sudo lsof -i tcp:17600
-  sudo lsof -n -P -i +c 0              # `+c 0` means show all characters for process name
-  sudo lsof -i -n -P | grep -i LISTEN  # all listening traffic (list of used ports)
+  sudo lsof -n -P -i +c 0 | grep -i LISTEN  # all listening traffic (list of used ports); `+c 0` means show all characters for process name
 
 mac
   mac update
@@ -322,6 +327,7 @@ netcat
   nc -vz <ip> <port>  # check if port [on given host/ip] is open
 
 netstat (netstat sucks in osx)
+  netstat -r  # find an ip address of all network routes
   sudo netstat -an | grep 443             # use lsof instead
   sudo netstat -atp tcp | grep -i LISTEN  # use lsof instead
 
@@ -336,7 +342,7 @@ ngrep
   sudo ngrep special_id         # filter for special_id in any network traffic
 
 nmap
-  nmap -sP 192.168.0.1/24
+  nmap -sn 192.168.0.1/24  # -A -F
 
 npm
   npm ls [--global] --depth=0
