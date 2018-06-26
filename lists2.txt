@@ -1,11 +1,4 @@
 
-interesting defcon talks
-  Honey Onions: Exposing Snooping Tor HSDir Relays
-  Attacking Network Infrastructure to Generate a 4 Tb/s DDoS for $5
-  Abusing Bleeding Edge Web Standards for AppSec Glory
-  Project CITL
-  Realtime Bluetooth Device Detection with Blue Hydra
-
 cell phone simulators
   Harris: Triggerfish -> StingRay -> Hailstorm
   countermeasures: Android:SnoopSnitch, ESD:CryptoPhone
