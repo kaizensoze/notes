@@ -1,72 +1,6 @@
 
-music
-  animals as leaders
-  cradle of filth
-  front line assembly
-  fugazi
-  funeral party
-  gifts from enola
-  god is an astronaut
-  grand silent system
-  hrsta
-  jack and kim
-  john frusciante
-  judgement day
-  katatonia
-  kinski
-  kreator
-  kronos quartet NIN cover
-  liquid divine
-  M83
-  mae
-  marty friedman
-  mascagni
-  maserati
-  meanwhile, back in communist russia
-  melotron
-  the mercury project
-  metric
-  mexico 1910
-  morrissey
-  Mt.
-  mute math
-  neuroticfish
-  ok go
-  opeth
-  ours to alibi
-  patrick wolf
-  playradioplay!
-  pinback
-  primal fear
-  the receiving end of sirens
-  ra ra riot
-  russian circles
-  samuel jackson five
-  saxon shore
-  the smiths
-  the sounds
-  stabilizer
-  survival research labs
-  theta naught
-  this will destroy you
-  tosin abasi
-  tristeza
-  VNV Nation
-  wumpscut
-
-interesting eleventh hope talks
-  Security Options for High Risk Travelers
-  LinkNYC Spy Stations
-  FOIA and Public Records Hacking: How to Complete a FOIA Request or Dox Yourself via the Privacy Act
-
 interesting defcon talks
-  Toxic Proxies - Bypassing HTTPS and VPNs to Pwn Your Online Identity
-  Machine Duping 101: Pwning Deep Learning Systems
-  Feds and 0Days: From Before Heartbleed to After FBI-Apple
-  Discovering and Triangulating Rogue Cell Towers
   Honey Onions: Exposing Snooping Tor HSDir Relays
-  How to Overthrow a Government
-  I've got 99 Problems, but LittleSnitch ain't one
   Attacking Network Infrastructure to Generate a 4 Tb/s DDoS for $5
   Abusing Bleeding Edge Web Standards for AppSec Glory
   Project CITL
@@ -141,6 +75,16 @@ noteworthy books
   Unbroken, Laura Hillenbrand
   Voltaire's Bastards, John Ralston Saul
   Wired for War, P.W. Singer
+
+music
+  animals as leaders
+  cradle of filth
+  front line assembly
+  god is an astronaut
+  mae
+  melotron
+  neuroticfish
+  wumpscut
 
 conferences
   (01/16) shmoocon
