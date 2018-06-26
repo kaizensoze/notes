@@ -134,6 +134,7 @@ dns
 
 ffmpeg
   ffmpeg -i input.avi output.avi
+  ffmpeg -i input.webm -vn -ab 128k -ar 44100 output.mp3
   for x (*.flac); do ffmpeg -i $x -ab 196k -ac 2 -ar 48000 "${x:r}.mp3"; done
 
 gem
@@ -585,6 +586,7 @@ xmllint
 youtube-dl
   youtube-dl -F https://www.youtube.com/watch?v=nSDgHBxUbVQ
   youtube-dl -f 251 https://www.youtube.com/watch?v=nSDgHBxUbVQ
+  youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=BaW_jenozKc
 
 zsh
   print -l ${(ok)functions}  # list functions

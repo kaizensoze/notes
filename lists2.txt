@@ -1,379 +1,7 @@
 
-coworking spaces
-  https://www.wework.com/l/new-york-city--NY
-  https://fueled.com/coworking-space-nyc/
-  https://www.wix.com/lounge/new-york
-  https://www.spacious.com/
-
-Presidential Transition Team Executive Committee
-====
-VP-elect Mike Pence
-Dr. Ben Carson
-Chris Christie
-Newt Gingrich
-Lieutenant General Michael Flynn
-Rudy Giuliani
-US Senator Jeff Sessions
-Congressman Lou Barletta
-Congresswoman Marsha Blackburn
-Florida Attorney General Pam Bondi
-Congressman Chris Collins
-Jared Kushner
-Congressman Tom Marino
-Rebekah Mercer
-Steven Mnuchin
-Congressman Devin Nunes
-Anthony Scaramucci
-Peter Thiel
-Donald Trump Jr
-Eric Trump
-Ivanka Trump
-RNC Chairman Reince Priebus
-Trump Campaign CEO Stephen K Bannon
-
-Advanced Persistent Threats (APTS)
-====
-  NSA
-    Stuxnet
-    Flame
-    Duqu
-    Regin
-    ProjectSauron (?)
-    Careto (?)
-    Equation Group
-      EquationDrug
-      Grayfish
-  Unit 8200 (Israel)
-  Ajax Security Team / Flying Kitten (Iran)
-  Sofacy Group / APT28 / Fancy Bear / Pawn Storm (Russia)
-  Bureau 121 (North Korea)
-  Dragonfly / Energetic Bear (Eastern Europe)
-  Unit 61398 / Comment Crew / Putter Panda (China)
-  Hidden Lynx (China)
-  Axiom (China)
-  Tarh Andishan (Iran)
-  StrongPity (?)
-
-Talk Shows
-====
-tonight show (NBC) [11:35pm-12:35am]
-  jimmy fallon (2014-present)
-  jay leno (2010-2014)
-  conan o'brien (2009-2010)
-  jay leno (1992-2009)
-  johnny carson (1962-1992)
-late show (CBS) [11:35pm-12:35am]
-  stephen colbert (2015-present)
-  david letterman (1993-2015)
-late night (NBC) [12:35am-1:35am]
-  seth meyers (2014-present)
-  jimmy fallon (2009-2014
-  conan o'brien (1993-2009)
-  david letterman (1982-1993)
-late late show (CBS) [12:35am-1:35am]
-  james corden (2015-present)
-  craig ferguson (2005-2014)
-  craig kilborn (1999-2004)
-
-presidents + major events
-====
-teddy roosevelt 1901-1909
-taft 1909-1913
-wilson 1913-1921
-  WWI 1914-1918
-  first red scare 1917-1920
-harding 1921-1923
-coolidge 1923-1929
-hoover 1929-1933
-  Great Depression 1929-1939
-fdr 1933-1945
-  WWII 1939-1945
-truman 1945-1953
-  korean war 1950-1953
-  second red scare 1950-1956
-eisenhower 1953-1961
-  vietnam war 1959-1973
-jfk 1961-1963
-lbj 1963-1969
-nixon 1969-1974
-ford 1974-1977
-carter 1977-1981
-reagan 1981-1989
-hw bush 1989-1993
-clinton 1993-2001
-w bush 2001-2009
-obama 2009-present
-
-parts of government
-====
-Dept of Defense
-  Secretary of Defense
-    Office of Inspector General of DoD
-    Office of Secretary of Defense
-      DARPA
-      NSA
-      DIA
-      ...
-    Dept of Army
-      Army
-    Dept of Navy
-      Navy
-      Marines
-    Dept of Air Force
-      Air Force
-    Joint Chiefs of Staff
-      NORTHCOM
-      SOUTHCOM
-      CENTCOM
-      EUCOM
-      PACOM
-      AFRICOM
-      STRATCOM
-      SOCOM
-        JSOC
-      TRANSCOM
-Dept of Justice
-  Attorney General
-  FBI
-  DEA
-  US Marshals
-  Bureau of Alcohol, Tobacco, Firearms & Explosives
-  Office of the Inspector General
-  National Security Division
-  ...
-Dept of State
-Dept of Treasury
-
-NOTE: In May 2009, Obama merged Homeland Security Council (HSC) and National Security Council (NSC) into National Security Staff (NSS)
-
-countries (196)
-====
-members of UN (193)
-taiwan
-kosovo
-vatican city
-
-breakup of yugoslavia
-====
-Slovenia
-Croatia
-Bosnia-Herzegovina
-Montenegro
-Serbia
-Kosovo
-Macedonia
-
-cell phone simulators
-====
-Harris: Triggerfish -> StingRay -> Hailstorm
-countermeasures: Android:SnoopSnitch, ESD:CryptoPhone
-In theory IMSI catchers can pinpoint only the location of 3G/4G phones so the trick is to knock them down to 2G to access calls/texts/etc., which is what Hailstorm does.
-
-Quotes
-====
-“It is good to have an end to journey towards; but it is the journey that matters, in the end.”
-Ursula K. Le Guin. “The Left Hand of Darkness.”
-
-"Most people shoot for happiness but feel formed through suffering."
-The Road to Character - David Brooks
-
-"I feel like my main quest is a side quest."
-
-"It is the good fortune of many to live distant from the scene of sorrow.”
-Thomas Paine. “Common Sense.”
-
-"This tasteless cover is a good indication of the lack of musical invention within. The musical growth rate of this band cannot even be charted. They are treading water in a sea of retarded sexuality and bad poetry." - This Is Spinal Tap
-
-"I know you gentlemen have been through a lot, but when you find the time, I'd rather not spend the rest of this winter tied to this fucking couch." - The Thing
-
-"A date is an experience you have with another person that makes you appreciate being alone."
-Larry David
-
-"Sarcastically, I'm in charge."
-Black Dynamite
-
-interesting eleventh hope talks
-  Security Options for High Risk Travelers
-  LinkNYC Spy Stations
-  FOIA and Public Records Hacking: How to Complete a FOIA Request or Dox Yourself via the Privacy Act
-
-interesting defcon talks
-  Toxic Proxies - Bypassing HTTPS and VPNs to Pwn Your Online Identity
-  Machine Duping 101: Pwning Deep Learning Systems
-  Feds and 0Days: From Before Heartbleed to After FBI-Apple
-  Discovering and Triangulating Rogue Cell Towers
-  Honey Onions: Exposing Snooping Tor HSDir Relays
-  How to Overthrow a Government
-  I've got 99 Problems, but LittleSnitch ain't one
-  Attacking Network Infrastructure to Generate a 4 Tb/s DDoS for $5
-  Abusing Bleeding Edge Web Standards for AppSec Glory
-  Project CITL
-  Realtime Bluetooth Device Detection with Blue Hydra
-
-torrents
-  what.cd
-  waffles.fm
-
-overthewire
-  http://natas11.natas.labs.overthewire.org/
-  U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
-  /etc/natas_webpass/natas11
-
-estimated tax deadlines
-  Q1 April 15, 2014
-  Q2 June 15, 2014
-  Q3 September 15, 2014
-  Q4 January 15, 2015
-
-places
-  bakery
-    Bakeri
-    Buttermilk Bakery
-    Sugar Couture
-    Du Jour Bakery
-    Margaret Palca Bakes
-    Betty Bakery
-    Court Street Pastry Shoppe
-    Caprice's by Sophie
-    Napoli Bakery
-    Mazzola Bakery
-    Four & Twenty Blackbirds
-  sandwiches
-    Court Street Grocers
-    Defontes
-    Original John's Deli
-  coffee
-    Toby's Estate
-    Otha's
-    The West
-    The Mill Coffee Company
-
-techorgs
-  hackNY
-  techstars
-  dogpatch labs
-  linkedlist nyc
-  braindump
-  alpha one labs
-  nycresistor
-
-conferences
-  (01/16) shmoocon
-  (01/25) usenix enigma
-  (03/18) cansecwest
-  (03/18) pwn2own
-  (05/05) thotcon
-  (06/08) dotscale
-  (06/12) circlecitycon
-  (06/13) wwdc
-  (06/xx) summercon
-  (07/09) toorcamp
-  (07/22) H.O.P.E
-  (08/01) blackhat
-  (08/04) defcon
-  (08/13) chaos communication camp (every 4 years)
-  (09/21) derbycon
-  (09/22) appsec
-  (09/26) .conf
-  (10/21) toorcon
-  (10/??) hacker halted
-  (12/27) chaos communication congress (C3)
-
-noteworthy books
-  A Confederacy of Dunces, John Kennedy Toole
-  A Man Called Ove, Fredrik Backman
-  A Thousand Naked Strangers, Kevin Hazzard
-  Age of Ambition, Evan Osnos
-  All's Quiet on the Western Front, Erich Maria Remarque
-  Angler: The Cheney Vice Presidency, Barton Gellman
-  Boomerang, Michael Lewis
-  Confront and Conceal, David E. Sanger
-  Countdown to Zero Day, Kim Zetter
-  Dark Pools, Scott Patterson
-  Do No Harm, Henry Marsh
-  Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
-  Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
-  End This Depression Now!, Paul Krugman
-  Future Crimes, Marc Goodman
-  Ghost in the Wires, Kevin Mitnick
-  Hackers, Steven Levy
-  Ham on Rye, Charles Bukowski
-  Hillbilly Elegy, J. D. Vance
-  Just Kids, Patti Smith
-  Kitchen Confidential, Anthony Bourdain
-  No Good Men Among the Living, Anand Gopal
-  Please Kill Me
-  Siddhartha, Herman Hesse
-  The Curious Incident Of the Dog In The Night Time, Mark Haddon
-  The Girl on the Train, Paula Hawkins
-  The Innovators, Walter Isaacson
-  The Rats in the Walls, H. P. Lovecraft
-  The Shadow Factory, James Bamford
-  The Unwinding, George Packer
-  The Way of the Knife, Mark Mazzetti
-  This Machine Kills Secrets, Andy Greenberg
-  Unbroken, Laura Hillenbrand
-  Voltaire's Bastards, John Ralston Saul
-  Wired for War, P.W. Singer
-
-noteworthy movies
-  Idiocracy
-  The Princess Bride
-  The Thing
-  This Is Spinal Tap
-
-github issue labels to search for to contribute
-  help wanted
-  help-wanted
-  good first bug
-  Help Wanted
-  contribution welcome
-  ----------------------
-  HelpWanted
-  first time contributor
-  Contributor Friendly
-  Good First Task
-  beginner friendly
-  good first contribution
-  Good for New Contributors
-  pull request wanted
-
-donuts
-  Portland, OR
-    Voodoo Donuts
-    Blue Star Donuts
-  Boise, ID
-    Guru Donuts
-  Des Moines, IA
-    Donut Hut
-
 music
-  65daysofstatic
   animals as leaders
-  arcade fire
-  asobi seksu
-  beatles
-  bjork
-  copy
   cradle of filth
-  crutch
-  daft punk
-  dance gavin dance
-  dear hunter
-  die krupps
-  dresden dolls
-  drive like jehu
-  efterklang
-  el ten eleven
-  the enemy
-  ennis tola
-  escape the fate
-  esmerine
-  facing new york
-  a five and dime ship
-  fly pan am
-  form & fate
-  fountain soundtrack
   front line assembly
   fugazi
   funeral party
@@ -426,17 +54,123 @@ music
   VNV Nation
   wumpscut
 
-geologic periods
-  cambrian
-  ordovician
-  silurian
-  devonian
-  carboniferous
-  permian
-  triassic
-  jurassic
-  cretaceous
-  tertiary
-  pleistocene
-  holocene (since last ice age)
-  anthropocene?
+interesting eleventh hope talks
+  Security Options for High Risk Travelers
+  LinkNYC Spy Stations
+  FOIA and Public Records Hacking: How to Complete a FOIA Request or Dox Yourself via the Privacy Act
+
+interesting defcon talks
+  Toxic Proxies - Bypassing HTTPS and VPNs to Pwn Your Online Identity
+  Machine Duping 101: Pwning Deep Learning Systems
+  Feds and 0Days: From Before Heartbleed to After FBI-Apple
+  Discovering and Triangulating Rogue Cell Towers
+  Honey Onions: Exposing Snooping Tor HSDir Relays
+  How to Overthrow a Government
+  I've got 99 Problems, but LittleSnitch ain't one
+  Attacking Network Infrastructure to Generate a 4 Tb/s DDoS for $5
+  Abusing Bleeding Edge Web Standards for AppSec Glory
+  Project CITL
+  Realtime Bluetooth Device Detection with Blue Hydra
+
+cell phone simulators
+  Harris: Triggerfish -> StingRay -> Hailstorm
+  countermeasures: Android:SnoopSnitch, ESD:CryptoPhone
+  In theory IMSI catchers can pinpoint only the location of 3G/4G phones so the trick is to knock them down to 2G to access calls/texts/etc., which is what Hailstorm does.
+
+places
+  bakery
+    Bakeri
+    Buttermilk Bakery
+    Sugar Couture
+    Du Jour Bakery
+    Margaret Palca Bakes
+    Betty Bakery
+    Court Street Pastry Shoppe
+    Caprice's by Sophie
+    Napoli Bakery
+    Mazzola Bakery
+    Four & Twenty Blackbirds
+  sandwiches
+    Court Street Grocers
+    Defontes
+    Original John's Deli
+  coffee
+    Toby's Estate
+    Otha's
+    The West
+    The Mill Coffee Company
+  donuts
+    Voodoo Donuts    (Portland, OR)
+    Blue Star Donuts (Portland, OR)
+    Guru Donuts      (Boise, ID)
+    Donut Hut        (Des Moines, IA)
+
+noteworthy books
+  A Confederacy of Dunces, John Kennedy Toole
+  A Man Called Ove, Fredrik Backman
+  A Thousand Naked Strangers, Kevin Hazzard
+  Age of Ambition, Evan Osnos
+  All's Quiet on the Western Front, Erich Maria Remarque
+  Angler: The Cheney Vice Presidency, Barton Gellman
+  Boomerang, Michael Lewis
+  Confront and Conceal, David E. Sanger
+  Countdown to Zero Day, Kim Zetter
+  Dark Pools, Scott Patterson
+  Do No Harm, Henry Marsh
+  Egghead: Or, You Can't Survive on Ideas Alone, Bo Burnham
+  Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future, Ashlee Vance
+  End This Depression Now!, Paul Krugman
+  Future Crimes, Marc Goodman
+  Ghost in the Wires, Kevin Mitnick
+  Hackers, Steven Levy
+  Ham on Rye, Charles Bukowski
+  Hillbilly Elegy, J. D. Vance
+  Just Kids, Patti Smith
+  Kitchen Confidential, Anthony Bourdain
+  No Good Men Among the Living, Anand Gopal
+  Please Kill Me, Legs McNeil
+  Siddhartha, Herman Hesse
+  The Curious Incident Of the Dog In The Night Time, Mark Haddon
+  The Girl on the Train, Paula Hawkins
+  The Innovators, Walter Isaacson
+  The Rats in the Walls, H. P. Lovecraft
+  The Shadow Factory, James Bamford
+  The Unwinding, George Packer
+  The Way of the Knife, Mark Mazzetti
+  This Machine Kills Secrets, Andy Greenberg
+  Unbroken, Laura Hillenbrand
+  Voltaire's Bastards, John Ralston Saul
+  Wired for War, P.W. Singer
+
+conferences
+  (01/16) shmoocon
+  (01/25) usenix enigma
+  (03/18) cansecwest
+  (03/18) pwn2own
+  (05/05) thotcon
+  (06/08) dotscale
+  (06/12) circlecitycon
+  (06/13) wwdc
+  (06/xx) summercon
+  (07/09) toorcamp
+  (07/22) H.O.P.E
+  (08/01) blackhat
+  (08/04) defcon
+  (08/13) chaos communication camp (every 4 years)
+  (09/21) derbycon
+  (09/22) appsec
+  (09/26) .conf
+  (10/21) toorcon
+  (10/??) hacker halted
+  (12/27) chaos communication congress (C3)
+
+overthewire
+  http://natas11.natas.labs.overthewire.org/
+  U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
+  /etc/natas_webpass/natas11
+
+estimated tax deadlines
+  Q1 April 15
+  Q2 June 15
+  Q3 September 15
+  Q4 January 15
