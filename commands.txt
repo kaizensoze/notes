@@ -388,6 +388,9 @@ pipe
   ls ~ > f 2> e
   ls ~ > f 2>&1
 
+pkill
+  pkill -fi "little snitch"
+
 pm2
   pm2 start ~/augnav/index.js -n "augnav" --watch --ignore-watch="uploads"
   pm2 list
