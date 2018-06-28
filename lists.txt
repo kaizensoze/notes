@@ -1,3 +1,5 @@
+tower
+notebook
 
 thurs: 70 pushups
 
@@ -5,6 +7,7 @@ The CIA Document of Human Manipulation
 Essential Guide to Interrogation and Torture
 The Official CIA Manual of Trickery and Deception (2010) [has 2 more pages than 2009 version]
 
+cancel interviews
 movies
 socks/boxer briefs/belt
 pay for github account
