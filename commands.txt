@@ -160,6 +160,7 @@ git
   git bisect bad
   git bisect good <hash>
   git bisect reset
+  git diff 0b232b5246aaa100feeef49e493ae05ce785d765 generate_opml.rb
   git push --follow-tags
   git push origin :refs/tags/v1.2 (for updating tag)
   git tag -f -a v1.2 -m '1.2 release'
