@@ -1,0 +1,5 @@
+name: Joe Gallo
+SSN: 058-70-4740
+genome: green smiley face
+base attributes: 2/29 (1 active)
+exalted attributes: 4/15 (0 active)

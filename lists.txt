@@ -9,6 +9,7 @@ linux kernel
 
 lookup
   201-500-6953
+  GLOBALFOUNDRIES
 
 movies
   Damsel
