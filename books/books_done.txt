@@ -1,328 +1,303 @@
-Bill Bryson, A Short History of Nearly Everything
-Steven Levy, Hackers
-Michael Lewis, Flash Boys
-John Kennedy Toole, A Confederacy of Dunces
-Erich Maria Remarque, All's Quiet on the Western Front
-Scott Patterson, Dark Pools
-Louis-Ferdinand Celine, Journey to the End of the Night
-Mark Kurlansky, Salt: A World History
-John Markoff, What the Dormouse Said
-James Bamford, The Shadow Factory
-David Foster Wallace, This Is Water
-Justin Simien, Dear White People
-David Foster Wallace, David Foster Wallace: The Last Interview: and Other Conversations (The Last Interview Series)
-Peter Singer, The Most Good You Can Do
-David Foster Wallace, Both Flesh and Not: Essays
-David Lynch, Catching the Big Fish
-Mark Owen, No Easy Day
-Jim Paul, What I Learned Losing a Million Dollars
-H.G. Wells, The Time Machine
-Thomas Paine, Common Sense
-Andy Weir, The Martian
-Antoine de Saint Exup̩ry, The Little Prince
-Bill Bryson, A Short History of Nearly Everything
-Steven Levy, Hackers
-Michael Lewis, Flash Boys
-John Kennedy Toole, A Confederacy of Dunces
-Erich Maria Remarque, All's Quiet on the Western Front
-Scott Patterson, Dark Pools
-Louis-Ferdinand Celine, Journey to the End of the Night
-Mark Kurlansky, Salt: A World History
-John Markoff, What the Dormouse Said
-James Bamford, The Shadow Factory
-David Foster Wallace, This Is Water
-Justin Simien, Dear White People
-David Foster Wallace, David Foster Wallace: The Last Interview: and Other Conversations (The Last Interview Series)
-Peter Singer, The Most Good You Can Do
-David Foster Wallace, Both Flesh and Not: Essays
-David Lynch, Catching the Big Fish
-Mark Owen, No Easy Day
-Jim Paul, What I Learned Losing a Million Dollars
-H.G. Wells, The Time Machine
-Thomas Paine, Common Sense
-Andy Weir, The Martian
-Antoine de Saint Exup̩ry, The Little Prince
-Rolf Potts, Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
-Evan Wright, Generation Kill
-Patrick Cockburn, The Rise of Islamic State
-Hermann Hesse, Siddhartha
-Radley Balko, Rise of the Warrior Cop: The Militarization of America�۪s Police Forces
-Edward O. Wilson, The Meaning of Human Existence
-Aleksandr Solzhenitsyn, One Day in the Life of Ivan Denisovich
-Siddhartha Mukherjee, The Emperor of all Maladies
-Joseph Conrad, Heart of Darkness [x]
-George Packer, The Unwinding
-Ken Follett, The Pillars of the Earth
-John Steinbeck, The Grapes of Wrath
-Leonard Mlodinow, Subliminal: How Your Unconscious Mind Rules Your Behavior
-Jeff Hawkins, On Intelligence
-Woody Allen, Without Feathers
-Mark Schatzker, The Dorito Effect
-Anthony Bourdain, A Cook's Tour: In Search of the Perfect Meal
-Christian Lander, Stuff White People Like
-Neil Howe, Generations
-Anthony Bourdain, Medium Raw
-Jake Adelstein, Tokyo Vice
-Kieron Gillen, The Wicked + The Divine
-George Takei, Oh Myyy!: There Goes The Internet
-Elizabeth Wurtzel, More Now Again
-Jon Kabat-Zinn, Wherever you go there you are
-Carmen M. Reinhart, This Time is Different
-Scott Stossel, My Age of Anxiety
-Viktor Frankl, Man's Search for Meaning
-Ursula K. Le Guin, The Lathe of Heaven
-Mark Haddon, The Curious Incident of the Dog in the Nightime
-Stephen Colbert, America Again
-Clive Hamilton, Affluenza
-Emmanuel Goldstein, Best of 2600
-Roz Chast, Can't We Talk about Something More Pleasant?
-Paul R. Krugman, The Great Unraveling
-Andres Duany, Suburban Nation
-John Waters, Carsick
-Mark Mazzetti, The Way of the Knife
-Jon Stewart, America
-Paul Krugman, End This Depression Now
-Colin Woodard, American Nations: A History of the Eleven Rival Regional Cultures of North America
-E. B. White, Essays of E. B. White
-Chris Hedges, Empire of Illusion
-Don Tapscott, Wikinomics: How Mass Collaboration Changes Everything
-Parmy Olson, We Are Anonymous
-Karen Joy Fowler, We Are All Completely Beside Ourselves
-Milan Kundera, The Unbearable Lightness of Being
-Nicholas Carr, The Shallows: What the Internet Is Doing to Our Brains
-Oliver Sacks, The Man Who Mistook His Wife For A Hat
-Jane Jacobs, The Death and Life of Great American Cities
-Charles Darwin, On the Origin of Species
-Oliver Sacks, On the Move: A Life
-Aziz Ansari, Modern Romance
-Paul Tough, How Children Succeed
-Ashlee Vance, Elon Musk
-William MacAskill, Doing Good Better: How Effective Altruism Can Help You Make a Difference
-Cormac McCarthy, Child of God
-Mark Frauenfelder, Best of MAKE
-Albert Podell, Around the World in 50 Years: My Adventure to Every Country on Earth
-Anthony Bourdain, Kitchen Confidential
-Neil Patrick Harris, Neil Patrick Harris: Choose Your Own Autobiography
-Karolina Waclawiak, How To Get Into The Twin Palms
-Aleksandr Solzhenitsyn, Cancer Ward
-Peter Thiel, Zero to One: Notes on Startups or How to Build the Future
-Adam Smith, Wealth of Nations
-Henry David Thoreau, Walden
-James Joyce, Ulysses
-Stephen Hawking, The Universe in a Nutshell
-Ray Kurzweil, The Singularity is Near
-Stephen Hawking, The Grand Design
-James Howard Kunstler, The Geography of Nowhere
-Shakespeare, Macbeth
-Henry David Thoreau, Life in the Woods
-Walt Whitman, Leaves of Grass
-Bruce Schneier, Data and Goliath
-Steve Martin, Born Standing Up
-Brian Krebs, Spam Nation
-Joanna Russ, The Everything Store: Jeff Bezos and the Age of Amazon
-Roberto Bolano, By Night in Chile
-Kevin Poulsen, Kingpin
-Shirley Jackson, We Have Always Lived In The Castle
-Ben Horowitz, The Hard Thing About Hard Things
-Aho/Ullman, Principles of Compiler Design
-Phil Klay, Redeployment
-David E. Sanger, Confront and Conceal
-Richard Adams, Watership Down
-Zora Neale Hurston, Their Eyes Were Watching God
-William Faulkner, The Sound and the Fury
-Graham Green, The Quiet American
-R. Scott Bakker, The Prince of Nothing
-Joseph E. Stiglitz, The Great Divide: Unequal Societies and What We Can Do About Them
-Robert A. Heinlein, Stranger in a Strange Land
-Luke Harding, The Snowden Files
-Tyler Cowen, Average Is Over
-Simson L. Garfinkel, The Unix-Haters Handbook
-Dave Eggers, The Circle
-Emily Caroll, Through the Woods
-You Can't Survive on Ideas Alone, Egghead: Or
-Charles Bukowski, Ham on Rye
-Andrew Ross Sorkin, Too Big to Fail
-Erik Brynjolfsson, The Second Machine Age
-P.W. Singer, Cybersecurity and Cyberwar
-David Brooks, The Road to Character
-Elizabeth Kolbert, The Sixth Extinction: An Unnatural History
-Kurt Vonnegut, Sirens of Titan
-the Scrivener: A Story of Wall Street, Bartleby
-Judd Apatow, Sick In The Head
-Joseph Campbell, The Power of Myth
-Alex Honnold, Alone on the Wall
-Eric Schmidt, How Google Works
-John Cassidy, How Markets Fail
-Anand Gopal, No Good Men Among the Living
-Jack Welch, Winning
-Amy Poehler, Yes Please
-Matt Ridley, The Rational Optimist: How Prosperity Evolves
-Michael Belfiore, The Department of Mad Scientists
-Henry Marsh, Do No Harm
-P.W. Singer, Corporate Warriors
-Jim Gaffigan, Dad Is Fat
-Tom Robbins, Tibetan Peach Pie
-Sarah Silverman, The Bedwetter
-Lena Dunham, Not That Kind of Girl
-Roald Dahl, Tales of the Unexpected
-Evan Osnos, Age of Ambition
-Mary Roach, Bonk
-Barton Gellman, Angler: The Cheney Vice Presidency
-David Sedaris, Let's Explore Diabetes with Owls
-James Surowiecki, The Wisdom of Crowds
-Eric Ries, The Lean Startup
-Robert Gordon, The Rise and Fall of American Growth
-Henry Miller, Tropic of Cancer
-Matthew Yglesias, The Rent Is Too Damn High
-Jon Ronson, The Psychopath Test: A Journey Through the Madness Industry
-Fran Lebowitz, The Fran Lebowitz Reader
-Patti Smith, Just Kids
-Clayton M. Christensen, How Will You Measure Your Life?
-Rachel Dratch, Girl Walks into a Bar
-Samuel R. Delany, Dhalgren
-Cary Elwes, As You Wish: Inconceivable Tales from the Making of The Princess Bride
-Walter Isaacson, The Innovators
-Jared Diamond, Collapse
-Vernor Vinge, A Fire Upon the Deep
-James Randi, The Faith Healers
-Erik Larson, The Devil in the White City
-Richard Preston, The Hot Zone
-Ursula K. Le Guin, The Dispossessed
-David Perlmutter, Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain���for Life
-Steven Erikson, The Malazan Book of the Fallen
-John Steinbeck, Travels with Charley in Search of America
-Robert Jordan, The Wheel of Time
-Barry Reid, The Paper Trip
-Mervyn Peake, Titus Groan
-Mary Roach, Stiff
-Jake Knapp, Sprint
-Robert Kolker, Lost Girls
-Marie Kondo, The Life-Changing Magic of Tidying Up
-James Barrat, Our Final Invention: Artificial Intelligence and the End of the Human Era
-Charles Bukowski, Women
-Bill Nye, Undeniable
-Andy Greenberg, This Machine Kills Secrets
-Jon Ronson, Frank: The True Story That Inspired the Movie
-Joe Navarro, What Every BODY is Saying
-Derf Backderf, My Friend Dahmer
-Dan Lyons, Disrupted: My Misadventure in the Start-Up Bubble
-Scott Horton, Lords of Secrecy
-Bill Nye, Unstoppable
-P.W. Singer, Ghost Fleet
-Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark
-John Grisham, Sycamore Row
-Steven Johnson, The Ghost Map
-Dexter Filkins, The Forever War
-John Grisham, Rogue Lawyer
-John Grisham, The Racketeer
-Clayton M. Christensen, The Innovator's Dilemma
-Ed Stafford, Walking the Amazon
-Ryan Holiday, The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
-Ursula K. Le Guin, A Wizard of Earthsea [x]
-Alfred Bester, The Stars My Destination
-Leonard Mlodinow, The Drunkard's Walk: How Randomness Rules Our Lives
-Neil Peart, Ghost Rider: Travels on the Healing Road
-Vaclav Smil, Made in the USA
-Martin Ford, Rise of the Robots
-Randall Munroe, Thing Explainer: Complicated Stuff in Simple Words
-Laura Hillenbrand, Unbroken
-Andrew Cockburn, Kill Chain
-John Mackey, Conscious Capitalism
-Marc Goodman, Future Crimes
-Stephen King, 11/22/63
-Michael John Harris, The End of Absence [x]
-Antonio Garcia Martinez, Chaos Monkeys [x]
-Jenny Lawson, Let's Pretend This Never Happened [x]
-Carrie Brownstein, Hunger Makes Me a Modern Girl [x]
-Legs McNeil and Gillian McCain, Please Kill Me
-Donna Tartt, The Secret History [x]
-Fred Kaplan, Dark Territory: The Secret History of Cyber War
-J.K. Rowling, Harry Potter and the Cursed Child
-Kim Gordon, Girl in a Band [x]
-Joe Hill, NOS4A2 [x]
-Henry Miller, Sexus [x]
-Neal Stephenson, Reamde [x]
-John Perkins, Confessions of an Economic Hit Man
-Frank McCourt, Angela's Ashes [x]
-Betty Smith, A Tree Grows in Brooklyn [x]
-Richard Clarke, Against All Enemies [x]
-Jean Baudrillard, America [x]
-Paul Kalanithi, When Breath Becomes Air
-Robert Wallace, Spycraft
-Nick Lane, The Vital Question [x]
-Paula Hawkins, The Girl on the Train
-Philip Houston, Spy the Lie
-Tim Ferriss, Tools of Titans [x]
-Jenny Lawson, Furiously Happy [x]
-Markus Zusak, The Book Thief
-Wesley Lowery, They Can't Kill Us All [x]
-Ada Calhoun, St. Marks Is Dead
-T.H. White, The Once and Future King [x]
-Jessi Klein, You'll Grow Out of It [x]
-Khaled Hosseini, A Thousand Splendid Suns [x]
-David Wong, This Book Is Full of Spiders [x]
-David Wong, Futuristic Violence and Fancy Suits [x]
-Stephen King, Mr. Mercedes [x]
-Allie Brosh, Hyperbole and a Half
-Julian Assange, When Google Met Wikileaks
-Michael Ian Black, Navel Gazing
-Michael Ian Black, My Custom Van
-J. D. Vance, Hillbilly Elegy
-Kevin Hazzard, A Thousand Naked Strangers
-Fredrik Backman, A Man Called Ove
-Augusten Burroughs, Dry
-Jennifer Armstrong, Seinfeldia
-Charles Dickens, A Tale of Two Cities [x]
-Patrick Rothfuss, The Name of the Wind [x]
-Jamie Bartlett, The Dark Net
-Norman Ohler, Blitzed: Drugs in the Third Reich
-Dave Grossman, On Killing
-Paula Hawkins, Into the Water
-William Gibson, Neuromancer
-Paul Farmer, To Repair the World
-Carl Hiaasen, Razor Girl [x]
-Adam Braun, The Promise of a Pencil
-Stephen King, On Writing
-William Strunk Jr., The Elements of Style
-Ernest Cline, Armada
-Arthur C. Clarke, 2001: a Space Odyssey
-Arthur C. Clarke, 2010: Odyssey Two
-Jay Bonansinga, Robert Kirkman's The Walking Dead: Descent
-Stephen King, The Dark Tower series + bonus book
-Liu Cixin, The Three-Body Problem [x]
-Alexandre Dumas, The Count of Monte Cristo [x]
-Jacqueline Susann, Valley of the Dolls [x]
-Mary Roach, Grunt [x]
-Oliver Sacks, The Man Who Mistook His Wife For A Hat
-Ray Bradbury, Fahrenheit 451
-Timothy Ferriss, Tools of Titans [x]
-Andrew McAfee + Erik Brynjolfsson, Machine Platform Crowd
-Rupi Kaur, Milk and Honey
-John Brockman, This Will Change Everything [x]
-Philip K. Dick, The Man in the High Castle [x]
-Mark Manson, The Subtle Art of Not Giving a F*ck [x]
-Masha Gessen, The Man Without a Face
-Olivia Laing, The Lonely City
-Henry Rollins, Get in the Van
-Cal Newport, Deep Work
-Anne Garrels, Putin Country: A Journey into the Real Russia
-Yvon Chouinard, Let My People Go Surfing
-Chris Guillebeau, The $100 Startup [x]
-Chris Guillebeau, The Happiness of Pursuit [x]
-Naomi Klein, No is not enough
-Michael Lewis, Boomerang
-Alfred Bester, The Demolished Man
-Phil Knight, Shoe Dog
-Mark Vonnegut, The Eden Express [x]
-Mark Vonnegut, Just Like Someone Without Mental Illness Only More So [x]
-Richard Kadrey, Sandman Slim [x]
-Tom Wolfe, The Electric Kool-Aid Acid Test
-Ray Bradbury, The Martian Chronicles
-Oliver Sacks, On the Move
-Benjamin Percy, The Dark Net [x]
-Sylvia Plath, The Bell Jar[x]
-Oliver Sacks, Hallucinations
-Yuval Noah Harari, Sapiens: A Brief History of Humankind
-Franklin Foer, World Without Mind
-R.J. Palacio, Wonder
-Nicola Yoon, Everything, Everything
+11/22/63, Stephen King
+2001: A Space Odyssey, Arthur C. Clarke
+2010: Odyssey Two, Arthur C. Clarke
+A Confederacy of Dunces, John Kennedy Toole
+A Cook's Tour: In Search of the Perfect Meal, Anthony Bourdain
+A Fire Upon the Deep, Vernor Vinge
+A Man Called Ove, Fredrik Backman
+A Short History of Nearly Everything, Bill Bryson
+A Tale of Two Cities [x], Charles Dickens
+A Thousand Naked Strangers, Kevin Hazzard
+A Thousand Splendid Suns [x], Khaled Hosseini
+A Tree Grows in Brooklyn [x], Betty Smith
+A Wizard of Earthsea [x], Ursula K. Le Guin
+Affluenza, Clive Hamilton
+Against All Enemies [x], Richard Clarke
+Age of Ambition, Evan Osnos
+All's Quiet on the Western Front, Erich Maria Remarque
+Alone on the Wall, Alex Honnold
+America [x], Jean Baudrillard
+America Again, Stephen Colbert
+America, Jon Stewart
+American Nations: A History of the Eleven Rival Regional Cultures of North America, Colin Woodard
+Angela's Ashes [x], Frank McCourt
+Angler: The Cheney Vice Presidency, Barton Gellman
+Armada, Ernest Cline
+Around the World in 50 Years: My Adventure to Every Country on Earth, Albert Podell
+As You Wish: Inconceivable Tales from the Making of The Princess Bride, Cary Elwes
+Average Is Over, Tyler Cowen
+Bartleby, the Scrivener: A Story of Wall Street
+Best of 2600, Emmanuel Goldstein
+Best of MAKE, Mark Frauenfelder
+Blitzed: Drugs in the Third Reich, Norman Ohler
+Bonk, Mary Roach
+Boomerang, Michael Lewis
+Born Standing Up, Steve Martin
+Both Flesh and Not: Essays, David Foster Wallace
+Brain Maker: The Power of Gut Microbes to Heal and Protect Your Brain���for Life, David Perlmutter
+By Night in Chile, Roberto Bolano
+Can't We Talk about Something More Pleasant?, Roz Chast
+Cancer Ward, Aleksandr Solzhenitsyn
+Carsick, John Waters
+Catching the Big Fish, David Lynch
+Chaos Monkeys [x], Antonio Garcia Martinez
+Child of God, Cormac McCarthy
+Collapse, Jared Diamond
+Common Sense, Thomas Paine
+Confessions of an Economic Hit Man, John Perkins
+Confront and Conceal, David E. Sanger
+Conscious Capitalism, John Mackey
+Corporate Warriors, P.W. Singer
+Cybersecurity and Cyberwar, P.W. Singer
+Dad Is Fat, Jim Gaffigan
+Dark Pools, Scott Patterson
+Dark Territory: The Secret History of Cyber War, Fred Kaplan
+Data and Goliath, Bruce Schneier
+David Foster Wallace: The Last Interview: and Other Conversations (The Last Interview Series), David Foster Wallace
+Dear White People, Justin Simien
+Deep Work, Cal Newport
+Dhalgren, Samuel R. Delany
+Disrupted: My Misadventure in the Start-Up Bubble, Dan Lyons
+Do No Harm, Henry Marsh
+Doing Good Better: How Effective Altruism Can Help You Make a Difference, William MacAskill
+Dry, Augusten Burroughs
+Egghead: Or, You Can't Survive on Ideas Alone
+Elon Musk, Ashlee Vance
+Empire of Illusion, Chris Hedges
+End This Depression Now, Paul Krugman
+Essays of E. B. White, E. B. White
+Everything, Nicola Yoon, Everything
+Fahrenheit 451, Ray Bradbury
+Flash Boys, Michael Lewis
+Frank: The True Story That Inspired the Movie, Jon Ronson
+Furiously Happy [x], Jenny Lawson
+Future Crimes, Marc Goodman
+Futuristic Violence and Fancy Suits [x], David Wong
+Generation Kill, Evan Wright
+Generations, Neil Howe
+Get in the Van, Henry Rollins
+Ghost Fleet, P.W. Singer
+Ghost Rider: Travels on the Healing Road, Neil Peart
+Girl in a Band [x], Kim Gordon
+Girl Walks into a Bar, Rachel Dratch
+Grunt [x], Mary Roach
+Hackers, Steven Levy
+Hallucinations, Oliver Sacks
+Ham on Rye, Charles Bukowski
+Harry Potter and the Cursed Child, J.K. Rowling
+Heart of Darkness [x], Joseph Conrad
+Hillbilly Elegy, J. D. Vance
+How Children Succeed, Paul Tough
+How Google Works, Eric Schmidt
+How Markets Fail, John Cassidy
+How To Get Into The Twin Palms, Karolina Waclawiak
+How Will You Measure Your Life?, Clayton M. Christensen
+Hunger Makes Me a Modern Girl [x], Carrie Brownstein
+Hyperbole and a Half, Allie Brosh
+Into the Water, Paula Hawkins
+Journey to the End of the Night, Louis-Ferdinand Celine
+Just Kids, Patti Smith
+Just Like Someone Without Mental Illness Only More So [x], Mark Vonnegut
+Kill Chain, Andrew Cockburn
+Kingpin, Kevin Poulsen
+Kitchen Confidential, Anthony Bourdain
+Leaves of Grass, Walt Whitman
+Let My People Go Surfing, Yvon Chouinard
+Let's Explore Diabetes with Owls, David Sedaris
+Let's Pretend This Never Happened [x], Jenny Lawson
+Life in the Woods, Henry David Thoreau
+Lords of Secrecy, Scott Horton
+Lost Girls, Robert Kolker
+Macbeth, Shakespeare
+Machine Platform Crowd, Andrew McAfee + Erik Brynjolfsson
+Made in the USA, Vaclav Smil
+Man's Search for Meaning, Viktor Frankl
+Medium Raw, Anthony Bourdain
+Milk and Honey, Rupi Kaur
+Modern Romance, Aziz Ansari
+More Now Again, Elizabeth Wurtzel
+Mr. Mercedes [x], Stephen King
+My Age of Anxiety, Scott Stossel
+My Custom Van, Michael Ian Black
+My Friend Dahmer, Derf Backderf
+Navel Gazing, Michael Ian Black
+Neil Patrick Harris: Choose Your Own Autobiography, Neil Patrick Harris
+Neuromancer, William Gibson
+No Easy Day, Mark Owen
+No Good Men Among the Living, Anand Gopal
+No Is Not Enough, Naomi Klein
+NOS4A2 [x], Joe Hill
+Not That Kind of Girl, Lena Dunham
+Oh Myyy!: There Goes The Internet, George Takei
+On Intelligence, Jeff Hawkins
+On Killing, Dave Grossman
+On the Move: A Life, Oliver Sacks
+On the Origin of Species, Charles Darwin
+On Writing, Stephen King
+One Day in the Life of Ivan Denisovich, Aleksandr Solzhenitsyn
+Our Final Invention: Artificial Intelligence and the End of the Human Era, James Barrat
+Please Kill Me, Legs McNeil and Gillian McCain
+Principles of Compiler Design, Aho/Ullman
+Putin Country: A Journey into the Real Russia, Anne Garrels
+Razor Girl [x], Carl Hiaasen
+Reamde [x], Neal Stephenson
+Redeployment, Phil Klay
+Rise of the Robots, Martin Ford
+Rise of the Warrior Cop: The Militarization of America�۪s Police Forces, Radley Balko
+Robert Kirkman's The Walking Dead: Descent, Jay Bonansinga
+Rogue Lawyer, John Grisham
+Salt: A World History, Mark Kurlansky
+Sandman Slim [x], Richard Kadrey
+Sapiens: A Brief History of Humankind, Yuval Noah Harari
+Seinfeldia, Jennifer Armstrong
+Sexus [x], Henry Miller
+Shoe Dog, Phil Knight
+Sick In The Head, Judd Apatow
+Siddhartha, Hermann Hesse
+Sirens of Titan, Kurt Vonnegut
+Spam Nation, Brian Krebs
+Sprint, Jake Knapp
+Spy the Lie, Philip Houston
+Spycraft, Robert Wallace
+St. Marks Is Dead, Ada Calhoun
+Stiff, Mary Roach
+Stranger in a Strange Land, Robert A. Heinlein
+Stuff White People Like, Christian Lander
+Subliminal: How Your Unconscious Mind Rules Your Behavior, Leonard Mlodinow
+Suburban Nation, Andres Duany
+Sycamore Row, John Grisham
+Tales of the Unexpected, Roald Dahl
+The $100 Startup [x], Chris Guillebeau
+The Bedwetter, Sarah Silverman
+The Bell Jar[x], Sylvia Plath
+The Book Thief, Markus Zusak
+The Circle, Dave Eggers
+The Count of Monte Cristo [x], Alexandre Dumas
+The Curious Incident of the Dog in the Nightime, Mark Haddon
+The Dark Net [x], Benjamin Percy
+The Dark Net, Jamie Bartlett
+The Dark Tower series + bonus book, Stephen King
+The Death and Life of Great American Cities, Jane Jacobs
+The Demolished Man, Alfred Bester
+The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan
+The Department of Mad Scientists, Michael Belfiore
+The Devil in the White City, Erik Larson
+The Dispossessed, Ursula K. Le Guin
+The Dorito Effect, Mark Schatzker
+The Drunkard's Walk: How Randomness Rules Our Lives, Leonard Mlodinow
+The Eden Express [x], Mark Vonnegut
+The Electric Kool-Aid Acid Test, Tom Wolfe
+The Elements of Style, William Strunk Jr.
+The Emperor of all Maladies, Siddhartha Mukherjee
+The End of Absence [x], Michael John Harris
+The Everything Store: Jeff Bezos and the Age of Amazon, Joanna Russ
+The Faith Healers, James Randi
+The Forever War, Dexter Filkins
+The Fran Lebowitz Reader, Fran Lebowitz
+The Geography of Nowhere, James Howard Kunstler
+The Ghost Map, Steven Johnson
+The Girl on the Train, Paula Hawkins
+The Grand Design, Stephen Hawking
+The Grapes of Wrath, John Steinbeck
+The Great Divide: Unequal Societies and What We Can Do About Them, Joseph E. Stiglitz
+The Great Unraveling, Paul R. Krugman
+The Happiness of Pursuit [x], Chris Guillebeau
+The Hard Thing About Hard Things, Ben Horowitz
+The Hot Zone, Richard Preston
+The Innovator's Dilemma, Clayton M. Christensen
+The Innovators, Walter Isaacson
+The Lathe of Heaven, Ursula K. Le Guin
+The Lean Startup, Eric Ries
+The Life-Changing Magic of Tidying Up, Marie Kondo
+The Little Prince, Antoine de Saint Exup̩ry
+The Lonely City, Olivia Laing
+The Malazan Book of the Fallen, Steven Erikson
+The Man in the High Castle [x], Philip K. Dick
+The Man Who Mistook His Wife For A Hat, Oliver Sacks
+The Man Without a Face, Masha Gessen
+The Martian Chronicles, Ray Bradbury
+The Martian, Andy Weir
+The Meaning of Human Existence, Edward O. Wilson
+The Most Good You Can Do, Peter Singer
+The Name of the Wind [x], Patrick Rothfuss
+The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph, Ryan Holiday
+The Once and Future King [x], T.H. White
+The Paper Trip, Barry Reid
+The Pillars of the Earth, Ken Follett
+The Power of Myth, Joseph Campbell
+The Prince of Nothing, R. Scott Bakker
+The Promise of a Pencil, Adam Braun
+The Psychopath Test: A Journey Through the Madness Industry, Jon Ronson
+The Quiet American, Graham Green
+The Racketeer, John Grisham
+The Rational Optimist: How Prosperity Evolves, Matt Ridley
+The Rent Is Too Damn High, Matthew Yglesias
+The Rise and Fall of American Growth, Robert Gordon
+The Rise of Islamic State, Patrick Cockburn
+The Road to Character, David Brooks
+The Second Machine Age, Erik Brynjolfsson
+The Secret History [x], Donna Tartt
+The Shadow Factory, James Bamford
+The Shallows: What the Internet Is Doing to Our Brains, Nicholas Carr
+The Singularity is Near, Ray Kurzweil
+The Sixth Extinction: An Unnatural History, Elizabeth Kolbert
+The Snowden Files, Luke Harding
+The Sound and the Fury, William Faulkner
+The Stars My Destination, Alfred Bester
+The Subtle Art of Not Giving a F*ck [x], Mark Manson
+The Three-Body Problem [x], Liu Cixin
+The Time Machine, H.G. Wells
+The Unbearable Lightness of Being, Milan Kundera
+The Universe in a Nutshell, Stephen Hawking
+The Unix-Haters Handbook, Simson L. Garfinkel
+The Unwinding, George Packer
+The Vital Question [x], Nick Lane
+The Way of the Knife, Mark Mazzetti
+The Wheel of Time, Robert Jordan
+The Wicked + The Divine, Kieron Gillen
+The Wisdom of Crowds, James Surowiecki
+Their Eyes Were Watching God, Zora Neale Hurston
+They Can't Kill Us All [x], Wesley Lowery
+Thing Explainer: Complicated Stuff in Simple Words, Randall Munroe
+This Book Is Full of Spiders [x], David Wong
+This Is Water, David Foster Wallace
+This Machine Kills Secrets, Andy Greenberg
+This Time is Different, Carmen M. Reinhart
+This Will Change Everything [x], John Brockman
+Through the Woods, Emily Caroll
+Tibetan Peach Pie, Tom Robbins
+Titus Groan, Mervyn Peake
+To Repair the World, Paul Farmer
+Tokyo Vice, Jake Adelstein
+Too Big to Fail, Andrew Ross Sorkin
+Tools of Titans [x], Timothy Ferriss
+Travels with Charley in Search of America, John Steinbeck
+Tropic of Cancer, Henry Miller
+Ulysses, James Joyce
+Unbroken, Laura Hillenbrand
+Undeniable, Bill Nye
+Unstoppable, Bill Nye
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel, Rolf Potts
+Valley of the Dolls [x], Jacqueline Susann
+Walden, Henry David Thoreau
+Walking the Amazon, Ed Stafford
+Watership Down, Richard Adams
+We Are All Completely Beside Ourselves, Karen Joy Fowler
+We Are Anonymous, Parmy Olson
+We Have Always Lived In The Castle, Shirley Jackson
+Wealth of Nations, Adam Smith
+What Every BODY is Saying, Joe Navarro
+What I Learned Losing a Million Dollars, Jim Paul
+What the Dormouse Said, John Markoff
+When Breath Becomes Air, Paul Kalanithi
+When Google Met Wikileaks, Julian Assange
+Wherever you go there you are, Jon Kabat-Zinn
+Wikinomics: How Mass Collaboration Changes Everything, Don Tapscott
+Winning, Jack Welch
+Without Feathers, Woody Allen
+Women, Charles Bukowski
+Wonder, R.J. Palacio
+World Without Mind, Franklin Foer
+Yes Please, Amy Poehler
+You'll Grow Out of It [x], Jessi Klein
+Zero to One: Notes on Startups or How to Build the Future, Peter Thiel
