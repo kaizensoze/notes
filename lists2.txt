@@ -69,16 +69,6 @@ noteworthy books
   Voltaire's Bastards, John Ralston Saul
   Wired for War, P.W. Singer
 
-music
-  animals as leaders
-  cradle of filth
-  front line assembly
-  god is an astronaut
-  mae
-  melotron
-  neuroticfish
-  wumpscut
-
 conferences
   (01/16) shmoocon
   (01/25) usenix enigma
