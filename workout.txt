@@ -829,11 +829,9 @@ the cliffs: various auto-belay, bouldering (weekends suck)
   head up: 20
   pec fly: 15x120, 15x120
   chest press: 9x50, 10x50
-   
+
 2017-10-24
   pushups: 100
   head down: 30
   head up: 30
   bench press: 8x50, 8x50
-  
-  
