@@ -3,22 +3,7 @@ Essential Guide to Interrogation and Torture
 The Official CIA Manual of Trickery and Deception (2010) [has 2 more pages than 2009 version]
 
 github authorization app
-github: change
-github tokens
 go through results of `brew search zsh`
-
-general: 2bae400930fb3d07dd39defed2af03af36f1be70 || 5bc5c0f5eba6d765a93067decce07def9c65b503
-hub: 48ae18c78b5e5599809f0f5e5301a3113b023972
-
-ggrep -r -Po 2bae400930fb3d07dd39defed2af03af36f1be70 .
-ggrep -r -Po 5bc5c0f5eba6d765a93067decce07def9c65b503 .
-ggrep -r -Po 48ae18c78b5e5599809f0f5e5301a3113b023972 .
-
-github.com:
-- user: kaizensoze
-  oauth_token: 48ae18c78b5e5599809f0f5e5301a3113b023972
-  protocol: https
-
 
 movies
 socks/boxer briefs/belt
