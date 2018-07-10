@@ -2,10 +2,8 @@ The CIA Document of Human Manipulation
 Essential Guide to Interrogation and Torture
 The Official CIA Manual of Trickery and Deception (2010) [has 2 more pages than 2009 version]
 
-github authorization app
-go through results of `brew search zsh`
-
 movies
+clean up gmail
 socks/boxer briefs/belt
 pay for github account
 linux kernel
@@ -25,14 +23,6 @@ movies
 
 tv
 
-
-Hi,
-
-Very interested in the position. Resume attached.
-
-Best,
-Joe
-
 games
   Nier: Automata
   Horizon: Zero Dawn
@@ -45,8 +35,6 @@ games
 projects/ideas
   just an editable region that appears on keyboard shortcut (no extraneities); has past copies in a list on the side
   iwatch workout app
-  writing experiments
-  rent a mutant
   write story
   to whom it may concern using react native
   pedopriest project based on  # reassignments
