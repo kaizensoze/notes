@@ -251,6 +251,7 @@ imagemagick
   convert passport.png -depth 200 -units pixelsperinch passport2.png || convert -units PixelsPerInch passport.png -density 200 passport2.png  // convert image dpi to 200
   convert -size 420x420 xc:transparent test2.png
   convert -size 420x420 xc:"rgb(218,69,142)" test2.png
+  convert -size 100x100 xc:#990000 whatever.png
 
 ipconfig
   sudo ipconfig set en0 INFORM 173.59.210.234
