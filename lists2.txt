@@ -1,38 +1,5 @@
 
-cell phone simulators
-  Harris: Triggerfish -> StingRay -> Hailstorm
-  countermeasures: Android:SnoopSnitch, ESD:CryptoPhone
-  In theory IMSI catchers can pinpoint only the location of 3G/4G phones so the trick is to knock them down to 2G to access calls/texts/etc., which is what Hailstorm does.
-
-places
-  bakery
-    Bakeri
-    Buttermilk Bakery
-    Sugar Couture
-    Du Jour Bakery
-    Margaret Palca Bakes
-    Betty Bakery
-    Court Street Pastry Shoppe
-    Caprice's by Sophie
-    Napoli Bakery
-    Mazzola Bakery
-    Four & Twenty Blackbirds
-  sandwiches
-    Court Street Grocers
-    Defontes
-    Original John's Deli
-  coffee
-    Toby's Estate
-    Otha's
-    The West
-    The Mill Coffee Company
-  donuts
-    Voodoo Donuts    (Portland, OR)
-    Blue Star Donuts (Portland, OR)
-    Guru Donuts      (Boise, ID)
-    Donut Hut        (Des Moines, IA)
-
-noteworthy books
+books
   A Confederacy of Dunces, John Kennedy Toole
   A Man Called Ove, Fredrik Backman
   A Thousand Naked Strangers, Kevin Hazzard
@@ -69,6 +36,34 @@ noteworthy books
   Voltaire's Bastards, John Ralston Saul
   Wired for War, P.W. Singer
 
+places
+  bakery
+    Bakeri
+    Buttermilk Bakery
+    Sugar Couture
+    Du Jour Bakery
+    Margaret Palca Bakes
+    Betty Bakery
+    Court Street Pastry Shoppe
+    Caprice's by Sophie
+    Napoli Bakery
+    Mazzola Bakery
+    Four & Twenty Blackbirds
+  sandwiches
+    Court Street Grocers
+    Defontes
+    Original John's Deli
+  coffee
+    Toby's Estate
+    Otha's
+    The West
+    The Mill Coffee Company
+  donuts
+    Voodoo Donuts    (Portland, OR)
+    Blue Star Donuts (Portland, OR)
+    Guru Donuts      (Boise, ID)
+    Donut Hut        (Des Moines, IA)
+
 conferences
   (01/16) shmoocon
   (01/25) usenix enigma
@@ -95,6 +90,27 @@ overthewire
   http://natas11.natas.labs.overthewire.org/
   U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
   /etc/natas_webpass/natas11
+
+Mordechai Guri (Ben-Gurion University)
+  radio frequencies (AirHopper) [https://www.helpnetsecurity.com/2014/11/04/extracting-data-from-air-gapped-computers-via-mobile-phones/]
+  heat (BitWhisper) [https://www.helpnetsecurity.com/2015/03/24/hack-air-gapped-computers-using-heat/]
+  cellular frequencies (GSMem) [https://www.usenix.org/node/190937]
+  fan speed (Fansmitter) [https://www.helpnetsecurity.com/2016/06/24/air-gapped-computers-fan-speed/]
+  hard drive noise (DiskFiltration) [https://arxiv.org/abs/1608.03431]
+  BadBIOS [https://en.wikipedia.org/wiki/BadBIOS]
+  bonus pita: http://www.biztekmojo.com/00844/device-hidden-pita-bread-can-be-used-hack-nearby-laptops
+
+wifi surveillance methods
+  http://www.theverge.com/2015/10/28/9625636/rf-capture-mit-wifi-tracking-surveillance-technology
+  http://motherboard.vice.com/read/wifi-signals-can-id-individuals-by-body-shape
+  http://www.theatlantic.com/technology/archive/2016/08/wi-fi-surveillance/497132/
+  https://people.eecs.berkeley.edu/~guanhua/paper/WiHear_MobiCom14.pdf (detect speech)
+  https://www.sigmobile.org/mobicom/2015/papers/p90-aliA.pdf (detect keystrokes)
+
+cell phone simulators
+  Harris: Triggerfish -> StingRay -> Hailstorm
+  countermeasures: Android:SnoopSnitch, ESD:CryptoPhone
+  In theory IMSI catchers can pinpoint only the location of 3G/4G phones so the trick is to knock them down to 2G to access calls/texts/etc., which is what Hailstorm does.
 
 estimated tax deadlines
   Q1 April 15
