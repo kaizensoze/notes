@@ -1,0 +1,15 @@
+type: Human
+name: Joe Gallo
+SSN: XXX-XX-4740
+DOB: 05/17/1985
+age: 33
+autism %: 0.0526
+aspergers %: 0.0484
+ocd %: 49.1
+sexuality: 0.8 (M/F: 30/70)
+IQ: 82
+emotional intelligence: 179
+genome: green smiley face (unicode character)
+
+35 attributes
+14 abilities
