@@ -1,5 +1,4 @@
 become a soul collector
-reach amazing achievement of reading pdf file for more than 10 minutes
 
 lookup
   201-500-6953
@@ -30,5 +29,5 @@ projects/ideas
   write story
   to whom it may concern using react native
   pedopriest project based on  # reassignments
-  	name, church, position, entry_date
-  	check every two weeks
+    name, church, position, entry_date
+    check every two weeks
