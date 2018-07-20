@@ -1,6 +1,3 @@
-library account
-find image from livia's facebook
-go through email
 movies
 become a soul collector | death
 
@@ -9,7 +6,6 @@ lookup
   hotels: iamu.com
 
 movies
-  Disobedience
   The Post
   Damsel
   The King
