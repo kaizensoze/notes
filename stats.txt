@@ -1,6 +1,7 @@
 type: Human
-name: Joe Gallo
+genome: green smiley face (unicode character) ** unique id **
 SSN: 058-70-4740
+name: Joe Gallo
 DOB: 05/17/1985
 age: 33
 autism %: 0.0526
@@ -9,4 +10,3 @@ ocd %: 49.1
 sexuality: 0.8 (Male: 30%, Female: 70%) [disposition toward]
 IQ: 82
 emotional intelligence: 179
-genome: green smiley face (unicode character)
