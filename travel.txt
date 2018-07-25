@@ -1,4 +1,6 @@
 
+Langley, McLean, VA
+Richmond, VA
 Charleston, SC
 Atlanta, GA
 Miami, FL
@@ -125,4 +127,4 @@ DONE
   Denver, CO
   Oklahoma City, OK
 
-  road trip 4: do it again
+  road trip 4: full US loop

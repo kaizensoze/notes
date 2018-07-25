@@ -1,9 +1,21 @@
-become a soul collector | death
+movie
+images
+book
 
-shaver
-notebook
-library
-if someone doesn't figure out the origin of making me feel awful when on laptop, sell laptop
+boxcutter
+jacket
+check up on family
+jail
+divorce
+chicago -> yellowstone -> vegas; richmond | langley
+
+Feb 19, 2017 6:34 AM: an alien-strat SUV picks up my body in Glen Oaks
+809 6th Ave, New York, NY 10001
+
+books
+  The Complete Book of Devils and Demons
+  A History of Celibacy
+  The X-Rated Bible
 
 lookup
   201-500-6953
@@ -17,7 +29,7 @@ movies
   Reel Rock 12
 
 tv
-  Get Shorty S02E01
+  Get Shorty S02E01 (08/12)
 
 games
   Nier: Automata
@@ -31,7 +43,6 @@ games
 projects/ideas
   just an editable region that appears on keyboard shortcut (no extraneities); has past copies in a list on the side
   iwatch workout app
-  write story
   to whom it may concern using react native
   pedopriest project based on  # reassignments
     name, church, position, entry_date
