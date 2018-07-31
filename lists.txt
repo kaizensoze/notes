@@ -1,12 +1,5 @@
-chicago -> yellowstone -> vegas; richmond | langley
-
-504 broadway
-250 vesey st
-22 cortland st
-206 washington st
-
 wework
-  125 w 25th St
+  125 w 25th st
   142 w 57th st
   575 5th ave
   135 e 57th st
