@@ -2,16 +2,16 @@ GEM
   remote: https://rubygems.org/
   specs:
     builder (3.2.3)
-    mini_portile2 (2.2.0)
-    nokogiri (1.8.0)
-      mini_portile2 (~> 2.2.0)
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.4)
+      mini_portile2 (~> 2.3.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   builder
-  nokogiri
+  nokogiri (~> 1.8.2)
 
 BUNDLED WITH
-   1.15.3
+   1.16.2
