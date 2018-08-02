@@ -252,6 +252,7 @@ imagemagick
   convert -size 420x420 xc:transparent test2.png
   convert -size 420x420 xc:"rgb(218,69,142)" test2.png
   convert -size 100x100 xc:#000000 ~/Downloads/black.png
+  magick -size 420x420 xc:#F0F0F0 -fill "#C156E3" -draw "rectangle 36,36 100,100" -draw "rectangle 300,36 100,100" blah.png
 
 ipconfig
   sudo ipconfig set en0 INFORM 173.59.210.234
