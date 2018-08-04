@@ -48,6 +48,7 @@ movies
 
 tv
   Get Shorty S02E01 (08/12)
+  American Horror Story (09/12)
 
 games
   Nier: Automata
