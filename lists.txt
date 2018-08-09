@@ -1,9 +1,4 @@
 
-check: Handbook For Rebel & Outlaws
-check: The Complete Book of Demons
-
-set house on fire
-
 wework
 
 lookup
